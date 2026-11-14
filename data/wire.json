@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-14T19:12:35.925949+00:00",
+ "generated_at": "2026-11-14T19:43:08.288649+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-14T19:12:35.925900+00:00",
+   "fetched_at": "2026-11-14T19:43:08.288611+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "APTOPIX Climate COP31 Nepal Flooding",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTBZWi1PVGZhM21vSElJa2lzMVg3ZUw0NkJyakJlNFUyVXFEUkkyV1VITVdTTEFMMmxpU1YxbXZVYndTUURDSnFaV3o4ckRhZEFKclFhWUVrUFNXbUVUa2tUUkROckI4X0VFLV9FU2dJbm9jXzBIRW5UaHpRaEFvVDR3XzU0MFNqNWZtUjhYQ01jRzVCTWZFVlA1NVVVX2dKUHdqNXlRTjBHdDlzTmh0QkZlSk42TnNFVDY4NjJXVlE?oc=5",
+     "source": "The Batesville Daily Guard",
+     "published": "2026-11-14T18:59:22+00:00",
+     "summary": "APTOPIX Climate COP31 Nepal Flooding&nbsp;&nbsp;The Batesville Daily Guard",
+     "image": ""
+    },
     {
      "title": "India and Pakistan to Compete in SAFF Championship Final",
      "url": "http://english.ratopati.com/story/86680/india-and-pakistan-to-play-for-saff-championship-title",
@@ -124,19 +132,11 @@
      "published": "2026-11-14T15:45:45+00:00",
      "summary": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. NPL: Lumbini defeat Bira",
      "image": ""
-    },
-    {
-     "title": "मधेस प्रदेशमा नयाँ सरकार गठनका लागि दाबी पेस गर्न आह्वान",
-     "url": "https://nepalnews.com/2026/11/14/call-to-submit-claims-for-the-formation-of-a-new-government-in-madhesh-province/",
-     "source": "NepalNews",
-     "published": "2026-11-14T15:43:47+00:00",
-     "summary": "जनकपुरधाम । मधेस प्रदेशका मुख्यमन्त्री कृष्णप्रसाद यादवले राजीनामा दिएसँगै प्रदेशमा नयाँ सरकार गठनको प्रक्रिया सुरु भएको छ । प्रदेश प्रमुखको कार्यालयले नेपालको संविधानको धारा १६८ क",
-     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-14T19:12:35.925919+00:00",
+   "fetched_at": "2026-11-14T19:43:08.288631+00:00",
    "stale": false,
    "items": [
     {
@@ -238,7 +238,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T19:12:35.925924+00:00",
+   "fetched_at": "2026-11-14T19:43:08.288635+00:00",
    "stale": false,
    "items": [
     {
@@ -285,7 +285,7 @@
      "title": "New government formation process begins in Madhesh Province",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWGYzUk5NZENBcFZsUG4yeVlxdWd5aUFLRlhmOUxCVV8wNFdPMTl2OHFmY1Y3N3ROR1UwY3AyeE45dVBFbWJwOVlham53RVNhYmlZWmtPcjN0aG1UMFAwdFlJYUVCVDVIMUV1WUtfdW5Ca3djdjhQMi1oOEVPajE1MmJHSXBVdDNRTkwtT3B0ZUo0emhDT1Ztb2JrOW5uVFI0aHNZ?oc=5",
      "source": "Nepalnews.com",
-     "published": "2026-11-14T13:12:55+00:00",
+     "published": "2026-11-14T13:20:36+00:00",
      "summary": "New government formation process begins in Madhesh Province&nbsp;&nbsp;Nepalnews.com",
      "image": ""
     },
@@ -340,9 +340,17 @@
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-14T19:12:35.925927+00:00",
+   "fetched_at": "2026-11-14T19:43:08.288638+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "फुटबल एकेडेमी चलाउन सहाराको देउसीभैलो, साढे ११ लाख जुट्यो",
+     "url": "https://www.ratopati.com/story/605249/saharas-deusivhailo-raises-rs-115-million-to-run-a-football-academy",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-14T19:16:48+00:00",
+     "summary": "कास्की । सहारा क्लब पोखराले यस वर्ष तिहारका अवसरमा खेलेको देउसीभैलोबाट रु ११ लाख ६८ हजार ६१३ जम्मा गरेको छ । विपन्न तथा कठिन परिस्थितिमा रहेका बालकहरूलाई आवासीय सुविधासहित फुटबल प्",
+     "image": "https://npcdn.ratopati.com/media/news/deusi-bhailodsc06974_dm1dWTPGGs.jpg"
+    },
     {
      "title": "महिला अन्तर्राष्ट्रिय गोल्डकपः अक्वा एफसीलाई हराउँदै एपिएफ सेमिफाइनलमा",
      "url": "https://www.ratopati.com/story/605247/womens-international-gold-cup-apf-defeats-aqua-fc-to-reach-semifinals",
@@ -408,6 +416,14 @@
      "image": "https://nepalsamaya.com/uploads/posts/photo-10_7b04efda-1794678418.jpg"
     },
     {
+     "title": "पर्वतीय एजेन्डालाई कोप–३१ को अन्तिम निर्णयमा समेट्न नेपालको पहल",
+     "url": "https://gorkhapatraonline.com/news/229083",
+     "source": "Gorkhapatra (गोरखापत्र)",
+     "published": "2026-11-14T17:46:39+00:00",
+     "summary": "अन्ताल्या (टर्किए), कात्तिक २८ गते । नेपालले पर्वतीय क्षेत्रका जलवायु मुद्दालाई संयुक्त राष्ट्रसङ्घीय जलवायु परिवर्तनसम्बन्धी पक्ष राष्ट्रहरूको ३१औँ सम्मेलन (कोप–३१) को अन्तिम निर्",
+     "image": "https://gorkhapatraonline.com/storage/media/391492/conversions/1000224981-original.jpg"
+    },
+    {
      "title": "भारत र पाकिस्तानले साफ च्याम्पियनसिपको उपाधिका लागि खेल्ने",
      "url": "https://www.ratopati.com/story/605244/india-and-pakistan-to-play-for-saff-championship-title",
      "source": "Ratopati (नेपाली)",
@@ -454,22 +470,6 @@
      "published": "2026-11-14T17:16:04+00:00",
      "summary": "काठमाडौँ । ब्राजिलका कप्तान तथा बार्सिलोनाका स्टार खेलाडी राफिन्हालाई लिएर ब्राजिलियन फुटबल महासंघले गरेको एक अप्रत्याशित निर्णयले बार्सिलोनालाई स्तब्ध बनाएको छ । जापानविरुद्धको खे",
      "image": "https://npcdn.ratopati.com/media/news/raphinha_G8cy6YMVPM.webp"
-    },
-    {
-     "title": "गर्मीयामको जितपछि भारतका जेनजी आन्दोलनकारीसामु अनिश्चितताको शीतकाल",
-     "url": "https://www.ratopati.com/story/605236/after-a-summer-of-victory-indias-genji-protesters-face-a-winter-of-uncertainty",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-14T17:15:00+00:00",
-     "summary": "नयाँ दिल्ली । भारतको राजधानी दिल्लीस्थित जन्तरमन्तरमा गत जुलाईमा विद्यार्थी आन्दोलनकारीहरू खुसीले चिच्याइरहेका थिए । जेनजी आन्दोलनको दबाबका कारण केन्द्र सरकारका शिक्षामन्त्री शिक्ष",
-     "image": "https://npcdn.ratopati.com/media/news/cjp-protest_0gHurWt21G.webp"
-    },
-    {
-     "title": "अछाममा निःशुल्क रक्तचाप तथा मधुमेह परीक्षण शिविर",
-     "url": "https://gorkhapatraonline.com/news/229085",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-14T17:13:56+00:00",
-     "summary": "गोरखापत्र समाचारदाताअछाम, कार्तिक २८ गते । विश्व मधुमेह दिवसको अवसरमा अछामको साँफेबगरमा निःशुल्क रक्तचाप तथा मधुमेह परीक्षण शिविर सम्पन्न भएको छ।शनिबार लाइफलाइन अछाम र धन योग फाउन्",
-     "image": "https://gorkhapatraonline.com/storage/media/391494/conversions/unnamed-original.jpg"
     }
    ]
   }
