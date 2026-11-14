@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T18:41:23.951903+00:00",
+ "generated_at": "2026-11-14T19:12:35.925949+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-14T18:41:23.951861+00:00",
+   "fetched_at": "2026-11-14T19:12:35.925900+00:00",
    "stale": false,
    "items": [
     {
@@ -136,7 +136,7 @@
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-14T18:41:23.951875+00:00",
+   "fetched_at": "2026-11-14T19:12:35.925919+00:00",
    "stale": false,
    "items": [
     {
@@ -159,7 +159,7 @@
      "title": "Embassy in Lisbon Warns of Fraudulent Employment Schemes Targeting Nepalis in Portugal",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORlJKS3JKVm82dUtPVGx2c29oUEhLblZCNkx4Q3hGYldBeTE3MFJILWVWR2hzWk9WS3hCanB4dVdtN1o4X0V4bWN6TmVFZnZ4XzhWUm10MldQRl9nN0UxX3VzRjYyUmZ3SnBKXzdsTHVpZHR0RFcxODdXWWtZQjl2U1B2WXVvT3REaWJuTGI4cE9oU0NkdFFqNGF3UGo4eUs3bTJyU3hYeTRucU15U3lnWkNmcDlyUUJPMEZkTGhqbnhBeFVUUUh3aw?oc=5",
      "source": "Ratopati",
-     "published": "2026-11-14T13:07:30+00:00",
+     "published": "2026-11-14T13:12:06+00:00",
      "summary": "Embassy in Lisbon Warns of Fraudulent Employment Schemes Targeting Nepalis in Portugal&nbsp;&nbsp;Ratopati",
      "image": ""
     },
@@ -238,17 +238,9 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T18:41:23.951877+00:00",
+   "fetched_at": "2026-11-14T19:12:35.925924+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Nepal seeks better BRI terms as ruling party MPs visit China",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaHBFQTI3RHpiam5DczZNTDNzSVR6NkpvNXdtOXJxdnBJY0dUcHRNQkRzSGV3c2dYdDU0anN4Vk1GZ3QyZjU1ZDlkcTdwWGVGX19Jb1BIR0ItbEtkbllqaXNGMVBKY1phUnlIVVAtbDMxV3hqMmR4M09ieU5WZXc2NXBYVTdhZVY3OHN1RTBtRnozc1lnOVR0dzlkU3h0RkxZdm54WXZCcHpFVmdPeGRxd0oxWGh0Y0h4Ri1veEkwZ2FMcEtpUGtQSVEyemlaOExFWEdrMGZuVWN0cDRF0gHiAUFVX3lxTE40clJ3bzAxVXloc01Sd2cwREcxNkw4QS02Zm5FdEdnWWNjQXc1MVBEZ1lEZ0tEM2JGNHltTERRVHpHTmk1cl9waVk2QmhMaTEyanY4MGJERjRodkZmM2VYa2tZdXJucE1mQTdIb2RaMTR2VGZPcEpGWG1wSkZWRDZqanU5R2VyM0RHUmNZLVNQaFJsRUNHY1NJNzJnQTNieW9pTDQ0RTZxMXhEUllPR01Bcy1sODctOFNhSWF3dzRPWmV3c2dWQ0gyeU5Nem5OazR5UEFkbU12d1FlNnRKdFlTaVE?oc=5",
-     "source": "The Economic Times",
-     "published": "2026-11-14T17:34:33+00:00",
-     "summary": "Nepal seeks better BRI terms as ruling party MPs visit China&nbsp;&nbsp;The Economic Times",
-     "image": ""
-    },
     {
      "title": "Minister Chaudhary pledges to prioritize indigenous issues in climate negotiations",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90bmVvU0FGN0ZCMTMySmx4UlV2bnV2N00xSldaRDdrdGlVU0VtSlVVOUdMYXJnUTJzU0ItTHRkako1SGNJNWFncUxETlNoRF8w?oc=5",
@@ -336,11 +328,19 @@
      "published": "2026-11-14T12:05:56+00:00",
      "summary": "KATHMANDU: Minister for Foreign Affairs Shisir Khanal returned home today after participating in the 31st Conference of the Parties (COP-31) to the United Nations Framework Convent",
      "image": ""
+    },
+    {
+     "title": "ANFA Decides to Proceed with Regular Election Process",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY1ZTeERpZzN6UlBWSVVWRWJ6YnJjZHdEZFM1WG1nT09aT0lPQU1vbnZTZm1TYnpsazZkRWF4T2RJcFFPd0syX2IzRmtrYmlfTmlLQzNibXY5WlVHNXl0emVnOVhJdVZlb1ozS2kzN2l3STkxSFVMQURRN1FOV2RVZW9VMFlRUGlUTnNwMFJxWXVqZnN1Q01R?oc=5",
+     "source": "Ratopati",
+     "published": "2026-11-14T11:47:29+00:00",
+     "summary": "ANFA Decides to Proceed with Regular Election Process&nbsp;&nbsp;Ratopati",
+     "image": ""
     }
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-14T18:41:23.951879+00:00",
+   "fetched_at": "2026-11-14T19:12:35.925927+00:00",
    "stale": false,
    "items": [
     {
