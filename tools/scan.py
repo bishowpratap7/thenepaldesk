@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 """The Nepal Desk scanner: aggregates Nepal headlines from the public RSS
-feeds of Nepali outlets (The Kathmandu Post, Online Khabar, Ratopati,
-NepalNews, Nagarik) plus Google News searches for Nepal and the Nepali
-diaspora. No API keys. Sections: Top Nepal, Nepalis Abroad (diaspora),
-Kathmandu Politics & Policy, and In Nepali (Nepali-language headlines).
-Each section fails independently; on failure it keeps the previous data,
-flagged stale. Stdlib only."""
+feeds of 25 Nepali outlets, big and small — national dailies and independent
+sites in English and Nepali (The Kathmandu Post, Online Khabar, Ratopati,
+Setopati, Annapurna Post, Gorkhapatra, Khabarhub, Nagarik, Nepali Times,
+DC Nepal and more), the diaspora outlet Khasokhas, plus Google News searches
+for Nepal and the Nepali diaspora. No API keys. Sections: Top Nepal,
+Nepalis Abroad (diaspora), Kathmandu Politics & Policy, and In Nepali
+(Nepali-language headlines). Each section fails independently; on failure
+it keeps the previous data, flagged stale. Stdlib only."""
 import json, os, re, subprocess, sys, urllib.request, xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
@@ -20,11 +22,31 @@ OUTLETS_EN = [
     ("Online Khabar", "https://english.onlinekhabar.com/feed"),
     ("Ratopati", "https://english.ratopati.com/feed"),
     ("NepalNews", "https://nepalnews.com/feed"),
+    ("Khabarhub", "https://english.khabarhub.com/feed"),
+    ("Nepali Times", "https://www.nepalitimes.com/feed"),
+    ("Aawaaj News", "https://aawaajnews.com/feed"),
+    ("Peoples Review", "https://peoplesreview.com.np/feed"),
+    ("Spotlight Nepal", "https://www.spotlightnepal.com/feed"),
 ]
 OUTLETS_NE = [
     ("Online Khabar (नेपाली)", "https://www.onlinekhabar.com/feed"),
     ("Ratopati (नेपाली)", "https://ratopati.com/feed"),
     ("Nagarik (नागरिक)", "https://nagariknews.nagariknetwork.com/feed"),
+    ("Khabarhub (नेपाली)", "https://khabarhub.com/feed"),
+    ("Setopati (सेतोपाटी)", "https://www.setopati.com/feed"),
+    ("Annapurna Post (अन्नपूर्ण)", "https://annapurnapost.com/rss"),
+    ("Gorkhapatra (गोरखापत्र)", "https://gorkhapatraonline.com/rss"),
+    ("Desh Sanchar (देशसञ्चार)", "https://deshsanchar.com/feed"),
+    ("Thaha Khabar (थाहा खबर)", "https://thahakhabar.com/feed"),
+    ("Nepal Khabar (नेपाल खबर)", "https://nepalkhabar.com/feed"),
+    ("Baahrakhari (बाह्रखरी)", "https://baahrakhari.com/feed"),
+    ("Ujyaalo (उज्यालो)", "https://ujyaaloonline.com/feed"),
+    ("Nepal Samaya (नेपाल समय)", "https://nepalsamaya.com/feed"),
+    ("Image Khabar (इमेज खबर)", "https://imagekhabar.com/feed"),
+    ("DC Nepal (डीसी नेपाल)", "https://dcnepal.com/feed"),
+]
+OUTLETS_DIASPORA = [
+    ("Khasokhas", "https://khasokhas.com/feed"),
 ]
 GN_NP = "https://news.google.com/rss/search?q={q}&hl=en&gl=NP&ceid=NP:en"
 GN_US = "https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
@@ -35,7 +57,10 @@ POL = ["parliament", "prime minister", "election", "government", "minister", "ca
        "president", "political party", "nepal congress", "uml", "maoist", "constitution",
        "federal", "provincial", "supreme court", "commission", "budget", "policy",
        "lawmakers", "coalition", "speaker", "ordinance", "impeachment", "protest in kathmandu"]
-GUARD = ["nepal", "nepali", "nepalese", "gurkha", "nrna", "kathmandu"]
+GUARD = ["nepal", "nepali", "nepalese", "gurkha", "nrna", "kathmandu",
+         # Devanagari equivalents — diaspora outlets like Khasokhas publish
+         # entirely in Nepali script and would otherwise never pass.
+         "नेपाल", "नेपाली", "प्रवास", "आप्रवास", "गैरआवासीय", "अमेरिका", "विदेश"]
 BLOCK = ["horoscope", "राशिफल"]
 
 def now_iso():
@@ -57,17 +82,28 @@ def strip_html(s):
     s = re.sub(r"<[^>]+>", "", s or "")
     return re.sub(r"\s+", " ", s).strip()
 
+def strip_prefixes(s):
+    s = re.sub(r"(<\/?)[a-zA-Z0-9]+:", r"\1", s)
+    return re.sub(r'\sxmlns:[a-zA-Z0-9]+="[^"]*"', "", s)
+
 def parse_rss(raw, default_source):
     items = []
     try:
         root = ET.fromstring(raw)
     except ET.ParseError:
-        # Some outlet feeds use undeclared namespace prefixes (Ratopati EN).
-        # Salvage: drop the prefixes so the plain RSS tags parse; images from
-        # namespaced tags are lost for that feed, headlines still land.
-        raw2 = re.sub(r"(<\/?)[a-zA-Z0-9]+:", r"\1", raw)
-        raw2 = re.sub(r'\sxmlns:[a-zA-Z0-9]+="[^"]*"', "", raw2)
-        root = ET.fromstring(raw2)
+        try:
+            # Some outlet feeds use undeclared namespace prefixes (Ratopati EN).
+            # Salvage: drop the prefixes so the plain RSS tags parse; images from
+            # namespaced tags are lost for that feed, headlines still land.
+            root = ET.fromstring(strip_prefixes(raw))
+        except ET.ParseError:
+            # Third tier for sloppy feeds (Kantipur, Rising Nepal, DC Nepal):
+            # drop any junk before the first "<", remove control characters,
+            # escape bare ampersands, then strip prefixes again.
+            s = raw[raw.find("<"):] if "<" in raw else raw
+            s = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]", "", s)
+            s = re.sub(r"&(?!amp;|lt;|gt;|quot;|apos;|#)", "&amp;", s)
+            root = ET.fromstring(strip_prefixes(s))
     chan = root.find("channel") or root
     for it in chan.findall("item"):
         def txt(tag):
@@ -144,19 +180,19 @@ def build_sections():
     pool_en = clean(fetch_pool(OUTLETS_EN) + gn_pool(GN_NP, "Nepal"))
     if not pool_en:
         raise RuntimeError("all English outlets unreachable")
-    diaspora_raw = []
+    diaspora_raw = fetch_pool(OUTLETS_DIASPORA)
     for q in DIASPORA_Q:
         diaspora_raw += gn_pool(GN_US, q)
     diaspora = clean([i for i in diaspora_raw if matches(i, GUARD)])
     pol_pool = clean(gn_pool(GN_NP, POL_Q) + [i for i in pool_en if matches(i, POL)])
-    top_keys = {norm_key(i["title"]) for i in pool_en[:14]}
+    top_keys = {norm_key(i["title"]) for i in pool_en[:16]}
     pol_only = [i for i in pol_pool if norm_key(i["title"]) not in top_keys]
     pool_ne = clean(fetch_pool(OUTLETS_NE))
     return {
-        "top_nepal": pool_en[:14],
+        "top_nepal": pool_en[:16],
         "diaspora": diaspora[:12],
         "politics": (pol_only or pol_pool)[:12],
-        "nepali": pool_ne[:12],
+        "nepali": pool_ne[:16],
     }, None
 
 SECTION_DEFS = [
@@ -223,8 +259,9 @@ def publish_static(wire):
                 f'<a href="{esc(it.get("url"))}">{esc(it.get("title"))}</a>{img}'
                 f'<span class="meta">{esc(it.get("summary"))}</span></div>')
     blocks = [f'<p class="baked-updated">Wire updated {esc(gen)} UTC — aggregated by '
-              f'<a href="https://x.com/bishowppandey">Bishow Pandey</a> from The Kathmandu Post, '
-              f'Online Khabar, Ratopati, NepalNews and Nagarik public feeds, plus Google News.</p>']
+              f'<a href="https://x.com/bishowppandey">Bishow Pandey</a> from the public feeds of '
+              f'25+ Nepali outlets — The Kathmandu Post, Online Khabar, Ratopati, Setopati, '
+              f'Annapurna Post, Gorkhapatra, Khabarhub, Nagarik and many more — plus Google News.</p>']
     for key, title in SECTION_DEFS:
         sec = s.get(key, {})
         blocks.append(f'<section class="baked-sec"><h2>{title}</h2>')

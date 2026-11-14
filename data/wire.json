@@ -1,128 +1,184 @@
 {
- "generated_at": "2026-11-13T22:31:01.275162+00:00",
+ "generated_at": "2026-11-14T02:15:08.591438+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-13T22:31:01.275103+00:00",
+   "fetched_at": "2026-11-14T02:15:08.591320+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Dhakal urges UAE investors to invest in Nepal's different sectors",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJTW9zRnBoWUJWSC1mNEdUX1NGUTA5OFhlbjdkc0FyQ1ZrbHMybGk3NXZjbW5sRXNkWDA3dkQzQl8wYmpIYjRNMWt5aU5JT0hI?oc=5",
-     "source": "The Rising Nepal",
-     "published": "2026-11-13T22:12:24+00:00",
-     "summary": "Dhakal urges UAE investors to invest in Nepal's different sectors&nbsp;&nbsp;The Rising Nepal",
-     "image": ""
-    },
-    {
-     "title": "Over Forty Percent of Parsa Health Volunteers Experience Depression in Nepal",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEt2Y3d5VXNsMzN0anpwaFNDYVdyT05XR3lxNE93V0g5S0JNd291NHN4c1lyRFpzM0ViSmFSREpmbWdSY1BZY3YybFdxcVNidy1lcVVLTElqQVZTeWFpVWlvUUdlcFlIN3pIUWx0d0RDZDFINmRNVWlKQ3RWSUZzNWRxcXFyRWJieDNzWVAzbVF5c3J0a2dUSU96S09XbWd0X2xF?oc=5",
-     "source": "Bioengineer.org",
-     "published": "2026-11-13T22:05:05+00:00",
-     "summary": "Over Forty Percent of Parsa Health Volunteers Experience Depression in Nepal&nbsp;&nbsp;Bioengineer.org",
-     "image": ""
-    },
-    {
-     "title": "Kai Cech to Star in Nepal's 'Lost in Mandala' Animated Feature",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWTJUOEpuZ1JkV0pZb01XN1RkMmNZS2c0UHRHX0NIbWE1NXYteWdNclVCV3VnUll1ekcwUGRGWmFWc3JyZEVtQ0t2QTNuTXVCeWxoR3J6VVpabVpZdGtFMDFKTW5FVzNJWXE1Y184LWJqV0pxOWkza0hZTjVwcVVuOQ?oc=5",
-     "source": "Animation World Network",
-     "published": "2026-11-13T21:45:50+00:00",
-     "summary": "Kai Cech to Star in Nepal's 'Lost in Mandala' Animated Feature&nbsp;&nbsp;Animation World Network",
-     "image": ""
-    },
-    {
-     "title": "Hicksville brothers hope changing brand of Glen Cove Nepali eatery boosts business",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU1dSbnZITTBqdmxERm81bng4alppNkNzbGJMZUtKT05RY3k1NjVVMTRQOXF1UjJJMVY0b0poVmhYTWIyOEowRDR1YzFXbmhHZHM5Q0h6WTZJelBIUDhNMEF2UTZHZHEzN2lBY1NEOXRWSllJNERzT1lxR21oUURkSzI4QTJpejM0RU1BWnJsdUVrU3BM?oc=5",
-     "source": "Newsday",
-     "published": "2026-11-13T17:25:09+00:00",
-     "summary": "Hicksville brothers hope changing brand of Glen Cove Nepali eatery boosts business&nbsp;&nbsp;Newsday",
-     "image": ""
-    },
-    {
-     "title": "Nepal Police recover, return stolen bike of Indian traveller | Further investigation into the case is ongoing | Inshorts",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcEVaalFMZW9ubnhuNzJ1SlNqZ2ZGWXN5UGF5Y3E2Q0ZLZGwwa04taWVsZVNmQ0xFVnA2cEc5T2FfOUF2eFRkblJ5QzY1NjRzREllSUllVVpEQ1ZqRktYOGxvX3ZLOXpicnZQaXVmTzQ2MzNkWDZTVFd1YzRyenpfMjM5T1Z0RW05ZUdJbXMyMUJBZDl4R0J2anFNMTVwYXJyaW1hc3JB0gGrAUFVX3lxTE1HMjc0VDdvVVdyY21uT2hOcE8xMXpvZDVfYUhyUUtiYVFwVlBfYUVjRVZ0cEFfOE9BcURNQUFaRnRKQ0tuRXdnTUtyeExtT0Jxck9ERndQOGQ5ZnozeG9VUGpON2k1WGJLVVpQckJ5ZkxOSFJLM0c2TWJXVDlUQ3hoYmVvbHM5M2d2OHprZkpuZVN4aTN4ZjZKZkNyVGIwMmowWVYydWMwcFlROA?oc=5",
-     "source": "Inshorts",
-     "published": "2026-11-13T17:06:21+00:00",
-     "summary": "Nepal Police recover, return stolen bike of Indian traveller | Further investigation into the case is ongoing | Inshorts&nbsp;&nbsp;Inshorts",
-     "image": ""
-    },
-    {
-     "title": "आइतबार मेघगर्जन र असिनासहित वर्षाको सम्भावना",
-     "url": "https://nepalnews.com/2026/11/13/chance-of-rain-with-thunder-and-hail-on-sunday/",
+     "title": "म्याग्दीमा पूर्वाधार विकास डिभिजन कार्यालय स्थापना",
+     "url": "https://nepalnews.com/2026/11/14/infrastructure-development-division-office-established-in-myagdi/",
      "source": "NepalNews",
-     "published": "2026-11-13T16:48:33+00:00",
-     "summary": "काठमाडौं। नेपालमा हाल पश्चिमी वायुको आंशिक प्रभाव रहेको छ। मौसम पूर्वानुमान महाशाखाका अनुसार देशका हिमाली तथा पहाडी भू-भागमा आंशिक बदली रहेको छ। महाशाखाले जारी गरेको पाँचदिने मौसम ",
+     "published": "2026-11-14T02:12:33+00:00",
+     "summary": "म्याग्दी। धौलागिरि क्षेत्रका चार जिल्ला कार्यक्षेत्र हुने गरि म्याग्दीको सदरमुकाम बेनीमा पूर्वाधार विकास डिभिजन कार्यालय स्थापना भएको छ। म्याग्दी, बागलुङ, पर्वत र मुस्ताङ कार्यक्षे",
      "image": ""
     },
     {
-     "title": "KYC update mandatory for health insurance renewal",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRlZvaXRvV3ZhNTVVdGx2Sy0tNU14bmpkMGs3MVdhYjh4TGN6bS1iLUtWQm9kWElKX0V0RW4wSHpraEMwZ1NhSFZDa3FTU2Q4QWNNekpKZ3dOMWpibUw3bHVqYVVtQVdnbE1jQ3NCOTJvWGYtVWlCTnpkVjZub1ZmYjVlU0VrdGd2X19sT1dyOGpCMUk?oc=5",
-     "source": "Nepalnews.com",
-     "published": "2026-11-13T16:46:40+00:00",
-     "summary": "KYC update mandatory for health insurance renewal&nbsp;&nbsp;Nepalnews.com",
-     "image": ""
-    },
-    {
-     "title": "Opposition closes ranks as questions mount over PM Balen government’s performance",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UUlVSTFVsOUdkQmF5VWJMbmtUcnJGUTQzVUwwekNEc2pKYVR5TmdXamd4cDRTWndfaE1JVU1QcGtncUtVY29DV3B4VjNweVhBQzUwVnExVk1hNjVu?oc=5",
-     "source": "Nepalnews.com",
-     "published": "2026-11-13T16:41:59+00:00",
-     "summary": "Opposition closes ranks as questions mount over PM Balen government’s performance&nbsp;&nbsp;Nepalnews.com",
-     "image": ""
-    },
-    {
-     "title": "NMKP Chairman Bijukchhen Stresses Need to Inform New Generation About History and Struggles",
-     "url": "http://english.ratopati.com/story/86528/the-new-generation-should-be-informed-about-the-struggles-of-the-elders-chairman-bijukchhe",
+     "title": "World Diabetes Day Observed Globally",
+     "url": "http://english.ratopati.com/story/86538/today-is-world-diabetes-day-how-to-reduce-the-risk",
      "source": "Ratopati",
-     "published": "2026-11-13T16:35:57+00:00",
-     "summary": "Bhaktapur. Nepal Majdoor Kisan Party Chairman Narayanman Bijukchhen has pointed out the need to inform the new generation about history,...",
+     "published": "2026-11-14T02:11:43+00:00",
+     "summary": "Kathmandu. Today is World Diabetes Day. This day is being celebrated in various countries around the world with various awareness...",
      "image": ""
     },
     {
-     "title": "Madhesh Province Begins Selection for 10th National Games",
-     "url": "http://english.ratopati.com/story/86527/player-selection-competition-in-madhesh-for-national-games",
+     "title": "Rebuilding Nepal’s Politics For Accountable Governance",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fQWFCRDdvQ0tDc0JRSnNoNzhwT053bkhqSDlmbDlKUnZCX2VDNUhZMXc2OUVwRU9YN3AyX0dYV21TdUwyUVBpbVZ3X0ZpaWVJ?oc=5",
+     "source": "The Rising Nepal",
+     "published": "2026-11-14T02:09:17+00:00",
+     "summary": "Rebuilding Nepal’s Politics For Accountable Governance&nbsp;&nbsp;The Rising Nepal",
+     "image": ""
+    },
+    {
+     "title": "Madhesh Chief Minister to seek vote of confidence today",
+     "url": "http://english.ratopati.com/story/86537/madhesh-chief-minister-yadav-will-seek-a-vote-of-confidence-today-will-he-get-a-majority",
      "source": "Ratopati",
-     "published": "2026-11-13T16:29:48+00:00",
-     "summary": "Janakpur. A provincial-level sports competition has begun to select players to represent Madhesh Province in the 10th National Games to...",
+     "published": "2026-11-14T02:08:13+00:00",
+     "summary": "Dhanusha. Madhesh Province Chief Minister Krishna Prasad Yadav is going to take a vote of confidence from the Provincial Assembly...",
      "image": ""
     },
     {
-     "title": "Okhaldhunga Farmers Busy Harvesting Paddy After Tihar Festival",
-     "url": "http://english.ratopati.com/story/86526/farmers-rush-to-import-rice",
-     "source": "Ratopati",
-     "published": "2026-11-13T16:23:52+00:00",
-     "summary": "Okhaldhunga. Immediately after the Tihar festival, the farmers of Okhaldhunga have increased their efforts to harvest paddy. Farmers in the...",
+     "title": "Whispers Of Mountains",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZNXNIakFqRGN4Ykh6cHU1MXUzVkZtbS1qSmF6c0FDSDB5ZDdPX2twN2RDaDVZWjBqX1FpeW93U0RmR2sxb0hyMFZqZE5jMFFq?oc=5",
+     "source": "The Rising Nepal",
+     "published": "2026-11-14T02:04:42+00:00",
+     "summary": "Whispers Of Mountains&nbsp;&nbsp;The Rising Nepal",
      "image": ""
     },
     {
-     "title": "Nepal News Briefing: Flood Victims Await Relief, Weather Forecast, Public Holidays, Judicial Appointments, EV Safety Concerns, Ambassadorial Updates, Political Party Matters, Police Restructuring, and Stock Market Performance",
-     "url": "http://english.ratopati.com/story/86525/19-days-in-the-month-of-kartik-from-public-holidays-to-bad-weather-from-sundays",
-     "source": "Ratopati",
-     "published": "2026-11-13T16:16:33+00:00",
-     "summary": "Kathmandu. Today is Friday, Kartik 27, 2083 BS. We are here with the main events of the day with Ratopati's...",
+     "title": "छठ पर्वको दोस्रो दिनः आज ‘खरना’",
+     "url": "https://nepalnews.com/2026/11/14/second-day-of-chhath-festival-today-is-kharna/",
+     "source": "NepalNews",
+     "published": "2026-11-14T02:02:59+00:00",
+     "summary": "काठमाडौँ। मधेसको प्राचीन मिथिला क्षेत्रमा अहिले छठ पर्वको उल्लास छ। चार दिने यो पर्वको दोस्रो दिन बर्तालु आज ‘खरना’ विधिको तयारीमा छन्। यसअघि पर्वको पहिलो दिन कात्तिक शुक्ल चौथीका ",
      "image": ""
     },
     {
-     "title": "India, China and Israel approve proposed Nepali ambassadors",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeVhqTTZQRUl4LVpkU25XaFhmbWdpN2ZERkZmUFh0Nm1TcHNyNTc2X2hWQUR4YjdRQkZlblpPUlJWSGZ4VEFKVEJWTUNPQVo0Snctc0lkc2d4LWtBcUtQbTVuNllwWmh0WjZjZm9EQzBmMHhadTJwMlBMN3lJbHRBS0xha21FZFFka1FkYlFPN2N1Uy12LTQybFExaG1acmstSDBr?oc=5",
+     "title": "France, Germany, Italy, Poland, UK to represent Europe in Ukraine peace talks alongside EU institutions",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNGdqNERzcEh3U2NMODVmRkdPYWVKRjUyM2JzUlhTNExQNFVKUnp5WkhreUI2R0hUbE9ma1VSbzU1aGZNUDhkZ2M5N3FvS2I1cDd6bk5TWjVIb1I3VVVRY2diQjRzTXhkWWQ4ekFwU1RDbXIxTW02U2tCem5NeUlVSEtncW5QQUxoaGdFVy00UDVTOU4yU3ZUS3R4MS1pWFVoaG93Tm0yT21wdlRybTFSMzN1Tm5ZeU50M0hiT0hGQnh3WWZkaGJXdXhxekNqS3FRcWZyNFdvWXFkZ1JFODZR?oc=5",
      "source": "Nepalnews.com",
-     "published": "2026-11-13T16:11:37+00:00",
-     "summary": "India, China and Israel approve proposed Nepali ambassadors&nbsp;&nbsp;Nepalnews.com",
+     "published": "2026-11-14T02:02:04+00:00",
+     "summary": "France, Germany, Italy, Poland, UK to represent Europe in Ukraine peace talks alongside EU institutions&nbsp;&nbsp;Nepalnews.com",
      "image": ""
     },
     {
-     "title": "Nepal News Evening Economic Brief – November 13, 2026",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUHFrS3VpYk04d2dQUWN5dDg4clhaaTFyNE9wU2tES1h1dDkwY1pKQnRiNldyOFlvMHJEM052bWlaWklMQWJrRkkyeEdiTUFvZl95c1JZWm9Ka1hmeDBJcXhOY0RJWFRzUV84Ml92VkUzU2Z0SnlQb3BuNDlvMGVDcjZhV1hKNEdwWWJ5UEJ0YUpSNEQybkw0?oc=5",
+     "title": "Kalimati Market Releases New Wholesale Price List for Vegetables and Fruits",
+     "url": "http://english.ratopati.com/story/86536/from-tomatoes-to-potatoes-and-onions-this-is-how-much-vegetables-cost-today-with-list",
+     "source": "Ratopati",
+     "published": "2026-11-14T02:00:59+00:00",
+     "summary": "Kathmandu. Kalimati Fruit and Vegetable Market Development Committee has published a new wholesale price list for vegetables and fruits. According...",
+     "image": ""
+    },
+    {
+     "title": "हिमाली क्षेत्रमा वर्षा र हिमपातको सम्भावना",
+     "url": "https://nepalnews.com/2026/11/14/chance-of-rain-and-snowfall-in-the-mountainous-areas/",
+     "source": "NepalNews",
+     "published": "2026-11-14T01:42:28+00:00",
+     "summary": "काठमाडौँ। हाल देशमा पश्चिमी वायुको आंशिक प्रभाव रहेको तथा हिमाली र पहाडी भागमा आंशिक बादल लागेको छ। मौसम पूर्वानुमान महाशाखाका अनुसार आज दिउँसो कोशी, बागमती र गण्डकी प्रदेशका हिमाल",
+     "image": ""
+    },
+    {
+     "title": "Nepal’s preparation and institutional capacity building a must for climate negotiations, Minister Khanal",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaGlaNE1wOGt2RS1LMmE2RnZzLVBIZjBvUGlhbU92QXhXbGV6NXFpcWZZX1o4Q0w4Um5vUC1LQllwZEtqcDVqYi1ESktoR2E1TFJLcVFDaVVtVFI2WVdWeUt2MnFiT2szUXpaSXVUYlVIdThhNHZOYUR5R1kzcE5PX2c4bV8wR1pCaVJfT3BYa2FvVlpHTW54SjJuV1pyMTFBSDRuMFRHeWZ4S3lEYlhTdmxmRXVYUW5qS0dLUm9BZnlFMHZxWEFuSDI4dERPMnhON3hPMWY3TXl0THp3WUE?oc=5",
      "source": "Nepalnews.com",
-     "published": "2026-11-13T16:05:05+00:00",
-     "summary": "Nepal News Evening Economic Brief – November 13, 2026&nbsp;&nbsp;Nepalnews.com",
+     "published": "2026-11-14T01:36:43+00:00",
+     "summary": "Nepal’s preparation and institutional capacity building a must for climate negotiations, Minister Khanal&nbsp;&nbsp;Nepalnews.com",
+     "image": ""
+    },
+    {
+     "title": "Westerly winds bring partial cloud cover today",
+     "url": "https://english.khabarhub.com/2026/14/575518/",
+     "source": "Khabarhub",
+     "published": "2026-11-14T01:36:14+00:00",
+     "summary": "KATHMANDU: The country is currently experiencing a partial influence of westerly winds, resulting in cloudy conditions in parts of the Himalayan and hilly regions. According to the",
+     "image": ""
+    },
+    {
+     "title": "“Nepal needs stronger diplomatic capacity for climate talks”",
+     "url": "https://english.khabarhub.com/2026/14/575514/",
+     "source": "Khabarhub",
+     "published": "2026-11-14T01:32:45+00:00",
+     "summary": "ANTALYA: Foreign Minister Shisir Khanal has stressed the need for stronger preparations, sustained diplomatic engagement and multilateral cooperation to enhance Nepal&#8217;s role ",
+     "image": ""
+    },
+    {
+     "title": "Morang Administration Drafts New Criteria for Nighttime Businesses in Biratnagar",
+     "url": "http://english.ratopati.com/story/86535/you-are-not-allowed-to-wear-a-turban-in-a-massage-parlor",
+     "source": "Ratopati",
+     "published": "2026-11-14T01:30:43+00:00",
+     "summary": "Biratnagar. The District Administration Office, Morang has prepared a preliminary draft of new criteria to make the operation of nighttime...",
+     "image": ""
+    },
+    {
+     "title": "जलवायु कूटनीतिमा नेपालको तयारी थप सुदृढ बनाउनुपर्छ : परराष्ट्रमन्त्री खनाल",
+     "url": "https://nepalnews.com/2026/11/14/nepals-preparations-for-climate-diplomacy-should-be-further-strengthened-foreign-minister-khanal/",
+     "source": "NepalNews",
+     "published": "2026-11-14T01:27:02+00:00",
+     "summary": "अन्ताल्या। परराष्ट्रमन्त्री शिशिर खनालले जलवायु परिवर्तनसम्बन्धी अन्तर्राष्ट्रिय वार्ता र कूटनीतिमा नेपालको प्रभावकारी भूमिका स्थापित गर्न पूर्वतयारी, निरन्तर कूटनीतिक प्रयास र बहु",
+     "image": ""
+    },
+    {
+     "title": "खिम्ती–ठोसे–शिवालय जलाशययुक्त आयोजना अघि बढाउन तीन करोड बजेट विनियोजन",
+     "url": "https://nepalnews.com/2026/11/14/budget-allocation-of-rs-30-million-to-advance-khimti-those-shivalay-reservoir-project/",
+     "source": "NepalNews",
+     "published": "2026-11-14T01:20:12+00:00",
+     "summary": "काठमाडौं। रामेछापको विकास र समृद्धिसँग जोडिएको एक हजार २१६ मेगावाट क्षमताको खिम्ती–ठोसे–शिवालय बृहत् जलाशययुक्त बहुउद्देश्यीय आयोजना अघि बढाउन ऊर्जा मन्त्रालयले तीन करोड रुपैयाँ बज",
+     "image": ""
+    },
+    {
+     "title": "Local Residents Demand New Solar Fencing and Tractor Use to Control Wild Elephants in Jhapa",
+     "url": "http://english.ratopati.com/story/86534/wild-elephant-terror-locals-demand-new-solar-fences-and-tractors",
+     "source": "Ratopati",
+     "published": "2026-11-14T01:17:26+00:00",
+     "summary": "Jhapa. Locals have demanded the installation of new solar electric fencing to stop the damage to life and property caused...",
      "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-13T22:31:01.275128+00:00",
+   "fetched_at": "2026-11-14T02:15:08.591379+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "अमेरिकाको मिसिसिपी नदीमा ट्याङ्करको ठक्करबाट क्रुज जहाज पल्टियो, ३२ घाइते, ठुलो क्षति टर्यो",
+     "url": "https://www.khasokhas.com/237554",
+     "source": "Khasokhas",
+     "published": "2026-11-14T01:45:21+00:00",
+     "summary": "अमेरिकाको न्यु अर्लिन्स बन्दरगाह नजिकै मिसिसिपी नदीमा शुक्रबार एक ट्याङ्करले नदीमा चल्ने क्रुज जहाजलाई ठक्कर दिँदा यात्रुवाहक जहाज पल्टिएर अधिकांश भाग पानीमा डुबेको छ। यद्यपि, दुवै",
+     "image": ""
+    },
+    {
+     "title": "पोर्चुगलमा पारिवारिक पुनर्मिलनका लागि आइमाले खोल्यो अनलाइन अपोइन्टमेन्ट फारम",
+     "url": "https://www.khasokhas.com/237549",
+     "source": "Khasokhas",
+     "published": "2026-11-14T01:02:26+00:00",
+     "summary": "लिस्बन — पोर्चुगलको आप्रवासन तथा शरणसम्बन्धी निकाय (आइमा) ले वैध बसोबास अनुमति भएका विदेशी नागरिकका लागि पारिवारिक पुनर्मिलन प्रक्रियाअन्तर्गत अनलाइन अपोइन्टमेन्ट माग्ने सुविधा विस",
+     "image": ""
+    },
+    {
+     "title": "क्यानडाले २०२७ देखि २०२९ सम्म वार्षिक ३ लाख ८० हजार स्थायी आप्रवासी भित्र्याउने, थप २ लाखलाई पीआर दिने",
+     "url": "https://www.khasokhas.com/237546",
+     "source": "Khasokhas",
+     "published": "2026-11-14T00:50:49+00:00",
+     "summary": "क्यानडा सरकारले आगामी तीन वर्षसम्म प्रत्येक वर्ष ३ लाख ८० हजार स्थायी आप्रवासी भित्र्याउने लक्ष्य कायम राखेको छ। सरकारले सन् २०२७ मा क्यानडामै बसोबास गरिरहेका योग्य कामदार, उनीहरूक",
+     "image": ""
+    },
+    {
+     "title": "अमेरिकाभरका विमानस्थलमा उडान स्थगित, एयर ट्राफिक कन्ट्रोल प्रणालीमा ठूलो समस्या",
+     "url": "https://www.khasokhas.com/237540",
+     "source": "Khasokhas",
+     "published": "2026-11-13T22:58:59+00:00",
+     "summary": "अमेरिकामा शुक्रबार दिउँसो संघीय उड्डयन प्रशासन (एफएए) ले देशभरका विमानस्थलमा उडान रोक्न निर्देशन दिएको छ। एयर ट्राफिक कन्ट्रोल प्रणालीमा देखिएको ठूलो प्राविधिक समस्याका कारण यस्तो ",
+     "image": ""
+    },
+    {
+     "title": "अमेरिकी अध्यागमन अदालतमा नेपालीका एसाइलम स्वीकृति २३ वर्षयताकै न्यून, अस्वीकृति ऐतिहासिक उच्च",
+     "url": "https://www.khasokhas.com/237531",
+     "source": "Khasokhas",
+     "published": "2026-11-13T18:43:29+00:00",
+     "summary": "अमेरिकाको अध्यागमन अदालतबाट नेपाली आवेदकहरूले एसाइलम ( शरण) पाउने संख्या आर्थिक वर्ष २०२६ मा सन् २००३ यताकै न्यून स्तरमा झरेको छ। अर्कोतर्फ, एसाइलम आवेदन अस्वीकृत हुने नेपालीको संख",
+     "image": ""
+    },
     {
      "title": "Foreign Minister Khanal says welfare of Nepali diaspora remains government priority",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBheF9uTkFxbTZhZk5xd2hJQjJ0V2dJLU5oZFYxaHVsWEQ2ZmZZdFgzUUJPTTdiQWUtcjVHVnlWVzFsODVUaWdmM3B0NnRKZ2VldERXSWwzY2Y?oc=5",
@@ -148,6 +204,22 @@
      "image": ""
     },
     {
+     "title": "अमेरिकामा बेरोजगारी भत्ताका लागि २ लाख निवेदन, समग्र श्रम बजार भने स्थिर",
+     "url": "https://www.khasokhas.com/237526",
+     "source": "Khasokhas",
+     "published": "2026-11-13T03:46:11+00:00",
+     "summary": "गत साता बेरोजगारी भत्ताका लागि निवेदन दिने अमेरिकीहरूको संख्यामा सामान्य वृद्धि भएको छ । यद्यपि, बेरोजगारीको दाबी ऐतिहासिक रूपमै न्यून स्तरमा रहेको, कर्मचारी कटौती निकै कम हुने गरे",
+     "image": ""
+    },
+    {
+     "title": "कडा भिसा नीतिका कारण अमेरिका र बेलायतप्रति अन्तर्राष्ट्रिय विद्यार्थीको आकर्षण घट्दो, एसिया र युरोपतर्फ बढ्दो",
+     "url": "https://www.khasokhas.com/237520",
+     "source": "Khasokhas",
+     "published": "2026-11-13T02:26:52+00:00",
+     "summary": "कडा भिसा नीतिका कारण उच्च शिक्षाको विश्व नक्सा नै फेरिन थालेको छ। बिहीबार सार्वजनिक एक विश्वव्यापी विश्वविद्यालय सर्वेक्षणअनुसार अन्तर्राष्ट्रिय विद्यार्थीहरू अमेरिका र बेलायतको सट",
+     "image": ""
+    },
+    {
      "title": "Nepal Embassy in Delhi hosts Deusi-Bhailo celebrations as diaspora marks Tihar",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRzNvYUhHMnYtWGx1T0ZQaUxvckdXRjBSSzRXZmd3R0JRMTdQLVg5angxU2FoMDBqMC1jaE0xM2NhYzBKOWIzby1fTV9Tbm83NnlKODN3OVVEc0xpbGpaNVFLZzZjMHc4MDljV0s4VXdRcElZX0djWi1hdk9RcHpjU0RtdW9JdER4eUFkUzdmbVhfaXNSQU1iTm9EUk5xYzdLcThLNzR4RjNqSWxEcDFiY1cxRGpIWXNhWFNDbXZlb2xseEJnclHSAcsBQVVfeXFMTm9nb2hJZDRQbFNCeGl5Rl9BcnBTQnY1RWdJcmRUOElWWHNnUVVOaGJ0UEh1UkJiVUdxUXhuYmktb1pqOENfaFFUaHR2TjcxOEdrYThITWZreXJOdXRDY044dkxtNVpaSlFMcnYwcmc4c1EtTXhpc3kzSVJEUUVhaUwxOUNyeEREbml5YU9VamF1OXBGSkF1bEZOM1JBdW1vSTRydDIxcjExb3FzX3lXQUhVUW8zX09FODdqUmNDdWhXQ3VCZ3NzY19DRHc?oc=5",
      "source": "WION",
@@ -162,69 +234,85 @@
      "published": "2026-11-06T15:45:44+00:00",
      "summary": "Explained: Mamta Kafle murder trial turns on one question: How did she die?&nbsp;&nbsp;The Kathmandu Post",
      "image": ""
-    },
-    {
-     "title": "Second Convention of Non-Resident Nepali Forum International Committee to be Inaugurated by Bidya Devi Bhandari",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWjJTWjlxQndGdnBONGR3Y0NXYV9oVDEwZ0VKMkx6Qzg5Vm51bEFSUk9iaGYwN3lvYklOOEphRm9UUk1BbEd5R3hMTllITzNGS3htVmtta2U2Z3pOVS1tSTRZNjVuVUplNWlDZXhFWmp1M2NHb1p2aFFBZm5vcmZwaU5BNEZueGZfbWNzLVdRVVlwazVGWkJBYm15NE83c0ZNakEzTmkway00LWFoMXBTRTNpWXdBS1RyZHNPNnVRQjJKclU4SUVFZWMzOVAzYjN2cVpR?oc=5",
-     "source": "Ratopati",
-     "published": "2026-11-04T03:34:24+00:00",
-     "summary": "Second Convention of Non-Resident Nepali Forum International Committee to be Inaugurated by Bidya Devi Bhandari&nbsp;&nbsp;Ratopati",
-     "image": ""
-    },
-    {
-     "title": "How Dashain travels with the Nepali diaspora",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1czVhV0drMzhYeTgzNGt3VlVoaVFNUFBWcWZ3Y3FwWEpwTktZOVNqdWhCekRJbWdQV2RxQ2U2UmR4SjRCdzM1NVRkZ281eXhPTG9tZTMzb2RmOXFBUkxVdTBHdXB0SHZBY2RnWjlRZERfZW9URmxZ?oc=5",
-     "source": "OnlineKhabar English News",
-     "published": "2026-10-21T07:00:00+00:00",
-     "summary": "How Dashain travels with the Nepali diaspora&nbsp;&nbsp;OnlineKhabar English News",
-     "image": ""
-    },
-    {
-     "title": "Non-Resident Nepali Campaign: From Emotional Connection to Economic Partnership",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEwzS2tZaEtFRzhFU0hCTV9vLWM0YTFZZkVMY1NfNlBtdFNMT19JX09HVnlaN1FUZ19xV1JVa19SNGc4TzVtZW90ZnpkMC1KNWVSa2NSc0JaYnRJaHZEdHhZLU4yNlBUUlA5MldQTVE0QnlsWE9FMy1WWGpURzAwQW1xMTZzcWdsVzNyQ29ZN2RJWGc3RmpMeVRUcDUzSzFjNC02bmVn?oc=5",
-     "source": "Ratopati",
-     "published": "2026-10-11T07:00:00+00:00",
-     "summary": "Non-Resident Nepali Campaign: From Emotional Connection to Economic Partnership&nbsp;&nbsp;Ratopati",
-     "image": ""
-    },
-    {
-     "title": "Non-Resident Nepali Association Portugal Opens Office in Lisbon",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMWFxbGVYY3IzMVNRVGtVaDBhTWFES3dnN0h3Qy11eVdIZE5nUjZ4VjRrTUxWcGdWSVdwSjJ2ajFXTU9CVDliRmZiVVlqXzlVbW91TVVlUTJLcVo3V0VSM0RUVkxTeDJhd3JFSC1HWUQ1em1mYjFjZVEyM1BDOERmWTNNX0FjMVBHS2R4QjlIelBrM0dWLWNBcXoxQTE?oc=5",
-     "source": "Ratopati",
-     "published": "2026-10-07T07:00:00+00:00",
-     "summary": "Non-Resident Nepali Association Portugal Opens Office in Lisbon&nbsp;&nbsp;Ratopati",
-     "image": ""
-    },
-    {
-     "title": "NRN Asia-Pacific Deputy Coordinator Rakesh Prasad Mahato States Nepalis Abroad are Economically Empowered",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcFFNSTRDbHdhLUVTRWhsM3FHM0VORTFaZldyWTkzbEpiRXluOEpfNzU2V19mMkc2YWRmNk5rWnRKR2E5ZE0ySjJITW9STGRBczlqVzA5bURvMklrTUlFUk95RmZoWGh3Y2hJZ3Z5SDBnYnZqRV9hZEdKZVBTSldiemxOTWt6SDA4UFY4T1QxWkRQMG1FTkVzT0hjN3JZZmtVZ1Bvejk2RHlUNEN1V3p1VldFZWMzeHlvMlU3SWh0MGthWVJWY0dZ?oc=5",
-     "source": "Ratopati",
-     "published": "2026-10-02T06:26:21+00:00",
-     "summary": "NRN Asia-Pacific Deputy Coordinator Rakesh Prasad Mahato States Nepalis Abroad are Economically Empowered&nbsp;&nbsp;Ratopati",
-     "image": ""
-    },
-    {
-     "title": "Foreign Minister Receives 17-Point Suggestions from NRNAs USA",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUMzRGo5eDQ2X0lVYUdfRTlmQnhRWGswMFA4TTM5RmJFd3lTbWtMRXNqZ3ozRjNYM1VsY09FVHFoWERBQXloa3h2czJwYzdVbWRRQW1Ybk9RVmhwalVkOGNzeHU4MVd0cXk2ZEVtcVdzRm9VLVR3MTgtM3ExbEs3YzVKeEwzRG1PMU9GSXljQnFjeFlEeU5oX3g2S01oU1ZtLUNXUlVoa1BkWXZldzJDNWdKT3BFb0NTSm5CV2p3?oc=5",
-     "source": "Ratopati",
-     "published": "2026-09-28T11:53:53+00:00",
-     "summary": "Foreign Minister Receives 17-Point Suggestions from NRNAs USA&nbsp;&nbsp;Ratopati",
-     "image": ""
-    },
-    {
-     "title": "Foreign Minister Khanal Interacts with Nepali Diaspora in New York",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdU9HeWh3d3lEVjRRZUc0Rk4teEZ5c0Z5M29yXzhIUzdrT1JUX3Jnb09sdWEzTWJWeXpqTlBCSDAwdlRsbk1HZkV6bFdnRmlSUHhyTGZHRFowUm55Q1pPWGdOX2Z4RU1ZUTFtVXdpOXhidU85RHlnTGVPdEJUZlZidWhNUG1adExDb08tSUlkaU1XX1JSbVF4UWxlUlp6eTZOV003b3FYZXZCUDZCZ21aU0lVaGZsd20zbm5nTDB3S0c?oc=5",
-     "source": "Ratopati",
-     "published": "2026-09-26T11:08:44+00:00",
-     "summary": "Foreign Minister Khanal Interacts with Nepali Diaspora in New York&nbsp;&nbsp;Ratopati",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-13T22:31:01.275134+00:00",
+   "fetched_at": "2026-11-14T02:15:08.591395+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "PM asks lawmakers to advance Nepal’s interest in China ties",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUJfRWJBeF9OQTRIMmlPNkdPbjZfUlJjVm5WUTd2aE4tZXk0SmE2NDd3UVlnRTJUeDR3TFJiVXFhTTFPYkxwV2pNdkt6ZU8xOUpWeEZiMEk0ZFE2SEZQdk1zM2F2WXRMVU5WZFF5UFRDbV9uUkx2cjZwaWI0ZXBvN2hPSWlFX0JPX0tRTVR3cEUwclRkWlpha0g1S2c1R2QtNGxPY01YTTc?oc=5",
+     "source": "The Kathmandu Post",
+     "published": "2026-11-14T01:45:26+00:00",
+     "summary": "PM asks lawmakers to advance Nepal’s interest in China ties&nbsp;&nbsp;The Kathmandu Post",
+     "image": ""
+    },
+    {
+     "title": "South Korea and Nepal Sign Framework Agreement on Climate Change to Cooperate on Greenhouse Gas Reductions",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycFdWdlRJUjAwVExzNHBEeEpEVWlKMkMwMWJ0cTZlcHpBUVBJVE1lNVZzMVY3a2J6RkdrWTRtLTNYbFJQWkEwWlc5Y0VQSnlEbkRiQ283OXFla0tUa1U3c2Q2bk15ZEphUG5kR01n?oc=5",
+     "source": "news.sbs.co.kr",
+     "published": "2026-11-14T00:21:07+00:00",
+     "summary": "South Korea and Nepal Sign Framework Agreement on Climate Change to Cooperate on Greenhouse Gas Reductions&nbsp;&nbsp;news.sbs.co.kr",
+     "image": ""
+    },
+    {
+     "title": "FAA grounds all departing US flights following air traffic control communications outage",
+     "url": "https://english.khabarhub.com/2026/14/575510/",
+     "source": "Khabarhub",
+     "published": "2026-11-14T00:11:59+00:00",
+     "summary": "WASHINGTON DC: The US Federal Aviation Administration (FAA) has ordered a nationwide ground stop for all departing flights following a major telecommunications outage that disrupte",
+     "image": ""
+    },
+    {
+     "title": "Nepal, South Korea seal landmark climate deal",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLU185ajV1RFhnenpXWWQ5TGdGUzZDWVY5WEloeTRMcllDUWxZUkc4VjV1WU42V2dUMlQ0UkhlNlg0T0NYNzhkc1BxVVlncUZj?oc=5",
+     "source": "The Rising Nepal",
+     "published": "2026-11-14T00:08:46+00:00",
+     "summary": "Nepal, South Korea seal landmark climate deal&nbsp;&nbsp;The Rising Nepal",
+     "image": ""
+    },
+    {
+     "title": "Madhesh Chief Minister Yadav to seek vote of confidence today",
+     "url": "https://english.khabarhub.com/2026/14/575485/",
+     "source": "Khabarhub",
+     "published": "2026-11-14T00:00:17+00:00",
+     "summary": "JANAKPURDHAM: Madhesh Province Chief Minister Krishna Prasad Yadav is set to seek a vote of confidence in the Provincial Assembly today (Saturday). Provincial Assembly Speaker Ram ",
+     "image": ""
+    },
+    {
+     "title": "Over Forty Percent of Parsa Health Volunteers Experience Depression in Nepal",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEt2Y3d5VXNsMzN0anpwaFNDYVdyT05XR3lxNE93V0g5S0JNd291NHN4c1lyRFpzM0ViSmFSREpmbWdSY1BZY3YybFdxcVNidy1lcVVLTElqQVZTeWFpVWlvUUdlcFlIN3pIUWx0d0RDZDFINmRNVWlKQ3RWSUZzNWRxcXFyRWJieDNzWVAzbVF5c3J0a2dUSU96S09XbWd0X2xF?oc=5",
+     "source": "Bioengineer.org",
+     "published": "2026-11-13T22:05:05+00:00",
+     "summary": "Over Forty Percent of Parsa Health Volunteers Experience Depression in Nepal&nbsp;&nbsp;Bioengineer.org",
+     "image": ""
+    },
+    {
+     "title": "Opposition closes ranks as questions mount over PM Balen government’s performance",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UUlVSTFVsOUdkQmF5VWJMbmtUcnJGUTQzVUwwekNEc2pKYVR5TmdXamd4cDRTWndfaE1JVU1QcGtncUtVY29DV3B4VjNweVhBQzUwVnExVk1hNjVu?oc=5",
+     "source": "Nepalnews.com",
+     "published": "2026-11-13T17:00:05+00:00",
+     "summary": "Opposition closes ranks as questions mount over PM Balen government’s performance&nbsp;&nbsp;Nepalnews.com",
+     "image": ""
+    },
+    {
+     "title": "Madhesh Province Begins Selection for 10th National Games",
+     "url": "http://english.ratopati.com/story/86527/player-selection-competition-in-madhesh-for-national-games",
+     "source": "Ratopati",
+     "published": "2026-11-13T16:29:48+00:00",
+     "summary": "Janakpur. A provincial-level sports competition has begun to select players to represent Madhesh Province in the 10th National Games to...",
+     "image": ""
+    },
+    {
+     "title": "Nepal News Briefing: Flood Victims Await Relief, Weather Forecast, Public Holidays, Judicial Appointments, EV Safety Concerns, Ambassadorial Updates, Political Party Matters, Police Restructuring, and Stock Market Performance",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWjNUSmdwLWxFUDI2ci1wSnZadkxWd182RXlIdi0tM0REdG5oUXdnNHdkM1NnVGlRY2M2c1BranZkNktaSmZQU2xnVkplSEVFcWV6c1d3LWdVZW5Oc0VDeEFvMElXMEYtdU5GLWNMMlRJR2VGOVZKVXgzUUNzRHY5SlpQMm9Ham95YzRZcEdaTXRDY2RwSnhwcVMyS2VQazJKbEVEWEE1M0wya25leXgxUVV4SEl6RWFIS08zMg?oc=5",
+     "source": "Ratopati",
+     "published": "2026-11-13T16:22:24+00:00",
+     "summary": "Nepal News Briefing: Flood Victims Await Relief, Weather Forecast, Public Holidays, Judicial Appointments, EV Safety Concerns, Ambassadorial Updates, Political Party Matters, Polic",
+     "image": ""
+    },
     {
      "title": "Nepal and South Korea Sign Climate Change Cooperation Framework Agreement",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM294QnVhTE1MYmdweU51UmNuLUQ1NDJxNWJSMlZaRloxUzlaWF8tbmFNaVBDOGtnSFlpUDdqT0dYeGFfVmxUbTdJLXBocExrUVhYY0RZREE1OXdOSnVoU2ttTjRsbmRUS3FfRGpXQTRrOVhtNXM0NE4zSDliNWV1Z01HSURwV3Q1YUYyeGphcWRCWFNWdWR5NERRaGtab1NST01CMTZ2QW0xOEs2YXdEc19VRVVra0lINXd3RlVWbw?oc=5",
@@ -234,193 +322,153 @@
      "image": ""
     },
     {
+     "title": "Nepal News Evening Economic Brief – November 13, 2026",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUHFrS3VpYk04d2dQUWN5dDg4clhaaTFyNE9wU2tES1h1dDkwY1pKQnRiNldyOFlvMHJEM052bWlaWklMQWJrRkkyeEdiTUFvZl95c1JZWm9Ka1hmeDBJcXhOY0RJWFRzUV84Ml92VkUzU2Z0SnlQb3BuNDlvMGVDcjZhV1hKNEdwWWJ5UEJ0YUpSNEQybkw0?oc=5",
+     "source": "Nepalnews.com",
+     "published": "2026-11-13T16:05:05+00:00",
+     "summary": "Nepal News Evening Economic Brief – November 13, 2026&nbsp;&nbsp;Nepalnews.com",
+     "image": ""
+    },
+    {
      "title": "Nepal News Evening Briefing | Friday, November 13, 2026",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM1VwSEd0dGRQU2M0NEFwT3ZtLURGeEIxWXpvZXFZa0x0R053LUl4MHVCOWNkUWFhUzNiTVVFSk5pRGN2dnU3eS00MnFnOWJORHlSNkhBYnNpS2hxekNCQ2lnRjl1eUVYY3hMRk05RUdHeUtmQklIWjN2OTFqUGgzYVAtSzhGa3BBM2lydGM5ZkcydjhGMFlVTnR3?oc=5",
      "source": "Nepalnews.com",
      "published": "2026-11-13T16:01:37+00:00",
      "summary": "Nepal News Evening Briefing | Friday, November 13, 2026&nbsp;&nbsp;Nepalnews.com",
      "image": ""
-    },
-    {
-     "title": "Home Minister Gurung leaves for UAE to attend World Police Summit",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcV9Eek45TmdhMFVpaE00eXBpbUJ4ZTdyVzR3ejcxY3M5VzRvZnNrUU1VUDhjSXVlUUZpQzk2V3hnbndnajVieUVJNTZlN2VCcXhKdDQ2N3AyWDBoUGtZMHBFdFFPMDROekVqbERLZ2U1ZFdLRVZvM1pTSFZQYlNNZHdnNjVzWUdVbDFBbGhpZHZ0OTlOQnZNUmUtVFFyZ0N0SGNKeV9rQTRPekU?oc=5",
-     "source": "Nepalnews.com",
-     "published": "2026-11-13T16:01:37+00:00",
-     "summary": "Home Minister Gurung leaves for UAE to attend World Police Summit&nbsp;&nbsp;Nepalnews.com",
-     "image": ""
-    },
-    {
-     "title": "Russia's leaked death register turns up fewer war dead from Nepal, India, and Sri Lanka than their governments report",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUzZONXExaGZ4VThFV3ZPb0FFUVF3TTJKZHUtR2tfTDBTbUZ1bUc4ZVl3bUVvWTFBTFFUZU1TQjY1dFBXN0lRUzd4cUI0ZlZleFdKalJiSFpJWGRfbGlRWGtLNEtMWThyY3I4aEhCQjhLczhqcm84Skd0Snp1bTlaSk55eHZkWWhRaGNubGJ4VWs3U3RhaFBpc2lhWFFIYVdjS1dubGhZVGhmYXVuT1B0Zm1YdVpQOG0tSEZwaUVMWGt3UEFaOURvZlhWSDlXY3lVb09QMktwOW5iRlo2VlhIa2hOQ095M1g4MHc?oc=5",
-     "source": "Euromaidan Press",
-     "published": "2026-11-13T15:19:04+00:00",
-     "summary": "Russia's leaked death register turns up fewer war dead from Nepal, India, and Sri Lanka than their governments report&nbsp;&nbsp;Euromaidan Press",
-     "image": ""
-    },
-    {
-     "title": "PM Shah directs RSP lawmakers to focus on Nepal-China relations",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VX2FmdTd4U1VfNTlBeU1STGZkRTlGSFljVHdIREZJZGQzTnRZLTFMNHJxU3pvMHFQSkxmNjdRaERXMnp2TkJPLUpxNF9TRk93?oc=5",
-     "source": "The Rising Nepal",
-     "published": "2026-11-13T14:57:17+00:00",
-     "summary": "PM Shah directs RSP lawmakers to focus on Nepal-China relations&nbsp;&nbsp;The Rising Nepal",
-     "image": ""
-    },
-    {
-     "title": "Five Nepali ministers attend COP31 in Turkey, raising questions over size of delegation",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXQzZqcUFOTlBaNnFuQTQ0ak9FTllVVi1oenBGT1BZQzllNUQwSHlMV08zbVBTTFRUUVBVQmhyMER4WEthYXNzSDFScnVORkxTaFFuaXA1OEktV3ltY2psdENXN2h5UnhIT3lpd3BRaUI?oc=5",
-     "source": "OnlineKhabar English News",
-     "published": "2026-11-13T14:48:20+00:00",
-     "summary": "Five Nepali ministers attend COP31 in Turkey, raising questions over size of delegation&nbsp;&nbsp;OnlineKhabar English News",
-     "image": ""
-    },
-    {
-     "title": "Epic resonance: Ramayana breaks opening records across SE Asia, Nepal",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUVGdS1ZdTdYQlpUeUlqMHFFX2pfb3JrWGQ4ZVIwUWxVSXdBdzN6RFBNdldKMFI0X1hyMW5QY1BSeDJscUtDU3FxZXV6STNHQXJDb0ZSQm1fYnhoS2RoOFpPQ2h0TWFfQU1hNXpydWJURFYwSUxKdXJEazV6VURKenpkX1VIdmxqSGFvd01wSktqUktzdFAwQzFtaWs0Y01IWkQtbmxB?oc=5",
-     "source": "The Federal",
-     "published": "2026-11-13T14:02:52+00:00",
-     "summary": "Epic resonance: Ramayana breaks opening records across SE Asia, Nepal&nbsp;&nbsp;The Federal",
-     "image": ""
-    },
-    {
-     "title": "Indian envoy Sudhakar Dalela meets Nepal's Foreign Secy Amrit Bahadur Rai; discusses bilateral ties",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWGptMDF2YkZydGFiSWF4c2lGWExFMWFNc09yOGx4bDZGeWxqSEVrTUVSbWlVbWE4NERJQmVMMlZ6MUY5WUV3T0k2YTZhVmhnakdQTmNPcG00WnhTbk9kWnd6WkgzaXJhQkJmSWNVdUpFVTUxVHl1dWluNjJidmNkYjhWYUFPdjd1dU5YZHJsVW90OG9zbWc5bTB6QjFxcU10eWd2a054Q1VYMGZJdTR4c0VZVkZLQzNUbGNvT0Fvai1HTHdRc2REZzhIUzNVMmNkek4wQ2JtX2VGQQ?oc=5",
-     "source": "Big News Network.com",
-     "published": "2026-11-13T13:51:00+00:00",
-     "summary": "Indian envoy Sudhakar Dalela meets Nepal's Foreign Secy Amrit Bahadur Rai; discusses bilateral ties&nbsp;&nbsp;Big News Network.com",
-     "image": ""
-    },
-    {
-     "title": "Nepal Calls for Climate-Resilient Telecom Infrastructure at ITU Conference",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLXhMS2pUTmpWWk5DWHhEUU5UaHpoY0UtMFpMZEJNRDlmcmZSWWtGWWtSN2R3RnhTZ2VZRURyck5VTUswRVpsZTlsYUNWX1hfQ3M1dV9oaWJTWUg5Y3VuQ3VxeGw4QnpSZWIzZFlTdTFCcHZzZWg2YUVlS09vbWt3RFdOcTZ5RFQwUzFldHlORkFUcnNBbVlzNFQ3Ym1MeHRpNVg0R0ROeUN0MGtJWFA4aUZwd0dlWTE4?oc=5",
-     "source": "NepaliTelecom",
-     "published": "2026-11-13T13:50:21+00:00",
-     "summary": "Nepal Calls for Climate-Resilient Telecom Infrastructure at ITU Conference&nbsp;&nbsp;NepaliTelecom",
-     "image": ""
-    },
-    {
-     "title": "What COP31 can’t fix for Nepal",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1RReXVRd2x6SkZVMWFtN2lFY0NMcGdIdWNEMHVEelVIeGpMVUNsTHJXUFIxY1dRVHJCc21oYk9fSHFfeXdfN0tZZXE4NnJjLUdwTlhydlFKQWdiY2VYRTZpY0JhR3NWUlltNlRFTlBHNGJZckt6X3hTUjJvc1BMbVI4b09FM1hf?oc=5",
-     "source": "The Kathmandu Post",
-     "published": "2026-11-13T13:17:20+00:00",
-     "summary": "What COP31 can’t fix for Nepal&nbsp;&nbsp;The Kathmandu Post",
-     "image": ""
-    },
-    {
-     "title": "Home Minister Sudan Gurung leaves for UAE to attend World Police Summit",
-     "url": "https://english.onlinekhabar.com/sudan-gurung-uae.html",
-     "source": "Online Khabar",
-     "published": "2026-11-13T12:35:41+00:00",
-     "summary": "Kathmandu, November 13 Home Minister Sudan Gurung left for the United Arab Emirates (UAE) on Friday evening to attend the World Police Summit in Dubai, following an official invita",
-     "image": ""
-    },
-    {
-     "title": "National ID System Connected to 15 Government Agencies",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVHlUTV9uWXk4OUM0SXRzNGpCaVctREFRa1RrY1BZR1BCdHVsN08zZGoxTTI4ZjZPTl9GU2pKQlpaNmVxUlNFc0czd0xiN2F3SVZ2V1hJb2txeDhTZGh0RW9XSExGYWlfemtOU0Q4aGxTWkt2OXM2LWlaQjN1a1VPVDNoYjlGZkpKVHVHa0pEOWFBdWhBOXEyNGRyZWI0M0ozc1JEaTVLVENCMi1IcHdmWmUwMDdQc3NUMzIzRkVzMXRIc2pKSUpxZEpVbnRCbnJmb0FReGxUX0VYQ3dyOWJBNXVHRmRqcTBYMVNKcHZn?oc=5",
-     "source": "NepaliTelecom",
-     "published": "2026-11-13T12:35:21+00:00",
-     "summary": "National ID System Connected to 15 Government Agencies&nbsp;&nbsp;NepaliTelecom",
-     "image": ""
     }
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-13T22:31:01.275137+00:00",
+   "fetched_at": "2026-11-14T02:15:08.591406+00:00",
    "stale": false,
    "items": [
     {
-     "title": "१२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार",
-     "url": "https://www.ratopati.com/story/605059/12-news-at-12-these-are-todays-top-news-stories",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-13T18:15:00+00:00",
-     "summary": "काठमाडौँ ।आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति ‘रातोपाटी ब्रिफिङ’ मा ‘१२ बजे १२’ समाचार लिएर हाजिर भएका छौँ– १.पीडित पीडामै गत भदौ १० गते भोटेकोशी नद",
-     "image": "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2-(1)_fam6WtIhIE.jpg"
-    },
-    {
-     "title": "टीयू ग्राउन्डको पिचबारे जिमी नीशमको असन्तुष्टि",
-     "url": "https://www.onlinekhabar.com/2026/11/2057265/jimmy-neeshams-dissatisfaction-with-the-pitch-at-tu-ground",
-     "source": "Online Khabar (नेपाली)",
-     "published": "2026-11-13T17:34:17+00:00",
-     "summary": "२८ कात्तिक, काठमाडौं । न्युजिल्यान्डका अलराउन्डर जिमी नीशमले नेपाल प्रिमियर लिग (एनपीएल) को पिचबारे असन्तुष्टि जनाएका छन्। नीशमले सामाजिक सञ्जालमार्फत एनपीएलमा पिच सुधार गर्नुपर्ने",
+     "title": "किन मनाइन्छ छठ पर्व ? जानौँ यसको धार्मिक, वैज्ञानिक र ऐतिहासिक महत्व",
+     "url": "https://dcnepal.com/2026/11/814731/",
+     "source": "DC Nepal (डीसी नेपाल)",
+     "published": "2026-11-14T02:14:14+00:00",
+     "summary": "छठ माए अएलीह दुअरिया सजाओल हे पोखरि खुना सजाओल हे सूर्य उपासनाको विस्तारित रुप छठ पर्वको सन्देशमूलक यो गीत यत्रतत्र गुन्जित भइरहेको छ । धार्मिक एवं वैज्ञानिक महत्व, सामजिकता ,सांस्",
      "image": ""
     },
     {
-     "title": "विराटनगरमा सुरु भयो प्रदेशस्तरीय क्रिकेट छनोट, पहिलोपटक ९ जिल्ला सहभागी",
-     "url": "https://www.onlinekhabar.com/2026/11/2057261/provincial-level-cricket-selection-begins-in-biratnagar-9-districts-participate-for-the-first-time",
-     "source": "Online Khabar (नेपाली)",
-     "published": "2026-11-13T17:25:10+00:00",
-     "summary": "२७ कात्तिक, काठमाडौं । १०औं राष्ट्रिय खेलकुद प्रतियोगिताका लागि कोशी प्रदेशस्तरीय पुरुष क्रिकेट छनोट प्रतियोगिता विराटनगरमा सुरु भएको छ। पहिलोपटक प्रदेशका ९ जिल्लाको सहभागिता रहेको",
+     "title": "विश्व मधुमेह दिवसमा अल्का अस्पतालको जनचेतनामूलक र्‍याली",
+     "url": "https://www.setopati.com/social/402534",
+     "source": "Setopati (सेतोपाटी)",
+     "published": "2026-11-14T02:13:45+00:00",
+     "summary": "अल्का अस्पतालबाट सुरु भएको र्‍याली जावलाखेल, कुमारीपाटी, मंगलबजार हुँदै पुल्चोक पुगेको थियो।",
      "image": ""
     },
     {
-     "title": "ब्याटिङका लागि किन चुनौतीपूर्ण बनिरहेको छ टीयू ग्राउन्डको पिच ?",
-     "url": "https://www.onlinekhabar.com/2026/11/2057257/why-is-the-pitch-at-tu-ground-becoming-challenging-for-batting",
-     "source": "Online Khabar (नेपाली)",
-     "published": "2026-11-13T17:14:51+00:00",
-     "summary": "शुक्रबार भएका दुवै खेलमा बनेका कम योगफल र त्यसलाई पछ्याउने क्रममा देखिएको संघर्षले प्रतियोगिताको पिचबारे प्रश्न उठाएको छ।",
+     "title": "आज विश्व मधुमेह दिवस, कसरी कम गर्ने जोखिम ?",
+     "url": "https://www.ratopati.com/story/605069/today-is-world-diabetes-day-how-to-reduce-the-risk",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-14T02:11:47+00:00",
+     "summary": "काठमाडौँ । आज विश्व मधुमेह दिवस हो । विश्वका विभिन्न देशमा विविध चेतनामूलक कार्यक्रमका साथ यो दिवस मनाइँदैछ । मधुमेह रोगबारे चेतना अभिवृद्धि गर्ने, यसको जोखिम न्यूनीकरण गर्ने तथा र",
+     "image": "https://npcdn.ratopati.com/media/news/madhumeha_PnzM36qKD9.webp"
+    },
+    {
+     "title": "एनपिएलमा आज विराटनगरले लुम्बिनीको सामना गर्दै, जित्नैपर्ने दबाब",
+     "url": "https://www.setopati.com/sports/npl/402533",
+     "source": "Setopati (सेतोपाटी)",
+     "published": "2026-11-14T02:09:07+00:00",
+     "summary": "अझ विराटनगरका लागि जित निकालेर मात्र पुग्दैन बाँकी दुई टोलीको हारको कामना गर्नु पर्नेछ।",
      "image": ""
     },
     {
-     "title": "नयाँं पुस्तालाई अग्रजहरुको सङ्घर्षबारे जानकारी दिनुपर्छ :  अध्यक्ष बिजुक्छे",
-     "url": "https://www.ratopati.com/story/605058/the-new-generation-should-be-informed-about-the-struggles-of-the-elders-chairman-bijukchhe",
+     "title": "मधेसका मुख्यमन्त्री यादवले आज विश्वासको मत लिने, जुट्ला बहुमत ?",
+     "url": "https://www.ratopati.com/story/605068/madhesh-chief-minister-yadav-will-seek-a-vote-of-confidence-today-will-he-get-a-majority",
      "source": "Ratopati (नेपाली)",
-     "published": "2026-11-13T16:36:48+00:00",
-     "summary": "भक्तपुर । नेपाल मजदुर किसान पार्टीका अध्यक्ष नारायणमान बिजुक्छेँले नयाँ पुस्तालाई इतिहास, अग्रजहरूले गरेका सङ्घर्ष र योगदानबारे जानकारी गराउनुपर्ने आवश्यकता औँल्याएका छन् । नेपाल क",
-     "image": "https://npcdn.ratopati.com/media/news/narayanman-bijukche_fTUI10ZunJ.jpg"
+     "published": "2026-11-14T02:08:17+00:00",
+     "summary": "धनुषा । मधेस प्रदेशका मुख्यमन्त्री कृष्णप्रसाद यादवले आज प्रदेशसभाबाट विश्वासको मत लिने भएका छन् । विश्वासको मत लिने प्रयोजनका लागि सभामुख रामअशिष यादवले शनिबार प्रदेशसभा बैठक आह्व",
+     "image": "https://npcdn.ratopati.com/media/news/krishna-yadab_X0oMpkGGjo.jpg"
     },
     {
-     "title": "राष्ट्रिय खेलकुदका लागि मधेसमा खेलाडी छनोट प्रतियोगिता",
-     "url": "https://www.ratopati.com/story/605057/player-selection-competition-in-madhesh-for-national-games",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-13T16:29:48+00:00",
-     "summary": "जनकपुर । कर्णाली प्रदेशमा आगामी मङ्सिरमा आयोजना हुने १०औँ राष्ट्रिय खेलकुद प्रतियोगितामा मधेस प्रदेशको प्रतिनिधित्व गर्ने खेलाडी छनोटका लागि प्रदेशस्तरीय खेलकुद प्रतियोगिता सुरु भए",
-     "image": "https://npcdn.ratopati.com/media/news/madhes-khelkud_OhoHNACYbW.webp"
+     "title": "कस्तो अवस्थामा बिराटनगर प्लेअफमा पुग्न सक्छ ? चितवन र काठमाडौंका खेल कत्ति महत्वपूर्ण",
+     "url": "https://www.thahakhabar.com/detail/311867",
+     "source": "Thaha Khabar (थाहा खबर)",
+     "published": "2026-11-14T02:07:23+00:00",
+     "summary": "",
+     "image": "https://www.thahakhabar.com/uploads/posts/sandeep-lamichhane-1794475536.jpg"
     },
     {
-     "title": "मंसिर ३ गतेसम्म तराईमा हुस्सु, पहाडी र हिमाली भेगमा वर्षा तथा हिमपातको सम्भावना",
-     "url": "https://www.ratopati.com/story/605056/haze-in-the-terai-rain-and-snowfall-in-the-hilly-and-mountainous-regions-until-november-30",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-13T16:24:51+00:00",
-     "summary": "काठमाडौँ। आगामी मंसिर ३ गतेसम्म देशका विभिन्न क्षेत्रमा मौसममा बदली हुने भएको छ । तराईका केही स्थानमा हुस्सु लाग्ने सम्भावना रहे पनि तत्काल वर्षाको सम्भावना भने नरहेको मौसमविद् अनि",
-     "image": "https://npcdn.ratopati.com/media/news/mausam-bivag_61btcy1gq1_egxpRdrl0U.jpg"
+     "title": "काठमाडौं उपत्यकामा ६८५ सवारीसाधनमाथि ट्राफिक कारबाही",
+     "url": "https://dcnepal.com/2026/11/814729/",
+     "source": "DC Nepal (डीसी नेपाल)",
+     "published": "2026-11-14T02:06:00+00:00",
+     "summary": "काठमाडौं । काठमाडौं उपत्यकामा पछिल्लो २४ घण्टामा ६८५ सवारीसाधनमाथि ट्राफिक प्रहरीले कारबाही गरेको छ। काठमाडौं उपत्यका ट्राफिक प्रहरी कार्यालयका अनुसार आज बिहान ६ बजेसम्मको विवरणअनु",
+     "image": ""
     },
     {
-     "title": "किसानलाई धान भित्र्याउने चटारो",
-     "url": "https://www.ratopati.com/story/605055/farmers-rush-to-import-rice",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-13T16:23:59+00:00",
-     "summary": "ओखलढुङ्गा । तिहार सकिए लगत्तै ओखलढुङ्गाका किसानलाई धान भित्र्याउने चटारो बढेको छ । जिल्लाका मुख्य धान उत्पादन हुने क्षेत्रका किसान यतिबेला धान भित्र्याउन व्यस्त भएका छन् । यहाँका क",
-     "image": "https://npcdn.ratopati.com/media/news/dhan-5_ApsiiGdjmY.webp"
+     "title": "सभामुख डीपी अर्याल छठ मनाउन पर्सा जाँदै, विभिन्न छठघाटको अवलोकन गर्ने",
+     "url": "https://dcnepal.com/2026/11/814722/",
+     "source": "DC Nepal (डीसी नेपाल)",
+     "published": "2026-11-14T02:02:37+00:00",
+     "summary": "काठमाडौं । सभामुख डोलप्रसाद (डीपी) अर्याल छठ पर्व मनाउन शनिबार पर्सा जाने भएका छन्। वीरगञ्जस्थित घडिअर्वा पोखरीसहित विभिन्न छठघाटको अवलोकन तथा दर्शन गर्ने कार्यक्रम रहेको छ। सभामुख",
+     "image": ""
     },
     {
-     "title": "१० बजे १० समाचार : कात्तिक महिनामा १९ दिन सार्वजनिक बिदादेखि आइतबारदेखि खराब मौसमसम्म",
-     "url": "https://www.ratopati.com/story/605054/19-days-in-the-month-of-kartik-from-public-holidays-to-bad-weather-from-sundays",
+     "title": "गोलभेँडादेखि आलु प्याजसम्म : यस्तो छ आज तरकारीको मूल्य (सूचीसहित)",
+     "url": "https://www.ratopati.com/story/605067/from-tomatoes-to-potatoes-and-onions-this-is-how-much-vegetables-cost-today-with-list",
      "source": "Ratopati (नेपाली)",
-     "published": "2026-11-13T16:16:33+00:00",
-     "summary": "काठमाडौँ । आज मिति २०८३ साल कात्तिक महिनाको २७ गते शुक्रबार । आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति ‘रातोपाटी ब्रिफिङ’ मा ‘१० बजे १०’ समाचार लिएर हाजि",
-     "image": "https://npcdn.ratopati.com/media/news/bbb_g5fWGnQnaJ.webp"
+     "published": "2026-11-14T02:00:59+00:00",
+     "summary": "काठमाडौँ । कालीमाटी फलफूल तथा तरकारी बजार विकास समितिले तरकारी तथा फलफूलको नयाँ थोक मूल्यसूची सार्वजनिक गरेको छ । सार्वजनिक मूल्यसूची अनुसार नेपाली तथा भारतीय ठूलो गोलभेडाको औसत मू",
+     "image": "https://rpcdn.ratopati.com/media/albums/Vegtable_huUK3Czptk.jpg"
     },
     {
-     "title": "एनपीएलमा आज : सुस्त पिचमा रनको खडेरी, जनकपुर–कर्णालीको यात्रा समाप्त",
-     "url": "https://www.ratopati.com/story/605053/today-in-npl-run-drought-on-slow-pitch-janakpur-karnalis-journey-ends",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-13T16:04:28+00:00",
-     "summary": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) क्रिकेटको तेस्रो संस्करणअन्तर्गत शुक्रबार त्रिवि अन्तर्राष्ट्रिय क्रिकेट मैदानमा भएका दुई खेलमा ब्याट्सम्यानभन्दा बलर हाबी देखिए । दुवै खेलमा",
-     "image": "https://npcdn.ratopati.com/media/news/npl_rgSVBqreH3.webp"
+     "title": "आज विश्व मधुमेह दिवस",
+     "url": "https://dcnepal.com/2026/11/814719/",
+     "source": "DC Nepal (डीसी नेपाल)",
+     "published": "2026-11-14T01:57:55+00:00",
+     "summary": "काठमाडौं । आज नोभेम्बर १४ अर्थात् विश्व मधुमेह दिवस । मधुमेह रोगबारे जनचेतना फैलाउने, यसको जोखिम न्यूनीकरण गर्ने तथा समयमै पहिचान र उपचारको महत्त्वबारे जानकारी गराउने उद्देश्यले वि",
+     "image": ""
     },
     {
-     "title": "नेपाल र दक्षिण कोरियाबिच जलवायु सहकार्य तथा कार्बन वित्तसम्बन्धी सम्झौता",
-     "url": "https://www.ratopati.com/story/605052/agreement-on-climate-cooperation-and-carbon-finance-between-nepal-and-south-korea",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-13T16:00:10+00:00",
-     "summary": "टर्किए । नेपाल र गणतन्त्र कोरिया (दक्षिण कोरिया) बिच जलवायु परिवर्तन न्यूनीकरण, कार्बन वित्त परिचालन तथा हरितगृह ग्यास उत्सर्जन घटाउने उद्देश्यले जलवायु परिवर्तनसम्बन्धी सहकार्यको ",
-     "image": "https://npcdn.ratopati.com/media/news/1794581332-kq3xu_4IcDvCUBdz.webp"
+     "title": "छठ पर्व सामूहिक एकता, आस्था र मेलमिलापको पर्व हो : संस्कृतिविद् राकेश",
+     "url": "https://dcnepal.com/2026/11/814716/",
+     "source": "DC Nepal (डीसी नेपाल)",
+     "published": "2026-11-14T01:52:53+00:00",
+     "summary": "काठमाडौं । संस्कृतिविद् राम दयाल राकेशले छठ पर्व तराई–मधेसको मौलिक पहिचान बोकेको महान् पर्व भएको बताएका छन् । उनले छठ पर्व सूर्य र छठी माताको पूजा आराधना गरिने धार्मिक पर्व मात्र न",
+     "image": ""
     },
     {
-     "title": "‘अडियो चलेन’ भन्दै लिंक पठाए, क्लिक गर्नेबित्तिकै ६० अर्ब २९ करोड चोरे",
-     "url": "https://nagariknews.nagariknetwork.com/international/sent-a-link-saying-audio-not-working-stole-rs-60-29-billion-as-soon-as-you-clicked-91-50.html",
-     "source": "Nagarik (नागरिक)",
-     "published": "2026-11-13T15:54:32+00:00",
-     "summary": "एफबीआईले यस साइबर अपराध अभियानलाई ‘फेसस्टिलर’ नाम दिएको छ। ह्याकरहरूले मुख्य रूपमा क्रिप्टोकरेन्सी र वेब–३ क्षेत्रमा काम गर्ने व्यक्तिलाई निशाना बनाएको बताइएको छ।...",
+     "title": "एनपीएलमा आज विराटनगर किङ्स र लुम्बिनी लायन्स भिड्दै",
+     "url": "https://dcnepal.com/2026/11/814713/",
+     "source": "DC Nepal (डीसी नेपाल)",
+     "published": "2026-11-14T01:51:18+00:00",
+     "summary": "काठमाडौं । नेपाल प्रिमियर लिग (एनपीएल) अन्तर्गत आज एक खेल हुँदैछ । आज हुने खेलमा विराटनगर किङ्स र लुम्बिनी लायन्सबीच प्रतिस्पर्धा हुनेछ । कीर्तिपुरस्थित क्रिवि अन्तर्राष्ट्रिय त्रि",
+     "image": ""
+    },
+    {
+     "title": "म्याग्दीमा पूर्वाधार विकास डिभिजन कार्यालय स्थापना",
+     "url": "https://khabarhub.com/2026/14/1047388/",
+     "source": "Khabarhub (नेपाली)",
+     "published": "2026-11-14T01:50:00+00:00",
+     "summary": "म्याग्दी– धौलागिरि क्षेत्रका चार जिल्ला कार्यक्षेत्र हुने गरि म्याग्दीको सदरमुकाम बेनीमा पूर्वाधार विकास डिभिजन कार्यालय स्थापना भएको छ । म्याग्दी, बागलुङ, पर्वत र मुस्ताङ कार्यक्ष",
+     "image": ""
+    },
+    {
+     "title": "सौराहामा खुल्यो डिडिसीको नयाँ आउटलेट, पर्यटकले अब सहजै पाउनेछन् नेपाली दुग्ध उत्पादन",
+     "url": "https://dcnepal.com/2026/11/814710/",
+     "source": "DC Nepal (डीसी नेपाल)",
+     "published": "2026-11-14T01:48:43+00:00",
+     "summary": "भरतपुर । पर्यटकीय नगरी चितवनको सौराहामा दुग्ध विकास संस्थान (डिडिसी) को आउटलेट सञ्चालनमा आएको छ। नारी चेतना मध्यवर्ती महिला उद्यमी समूहको सक्रियतामा सौराहामा उक्त आउटलेट स्थापना गर",
+     "image": ""
+    },
+    {
+     "title": "केही प्रदेशका पहाडी तथा हिमाली क्षेत्रमा वर्षा र हिमपातको सम्भावना",
+     "url": "https://www.imagekhabar.com/news/563382/",
+     "source": "Image Khabar (इमेज खबर)",
+     "published": "2026-11-14T01:45:38+00:00",
+     "summary": "काठमाडौं । पश्चिमी वायुको आंशिक प्रभावका कारण आज देशका विभिन्न भूभागमा मौसम बदली हुने देखिएको छ । केही प्रदेशका पहाडी तथा हिमाली क्षेत्रमा हल्का वर्षा र हिमपात हुन सक्ने मौसम पूर्व",
+     "image": ""
+    },
+    {
+     "title": "एनपीएल : लुम्बिनीलाई शीर्ष स्थानमा पुग्ने मौका, विराटनगरलाई प्लेअफको दबाब",
+     "url": "https://www.onlinekhabar.com/2026/11/2057291/npl-lumbini-has-a-chance-to-reach-the-top-spot-biratnagar-faces-playoff-pressure",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-14T01:43:16+00:00",
+     "summary": "कीर्तिपुरस्थित त्रिवि अन्तर्राष्ट्रिय क्रिकेट मैदानमा आज दिउँसो साढे ४ बजे हुने खेलमा लुम्बिनी लाइन्स र विराटनगर किंग्सबीच प्रतिस्पर्धा हुनेछ ।",
      "image": ""
     }
    ]
