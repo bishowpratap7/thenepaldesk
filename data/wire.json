@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T18:10:52.935360+00:00",
+ "generated_at": "2026-11-14T18:41:23.951903+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-14T18:10:52.935337+00:00",
+   "fetched_at": "2026-11-14T18:41:23.951861+00:00",
    "stale": false,
    "items": [
     {
@@ -136,7 +136,7 @@
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-14T18:10:52.935348+00:00",
+   "fetched_at": "2026-11-14T18:41:23.951875+00:00",
    "stale": false,
    "items": [
     {
@@ -169,6 +169,14 @@
      "source": "Ratopati",
      "published": "2026-11-14T07:47:29+00:00",
      "summary": "Book Review: 'Khadama' Explores Nepali Migrant Worker Experiences&nbsp;&nbsp;Ratopati",
+     "image": ""
+    },
+    {
+     "title": "Five Former NRNA Presidents Meet Speaker Aryal, Invite to Middle East Regional Conference",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLW1jMlFlS05LYWtuOU1ZVHN4UUdqcVVyRlBrdzMtdG55WkJTT3FTSjVmbG56T1hZOVlPRDNTOXNkTXdBUTcxQV9aUGZPczFuNldyeXAtUm1mUVlCLVoxOU5nVlNuN2F1MDFiRFNNWWtWcS1oNW5vRU5JOVJTMjhzR3VaelJOS0t3UTh3SEVCdDI0Qi1CeE5tV1k0NUZfZkpycW9kdDFKd00xYVR1QWxHQk5pTVRwM2Z6dVZMOA?oc=5",
+     "source": "Ratopati",
+     "published": "2026-11-14T06:42:55+00:00",
+     "summary": "Five Former NRNA Presidents Meet Speaker Aryal, Invite to Middle East Regional Conference&nbsp;&nbsp;Ratopati",
      "image": ""
     },
     {
@@ -226,19 +234,11 @@
      "published": "2026-11-13T07:38:58+00:00",
      "summary": "Addressing problems of Nepali diaspora is government’s priority: Foreign Minister Khanal&nbsp;&nbsp;Nepalnews.com",
      "image": ""
-    },
-    {
-     "title": "Europe Emerging as New Hub for Nepali Migrant Workers Amidst Shifting Destinations",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbTUxNE9CcWFFWkttUzBtWXVSNTUwYmcyMk9EbDNKREF2QUpfUngzc2ZHNUo3Z0ZmeUY0bENTNHliZi0xNVdsN2hFSzlEZm9aeld2bG5FbFg3UUluN3ItSVprM1hFZzg5YWV4Um5PY2tWS1l5ZVd6bE1WWWMwUHBIcGw5UXdrckdwcnpUTnVTM3h6OG1jQXNUUG9sNU1ybUtGSE9Ybi1oQ0VXZmlZeFhqR2MwMXJ5QzhjMy1kaVpRak8zdzU1SU5kSVBUUGRmU0tzYk9z?oc=5",
-     "source": "Ratopati",
-     "published": "2026-11-13T04:52:24+00:00",
-     "summary": "Europe Emerging as New Hub for Nepali Migrant Workers Amidst Shifting Destinations&nbsp;&nbsp;Ratopati",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T18:10:52.935351+00:00",
+   "fetched_at": "2026-11-14T18:41:23.951877+00:00",
    "stale": false,
    "items": [
     {
@@ -340,9 +340,33 @@
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-14T18:10:52.935353+00:00",
+   "fetched_at": "2026-11-14T18:41:23.951879+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "महिला अन्तर्राष्ट्रिय गोल्डकपः अक्वा एफसीलाई हराउँदै एपिएफ सेमिफाइनलमा",
+     "url": "https://www.ratopati.com/story/605247/womens-international-gold-cup-apf-defeats-aqua-fc-to-reach-semifinals",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-14T18:30:21+00:00",
+     "summary": "सुनसरी । भारतको अक्वा एफसी झारखण्डलाई ७–० गोलअन्तरले पराजित गर्दै विभागीय टोली सशस्त्र प्रहरी बल (एपिएफ) फुटबल क्लब प्रथम धरान अन्तर्राष्ट्रिय महिला गोल्डकप फुटबल प्रतियोगिताको सेम",
+     "image": "https://rpcdn.ratopati.com/media/albums/Football-in-goal_sLruBmXUNl.jpg"
+    },
+    {
+     "title": "छठको तयारी: गुह्येश्वरीबाट गौरीघाटसम्मको वाग्मती सफाइ",
+     "url": "https://www.ratopati.com/story/605246/preparations-for-chhath-cleaning-of-bagmati-river-from-guhyeshwori-to-gaurighat",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-14T18:24:42+00:00",
+     "summary": "काठमाडौँ । छठ पर्वको मुख्य दिनको तयारीका लागि गुह्येश्वरीबाट गौरीघाटसम्मको वाग्मती नदी एवं किनार आसपास क्षेत्र सफाइ गरिएको छ । छठ पूजा समिति गुह्येश्वरीले छठ घाट निर्माण अन्तिम चरण",
+     "image": "https://rpcdn.ratopati.com/media/albums/DSC_2208_copy_1024x683_tQXZWBFU6O.jpg"
+    },
+    {
+     "title": "१२ बजे १२ समाचार : रसुवागढी नाका तीन महिनादेखि ठप्प, एनपीएल प्लेअफ समीकरण पूरा",
+     "url": "https://www.ratopati.com/story/605245/12-oclock-12-news-rasuwagadhi-border-crossing-has-been-closed-for-three-months-npl-playoff-equation-complete",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-14T18:15:00+00:00",
+     "summary": "काठमाडौँ । आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति ‘रातोपाटी ब्रिफिङ’ मा ‘१२ बजे १२’ समाचार लिएर हाजिर भएका छौँ– १. राप्रपा महाधिवेशन राष्ट्रिय प्रजातन्",
+     "image": "https://npcdn.ratopati.com/media/news/12-1_vBtXTZ3QuP.webp"
+    },
     {
      "title": "भित्री र बाहिरी शक्तिको संयुक्त आक्रमणका कारण एमालेले धक्का बेहोर्‍यो : ओली [भिडियो]",
      "url": "https://nepalsamaya.com/detail/147799",
@@ -446,30 +470,6 @@
      "published": "2026-11-14T17:13:56+00:00",
      "summary": "गोरखापत्र समाचारदाताअछाम, कार्तिक २८ गते । विश्व मधुमेह दिवसको अवसरमा अछामको साँफेबगरमा निःशुल्क रक्तचाप तथा मधुमेह परीक्षण शिविर सम्पन्न भएको छ।शनिबार लाइफलाइन अछाम र धन योग फाउन्",
      "image": "https://gorkhapatraonline.com/storage/media/391494/conversions/unnamed-original.jpg"
-    },
-    {
-     "title": "क्रिस्टियानो रोनाल्डोको सम्मानमा पोर्चुगलका सबै खेलाडीले ‘७ नम्बर’ जर्सी लगाउने, युइएफएद्वारा विशेष अनुमति",
-     "url": "https://www.ratopati.com/story/605241/all-portugal-players-to-wear-number-7-jersey-in-honour-of-cristiano-ronaldo-special-permission-granted-by-uefa",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-14T17:10:19+00:00",
-     "summary": "काठमाडौँ । अन्तर्राष्ट्रिय फुटबलबाट हालै सन्न्यास लिएका खेलाडी क्रिस्टियानो रोनाल्डोको सम्मानमा पोर्चुगलले शनिबार एक अभूतपूर्व र ऐतिहासिक बिदाइ कार्यक्रम गर्ने भएको छ । नेसन्स लिगअ",
-     "image": "https://npcdn.ratopati.com/media/news/ronaldo1_04XhPbVCwC.webp"
-    },
-    {
-     "title": "इनमको मोबाइल २ दिनसम्म आफूसँग राख्ने अधिकार कुमार बेनलाई कसले दियो– कांग्रेस सहमहामन्त्री चौधरी",
-     "url": "https://www.setopati.com/politics/402580",
-     "source": "Setopati (सेतोपाटी)",
-     "published": "2026-11-14T17:06:00+00:00",
-     "summary": "",
-     "image": ""
-    },
-    {
-     "title": "हुथी विद्रोहीले प्रहार गरेका दुई ड्रोन नष्ट गरेको साउदी अरबको दाबी",
-     "url": "https://www.ratopati.com/story/605240/saudi-arabia-claims-to-have-destroyed-two-drones-fired-by-houthi-rebels",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-14T17:00:23+00:00",
-     "summary": "काठमाडौँ । साउदी अरबको नेतृत्वमा रहेको सैन्य गठबन्धनले यमनका हुथी विद्रोहीहरूले शनिबार साउदी अरब लक्षित गरी प्रहार गरेका दुईवटा ड्रोनलाई आकाशमै नष्ट गरिदिएको दाबी गरेको छ । गठबन्धन",
-     "image": "https://npcdn.ratopati.com/media/news/drone_SKlzasrkzU.webp"
     }
    ]
   }
