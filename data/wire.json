@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-14T23:17:07.234147+00:00",
+ "generated_at": "2026-11-14T23:47:59.761223+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-14T23:17:07.234107+00:00",
+   "fetched_at": "2026-11-14T23:47:59.761182+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Nepal Rastra Bank Sets Today's Exchange Rates",
+     "url": "http://english.ratopati.com/story/86684/this-is-the-foreign-exchange-rate-on-sunday",
+     "source": "Ratopati",
+     "published": "2026-11-14T23:41:24+00:00",
+     "summary": "Kathmandu. Nepal Rastra Bank has determined the exchange rate for foreign currencies today. According to the central bank, the purchase...",
+     "image": ""
+    },
+    {
+     "title": "Four Nepali Cricketers Shine in Nepal Premier League Season 3",
+     "url": "http://english.ratopati.com/story/86683/four-nepali-cricketers-in-form-in-npl-3",
+     "source": "Ratopati",
+     "published": "2026-11-14T23:26:27+00:00",
+     "summary": "Four teams have confirmed their place in the playoffs of the third edition of the Nepal Premier League (NPL) cricket...",
+     "image": ""
+    },
     {
      "title": "Chhath Festival Celebrated with Devotion and Enthusiasm",
      "url": "http://english.ratopati.com/story/86681/kartik-shukla-shashthi-offering-evening-arghya-to-the-setting-sun-while-standing-in-a-reservoir",
@@ -116,27 +132,11 @@
      "published": "2026-11-14T16:49:29+00:00",
      "summary": "काठमाडौँ । नेपालबाट चोरी भइ विभिन्न विश्वका देश पुगेका धार्मिक तथा सांस्कृतिक सम्पदा स्वदेश फर्काउने अभियानलाई सशक्त बनाउन भक्तपुरमा आजदेखि ‘मलाई घर फर्काउ’ महोत्सव सुरु भएको छ । स",
      "image": ""
-    },
-    {
-     "title": "18 Muslim Countries Condemn Israeli Attack on Gaza Medical Complex",
-     "url": "http://english.ratopati.com/story/86674/18-muslim-countries-including-pakistan-condemn-israel",
-     "source": "Ratopati",
-     "published": "2026-11-14T16:49:17+00:00",
-     "summary": "Kathmandu. Pakistan including 18 Muslim countries have condemned an attack by Israel in Gaza. Those countries have issued a statement...",
-     "image": ""
-    },
-    {
-     "title": "Indian Railways approves weekly train service connecting Nepal’s Janakpur Dham with Ayodhya",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaGNVaXplMlVIZTFzdGQ1eTM3eTkwZmIyM1o4bDFSODU2R1l6UGdfa3NmNUN1bThzcmU5Q3ZVOWxUZk1ZbVBOTzJ0SWVWaFJseEdDNWJVN28zblJFek50RDdWUlIxSEFBdWVxT0dYd0xqYXR1YjNQWW5lMExHdFRHZU8zb2w1Wnd4V0x2WGZpQ1g4aE9LaVFNcGcyQlpTaE9Vc001VjBKNE1mbDhSYmxkdFE2by1Oa3l6VTZ4N2NwUTl3ODBIbnc?oc=5",
-     "source": "The Indian EYE",
-     "published": "2026-11-14T16:26:35+00:00",
-     "summary": "Indian Railways approves weekly train service connecting Nepal’s Janakpur Dham with Ayodhya&nbsp;&nbsp;The Indian EYE",
-     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-14T23:17:07.234127+00:00",
+   "fetched_at": "2026-11-14T23:47:59.761204+00:00",
    "stale": false,
    "items": [
     {
@@ -238,7 +238,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T23:17:07.234131+00:00",
+   "fetched_at": "2026-11-14T23:47:59.761209+00:00",
    "stale": false,
    "items": [
     {
@@ -340,9 +340,49 @@
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-14T23:17:07.234134+00:00",
+   "fetched_at": "2026-11-14T23:47:59.761212+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "आज छठको मुख्य दिन आज अस्ताउँदो सूर्यलाई अर्घ्य दिइँदै",
+     "url": "https://www.ujyaaloonline.com/detail/133496",
+     "source": "Ujyaalo (उज्यालो)",
+     "published": "2026-11-14T23:43:00+00:00",
+     "summary": "छठ पर्वको मुख्य दिन आज साँझ अस्ताउँदो सूर्यलाई पूजा आराधना गरी अघ्र्य दिइँदैछ ।",
+     "image": "https://www.ujyaaloonline.com/uploads/posts/chhath_in_kathmandu_14_w3nKWdAhzK-1794699697.jpg"
+    },
+    {
+     "title": "बाँदरको हैरानीले किसान अदुवा खेतीतर्फ आकर्षित",
+     "url": "https://www.ratopati.com/story/605258/monkey-nuisance-attracts-farmers-to-ginger-farming",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-14T23:39:28+00:00",
+     "summary": "भोजपुर । भोजपुरमा बाँदरको समस्याका कारण परम्परागत खाद्यबाली खेती गर्न कठिन भएपछि किसान अदुवा खेतीतर्फ आकर्षित हुन थालेका छन् । बाँदरले मकै, कोदोलगायतका बालीमा क्षति पुर्‍याउने समस्",
+     "image": "https://npcdn.ratopati.com/media/news/Igo5xna52U.jpg"
+    },
+    {
+     "title": "एनपिएलको मैदानमा चम्किएका चार हिरा",
+     "url": "https://www.ratopati.com/story/605257/four-nepali-cricketers-in-form-in-npl-3",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-14T23:36:25+00:00",
+     "summary": "एनपिएल–३ मा लयमा देखिएका चार नेपाली क्रिकेटर काठमाडौँ । तेस्रो संस्करणको नेपाल प्रिमियर लिग (एनपिएल) क्रिकेट प्रतियोगितामा प्लेअफ पुग्ने चार टोलीको टुङ्गो लागिसकेको छ । यसपालि लुम्",
+     "image": "https://npcdn.ratopati.com/media/news/4-player_CPVxkraUt0.webp"
+    },
+    {
+     "title": "पहाडी र हिमाली केही ठाउँमा हल्का वर्षा, केही ठाउँमा असिना र हिमपातको सम्भावना",
+     "url": "https://www.ujyaaloonline.com/detail/133495",
+     "source": "Ujyaalo (उज्यालो)",
+     "published": "2026-11-14T23:30:00+00:00",
+     "summary": "पहाडी र हिमाली भेगका केही ठाउँमा बिहानैदेखि हल्का पानी पर्न थालेको छ ।",
+     "image": "https://www.ujyaaloonline.com/uploads/posts/rain_ab8n7Giyql_ZOJfsIViTk.jpg"
+    },
+    {
+     "title": "छठी गीतको गुञ्जनमा भक्तिमय मिथिला",
+     "url": "https://www.ratopati.com/story/605256/devotional-mithila-in-the-echo-of-the-chhathi-geet",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-14T23:19:36+00:00",
+     "summary": "महोत्तरी । मौलिक लोकपरम्परा, समुन्नत संस्कृति र प्रत्येक चाडवाडसँग सम्बन्धित गीत मिथिला क्षेत्रका वैभव मानिन्छन् । मधेसको प्राचीन मिथिला क्षेत्रमा सामूहिक रूपमा मनाइने पर्व होउन् व",
+     "image": "https://npcdn.ratopati.com/media/news/chhath_EVIsxaNguo.webp"
+    },
     {
      "title": "बङ्गुरपालनबाट मनग्य आम्दानी",
      "url": "https://www.ratopati.com/story/605255/generous-income-from-pig-farming",
@@ -430,46 +470,6 @@
      "published": "2026-11-14T18:07:00+00:00",
      "summary": "",
      "image": "https://nepalsamaya.com/uploads/posts/photo-21_0794d0d7-1794663688.jpg"
-    },
-    {
-     "title": "सजाइयो घडीअर्वा पोखरी छठघाट परिसर (फोटोफिचर)",
-     "url": "https://gorkhapatraonline.com/news/229082",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-14T17:58:21+00:00",
-     "summary": "दिपक गौतम वीरगञ्ज (पर्सा), कार्तिक २८ गते । छठपूजामा सजावटका लागि तराईमा प्रसिद्ध रहेको वीरगञ्जको घडीअर्वा पोखरी परिसरको सजावटका लागि यस वर्ष २७ लाख रुपियाँ खर्च गरिने भएको छ । छठप",
-     "image": "https://gorkhapatraonline.com/storage/media/391491/conversions/2-original.jpg"
-    },
-    {
-     "title": "महेश बस्नेतले भने-'यो सरकारलाई नयाँ वर्ष देखाउन दिनुहुँदैन, आन्दोलनका लागि तयार हुनुस्' [भिडियो]",
-     "url": "https://nepalsamaya.com/detail/147797",
-     "source": "Nepal Samaya (नेपाल समय)",
-     "published": "2026-11-14T17:56:55+00:00",
-     "summary": "",
-     "image": "https://nepalsamaya.com/uploads/posts/photo-26_7039bf9b-1794679006.jpg"
-    },
-    {
-     "title": "विशिष्ट अतिथिको आगमनलाई लक्षित गर्दै जनकपुरधामका छठ घाटमा विशेष सुरक्षा व्यवस्था [भिडियो]",
-     "url": "https://nepalsamaya.com/detail/147796",
-     "source": "Nepal Samaya (नेपाल समय)",
-     "published": "2026-11-14T17:47:08+00:00",
-     "summary": "",
-     "image": "https://nepalsamaya.com/uploads/posts/photo-10_7b04efda-1794678418.jpg"
-    },
-    {
-     "title": "भारत र पाकिस्तानले साफ च्याम्पियनसिपको उपाधिका लागि खेल्ने",
-     "url": "https://www.ratopati.com/story/605244/india-and-pakistan-to-play-for-saff-championship-title",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-14T17:42:44+00:00",
-     "summary": "काठमाडौँ । बङ्गलादेशमा जारी साफ च्याम्पियनसिप फुटबलको उपाधिका लागि भारत र पाकिस्तानबिच प्रतिस्पर्धा हुने भएको छ । शनिबार सम्पन्न सेमिफाइनलमा भारतले भुटानलाई तथा पाकिस्तानले आयोजक ब",
-     "image": "https://npcdn.ratopati.com/media/news/india-pak_nKyKBDB4bH.webp"
-    },
-    {
-     "title": "कान्ति तालको बिजोग :  १० करोडको लगानी बालुवामा पानी",
-     "url": "https://gorkhapatraonline.com/news/229084",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-14T17:30:28+00:00",
-     "summary": "सिराज खानबाँके, कात्तिक २८ गते । नेपालगन्ज उपमहानगरपालिकाले करिब १० करोड रुपियाँ खर्च गरेर पर्यटकीय गन्तव्यका रूपमा निर्माण गरेको कान्ति ताल अहिले जीर्ण र अस्तव्यस्त बन्दै गएको छ ।",
-     "image": "https://gorkhapatraonline.com/storage/media/391493/conversions/kanti-taal-behal-original.jpg"
     }
    ]
   }
