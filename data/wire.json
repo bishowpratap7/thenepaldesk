@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T21:14:47.607845+00:00",
+ "generated_at": "2026-11-14T21:45:26.058247+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-14T21:14:47.607787+00:00",
+   "fetched_at": "2026-11-14T21:45:26.058182+00:00",
    "stale": false,
    "items": [
     {
@@ -136,7 +136,7 @@
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-14T21:14:47.607807+00:00",
+   "fetched_at": "2026-11-14T21:45:26.058204+00:00",
    "stale": false,
    "items": [
     {
@@ -238,7 +238,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T21:14:47.607812+00:00",
+   "fetched_at": "2026-11-14T21:45:26.058209+00:00",
    "stale": false,
    "items": [
     {
@@ -340,9 +340,17 @@
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-14T21:14:47.607814+00:00",
+   "fetched_at": "2026-11-14T21:45:26.058211+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "दशौँ राष्ट्रिय खेलकुद: कुस्तीतर्फ सुदूरबाट १८ खेलाडी छनोट",
+     "url": "https://www.ratopati.com/story/605251/10th-national-games-18-players-selected-from-far-away-for-wrestling",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-14T21:16:51+00:00",
+     "summary": "महेन्द्रनगर । कर्णाली प्रदेशको सुर्खेतमा हुने दशौँ बृहत् राष्ट्रिय खेलकुद प्रतियोगिताअन्तर्गत सुदूरपश्चिम प्रदेशबाट कुस्तीतर्फ १८ खेलाडी छनोट भएका छन् । कञ्चनपुरको महेन्द्रनगरमा शन",
+     "image": "https://npcdn.ratopati.com/media/news/kusti-14_ou5VEe2IEV.webp"
+    },
     {
      "title": "फुटबल एकेडेमी चलाउन सहाराको देउसीभैलो, साढे ११ लाख जुट्यो",
      "url": "https://www.ratopati.com/story/605249/saharas-deusivhailo-raises-rs-115-million-to-run-a-football-academy",
@@ -416,6 +424,14 @@
      "image": "https://nepalsamaya.com/uploads/posts/photo-10_7b04efda-1794678418.jpg"
     },
     {
+     "title": "पर्वतीय एजेन्डालाई कोप–३१ को अन्तिम निर्णयमा समेट्न नेपालको पहल",
+     "url": "https://gorkhapatraonline.com/news/229083",
+     "source": "Gorkhapatra (गोरखापत्र)",
+     "published": "2026-11-14T17:46:39+00:00",
+     "summary": "अन्ताल्या (टर्किए), कात्तिक २८ गते । नेपालले पर्वतीय क्षेत्रका जलवायु मुद्दालाई संयुक्त राष्ट्रसङ्घीय जलवायु परिवर्तनसम्बन्धी पक्ष राष्ट्रहरूको ३१औँ सम्मेलन (कोप–३१) को अन्तिम निर्",
+     "image": "https://gorkhapatraonline.com/storage/media/391492/conversions/1000224981-original.jpg"
+    },
+    {
      "title": "भारत र पाकिस्तानले साफ च्याम्पियनसिपको उपाधिका लागि खेल्ने",
      "url": "https://www.ratopati.com/story/605244/india-and-pakistan-to-play-for-saff-championship-title",
      "source": "Ratopati (नेपाली)",
@@ -454,22 +470,6 @@
      "published": "2026-11-14T17:16:09+00:00",
      "summary": "तीन संस्करणको यात्रामा लुम्बिनीले गरेको सुधार टोलीको प्रदर्शन र संयोजनमा देखिएको छ। यसपटक सुरुदेखि निरन्तर राम्रो प्रदर्शन गर्दै लुम्बिनीले आफूलाई उपाधि दाबेदारका रूपमा प्रस्तुत गर",
      "image": ""
-    },
-    {
-     "title": "राफिन्हाबारे ब्राजिलको अनौठो निर्णय : बार्सिलोना स्तब्ध, दुई पक्षबिच नयाँ तनाव",
-     "url": "https://www.ratopati.com/story/605242/brazils-strange-decision-regarding-rafinha-barcelona-shocked-new-tension-between-the-two-sides",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-14T17:16:04+00:00",
-     "summary": "काठमाडौँ । ब्राजिलका कप्तान तथा बार्सिलोनाका स्टार खेलाडी राफिन्हालाई लिएर ब्राजिलियन फुटबल महासंघले गरेको एक अप्रत्याशित निर्णयले बार्सिलोनालाई स्तब्ध बनाएको छ । जापानविरुद्धको खे",
-     "image": "https://npcdn.ratopati.com/media/news/raphinha_G8cy6YMVPM.webp"
-    },
-    {
-     "title": "गर्मीयामको जितपछि भारतका जेनजी आन्दोलनकारीसामु अनिश्चितताको शीतकाल",
-     "url": "https://www.ratopati.com/story/605236/after-a-summer-of-victory-indias-genji-protesters-face-a-winter-of-uncertainty",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-14T17:15:00+00:00",
-     "summary": "नयाँ दिल्ली । भारतको राजधानी दिल्लीस्थित जन्तरमन्तरमा गत जुलाईमा विद्यार्थी आन्दोलनकारीहरू खुसीले चिच्याइरहेका थिए । जेनजी आन्दोलनको दबाबका कारण केन्द्र सरकारका शिक्षामन्त्री शिक्ष",
-     "image": "https://npcdn.ratopati.com/media/news/cjp-protest_0gHurWt21G.webp"
     }
    ]
   }
