@@ -1,10 +1,98 @@
 {
- "generated_at": "2026-11-14T07:26:28.768045+00:00",
+ "generated_at": "2026-11-14T07:56:58.458030+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-14T07:26:28.768015+00:00",
+   "fetched_at": "2026-11-14T07:56:58.458001+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Foreign Minister Shishir Khanal Returns Home After Leading Nepali Delegation at COP-31",
+     "url": "http://english.ratopati.com/story/86600/we-are-hopeful-that-cop-will-address-the-agenda-of-mountainous-countries-foreign-minister-khanal",
+     "source": "Ratopati",
+     "published": "2026-11-14T07:54:17+00:00",
+     "summary": "Kathmandu. Foreign Minister Shishir Khanal returned home on Saturday after leading the Nepali delegation at the 31st Conference of the...",
+     "image": ""
+    },
+    {
+     "title": "CPN (UML) Secretary Mahesh Basnet Criticizes Current Government, Outlines Party Strategy",
+     "url": "http://english.ratopati.com/story/86599/those-who-call-it-an-alternative-force-cannot-challenge-umls-development-and-construction-secretary-basnet",
+     "source": "Ratopati",
+     "published": "2026-11-14T07:52:48+00:00",
+     "summary": "Kathmandu. CPN (UML) Secretary Mahesh Basnet has stated that the development and prosperity work done by the government led by...",
+     "image": ""
+    },
+    {
+     "title": "Fire at Prajapati Complex in Radhe Radhe causes damage worth Rs 8 million",
+     "url": "https://english.khabarhub.com/2026/14/575560/",
+     "source": "Khabarhub",
+     "published": "2026-11-14T07:50:18+00:00",
+     "summary": "BHAKTAPUR: A fire broke out on the seventh floor of Prajapati Complex in Radhe Radhe, Madhyapur Thimi-9, this morning, causing estimated damage of around Rs 8 million. The fire bro",
+     "image": ""
+    },
+    {
+     "title": "UN Expresses Concern Over Civilian Casualties in Yemen, Urges Respect for International Law",
+     "url": "http://english.ratopati.com/story/86598/un-concerned-about-safety-of-civilians-in-yemen-urges-all-parties-to-stop-attacks",
+     "source": "Ratopati",
+     "published": "2026-11-14T07:47:10+00:00",
+     "summary": "Kathmandu. The United Nations has expressed serious concern over attacks on civilians and civilian infrastructure in Yemen, urging all parties...",
+     "image": ""
+    },
+    {
+     "title": "सैन्य क्षमता विस्तारमा जापान, रक्षा बजेट ६० ट्रिलियन येन पुर्‍याउने तयारी",
+     "url": "https://nepalnews.com/2026/11/14/japan-expands-military-capacity-prepares-to-increase-defense-budget-to-60-trillion-yen/",
+     "source": "NepalNews",
+     "published": "2026-11-14T07:45:17+00:00",
+     "summary": "टोकियो। जापान सरकारले आगामी पाँच वर्षमा रक्षा खर्च उल्लेख्य रूपमा बढाएर ६० ट्रिलियन येन (करिब ३७६ अर्ब अमेरिकी डलर) पुर्‍याउने तयारी गरेको छ । जापानी समाचार संस्था क्योदो न्युजका अ",
+     "image": ""
+    },
+    {
+     "title": "Book Review: 'Khadama' Explores Nepali Migrant Worker Experiences",
+     "url": "http://english.ratopati.com/story/86592/khadama-engraved-with-pictures-of-gulf-workers",
+     "source": "Ratopati",
+     "published": "2026-11-14T07:45:00+00:00",
+     "summary": "In the late 1960s, Mahendra Mahak set out for the Gulf countries to fulfill family responsibilities. The dream was to...",
+     "image": ""
+    },
+    {
+     "title": "Balen’s India visit may seal major energy and infrastructure deals",
+     "url": "https://peoplesreview.com.np/2026/11/14/balens-india-visit-may-seal-major-energy-and-infrastructure-deals/",
+     "source": "Peoples Review",
+     "published": "2026-11-14T07:45:00+00:00",
+     "summary": "Kathmandu, Nov 14: Indian media have given considerable coverage to Prime Minister Balen Shah’s proposed visit to India, reporting on possible agreements involving hydropower, petr",
+     "image": ""
+    },
+    {
+     "title": "Jhapa Administration Urges Farmers to Harvest Ripe Paddy Amidst Increased Wild Elephant Movement",
+     "url": "http://english.ratopati.com/story/86597/elephant-affected-farmers-urged-to-bring-in-ripe-crops-on-time",
+     "source": "Ratopati",
+     "published": "2026-11-14T07:43:59+00:00",
+     "summary": "Jhapa. The District Administration Office has urged farmers in Bahunḍaṅgī, a region affected by elephants in Jhapa, to harvest their...",
+     "image": ""
+    },
+    {
+     "title": "Reflections on Humanity, Faith, and Society",
+     "url": "http://english.ratopati.com/story/86596/haiku",
+     "source": "Ratopati",
+     "published": "2026-11-14T07:43:18+00:00",
+     "summary": "One speaks, Another thinks – is it true? Algorithm! There are believers and non-believers both here Where is humanity? Who...",
+     "image": ""
+    },
+    {
+     "title": "Four Arrested in Sunsari with Narcotics",
+     "url": "http://english.ratopati.com/story/86594/four-arrested-with-drugs-in-sunsari",
+     "source": "Ratopati",
+     "published": "2026-11-14T07:36:05+00:00",
+     "summary": "Sunsari. Four people have been arrested from various places in Sunsari district with narcotics. A police team from the Inaruwa...",
+     "image": ""
+    },
+    {
+     "title": "राधेराधेस्थित प्रजापति कम्प्लेक्समा आगलागी, ८० लाख बराबर क्षति",
+     "url": "https://nepalnews.com/2026/11/14/fire-at-prajapati-complex-in-radhe-radhe-damages-worth-rs-8-million/",
+     "source": "NepalNews",
+     "published": "2026-11-14T07:29:09+00:00",
+     "summary": "भक्तपुर। मध्यपुरथिमि-९ राधेराधेस्थित प्रजापति कम्प्लेक्सको सातौँ तलामा आज बिहान आगलागी हुँदा करिब रु ८० लाख बराबरको क्षति भएको छ। आज बिहान करिब ८:०० बजे प्रजापति कम्प्लेक्सका सञ्चा",
+     "image": ""
+    },
     {
      "title": "National Child Rights Council Seeks Applications for Flood-Affected Children's Care Plan",
      "url": "http://english.ratopati.com/story/86591/call-for-help-in-protecting-flood-affected-children",
@@ -44,101 +132,21 @@
      "published": "2026-11-14T07:11:55+00:00",
      "summary": "KATHMANDU: Rastriya Swatantra Party (RSP) lawmakers scheduled to visit the People&#8217;s Republic of China have held discussions with party Chair Rabi Lamichhane ahead of their de",
      "image": ""
-    },
-    {
-     "title": "'Ramayana: Part 1' Achieves Rs 1,110 Crore Gross Collection Worldwide",
-     "url": "http://english.ratopati.com/story/86588/ramayana-creates-new-history-surpassing-shahrukhs-pathan",
-     "source": "Ratopati",
-     "published": "2026-11-14T07:09:05+00:00",
-     "summary": "Mumbai. The much-awaited film 'Ramayana: Part 1' starring Ranbir Kapoor has created a new history at the box office.Within eight...",
-     "image": ""
-    },
-    {
-     "title": "गोरखाको यारूवगरमा सुक्खा पहिरो",
-     "url": "https://nepalnews.com/2026/11/14/dry-landslide-in-yarubagar-gorkha/",
-     "source": "NepalNews",
-     "published": "2026-11-14T07:07:10+00:00",
-     "summary": "काठमाडौं। गोरखाको धार्चे गाउँपालिका-१ स्थित यारूवगरमा शनिबार बिहान भीषण सुख्खा पहिरो गएको छ। पहिरो यारूवगर क्षेत्रको ठाडो भर्याङ जंगलमा खसेको हो। पहिरोका कारण स्थानीय क्षेत्रमा जोख",
-     "image": ""
-    },
-    {
-     "title": "Fire Erupts in Bhaktapur Restaurant, Causing Significant Damage",
-     "url": "http://english.ratopati.com/story/86587/fire-breaks-out-at-prajapati-complex-in-radhe-radhe-bhaktapur-damages-fifth-floor-restaurant",
-     "source": "Ratopati",
-     "published": "2026-11-14T06:59:17+00:00",
-     "summary": "Bhaktapur. A fire broke out on the fifth floor of Prajapati Complex in Radhe Radhe, Bhaktapur, causing damage worth lakhs...",
-     "image": ""
-    },
-    {
-     "title": "तीन निर्माण कम्पनी दुई वर्षका लागि कालोसूचीमा",
-     "url": "https://nepalnews.com/2026/11/14/three-construction-companies-blacklisted-for-two-years/",
-     "source": "NepalNews",
-     "published": "2026-11-14T06:57:21+00:00",
-     "summary": "काठमाडौं। सार्वजनिक खरिद अनुगमन कार्यालयले तीन निर्माण कम्पनीलाई दुई वर्षका लागि कालोसूचीमा राखेको छ। प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालयअन्तर्गतको उक्त निकायले सार्वजनिक खर",
-     "image": ""
-    },
-    {
-     "title": "EU Leaders Pledge to Boost AI Competitiveness and Support Ukraine Peace Efforts",
-     "url": "http://english.ratopati.com/story/86586/eu-prepares-to-increase-investment-in-ai-technology-and-strengthen-cooperation",
-     "source": "Ratopati",
-     "published": "2026-11-14T06:54:54+00:00",
-     "summary": "Kathmandu. European Union (EU) leaders have pledged to enhance Europe's competitiveness by expanding the development and investment in artificial intelligence...",
-     "image": ""
-    },
-    {
-     "title": "Life is a Journey of Self-Discovery",
-     "url": "http://english.ratopati.com/story/86585/what-should-i-become",
-     "source": "Ratopati",
-     "published": "2026-11-14T06:54:19+00:00",
-     "summary": "Life becomes beautiful with travel. The end of one journey is the beginning of another. One should not stop traveling...",
-     "image": ""
-    },
-    {
-     "title": "Curriculum Center Starts Textbook Printing and Distribution Process for Academic Session 2084",
-     "url": "http://english.ratopati.com/story/86583/textbook-printing-inventory-begins-books-should-arrive-within-15-days-of-the-start-of-the-academic-session",
-     "source": "Ratopati",
-     "published": "2026-11-14T06:45:28+00:00",
-     "summary": "Kathmandu. The process of listing for printing and distribution of textbooks for the academic session 2084 has started. The Curriculum...",
-     "image": ""
-    },
-    {
-     "title": "Growing Attraction Towards Shani Temples in Nepal",
-     "url": "http://english.ratopati.com/story/86569/growing-faith-in-shani-dev-and-sankta-shani-mandir",
-     "source": "Ratopati",
-     "published": "2026-11-14T06:45:00+00:00",
-     "summary": "Mornings begin with bathing and purification, followed by completing puja at home before starting the day's routine, which is the...",
-     "image": ""
-    },
-    {
-     "title": "Chhath Festival: Devotees Observe Fasting for 'Kharna' Ritual",
-     "url": "http://english.ratopati.com/story/86581/second-day-of-chhath-preparations-in-final-stages-at-guhyeshwori",
-     "source": "Ratopati",
-     "published": "2026-11-14T06:41:36+00:00",
-     "summary": "Kathmandu. On the day of Kartik Shukla Panchami, Chhath devotees are observing a waterless fast and completing the 'Kharna' ritual...",
-     "image": ""
-    },
-    {
-     "title": "President Paudel Extends Chhath Festival Wishes for Peace, Prosperity, and National Unity",
-     "url": "http://english.ratopati.com/story/86582/president-poudel-believes-that-chhath-festival-will-further-strengthen-national-unity-and-social-harmony",
-     "source": "Ratopati",
-     "published": "2026-11-14T06:41:31+00:00",
-     "summary": "Kathmandu. President Ram Chandra Paudel has extended best wishes for happiness, peace, and prosperity to all Nepali sisters and brothers,...",
-     "image": ""
-    },
-    {
-     "title": "Devotees observe the sacred fast-breaking ritual today as part of Chhath (photo feature)",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQkFBazZMSk13ZUdKd2JTY3RvZW1ZbTJqbUhWdURYNy04SnVTcGpUWTkyejF5UThVU0NLRGZHa3Z6N2RQZG5mTnFtUXU5cWlZOWk2QTBpc1ZtaEVRamRTWXg2RTFQQTJsRWgyQXExRk01YjctcmdDTENZemtxLXhoOFZZR2k0MmgxZzB4LUlON0ZETE54VE9zQkk2eVZKU2prZ0JadmFuYjFDWG5KX3F2ajFqbTc3M2tFUWxha2RGSVhtVnQxaVE?oc=5",
-     "source": "Nepalnews.com",
-     "published": "2026-11-14T06:37:09+00:00",
-     "summary": "Devotees observe the sacred fast-breaking ritual today as part of Chhath (photo feature)&nbsp;&nbsp;Nepalnews.com",
-     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-14T07:26:28.768030+00:00",
+   "fetched_at": "2026-11-14T07:56:58.458015+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Book Review: 'Khadama' Explores Nepali Migrant Worker Experiences",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdGdnNXlxSlJiNW1rYnZ2bGpxVGx2YlZwSWJCRTg3aGtvZm5JZ0dRU1hmQTg4SUdvcXlEbXM3V0pRV0twOU5FM2owQ1BJWXlfTVdlX0FIQk96Zm5mOWhNWHIybFpReFhCNWk4UzdZd2hoaHNrME40NFpKZmQ1VG1ockNtR2ZJcnZLaFV4OWY4R3c?oc=5",
+     "source": "Ratopati",
+     "published": "2026-11-14T07:47:29+00:00",
+     "summary": "Book Review: 'Khadama' Explores Nepali Migrant Worker Experiences&nbsp;&nbsp;Ratopati",
+     "image": ""
+    },
     {
      "title": "विदेशी चालकको लाइसेन्स विवाद: न्युयोर्कको राजमार्ग बजेट रोक्न नपाउने अदालतको फैसला",
      "url": "https://www.khasokhas.com/237559",
@@ -226,19 +234,11 @@
      "published": "2026-11-13T03:46:11+00:00",
      "summary": "गत साता बेरोजगारी भत्ताका लागि निवेदन दिने अमेरिकीहरूको संख्यामा सामान्य वृद्धि भएको छ । यद्यपि, बेरोजगारीको दाबी ऐतिहासिक रूपमै न्यून स्तरमा रहेको, कर्मचारी कटौती निकै कम हुने गरे",
      "image": ""
-    },
-    {
-     "title": "Nepalese Culture On Show In Hobart",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NdmlhQUE4azNRZjlPb0lpTm54X09JSDIyTVB1SktWU2UxMXN2cHNNQVNKOEp3M29zVGN1QUNCVDdnVzMtQnpjbkRiMExTdHRqLXMzZW9Qelc2MUIxSVlDeVlqclprSENYbGZGNFBEVHdiMXgwUEtCMk1B?oc=5",
-     "source": "Tasmanian Times",
-     "published": "2026-11-13T00:05:42+00:00",
-     "summary": "Nepalese Culture On Show In Hobart&nbsp;&nbsp;Tasmanian Times",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T07:26:28.768033+00:00",
+   "fetched_at": "2026-11-14T07:56:58.458018+00:00",
    "stale": false,
    "items": [
     {
@@ -247,6 +247,14 @@
      "source": "Nepalnews.com",
      "published": "2026-11-14T06:48:03+00:00",
      "summary": "CM Yadav to seek vote of confidence on November 14&nbsp;&nbsp;Nepalnews.com",
+     "image": ""
+    },
+    {
+     "title": "President Paudel Extends Chhath Festival Wishes for Peace, Prosperity, and National Unity",
+     "url": "http://english.ratopati.com/story/86582/president-poudel-believes-that-chhath-festival-will-further-strengthen-national-unity-and-social-harmony",
+     "source": "Ratopati",
+     "published": "2026-11-14T06:41:31+00:00",
+     "summary": "Kathmandu. President Ram Chandra Paudel has extended best wishes for happiness, peace, and prosperity to all Nepali sisters and brothers,...",
      "image": ""
     },
     {
@@ -298,27 +306,11 @@
      "image": ""
     },
     {
-     "title": "Public Service Commission Announces Vacancies for Various Gazetted Third Class Positions",
-     "url": "http://english.ratopati.com/story/86567/public-service-commission-invites-applications-for-various-service-posts-including-branch-officer",
-     "source": "Ratopati",
-     "published": "2026-11-14T05:32:30+00:00",
-     "summary": "Kathmandu. The Public Service Commission has called for applications for various positions of Gazetted Third Class, i.e., Section Officer or...",
-     "image": ""
-    },
-    {
      "title": "Nepal lays emphasis on reform in social security systems",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vYkVIbkljYkVJR1Q1aTNLN04zUEdJS3JJM25SOEs4VGZoQVJoM3ZoNDR3QzRRVTU0UTQzRWs2cldfQVFQVFV1VlBrdzFnanB0?oc=5",
      "source": "The Rising Nepal",
      "published": "2026-11-14T05:30:11+00:00",
      "summary": "Nepal lays emphasis on reform in social security systems&nbsp;&nbsp;The Rising Nepal",
-     "image": ""
-    },
-    {
-     "title": "CP Mainali Demands Investigation into Microbus Accident",
-     "url": "http://english.ratopati.com/story/86565/bhimphedi-microbus-accident-cpn-ml-demands-investigation-into-the-incident-and-action-against-the-culprits",
-     "source": "Ratopati",
-     "published": "2026-11-14T05:25:51+00:00",
-     "summary": "Kathmandu. CPN (Maoist) has demanded that the government conduct an impartial investigation into the microbus accident in Bhimfedi, Makwanpur, and...",
      "image": ""
     },
     {
@@ -336,139 +328,147 @@
      "published": "2026-11-14T03:15:00+00:00",
      "summary": "Nepal, South Korea sign climate cooperation agreement&nbsp;&nbsp;myRepublica",
      "image": ""
+    },
+    {
+     "title": "What will happen to ordinance to amend Press Council Act?",
+     "url": "https://peoplesreview.com.np/2026/11/14/what-will-happen-to-ordinance-to-amend-press-council-act/",
+     "source": "Peoples Review",
+     "published": "2026-11-14T02:49:27+00:00",
+     "summary": "Kathmandu, Nov 14: President Ram Chandra Paudel is yet to receive a briefing on two ordinances recommended by the government, raising questions over whether he will approve or retu",
+     "image": ""
     }
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-14T07:26:28.768036+00:00",
+   "fetched_at": "2026-11-14T07:56:58.458021+00:00",
    "stale": false,
    "items": [
     {
-     "title": "ट्रम्प, पुटिन र सीबीच अर्को साता चीनमा भेटवार्ता हुने",
-     "url": "https://khabarhub.com/2026/14/1047455/",
-     "source": "Khabarhub (नेपाली)",
-     "published": "2026-11-14T07:24:41+00:00",
-     "summary": "एजेन्सी &#8211; अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प, रुसी राष्ट्रपति भ्लादिमिर पुटिन र चिनियाँ राष्ट्रपति सी चिनफिङबीच आगामी साता चीनमा संयुक्त भेटवार्ता हुने भएको छ । अमेरिकी राष्ट्",
-     "image": ""
-    },
-    {
-     "title": "बाढी प्रभावित बालबालिकाको संरक्षणमा सघाउन आह्वान",
-     "url": "https://www.ratopati.com/story/605123/call-for-help-in-protecting-flood-affected-children",
+     "title": "पर्वतीय मुलुकका एजेन्डालाई कोपले सम्बोधन गर्नेमा आशावादी छौँ : परराष्ट्रमन्त्री खनाल",
+     "url": "https://www.ratopati.com/story/605132/we-are-hopeful-that-cop-will-address-the-agenda-of-mountainous-countries-foreign-minister-khanal",
      "source": "Ratopati (नेपाली)",
-     "published": "2026-11-14T07:21:32+00:00",
-     "summary": "काठमाडौँ । राष्ट्रिय बाल अधिकार परिषद्ले भोटेकोशी बाढीबाट प्रभावित बालबालिकाको संरक्षण, हेरचाह तथा स्याहार योजनामा समावेश हुन परोपकारी सङ्घसंस्था तथा व्यक्तिहरूसँग आवेदन आह्वान गरे",
-     "image": "https://npcdn.ratopati.com/media/news/council-child-rights_R9ujqKdo6E.jpg"
+     "published": "2026-11-14T07:54:26+00:00",
+     "summary": "काठमाडौँ । संयुक्त राष्ट्रसङ्घीय जलवायु परिवर्तनसम्बन्धी महासन्धिका पक्ष राष्ट्रहरूको ३१औँ सम्मेलन (कोप–३१) मा नेपाली प्रतिनिधिमण्डलको नेतृत्व गरेर परराष्ट्रमन्त्री शिशिर खनाल शनिब",
+     "image": "https://npcdn.ratopati.com/media/news/shishir-khanal-(1)_5FzEzgUO13.webp"
     },
     {
-     "title": "छठ पर्वका लागि केराको किनबेच बढ्यो, स्वदेशी केराले माग धान्ने",
-     "url": "https://www.ujyaaloonline.com/detail/133480",
-     "source": "Ujyaalo (उज्यालो)",
-     "published": "2026-11-14T07:20:12+00:00",
-     "summary": "",
-     "image": "https://www.ujyaaloonline.com/uploads/posts/Banana_final_QWU9SBVkoo.jpg"
+     "title": "‘कोप ३१’मा सहभागी भएर परराष्ट्रमन्त्री शिशिर खनाल स्वदेश फर्किए",
+     "url": "https://dcnepal.com/2026/11/814792/",
+     "source": "DC Nepal (डीसी नेपाल)",
+     "published": "2026-11-14T07:54:02+00:00",
+     "summary": "काठमाडौं । संयुक्त राष्ट्रसंघीय जलवायु परिवर्तनसम्बन्धी महासन्धिका पक्ष राष्ट्रहरूको ३१औँ सम्मेलन (कोप ३१) मा सहभागी भएर परराष्ट्रमन्त्री शिशिर खनाल स्वदेश फर्किएका छन् । तुर्कीएको",
+     "image": ""
     },
     {
-     "title": "राधेराधेस्थित प्रजापति कम्प्लेक्समा आगलागी, ८० लाखको क्षति",
-     "url": "https://gorkhapatraonline.com/news/229035",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-14T07:19:59+00:00",
-     "summary": "भक्तपुर, कात्तिक २८ गते । मध्यपुरथिमि- ९, राधेराधेस्थित प्रजापति कम्प्लेक्सको सातौँ तलामा शनिबार बिहान आगलागी हुँदा करिब ८० लाख रुपियाँ बराबरको क्षति भएको छ ।बिहान करिब ८ बजे कम्प्",
-     "image": "https://gorkhapatraonline.com/storage/media/391421/conversions/RT_BHAKTAPUR_1000042860-original.jpg"
+     "title": "एमालेको विकास निर्माणलाई वैकल्पिक शक्ति भन्नेहरूले चुनौती दिन सक्दैनन् : सचिव बस्नेत",
+     "url": "https://www.ratopati.com/story/605131/those-who-call-it-an-alternative-force-cannot-challenge-umls-development-and-construction-secretary-basnet",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-14T07:52:52+00:00",
+     "summary": "काठमाडौँ । नेकपा (एमाले) का सचिव महेश बस्नेतले आफ्नो पार्टी नेतृत्वको सरकारले गरेको विकास निर्माण र समृद्धिको कामलाई प्रधानमन्त्री वालेन्द्र शाह र राष्ट्रिय स्वतन्त्र पार्टीका सभाप",
+     "image": "https://npcdn.ratopati.com/media/news/1794641084-3wart_xdgGdh0PDd.webp"
     },
     {
-     "title": "बाढी प्रभावित बालबालिकाको संरक्षण योजनामा सहभागी हुन आह्वान",
-     "url": "https://khabarhub.com/2026/14/1047453/",
+     "title": "छठका लागि केराको किनमेल बढ्यो (तस्बिरहरू)",
+     "url": "https://khabarhub.com/2026/14/1047462/",
      "source": "Khabarhub (नेपाली)",
-     "published": "2026-11-14T07:19:49+00:00",
-     "summary": "काठमाडौँ &#8211; राष्ट्रिय बाल अधिकार परिषद्ले भोटेकोशी बाढीबाट प्रभावित बालबालिकाको संरक्षण, हेरचाह तथा स्याहार योजनामा सहभागी हुन परोपकारी सङ्घसंस्था तथा इच्छुक व्यक्तिसँग आवेदन ",
+     "published": "2026-11-14T07:52:44+00:00",
+     "summary": "काठमाडौँ &#8211; छठ पर्व नजिकिएसँगै काठमाडौँको कुलेश्वरस्थित फलफूल बजारमा केराको किनमेल बढेको छ । छठ पर्वमा पूजाका लागि केरालाई प्रमुख सामग्रीका रूपमा प्रयोग गरिने भएकाले बजारमा बि",
      "image": ""
     },
     {
-     "title": "स्टारशिप कक्षमा पुग्यो, बूस्टर योजना अधुरो",
-     "url": "https://nagariknews.nagariknetwork.com/international/starship-reaches-orbit-booster-plan-incomplete-11-75.html",
-     "source": "Nagarik (नागरिक)",
-     "published": "2026-11-14T07:18:30+00:00",
-     "summary": "कक्षमा पुगेको केही समयपछि स्टारशिपले कम्पनीका २६ वटा उन्नत स्टारलिंक उपग्रह तैनाथ गरेको छ। स्टारशिपले करिब २७५ किलोमिटर उचाइमा पृथ्वीको १५ पटक परिक्रमा गर्ने र त्यसपछि प्रक्षेपण स्",
+     "title": "एमालेको स्वर्णिम काललाई बालेन र रविले चुनौती दिन सक्दैनन्ः महेश बस्नेत",
+     "url": "https://www.imagekhabar.com/news/563399/",
+     "source": "Image Khabar (इमेज खबर)",
+     "published": "2026-11-14T07:52:06+00:00",
+     "summary": "काठमाडौं । नेकपा एमालेका सचिव महेश बस्नेतले एमालेले आफ्नो शासनकालमा गरेको विकास निर्माण र समृद्धिको कामलाई प्रधानमन्त्री बालेन्द्र साह र राष्ट्रिय स्वतन्त्र पार्टीका सभापति रवि लाम",
      "image": ""
     },
     {
-     "title": "भक्तपुरको राधेराधेस्थित एक रेस्टुरेन्टमा आगलागी",
-     "url": "https://baahrakhari.com/detail/507285",
-     "source": "Baahrakhari (बाह्रखरी)",
-     "published": "2026-11-14T07:18:12+00:00",
-     "summary": "",
-     "image": ""
-    },
-    {
-     "title": "राधेराधेस्थित प्रजापति कम्प्लेक्समा आगलागी, ८० लाख बराबरको क्षति",
-     "url": "https://www.setopati.com/social/402550",
+     "title": "बंगालको खाडीमा विकसित न्यूनचापीय क्षेत्र सोमबारसम्म चक्रवात बन्न सक्ने",
+     "url": "https://www.setopati.com/social/402551",
      "source": "Setopati (सेतोपाटी)",
-     "published": "2026-11-14T07:16:37+00:00",
-     "summary": "बिहान करिब ८ बजे कम्प्लेक्सका सञ्चालक कुमार प्रजापतिले पसल खोल्ने क्रममा धुवाँको मुस्लो देखेपछि दमकल र प्रहरीलाई खबर गरेका थिए।",
+     "published": "2026-11-14T07:47:54+00:00",
+     "summary": "यो कति शक्तिशाली बन्छ भन्ने कुराले नेपालमा यसले प्रभाव पार्छ कि पार्दैन भन्ने तय गर्नेछ। अहिले चक्रवात बनिननसेकका कारण मौसम पूर्वानुमान महाशाखाले यसबारे कुनै सूचना सार्वजनिक गरेको ",
      "image": ""
     },
     {
-     "title": "सोनिया गान्धीलाई लक्षित गरी विवादास्पद पोस्ट गरेपछि कंगनाविरुद्ध प्रहरीमा उजुरी",
-     "url": "https://www.ratopati.com/story/605122/police-complaint-filed-against-kangana-after-controversial-post-targeting-sonia-gandhi",
+     "title": "यमनमा सर्वसाधारणको सुरक्षाप्रति राष्ट्रसङ्घको चासो, आक्रमण रोक्न सबै पक्षलाई आग्रह",
+     "url": "https://www.ratopati.com/story/605130/un-concerned-about-safety-of-civilians-in-yemen-urges-all-parties-to-stop-attacks",
      "source": "Ratopati (नेपाली)",
-     "published": "2026-11-14T07:16:06+00:00",
-     "summary": "मुम्बई । बलिउड अभिनेत्री तथा भारतीय जनता पार्टी (भाजपा) की सांसद कंगना रनौतविरुद्ध भारतको हिमाचल प्रदेशस्थित शिमलामा उजुरी (एफआईआर) दर्ता गरिएको छ। कंग्रेस नेत्री सोनिया गान्धी तथा",
-     "image": "https://npcdn.ratopati.com/media/news/904639959_2321853341995834_7308757917630244566_n_SgCfqONQqN.webp"
+     "published": "2026-11-14T07:47:25+00:00",
+     "summary": "काठमाडाैँ । संयुक्त राष्ट्रसंघले यमनमा सर्वसाधारण नागरिक तथा नागरिक पूर्वाधारमाथि भइरहेका आक्रमणप्रति गम्भीर चासो व्यक्त गर्दै द्वन्द्वमा संलग्न सबै पक्षलाई नागरिकको जीवन, सुरक्षा ",
+     "image": "https://npcdn.ratopati.com/media/news/un_united-213432_A70jpQ5IqF.jpg"
     },
     {
-     "title": "भक्तपुरको राधेराधेस्थित प्रजापति कम्प्लेक्समा आगलागी",
-     "url": "https://www.onlinekhabar.com/2026/11/2057400/fire-breaks-out-at-prajapati-complex-in-radhe-radhe-bhaktapur",
+     "title": "चीनमा जब म नेपाली गीतमा नाचेँ!",
+     "url": "https://www.setopati.com/blog/402547",
+     "source": "Setopati (सेतोपाटी)",
+     "published": "2026-11-14T07:47:14+00:00",
+     "summary": "आफू नेपालबाट आएको भन्ने थाहा पाएपछि चिनियाँ नागरिकहरूले देखाएको आत्मीयता र सम्मानले मन छोयो। अझ केही मानिसहरूले नेपालमा आएको बाढी र त्यसपछिको अवस्थाबारे चासो राखे। नेपालको अवस्थाबा",
+     "image": ""
+    },
+    {
+     "title": "रोमानिया नेपाली कामदारको नयाँ गन्तव्य",
+     "url": "https://nagariknews.nagariknetwork.com/social-affairs/romania-is-the-new-destination-for-nepali-workers-50-23.html",
+     "source": "Nagarik (नागरिक)",
+     "published": "2026-11-14T07:47:07+00:00",
+     "summary": "पछिल्लो समय वैदेशिक रोजगारीका लागि आकर्षक श्रम गन्तव्य मुलुक रोमानियामा श्रम स्वीकृति लिएर जाने नेपाली कामदारको संख्या बढेको छ।...",
+     "image": ""
+    },
+    {
+     "title": "खाडीका श्रमिकको तस्बिर उकेरिएको ‘खदामा’",
+     "url": "https://www.ratopati.com/story/605124/khadama-engraved-with-pictures-of-gulf-workers",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-14T07:45:00+00:00",
+     "summary": "६० को दशकको अन्त्यतिर पारिवारिक जिम्मेवारी पुरा गर्न महेन्द्र महकले खाँडी मुलुकको बाटो तय गरे । सपना त पढ्ने अनि राष्ट्र सेवक बन्ने थियो । तर पारिवारिक जिम्मेवारीले उनलाई लतार्दै प",
+     "image": "https://npcdn.ratopati.com/media/news/khadama_3qwLmrqz95.webp"
+    },
+    {
+     "title": "परराष्ट्रमन्त्री खनाल स्वदेश फर्किए",
+     "url": "https://khabarhub.com/2026/14/1047460/",
+     "source": "Khabarhub (नेपाली)",
+     "published": "2026-11-14T07:44:29+00:00",
+     "summary": "काठमाडौँ &#8211; संयुक्त राष्ट्रसङ्घीय जलवायु परिवर्तनसम्बन्धी महासन्धिका पक्ष राष्ट्रहरूको ३१औँ सम्मेलन (कोप–३१) मा नेपाली प्रतिनिधिमण्डलको नेतृत्व गर्दै सहभागी भएका परराष्ट्रमन्त",
+     "image": ""
+    },
+    {
+     "title": "छठ मनाउन रास्वपा सभापति लामिछाने जनकपुर प्रस्थान",
+     "url": "https://nagariknews.nagariknetwork.com/politics/rashtriya-swayamsevak-sangh-rss-president-lamichhane-leaves-for-janakpur-to-celebrate-chhath-18-83.html",
+     "source": "Nagarik (नागरिक)",
+     "published": "2026-11-14T07:44:12+00:00",
+     "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछाने छठ पर्व मनाउन पत्नी निकिता पौडेलसहित जनकपुरधाम प्रस्थान गरेका छन्।...",
+     "image": ""
+    },
+    {
+     "title": "पाकेको बाली समयमै भित्र्याउन हात्ती प्रभावित किसानलाई आग्रह",
+     "url": "https://www.ratopati.com/story/605129/elephant-affected-farmers-urged-to-bring-in-ripe-crops-on-time",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-14T07:43:59+00:00",
+     "summary": "झापा । झापाको हात्ती प्रभावित क्षेत्र बाहुनडाँगीमा जङ्गली हात्तीको आवागमन बढेपछि जिल्ला प्रशासन कार्यालयले किसानलाई पाकेको धानबाली समयमै भित्र्याउन आग्रह गरेको छ । बाली भित्र्याउने",
+     "image": "https://npcdn.ratopati.com/media/news/elephant_P7YIAPCbak.jpg"
+    },
+    {
+     "title": "हाइकु",
+     "url": "https://www.ratopati.com/story/605128/haiku",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-14T07:43:23+00:00",
+     "summary": "एउटा बोल्छ, अर्को सोच्छ– सही हो एल्गोरिदम ! छन् आस्तिक र नास्तिक दुवै यहाँ मानवता खै ? कसले मान्छ ? सारै साह्रो मार्ग छ धार्मिकताको । मनोवृत्ति नै भगवान्को त्रास छ प्रेम कहाँ छ ? ढ",
+     "image": "https://npcdn.ratopati.com/media/news/sanjay-khadka_fFd9YIGWVK.webp"
+    },
+    {
+     "title": "एनपीएलका तीन अविस्मरणीय ‘ह्याट्रिक’",
+     "url": "https://baahrakhari.com/detail/507286",
+     "source": "Baahrakhari (बाह्रखरी)",
+     "published": "2026-11-14T07:40:38+00:00",
+     "summary": "",
+     "image": ""
+    },
+    {
+     "title": "राप्रपा महाधिवेशन : ४-१० मंसिरमा प्रतिनिधि छनोट",
+     "url": "https://www.onlinekhabar.com/2026/11/2057408/rpp-general-convention-delegate-selection-to-be-held-on-4-10-mangs",
      "source": "Online Khabar (नेपाली)",
-     "published": "2026-11-14T07:16:03+00:00",
-     "summary": "२८ कात्तिक, काठमाडौं । भक्तपुरको राधेराधेस्थित प्रजापति कम्प्लेक्सको पाँचौँ तलामा रहेको रेस्टुरेन्टमा आगलागी हुँदा लाखौंको क्षति भएको छ । शनिबार बिहानको समयमा अचानक भवनको माथिल्लो ",
-     "image": ""
-    },
-    {
-     "title": "के एआईले पुँजीवादलाई समाप्त पार्ला?",
-     "url": "https://www.ratopati.com/story/605107/will-ai-end-capitalism",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-14T07:15:00+00:00",
-     "summary": "स्वचालित र सोच्न सक्ने मेसिनहरूले कुनै दिन व्यक्तिगत सम्पत्ति, श्रेणीगत संरचना र असमानतालाई अन्त्य गर्नेछन् भन्ने अवधारणा पश्चिमा राजनीतिक चिन्तन जत्तिकै पुरानो हो। एरिस्टोटलले आफ्",
-     "image": "https://npcdn.ratopati.com/media/news/ai-capitalism_1ktknSWUS0.webp"
-    },
-    {
-     "title": "राप्रपा महाधिवेशन प्रतिनिधि मंसिर ४ देखि १० गतेसम्म छनोट गरिने",
-     "url": "https://www.ratopati.com/story/605121/rpp-general-convention-delegates-to-be-selected-from-november-20-to-21",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-14T07:14:45+00:00",
-     "summary": "काठमाडौँ । राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) को केन्द्रीय महाधिवेशनका लागि महाधिवेशन प्रतिनिधि छनोट प्रक्रिया मंसिर ४ गतेदेखि सुरु हुने भएको छ । राप्रपाका प्रवक्ता मोहन श्रेष्",
-     "image": "https://npcdn.ratopati.com/media/news/rpp-party-office_k6zsobbvm8_qkc08o3vt1_mgShGWCfv1.jpg"
-    },
-    {
-     "title": "स्पेसएक्सको स्टारशिप परीक्षण असफल",
-     "url": "https://khabarhub.com/2026/14/1047450/",
-     "source": "Khabarhub (नेपाली)",
-     "published": "2026-11-14T07:13:31+00:00",
-     "summary": "एजेन्सी&#8211; अमेरिकी अर्बपति एलन मस्कको कम्पनी स्पेसएक्सलाई स्टारशिप रकेटको पछिल्लो परीक्षणमा धक्का लागेको छ । कम्पनीले रकेटको तल्लो भागलाई प्रक्षेपण टावरमा जडान गरिएका यान्त्रिक",
-     "image": ""
-    },
-    {
-     "title": "बदलिँदो जीवनशैलीले बढाउँदैछ मधुमेहको जोखिम, नियन्त्रणका लागि के गर्ने?",
-     "url": "https://www.thahakhabar.com/detail/311884",
-     "source": "Thaha Khabar (थाहा खबर)",
-     "published": "2026-11-14T07:12:59+00:00",
-     "summary": "",
-     "image": "https://www.thahakhabar.com/uploads/posts/health-1794638943.jpg"
-    },
-    {
-     "title": "भक्तपुरमा आगलागी",
-     "url": "https://www.ujyaaloonline.com/detail/133479",
-     "source": "Ujyaalo (उज्यालो)",
-     "published": "2026-11-14T07:11:00+00:00",
-     "summary": "",
-     "image": "https://www.ujyaaloonline.com/uploads/posts/fire_GCd0eoEv6T.jpg"
-    },
-    {
-     "title": "ओझेलमा परेका तीर्थस्थलको प्रचारप्रसारमा जोड",
-     "url": "https://khabarhub.com/2026/14/1047448/",
-     "source": "Khabarhub (नेपाली)",
-     "published": "2026-11-14T07:09:38+00:00",
-     "summary": "काठमाडौँ– देशका ऐतिहासिक तथा पौराणिक तीर्थस्थलको पहिचान, संरक्षण र प्रचारप्रसार गरी धार्मिक पर्यटन प्रवर्द्धन गर्नुपर्नेमा जोड दिइएको छ । तीर्थ प्रचार महाअभियानले आजदेखि गोकर्णेश्व",
+     "published": "2026-11-14T07:37:50+00:00",
+     "summary": "२८ कात्तिक, काठमाडौं । राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) को केन्द्रीय महाधिवेशनमा सहभागी हुने महाधिवेशन प्रतिनिधि छनोट प्रक्रिया ४-१० मंसिरसम्म सम्पन्न गरिने भएको छ । पार्टीको",
      "image": ""
     }
    ]
