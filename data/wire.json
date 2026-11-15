@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-15T23:25:54.632704+00:00",
+ "generated_at": "2026-11-15T23:56:30.001528+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-15T23:25:54.632673+00:00",
+   "fetched_at": "2026-11-15T23:56:30.001499+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "EC invites political parties for talks on local polls",
+     "url": "https://english.khabarhub.com/2026/16/575721/",
+     "source": "Khabarhub",
+     "published": "2026-11-15T23:45:40+00:00",
+     "summary": "KATHMANDU: The Election Commission (EC) has invited political parties for discussions on the date of the upcoming local-level elections. The Commission has called parties recognise",
+     "image": ""
+    },
+    {
+     "title": "Nepal Rastra Bank Sets Foreign Exchange Rates for Monday",
+     "url": "http://english.ratopati.com/story/86780/us-dollar-to-qatari-riyal-here-is-todays-exchange-rate",
+     "source": "Ratopati",
+     "published": "2026-11-15T23:32:56+00:00",
+     "summary": "Kathmandu. Nepal Rastra Bank has determined the foreign exchange rates for today (Monday). According to the central bank, the buying...",
+     "image": ""
+    },
     {
      "title": "The Pavilions Himalayas and Right4Children impact Nepal",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMURvazdFMEhNZDlLWkd3a0VTOWNyZG5Ic3Z3UVNOYjdPQjFlaV9FeDlRX2ZHcVRibjhWcUd2dWQxQU03NVpBdVhRNTlyaE43anlmSHh5UURwX05ab2dJV3JZeWRrMS1nRlM2ekVKOUF1dVFXcVQ3T2pJLVZhend1bGxaMHZJVEJPcmxJYlNwZExOb1E?oc=5",
@@ -116,27 +132,11 @@
      "published": "2026-11-15T17:14:50+00:00",
      "summary": "महेन्द्रनगर । कञ्चनपुरको महेन्द्रनगरस्थित वडा प्रहरी कार्यालय परिसरमा आज कुटाकुट गर्ने ६ जनालाई प्रहरीले पक्राउ गरेको छ। जिल्ला प्रहरी कार्यालय कञ्चनपुरका प्रवक्ता एवं प्रहरी नायब ",
      "image": ""
-    },
-    {
-     "title": "Nepal Premier League Cricket: Pokhara Avengers Defeat Kathmandu Gurkhas, Karnali Yaks Beat Chitwan Rhinos",
-     "url": "http://english.ratopati.com/story/86775/pokharas-record-win-sudurpaschim-qualifiers-kathmandu-and-chitwan-to-face-each-other-in-eliminator",
-     "source": "Ratopati",
-     "published": "2026-11-15T17:14:20+00:00",
-     "summary": "Kathmandu. The last two league stage matches of the third edition of the Nepal Premier League (NPL) cricket were completed...",
-     "image": ""
-    },
-    {
-     "title": "Dry landslides blocks Kaligandaki Corridor",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSlVXbk1ja2lyMmRMV1FYdF9WVnRJXzNnOGFCNV9zQmRKbFFjeUxVaWVYM2dPYTIyVjdramxRVXlHbWVmTnJ1VlNaZE1FSjEtYmV5bERub3ZSS2c2ZEx4TUxpUkhfR0o3T2I5V1RpcnFMNU9LTU55WFluY24tU2NYY0lhQzVxMWpSWXc?oc=5",
-     "source": "Nepalnews.com",
-     "published": "2026-11-15T17:12:46+00:00",
-     "summary": "Dry landslides blocks Kaligandaki Corridor&nbsp;&nbsp;Nepalnews.com",
-     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-15T23:25:54.632689+00:00",
+   "fetched_at": "2026-11-15T23:56:30.001513+00:00",
    "stale": false,
    "items": [
     {
@@ -238,7 +238,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-15T23:25:54.632693+00:00",
+   "fetched_at": "2026-11-15T23:56:30.001516+00:00",
    "stale": false,
    "items": [
     {
@@ -340,9 +340,57 @@
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-15T23:25:54.632695+00:00",
+   "fetched_at": "2026-11-15T23:56:30.001519+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "बेमौसमी वर्षाले पोखरामा काटेको धान खेतमै भिज्यो",
+     "url": "https://www.ujyaaloonline.com/detail/133528",
+     "source": "Ujyaalo (उज्यालो)",
+     "published": "2026-11-15T23:54:46+00:00",
+     "summary": "पोखरा–१३ आर्वाका श्रीराम सिग्देलले कसेरी र सनुपदेली फाँटमा अस्ति र हिजो काटेर राखेको धान पूरै पानीमा डुबेको बताउनुभयो ।",
+     "image": "https://www.ujyaaloonline.com/uploads/posts/dhan_vijyo_EGjp7oSWME.jpg"
+    },
+    {
+     "title": "बढ्दै छ औषधी प्रतिरोधको जोखिम",
+     "url": "https://gorkhapatraonline.com/news/229190",
+     "source": "Gorkhapatra (गोरखापत्र)",
+     "published": "2026-11-15T23:48:37+00:00",
+     "summary": "काठमाडौँ, कात्तिक ३० गते । सामान्य रुघाखोकी, घाँटी दुख्ने र ज्वरो आउनेबित्तिकै चिकित्सकको परामर्शबिना एन्टिबायोटिक सेवन गर्ने प्रवृत्तिले औषधी प्रतिरोधको जोखिम बढाएको छ । आवश्यकताब",
+     "image": "https://gorkhapatraonline.com/storage/media/391641/conversions/Untitled-1-original.jpg"
+    },
+    {
+     "title": "धान काट्न व्यस्त छन् इलामका किसान",
+     "url": "https://www.ratopati.com/story/605458/farmers-of-ilam-are-busy-harvesting-rice",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-15T23:44:18+00:00",
+     "summary": "इलाम । इलामका तल्लो क्षेत्रमा धान काट्ने सिजन सुरु भएको छ । तिहार सकिएसँगै यहाँका किसान धान काट्न व्यस्त छन् । यस वर्ष समयमा वर्षा भएकाले धान उत्पादन राम्रो हुनुका साथै भित्र्याउने",
+     "image": "https://npcdn.ratopati.com/media/news/gLGkydkiXl.jpg"
+    },
+    {
+     "title": "मुगुमा जीप दुर्घटना हुँदा ३ जनाको ज्यान गयो, २ जना घाइते",
+     "url": "https://www.ujyaaloonline.com/detail/133527",
+     "source": "Ujyaalo (उज्यालो)",
+     "published": "2026-11-15T23:44:11+00:00",
+     "summary": "सुर्खेतबाट रारातर्फ गुडिरहेको जीप छायानाथ रारा नगरपालिका–टोप्लामा दुर्घटना भएको जिल्ला प्रहरी कार्यालय मुगुले जनाएको छ ।",
+     "image": "https://www.ujyaaloonline.com/uploads/posts/mugu-pic-1794786198.JPG"
+    },
+    {
+     "title": "बजारमा माग बढेपछि ‘थारु आलुखेती’ विस्तार गर्दै किसान",
+     "url": "https://www.ratopati.com/story/605457/farmers-expanding-tharu-potato-farming-as-market-demand-increases",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-15T23:37:38+00:00",
+     "summary": "बर्दिया । स्वादिलो, लामो समयसम्म भण्डारण गर्न सकिने र बजारमा राम्रो मूल्य पाउने भएपछि बर्दियाका किसान रैथाने आलुखेतीतर्फ आकर्षित हुन थालेका छन् । स्थानीय तहले बीउमा अनुदान दिन थाले",
+     "image": "https://npcdn.ratopati.com/media/news/UzeHOkuk7g.jpg"
+    },
+    {
+     "title": "अमेरिकी डलरदेखि कतारी रियालसम्म : यस्तो छ आजको विनिमय दर",
+     "url": "https://www.ratopati.com/story/605456/us-dollar-to-qatari-riyal-here-is-todays-exchange-rate",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-15T23:33:03+00:00",
+     "summary": "काठमाडौँ । नेपाल राष्ट्र बैंकले आज (सोमबार) का लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५० रुपैयाँ ४९ पैसा र बिक्रीदर १५१ रु",
+     "image": "https://npcdn.ratopati.com/media/news/forex_g5zWyL63Qc.webp"
+    },
     {
      "title": "पूर्वाधार निर्माणसँगै पर्यटकीय गन्तव्य बन्दै कपासे भञ्ज्याङ",
      "url": "https://www.ratopati.com/story/605455/kapase-bhanjyang-is-becoming-a-tourist-destination-with-the-construction-of-infrastructure",
@@ -422,54 +470,6 @@
      "published": "2026-11-15T19:01:54+00:00",
      "summary": "सुनसरी । गाईघाट फुटबल क्लब उदयपुरलाई ५–० गोलअन्तरले पराजित गर्दै आयोजक स्वर्णिम फुटबल क्लब प्रथम धरान अन्तर्राष्ट्रिय महिला गोल्डकप फुटबल प्रतियोगिताको सेमिफाइनलमा प्रवेश गरेको छ ।",
      "image": "https://npcdn.ratopati.com/media/news/BfzC8dSiUO.jpg"
-    },
-    {
-     "title": "१२ बजे १२ समाचार : विदेश भ्रमणमा मन्त्री र सांसदको लर्को, तीन पटक कार्यकाल नपुग्दै संसद् विघटन",
-     "url": "https://www.ratopati.com/story/605444/12-oclock-12-news-ministers-and-mps-clash-over-foreign-trips-parliament-dissolved-three-times-before-completing-its-term",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-15T18:15:05+00:00",
-     "summary": "काठमाडौँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १२ समाचार’मा प्रस्तुत गरेका छौँ– १. छठ पर्व मनाइँदै छठ पर्व अन्तर्गत आज अस्ताउँदो सूर्यलाई अघ्र्य द",
-     "image": "https://npcdn.ratopati.com/media/news/12-news-1_WEMxGf5giw.webp"
-    },
-    {
-     "title": "आस्था र उज्यालोको छठ पर्व (फोटो फिचर)",
-     "url": "https://gorkhapatraonline.com/news/229189",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-15T18:01:12+00:00",
-     "summary": "जानु पाण्डेकपिलवस्तु, कात्तिक २९ गते । कपिलवस्तुमा उल्लास पूर्वक छठ पर्व मनाइएको छ । बाणगंगा नदीलगायत जिल्लाका विभिन्न नदी, पोखरी तथा जलाशय किनारमा श्रद्धालुहरूको घुइँचो लागेको छ ।",
-     "image": "https://gorkhapatraonline.com/storage/media/391639/conversions/IMG_7950-original.jpg"
-    },
-    {
-     "title": "ठुलो परिमाणमा लागु औषध बरामद",
-     "url": "https://gorkhapatraonline.com/news/229188",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-15T17:53:56+00:00",
-     "summary": "बाबुराम कार्कीसुनसरी, कात्तिक २९ गते । सुनसरीको हरिनगर गाउँपालिका ७ खानचोकबाट प्रहरीले २२ हजार ४७० थान लागूऔषध बरामद गरेको छ । प्रहरी चौकी घुस्कीहाट र सशस्त्र प्रहरी बल नेपाल, बीओप",
-     "image": "https://gorkhapatraonline.com/storage/media/391640/conversions/%E0%A4%A0%E0%A5%81%E0%A4%B2%E0%A5%8B-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A4%BE-%E0%A4%B2%E0%A4%BE%E0%A4%97%E0%A5%82%E0%A4%94%E0%A4%B7%E0%A4%A7-%E0%A4%AC%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%A6-photo1-%281%29-original.jpg"
-    },
-    {
-     "title": "छठमा सिर्सिया नदीमा सङ्लो र सफा पानी",
-     "url": "https://www.ratopati.com/story/605443/clear-and-clear-water-in-sirsia-river-during-chhath",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-15T17:49:05+00:00",
-     "summary": "पर्सा । छठ पूजाको अवसरमा बारा–पर्साको औद्योगिक करिडोर भएर बहने सिर्सिया नदी आज सङ्लो र सफा देखिएको छ । गण्डक नहरबाट नारायणीको पानी जगरनाथपुर हुँदै सिर्सियामा मिसाएपछि नदी सफा र सङ्",
-     "image": "https://npcdn.ratopati.com/media/news/parsa-district-map_0ZIfD6x5iq.jpg"
-    },
-    {
-     "title": "गुह्येश्वरी छठ घाटमै जाग्राम बसे बर्तालु",
-     "url": "https://www.ratopati.com/story/605442/the-devotees-stayed-awake-at-guhyeshwori-chhath-ghat",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-15T17:39:18+00:00",
-     "summary": "काठमाडौँ । छठ पर्वको तेस्रो दिन आज अस्ताउँदो सूर्यलाई पूजा आराधनासहित अर्घ्य दान गरेका बर्तालु पशुपति क्षेत्रस्थित गुह्येश्वरी गौरीघाट क्षेत्रको छठ घाटमै जाग्राम बसेका छन् । कार्ति",
-     "image": "https://npcdn.ratopati.com/media/news/7-chhath-festival-gaurighat_npl--3681_u5x34Lq9Xw.webp"
-    },
-    {
-     "title": "करिब २२ करोडको लागुऔषधसहित विमानस्थलबाट भारतीय नागरिक पक्राउ",
-     "url": "https://baahrakhari.com/detail/507401",
-     "source": "Baahrakhari (बाह्रखरी)",
-     "published": "2026-11-15T17:34:21+00:00",
-     "summary": "",
-     "image": ""
     }
    ]
   }
