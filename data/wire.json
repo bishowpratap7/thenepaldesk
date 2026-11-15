@@ -1,16 +1,32 @@
 {
- "generated_at": "2026-11-15T20:20:35.842870+00:00",
+ "generated_at": "2026-11-15T20:52:19.711350+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-15T20:20:35.842837+00:00",
+   "fetched_at": "2026-11-15T20:52:19.711321+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Climate COP31 Nepal Flooding",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZWY2S0pSQndGZ0ZmX09kcUpkclZIRWxZdk82Q0VkUHhrTGRueVQyZjlDQ3FqNWlFQkNnMFhleUdTSnAzWEVwaTFqNTVlaExNbnFSVUtnZV9mdTdjMm1Cd01nSURtYVBMbXJYZjNkUU03SWtVUHRRVHl1YmpSc3E0QzhxYUhxOU1FMkhlN3lQNFhnNk5WcC16RDdDbnRRazZQalA1ZGw4OTYwTGNIU1A5WHJCZEF3dnlERzhzMlpocw?oc=5",
+     "source": "Goshen News",
+     "published": "2026-11-15T20:20:07+00:00",
+     "summary": "Climate COP31 Nepal Flooding&nbsp;&nbsp;Goshen News",
+     "image": ""
+    },
     {
      "title": "Repeated Heat Waves Linked to Childhood Adversity and Distress in Nepal",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUXN5TTdXVE81RldwVmdrTlpmbjZCM1pCeTdxYm5xVlVOVGIzd3hUQVpWaTFNcHN3aVFLRU5ncUFTUThURXFXZksyY3BjOW04eVRBSzZiYnZEc25FVU1zZG1MT1pYeTJ4N3FKNFVUX2xXM0lnRFpvZXRzMkUxREtCNS1tOG5Cc3dmeDhtaUhHQVZkMk1ONmNvcXZ5RHM?oc=5",
      "source": "Bioengineer.org",
-     "published": "2026-11-15T19:55:20+00:00",
+     "published": "2026-11-15T20:07:21+00:00",
      "summary": "Repeated Heat Waves Linked to Childhood Adversity and Distress in Nepal&nbsp;&nbsp;Bioengineer.org",
+     "image": ""
+    },
+    {
+     "title": "Flash Flood Warning in Nepal Came Far Too Late. How Could it be Improved?",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQW1PSFlfU3BlN3U1UlJjSnhkYlRpWTBRb0x3S3JFRC1rcVZYUHBoUFFTREgyX3l2WVA2bWl0eGs3UWxBTlVTdjZkbDhkaWt2QmtfOHZYNHk1UjdkcEtBdlp1QUl0dUtXSElPZUYzeWFHT1pFQUh1VUhLX3dEamM2ZXVKRDdIRkNwbkRlaUIyQ1pwQ2YxbTIwWmN3eXlFbmVTVTI3WmEwdE9SOWM2OEhLQmV3UQ?oc=5",
+     "source": "The Maritime Executive",
+     "published": "2026-11-15T20:05:00+00:00",
+     "summary": "Flash Flood Warning in Nepal Came Far Too Late. How Could it be Improved?&nbsp;&nbsp;The Maritime Executive",
      "image": ""
     },
     {
@@ -116,27 +132,11 @@
      "published": "2026-11-15T16:17:06+00:00",
      "summary": "झापा। झापाको कनकाई नदीमाथि निर्माण गरिएको कनकाई पुल निर्धारित समयभन्दा अगावै सम्पन्न भई सञ्चालनमा आएको छ। शिवसताक्षी नगरपालिका र झापा गाउँपालिकालाई जोड्ने उक्त पुल निर्माण सम्पन्न ",
      "image": ""
-    },
-    {
-     "title": "Top 10 News Events: Chhath Festival Celebrated, PM's India Visit Expectations, Election Discussions, and Heroin Seizure",
-     "url": "http://english.ratopati.com/story/86770/10-news-at-10-chhath-festival-is-being-celebrated-why-did-ravi-choose-madhes-for-the-pilgrimage",
-     "source": "Ratopati",
-     "published": "2026-11-15T16:15:00+00:00",
-     "summary": "Today is Sunday, November 16, 2026. We have presented the top 10 main events of the day on RatoPati.com's regular...",
-     "image": ""
-    },
-    {
-     "title": "Bangladesh, Bhutan and Nepal call for fair climate finance at COP31",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWktHQXBaYmVqVWJFXzl6N1ZuUTdMYVU0ZGRCdTdndFRqTm1nSTFOd25xUTlpUlBuN0FUOHd2VWJYa0tkcEI2OGp3NWxQRS12Z0lYd2RnbHVXeTZFckVWbmxhcDBqM25UVk9EYXR2OE1OVndFNmhiZ0hsNEM2Mm50d3hzME9DT2xjYnlFMHRkS2lKSHRPUUhudW1VNA?oc=5",
-     "source": "The Climate Watch",
-     "published": "2026-11-15T16:12:06+00:00",
-     "summary": "Bangladesh, Bhutan and Nepal call for fair climate finance at COP31&nbsp;&nbsp;The Climate Watch",
-     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-15T20:20:35.842853+00:00",
+   "fetched_at": "2026-11-15T20:52:19.711335+00:00",
    "stale": false,
    "items": [
     {
@@ -238,7 +238,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-15T20:20:35.842857+00:00",
+   "fetched_at": "2026-11-15T20:52:19.711339+00:00",
    "stale": false,
    "items": [
     {
@@ -247,6 +247,14 @@
      "source": "Ratopati",
      "published": "2026-11-15T18:19:46+00:00",
      "summary": "Nepal's Parliament: Nine Elections, Three Unfinished Terms&nbsp;&nbsp;Ratopati",
+     "image": ""
+    },
+    {
+     "title": "Top 10 News Events: Chhath Festival Celebrated, PM's India Visit Expectations, Election Discussions, and Heroin Seizure",
+     "url": "http://english.ratopati.com/story/86770/10-news-at-10-chhath-festival-is-being-celebrated-why-did-ravi-choose-madhes-for-the-pilgrimage",
+     "source": "Ratopati",
+     "published": "2026-11-15T16:15:00+00:00",
+     "summary": "Today is Sunday, November 16, 2026. We have presented the top 10 main events of the day on RatoPati.com's regular...",
      "image": ""
     },
     {
@@ -328,21 +336,21 @@
      "published": "2026-11-15T12:07:53+00:00",
      "summary": "Kathmandu. The committee formed by the Nepal Bar Association to investigate the case of Supreme Court judges and intermediaries has...",
      "image": ""
-    },
-    {
-     "title": "Special Security Advisor Karki receives appointment letter, claims Home Ministry",
-     "url": "https://english.khabarhub.com/2026/15/575713/",
-     "source": "Khabarhub",
-     "published": "2026-11-15T11:59:44+00:00",
-     "summary": "KATHMANDU: Former Inspector General of Police (IGP) Dan Bahadur Karki, who was appointed Special Security Advisor to the Prime Minister, received his appointment letter on the day ",
-     "image": ""
     }
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-15T20:20:35.842860+00:00",
+   "fetched_at": "2026-11-15T20:52:19.711341+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "बेनीमा डेढ महिनापछि खानेपानी आपूर्ति",
+     "url": "https://www.ratopati.com/story/605448/drinking-water-supply-restored-in-beni-after-one-and-a-half-months",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-15T20:21:52+00:00",
+     "summary": "म्याग्दी । म्याग्दीको सदरमुकाम बेनीबजारमा डाँडाखर्कको मुहानबाट डेढ महिनापछि खानेपानी आपूर्ति हुन थालेको छ । बेनी खानेपानी तथा सरसफाइ उपभोक्ता संस्थाले अन्नपूर्ण गाउँपालिका–८ रिठाखर",
+     "image": "https://npcdn.ratopati.com/media/news/yWmR7UVkXk.jpg"
+    },
     {
      "title": "किसानको बाली जोगाउन प्रहरी खेतमा",
      "url": "https://www.ratopati.com/story/605446/police-in-the-fields-to-protect-farmers-crops",
@@ -462,14 +470,6 @@
      "published": "2026-11-15T17:08:50+00:00",
      "summary": "कास्की । पोखरा रङ्गशालाको क्रिकेट मैदानमा जारी गण्डकी प्रदेशस्तरीय ‘पीएम कप’ महिला टी–२० छनोट क्रिकेट प्रतियोगिताको आजको खेलमा कास्की र नवलपुर विजयी भएका छन् । प्रतियोगिताको दोस्रो",
      "image": "https://npcdn.ratopati.com/media/news/APoViRSUNF.jpg"
-    },
-    {
-     "title": "इजाजत नभएका बन्दुक बरामद",
-     "url": "https://gorkhapatraonline.com/news/229184",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-15T16:54:22+00:00",
-     "summary": "म्याग्दी, कात्तिक २९ गते । म्याग्दीको मालिका गाउँपालिका–५ देवीस्थानबाट आज इजाजत नभएका चार थान भरुवा बन्दुक बरामद गरिएको छ । देवीस्थानको पन्थोकमा लुकाएर राखेको अवस्थामा भेटिएका बन्.",
-     "image": "https://gorkhapatraonline.com/storage/media/391633/conversions/Banduk-Baramad--original.jpg"
     }
    ]
   }
