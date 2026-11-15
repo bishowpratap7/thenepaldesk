@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T17:45:52.825553+00:00",
+ "generated_at": "2026-11-15T18:16:25.169740+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-15T17:45:52.825523+00:00",
+   "fetched_at": "2026-11-15T18:16:25.169676+00:00",
    "stale": false,
    "items": [
     {
@@ -136,7 +136,7 @@
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-15T17:45:52.825537+00:00",
+   "fetched_at": "2026-11-15T18:16:25.169701+00:00",
    "stale": false,
    "items": [
     {
@@ -238,7 +238,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-15T17:45:52.825541+00:00",
+   "fetched_at": "2026-11-15T18:16:25.169706+00:00",
    "stale": false,
    "items": [
     {
@@ -340,9 +340,41 @@
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-15T17:45:52.825544+00:00",
+   "fetched_at": "2026-11-15T18:16:25.169708+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "१२ बजे १२ समाचार : विदेश भ्रमणमा मन्त्री र सांसदको लर्को, तीन पटक कार्यकाल नपुग्दै संसद् विघटन",
+     "url": "https://www.ratopati.com/story/605444/12-oclock-12-news-ministers-and-mps-clash-over-foreign-trips-parliament-dissolved-three-times-before-completing-its-term",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-15T18:15:05+00:00",
+     "summary": "काठमाडौँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १२ समाचार’मा प्रस्तुत गरेका छौँ– १. छठ पर्व मनाइँदै छठ पर्व अन्तर्गत आज अस्ताउँदो सूर्यलाई अघ्र्य द",
+     "image": "https://npcdn.ratopati.com/media/news/12-news_udRlj5u0kC.webp"
+    },
+    {
+     "title": "आस्था र उज्यालोको छठ पर्व (फोटो फिचर)",
+     "url": "https://gorkhapatraonline.com/news/229189",
+     "source": "Gorkhapatra (गोरखापत्र)",
+     "published": "2026-11-15T18:01:12+00:00",
+     "summary": "जानु पाण्डेकपिलवस्तु, कात्तिक २९ गते । कपिलवस्तुमा उल्लास पूर्वक छठ पर्व मनाइएको छ । बाणगंगा नदीलगायत जिल्लाका विभिन्न नदी, पोखरी तथा जलाशय किनारमा श्रद्धालुहरूको घुइँचो लागेको छ ।",
+     "image": "https://gorkhapatraonline.com/storage/media/391639/conversions/IMG_7950-original.jpg"
+    },
+    {
+     "title": "ठुलो परिमाणमा लागु औषध बरामद",
+     "url": "https://gorkhapatraonline.com/news/229188",
+     "source": "Gorkhapatra (गोरखापत्र)",
+     "published": "2026-11-15T17:53:56+00:00",
+     "summary": "बाबुराम कार्कीसुनसरी, कात्तिक २९ गते । सुनसरीको हरिनगर गाउँपालिका ७ खानचोकबाट प्रहरीले २२ हजार ४७० थान लागूऔषध बरामद गरेको छ । प्रहरी चौकी घुस्कीहाट र सशस्त्र प्रहरी बल नेपाल, बीओप",
+     "image": "https://gorkhapatraonline.com/storage/media/391640/conversions/%E0%A4%A0%E0%A5%81%E0%A4%B2%E0%A5%8B-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A4%BE-%E0%A4%B2%E0%A4%BE%E0%A4%97%E0%A5%82%E0%A4%94%E0%A4%B7%E0%A4%A7-%E0%A4%AC%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%A6-photo1-%281%29-original.jpg"
+    },
+    {
+     "title": "छठमा सिर्सिया नदीमा सङ्लो र सफा पानी",
+     "url": "https://www.ratopati.com/story/605443/clear-and-clear-water-in-sirsia-river-during-chhath",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-15T17:49:05+00:00",
+     "summary": "पर्सा । छठ पूजाको अवसरमा बारा–पर्साको औद्योगिक करिडोर भएर बहने सिर्सिया नदी आज सङ्लो र सफा देखिएको छ । गण्डक नहरबाट नारायणीको पानी जगरनाथपुर हुँदै सिर्सियामा मिसाएपछि नदी सफा र सङ्",
+     "image": "https://npcdn.ratopati.com/media/news/parsa-district-map_0ZIfD6x5iq.jpg"
+    },
     {
      "title": "गुह्येश्वरी छठ घाटमै जाग्राम बसे बर्तालु",
      "url": "https://www.ratopati.com/story/605442/the-devotees-stayed-awake-at-guhyeshwori-chhath-ghat",
@@ -438,38 +470,6 @@
      "published": "2026-11-15T16:49:16+00:00",
      "summary": "",
      "image": "https://nepalsamaya.com/uploads/posts/photo-11_aa92b317-1794761346.jpg"
-    },
-    {
-     "title": "राष्ट्रिय स्वाधीनता र अखण्डताका लागि राजसंस्था चाहिन्छ : लुईटेल [भिडियो]",
-     "url": "https://nepalsamaya.com/detail/147829",
-     "source": "Nepal Samaya (नेपाल समय)",
-     "published": "2026-11-15T16:48:01+00:00",
-     "summary": "",
-     "image": "https://nepalsamaya.com/uploads/posts/photo-4_a89fdf84-1794761273.jpg"
-    },
-    {
-     "title": "सभामुख अर्यालद्वारा छठ घाटको अवलोकन",
-     "url": "https://gorkhapatraonline.com/news/229185",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-15T16:47:52+00:00",
-     "summary": "दिपक गौतम वीरगञ्ज (पर्सा), कात्तिक २९ गते । प्रतिनिधिसभाका सभामुख डोलप्रसाद (डीपी) अर्यालले वीरगञ्जस्थित घडिअर्वा पोखरी छठ घाटको अवलोकन गर्नुभएको छ । अवलोकनको क्रममा सभामुख अर्यालल",
-     "image": "https://gorkhapatraonline.com/storage/media/391634/conversions/DP-aryal-original.jpg"
-    },
-    {
-     "title": "डडेल्धुरामा ट्याक्टर दुर्घटना",
-     "url": "https://dcnepal.com/2026/11/815280/",
-     "source": "DC Nepal (डीसी नेपाल)",
-     "published": "2026-11-15T16:46:30+00:00",
-     "summary": "डडेल्धुरा। डडेल्धुरामा ट्याक्टर दुर्घटना हुँदा चालक र सहचालक घाइते भएका छन्। घाइतेमध्ये चालकको अवस्था गम्भीर रहेको छ। आइतबार अमरगढी नगरपालिका–१० ऐरीगाउँस्थित स्याउलेबाट दिपायलतर्फ ",
-     "image": "https://dcnepal.com/wp-content/uploads/2026/10/Accident_11780546251.jpg"
-    },
-    {
-     "title": "यो सिजन सुखद हुन सकेन, समर्थकप्रति क्षमाप्रार्थी छौँ : दिनेश खरेल",
-     "url": "https://www.ratopati.com/story/605437/this-season-was-not-a-pleasant-one-we-apologize-to-the-fans-dinesh-kharel",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-15T16:41:21+00:00",
-     "summary": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणमा पोखरा एभेन्जर्सले आफ्नो अन्तिम खेलमा काठमाण्डु गोर्खाजलाई ५५ रनले पराजित गर्दै सुखद अन्त्य गरेको छ । खेलपछि पोखराका खेलाड",
-     "image": "https://npcdn.ratopati.com/media/news/dinesh-kharel_DyUfGBQCI2.webp"
     }
    ]
   }
