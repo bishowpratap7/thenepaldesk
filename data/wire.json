@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T22:24:05.989134+00:00",
+ "generated_at": "2026-11-15T22:55:19.458085+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-15T22:24:05.989105+00:00",
+   "fetched_at": "2026-11-15T22:55:19.458046+00:00",
    "stale": false,
    "items": [
     {
@@ -126,17 +126,17 @@
      "image": ""
     },
     {
-     "title": "Kaski and Nawalpur Win in Gandaki Province Level PM Cup Women's T20 Qualifiers",
-     "url": "http://english.ratopati.com/story/86774/gandaki-pm-cup-womens-cricket-kaski-and-nawalpur-win",
-     "source": "Ratopati",
-     "published": "2026-11-15T17:08:50+00:00",
-     "summary": "Kaski. In the Gandaki Province Level 'PM Cup' Women's T20 Qualifier Cricket Tournament underway at the Pokhara Stadium cricket ground,...",
+     "title": "Chhath festival celebrated with offerings to setting sun in Sunsari",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVXJqdUZQOWtFMUh2c0s0X2VxRnphVDRNbU8xZHZmREdvY1RGQVk0NDdvcEdaR3ZNdFZIc2g0d2hnY1VfYUdjQTZ5SENrZEFSMzlqeWsyRUEzeDY4anFfMEtwUEFzZTBfRlRwUmpwWHJKWVJISkx4LTdVbHlZWng1OUJ1MHpIeGpWa2JIYnA1bmlPLVVMajMwbTVHZ3M3MTJGY2lFcmFUVlZkUkxDdUhhUzJ4T25YNHM?oc=5",
+     "source": "Nepalnews.com",
+     "published": "2026-11-15T17:12:46+00:00",
+     "summary": "Chhath festival celebrated with offerings to setting sun in Sunsari&nbsp;&nbsp;Nepalnews.com",
      "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-15T22:24:05.989120+00:00",
+   "fetched_at": "2026-11-15T22:55:19.458060+00:00",
    "stale": false,
    "items": [
     {
@@ -238,7 +238,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-15T22:24:05.989123+00:00",
+   "fetched_at": "2026-11-15T22:55:19.458064+00:00",
    "stale": false,
    "items": [
     {
@@ -340,9 +340,25 @@
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-15T22:24:05.989125+00:00",
+   "fetched_at": "2026-11-15T22:55:19.458066+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "उदाउँदो सूर्यलाई अर्घ्य दिएर आज छठ सम्पन्न गरिँदै",
+     "url": "https://www.ratopati.com/story/605453/chhath-is-being-celebrated-today-by-offering-arghya-to-the-rising-sun",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-15T22:43:22+00:00",
+     "summary": "काठमाडौँ । सूर्य उपासनाको महापर्व छठको अन्तिम दिन आज (सप्तमी) बिहान उदाउँदो सूर्यलाई विधिपूर्वक पूजा–आराधना गरी अर्घ्य दिइँदै छ । यससँगै चार दिनसम्म विभिन्न विधिपूर्वक मनाइने छठ पर",
+     "image": "https://npcdn.ratopati.com/media/news/chhat-samapan-(21)_lyGXrW714C.jpg"
+    },
+    {
+     "title": "शुक्लागण्डकी फूल बिक्रीमा अग्रणी बन्दै",
+     "url": "https://www.ratopati.com/story/605452/shuklagandaki-becoming-a-leader-in-flower-sales",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-15T22:34:39+00:00",
+     "summary": "तनहुँ । तिहारको अवसरमा तनहुँको शुक्लागण्डकी नगरपालिकाका किसानले सयपत्री फूल बिक्री गरेर रु नौ लाख ५३ हजार आम्दानी गर्न सफल भएका छन् । यस वर्ष तिहारमा नगरपालिकाभित्रका किसानले दुई ह",
+     "image": "https://npcdn.ratopati.com/media/news/12-kamala-thapa-flower-business-photo-story_npl-5_QIJReIwNLP.webp"
+    },
     {
      "title": "एक गोलले पछि परेको स्थिति उल्टाउँदै इटालीमाथि बेल्जियमको ४-१ को सानदार जित",
      "url": "https://www.ratopati.com/story/605451/belgium-overturns-one-goal-deficit-to-win-4-1-over-italy",
@@ -454,22 +470,6 @@
      "published": "2026-11-15T17:15:31+00:00",
      "summary": "अमेरिकामा प्राविधिक समस्याका कारण शुक्रबार राष्ट्रव्यापी रूपमा हवाई उडान रोकिएपछि...",
      "image": ""
-    },
-    {
-     "title": "गेस्ट हाउसमा एक व्यक्ति मृत फेला",
-     "url": "https://www.ratopati.com/story/605441/a-person-was-found-dead-in-a-guesthouse",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-15T17:14:56+00:00",
-     "summary": "रुकुमपश्चिम । रुकुम पश्चिमको त्रिवेणी गाउँपालिका–३ झुल्नेटास्थित एक गेस्ट हाउसको कोठामा एक व्यक्ति मृत अवस्थामा फेलापरेका छन् । मृत्यु हुनेमा मुसिकोट नगरपालिका–३ माछिमी निवासी अन्द",
-     "image": "https://rpcdn.ratopati.com/media/albums/rukum_paschim_JuBuj9K0vw.jpg"
-    },
-    {
-     "title": "पोखराको कीर्तिमानी जित, सुदूरपश्चिम क्वालिफायरमा र काठमाण्डु-चितवन एलिमिनेटरमा भिड्ने",
-     "url": "https://www.ratopati.com/story/605439/pokharas-record-win-sudurpaschim-qualifiers-kathmandu-and-chitwan-to-face-each-other-in-eliminator",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-15T17:14:20+00:00",
-     "summary": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) क्रिकेटको तेस्रो संस्करणअन्तर्गत आइतबार लिग चरणका अन्तिम दुई खेल सम्पन्न भएका छन् । आइतबारका खेलसँगै प्लेअफको समीकरण पनि पूरा भएको छ । पोखरा ",
-     "image": "https://npcdn.ratopati.com/media/news/911616209_1470444858525537_7123972356535486607_n_r9UIeNWwxt.webp"
     }
    ]
   }
