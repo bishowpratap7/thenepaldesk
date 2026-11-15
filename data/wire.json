@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-15T18:47:47.862554+00:00",
+ "generated_at": "2026-11-15T19:18:58.739461+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-15T18:47:47.862522+00:00",
+   "fetched_at": "2026-11-15T19:18:58.739428+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Nepal News Evening Briefing | Sunday, November 15, 2026",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWo2MTZranpCcG9KS21GeGRMenNJZmhOODlkV0MzdTYyNUN6SkJIOVJJbTBPaDN2M21tbWJNaXFWUl9YSXUyNEVmbzJnZ2g2VmFUX1VrWWFQckQzVW1YdmJSd0w2QXp2ekRmSXpNbnBVcmlZV1lxUndVX1VDSVNvNTNfeW5tU3BkaFpoNGdiQ0VIdmMxSjlIeGhn?oc=5",
+     "source": "Nepalnews.com",
+     "published": "2026-11-15T18:53:11+00:00",
+     "summary": "Nepal News Evening Briefing | Sunday, November 15, 2026&nbsp;&nbsp;Nepalnews.com",
+     "image": ""
+    },
     {
      "title": "Nepal News Evening Economic Brief – November 15, 2026",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmNUbHc5NjAweHhNcUVBYnFEYUNhT2hNVXFpYjNEUGsxdzFxeHVacGN1XzRnRGRJQnJQdXRLTWV2QkRXOTB4OFlmUWhGT01jVkM1SklJTmhzMlV4N3lhWVFoaTV3SFh6ZFpIai15WUFZTXFrNTRTX2dFR091ZDBpX1QyMTZMZkkyM1VqOUJ1cjZJbkRkd1VB?oc=5",
@@ -124,19 +132,11 @@
      "published": "2026-11-15T16:11:13+00:00",
      "summary": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. PM Shah reshuffles Secre",
      "image": ""
-    },
-    {
-     "title": "Niger Orders Thousands of Nomads to Leave by Year-End",
-     "url": "http://english.ratopati.com/story/86769/niger-orders-thousands-of-arab-nomads-to-leave-country",
-     "source": "Ratopati",
-     "published": "2026-11-15T15:57:30+00:00",
-     "summary": "Kathmandu. Thousands of Arab nomads from the Mahamid tribe, who have been living in southeastern Niger for decades, have been...",
-     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-15T18:47:47.862537+00:00",
+   "fetched_at": "2026-11-15T19:18:58.739444+00:00",
    "stale": false,
    "items": [
     {
@@ -238,7 +238,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-15T18:47:47.862541+00:00",
+   "fetched_at": "2026-11-15T19:18:58.739448+00:00",
    "stale": false,
    "items": [
     {
@@ -340,9 +340,17 @@
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-15T18:47:47.862544+00:00",
+   "fetched_at": "2026-11-15T19:18:58.739451+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "महिला गोल्डकप : गाईघाटलाई हराउँदै स्वर्णिम सेमिफाइनलमा",
+     "url": "https://www.ratopati.com/story/605445/womens-gold-cup-swarnim-advances-to-semifinals-after-defeating-gaighat",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-15T19:01:54+00:00",
+     "summary": "सुनसरी । गाईघाट फुटबल क्लब उदयपुरलाई ५–० गोलअन्तरले पराजित गर्दै आयोजक स्वर्णिम फुटबल क्लब प्रथम धरान अन्तर्राष्ट्रिय महिला गोल्डकप फुटबल प्रतियोगिताको सेमिफाइनलमा प्रवेश गरेको छ ।",
+     "image": "https://npcdn.ratopati.com/media/news/BfzC8dSiUO.jpg"
+    },
     {
      "title": "१२ बजे १२ समाचार : विदेश भ्रमणमा मन्त्री र सांसदको लर्को, तीन पटक कार्यकाल नपुग्दै संसद् विघटन",
      "url": "https://www.ratopati.com/story/605444/12-oclock-12-news-ministers-and-mps-clash-over-foreign-trips-parliament-dissolved-three-times-before-completing-its-term",
@@ -462,14 +470,6 @@
      "published": "2026-11-15T16:49:57+00:00",
      "summary": "",
      "image": "https://nepalsamaya.com/uploads/posts/photo-4_6ffbeee4-1794761346.jpg"
-    },
-    {
-     "title": "नेतन्याहुले आइजनकोटलाई एकताको प्रस्ताव गरेको इजरायली मन्त्रीको दाबी",
-     "url": "https://www.ratopati.com/story/605438/israeli-minister-claims-netanyahu-offered-unity-to-eisenhower",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-15T16:49:46+00:00",
-     "summary": "काठमाडौँ । इजरायलकी यातायात तथा सडक सुरक्षा मन्त्री मिरी रेगेभले प्रधानमन्त्री बेन्जामिन नेतन्याहूले एकताका लागि हात अघि बढाएको बताएकी छन् । नेतन्याहूको तर्फबाट एकताको प्रस्ताव अघि",
-     "image": "https://npcdn.ratopati.com/media/news/benjamin-netanyahu_F4CCfeoG1N.webp"
     }
    ]
   }
