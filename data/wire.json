@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T04:55:23.208780+00:00",
+ "generated_at": "2026-11-15T04:56:07.404923+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-15T04:55:23.208757+00:00",
+   "fetched_at": "2026-11-15T04:56:07.404863+00:00",
    "stale": false,
    "items": [
     {
@@ -136,7 +136,7 @@
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-15T04:55:23.208768+00:00",
+   "fetched_at": "2026-11-15T04:56:07.404879+00:00",
    "stale": false,
    "items": [
     {
@@ -238,7 +238,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-15T04:55:23.208771+00:00",
+   "fetched_at": "2026-11-15T04:56:07.404883+00:00",
    "stale": false,
    "items": [
     {
@@ -340,7 +340,7 @@
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-15T04:55:23.208773+00:00",
+   "fetched_at": "2026-11-15T04:56:07.404886+00:00",
    "stale": false,
    "items": [
     {
@@ -384,6 +384,14 @@
      "image": "https://www.thahakhabar.com/uploads/posts/Rsp-1794718197.JPG"
     },
     {
+     "title": "आज सुन र चाँदी दुवैको मूल्य घट्यो",
+     "url": "https://nagariknews.nagariknetwork.com/Bazar/the-price-of-both-gold-and-silver-fell-today-99-73.html",
+     "source": "Nagarik (नागरिक)",
+     "published": "2026-11-15T04:50:03+00:00",
+     "summary": "साताको पहिलो दिन आज नेपाली बजारमा सुन र चाँदी दुवैको मूल्य घटेको छ।",
+     "image": ""
+    },
+    {
      "title": "'सदनमा जनताकै पक्षमा काम गरिराखेको छु'",
      "url": "https://www.ratopati.com/story/605291/i-am-working-for-the-people-in-the-house",
      "source": "Ratopati (नेपाली)",
@@ -397,6 +405,14 @@
      "source": "Baahrakhari (बाह्रखरी)",
      "published": "2026-11-15T04:46:22+00:00",
      "summary": "",
+     "image": ""
+    },
+    {
+     "title": "सयरमा मन",
+     "url": "https://nagariknews.nagariknetwork.com/arts/the-heart-in-the-sky-br-53-44.html",
+     "source": "Nagarik (नागरिक)",
+     "published": "2026-11-15T04:46:12+00:00",
+     "summary": "अचेल, एकान्तमा सबै एकलिन्छन्, भिडभित्रै एकान्त महसुस गरिरहेछु, बिथोलिने छैन, जस्तै बाछिटा लागे पनि, चंगा मन सयरमा छ।...",
      "image": ""
     },
     {
@@ -454,22 +470,6 @@
      "published": "2026-11-15T04:39:20+00:00",
      "summary": "मुम्बई । बक्स अफिसमा यतिबेला रणबीर कपूर र यश अभिनीत चलचित्र ‘रामायण’को दबदबा छ । प्रदर्शनमा आएसँगै दर्शकमाझ व्यापक चर्चा बटुलिरहेको यस पौराणिक चलचित्रको कमाइमा दोस्रो शनिबार जबरजस्",
      "image": "https://npcdn.ratopati.com/media/news/ramayan_JfDO7AJU3d.webp"
-    },
-    {
-     "title": "कांग्रेस महाधिवेशनपछि खुलामञ्चमा दुबो पुनः रोपण सुरु (तस्बिरहरु)",
-     "url": "https://khabarhub.com/2026/15/1047732/",
-     "source": "Khabarhub (नेपाली)",
-     "published": "2026-11-15T04:39:08+00:00",
-     "summary": "काठमाडौं&#8211; नेपाली कांग्रेसको १५औँ महाधिवेशनका क्रममा प्रयोग गरिएपछि क्षति पुगेको काठमाडौंको खुलामञ्चमा दुबो पुनःरोपण तथा मर्मतसम्भारको काम सुरु गरिएको छ। महाधिवेशनका विभिन्न क",
-     "image": ""
-    },
-    {
-     "title": "हेर्नुहोस् साताका ७ तस्बिर",
-     "url": "https://www.ratopati.com/story/605289/see-7-photos-of-the-week",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-15T04:36:49+00:00",
-     "summary": "काठमाडौँ । गत साता देशभर विभिन्न घटनाक्रम भए । जसमध्ये मुख्यमुख्य घटनाक्रमलाई रातोपाटीको नियमित प्रस्तुति 'साताका ७ तस्बिर'मा प्रस्तुत गरिएको छ । आइतबार - लक्ष्मी पूजाको साँझ देखिए",
-     "image": "https://npcdn.ratopati.com/media/news/ddd_eKrHMJLUts.webp"
     }
    ]
   }
