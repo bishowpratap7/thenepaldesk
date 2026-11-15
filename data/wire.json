@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T19:18:58.739461+00:00",
+ "generated_at": "2026-11-15T19:49:32.741264+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-15T19:18:58.739428+00:00",
+   "fetched_at": "2026-11-15T19:49:32.741219+00:00",
    "stale": false,
    "items": [
     {
@@ -136,7 +136,7 @@
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-15T19:18:58.739444+00:00",
+   "fetched_at": "2026-11-15T19:49:32.741233+00:00",
    "stale": false,
    "items": [
     {
@@ -220,25 +220,25 @@
      "image": ""
     },
     {
+     "title": "Nepal Embassy in Delhi hosts Deusi-Bhailo celebrations as diaspora marks Tihar",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRzNvYUhHMnYtWGx1T0ZQaUxvckdXRjBSSzRXZmd3R0JRMTdQLVg5angxU2FoMDBqMC1jaE0xM2NhYzBKOWIzby1fTV9Tbm83NnlKODN3OVVEc0xpbGpaNVFLZzZjMHc4MDljV0s4VXdRcElZX0djWi1hdk9RcHpjU0RtdW9JdER4eUFkUzdmbVhfaXNSQU1iTm9EUk5xYzdLcThLNzR4RjNqSWxEcDFiY1cxRGpIWXNhWFNDbXZlb2xseEJnclHSAcsBQVVfeXFMTm9nb2hJZDRQbFNCeGl5Rl9BcnBTQnY1RWdJcmRUOElWWHNnUVVOaGJ0UEh1UkJiVUdxUXhuYmktb1pqOENfaFFUaHR2TjcxOEdrYThITWZreXJOdXRDY044dkxtNVpaSlFMcnYwcmc4c1EtTXhpc3kzSVJEUUVhaUwxOUNyeEREbml5YU9VamF1OXBGSkF1bEZOM1JBdW1vSTRydDIxcjExb3FzX3lXQUhVUW8zX09FODdqUmNDdWhXQ3VCZ3NzY19DRHc?oc=5",
+     "source": "WION",
+     "published": "2026-11-10T13:28:00+00:00",
+     "summary": "Nepal Embassy in Delhi hosts Deusi-Bhailo celebrations as diaspora marks Tihar&nbsp;&nbsp;WION",
+     "image": ""
+    },
+    {
      "title": "Explained: Mamta Kafle murder trial turns on one question: How did she die?",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0t6b2w2NmlPbDBPSVdoRTlLaUMzRzlDTmdBd1pfYmYyU3BDTjNVeU1admpaSEp5RUpxX1VyOWw0aFZHOXdydW5HNmsyOEx6LVFoYVA1UXpqSW9oMzhlSGE0MEhKREhUVXFHbDJvZ2NMT2hnZ3V3M1BwQTJvdDB4a1c2Ui1uTk1uNmRZNDBHZDJfNmN3YkhDZjFscmQ2UnNGcUl4blN5aVZTcWFJbEd1SXphRHQtczNZSmxsRW1qVVRqVXdDd19TZkJxNWJaTENDdjBOdTdqRHRrUk8yOHpkcXVjZzM?oc=5",
      "source": "The Kathmandu Post",
      "published": "2026-11-06T08:00:00+00:00",
      "summary": "Explained: Mamta Kafle murder trial turns on one question: How did she die?&nbsp;&nbsp;The Kathmandu Post",
      "image": ""
-    },
-    {
-     "title": "Second Convention of Non-Resident Nepali Forum International Committee to be Inaugurated by Bidya Devi Bhandari",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWjJTWjlxQndGdnBONGR3Y0NXYV9oVDEwZ0VKMkx6Qzg5Vm51bEFSUk9iaGYwN3lvYklOOEphRm9UUk1BbEd5R3hMTllITzNGS3htVmtta2U2Z3pOVS1tSTRZNjVuVUplNWlDZXhFWmp1M2NHb1p2aFFBZm5vcmZwaU5BNEZueGZfbWNzLVdRVVlwazVGWkJBYm15NE83c0ZNakEzTmkway00LWFoMXBTRTNpWXdBS1RyZHNPNnVRQjJKclU4SUVFZWMzOVAzYjN2cVpR?oc=5",
-     "source": "Ratopati",
-     "published": "2026-11-04T03:34:24+00:00",
-     "summary": "Second Convention of Non-Resident Nepali Forum International Committee to be Inaugurated by Bidya Devi Bhandari&nbsp;&nbsp;Ratopati",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-15T19:18:58.739448+00:00",
+   "fetched_at": "2026-11-15T19:49:32.741237+00:00",
    "stale": false,
    "items": [
     {
@@ -340,9 +340,25 @@
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-15T19:18:58.739451+00:00",
+   "fetched_at": "2026-11-15T19:49:32.741240+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "किसानको बाली जोगाउन प्रहरी खेतमा",
+     "url": "https://www.ratopati.com/story/605446/police-in-the-fields-to-protect-farmers-crops",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-15T19:45:00+00:00",
+     "summary": "झापा । झापाको बाहुनडाँगीमा जङ्गली हात्तीको आवागमनका कारण पाकेको धानबालीमा हुनसक्ने क्षति न्यूनीकरण गर्न स्थानीय बासिन्दा, सुरक्षाकर्मी र जनप्रतिनिधि धान काट्न जुटेका छन् । मेचीनगर ",
+     "image": "https://npcdn.ratopati.com/media/news/oGKBVLy4JI.jpg"
+    },
+    {
+     "title": "विपन्नको उपचार गर्न महायज्ञ",
+     "url": "https://www.ratopati.com/story/605447/mahayagya-to-treat-the-poor",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-15T19:21:13+00:00",
+     "summary": "दाङ । विपन्न नागरिकको उपचारमा आर्थिक सहायता जुटाउने उद्देश्यले तुलसीपुर उपमहानगरपालिका वडा नं १८ ले श्रीमद्भागवत जीवन विज्ञान महायज्ञ आयोजना गर्ने भएको छ । दीर्घ रोगीसहित अन्य बिरा",
+     "image": "https://npcdn.ratopati.com/media/news/dang-map_yCoTeipd67.jpg"
+    },
     {
      "title": "महिला गोल्डकप : गाईघाटलाई हराउँदै स्वर्णिम सेमिफाइनलमा",
      "url": "https://www.ratopati.com/story/605445/womens-gold-cup-swarnim-advances-to-semifinals-after-defeating-gaighat",
@@ -454,22 +470,6 @@
      "published": "2026-11-15T16:54:22+00:00",
      "summary": "म्याग्दी, कात्तिक २९ गते । म्याग्दीको मालिका गाउँपालिका–५ देवीस्थानबाट आज इजाजत नभएका चार थान भरुवा बन्दुक बरामद गरिएको छ । देवीस्थानको पन्थोकमा लुकाएर राखेको अवस्थामा भेटिएका बन्.",
      "image": "https://gorkhapatraonline.com/storage/media/391633/conversions/Banduk-Baramad--original.jpg"
-    },
-    {
-     "title": "छठ पर्व",
-     "url": "https://baahrakhari.com/detail/507399",
-     "source": "Baahrakhari (बाह्रखरी)",
-     "published": "2026-11-15T16:51:47+00:00",
-     "summary": "",
-     "image": ""
-    },
-    {
-     "title": "कांग्रेस सभापति थापाद्वारा दुर्घटनापीडित परिवारसँग भेटघाट, छोराको पढाइको जिम्मेवारी लिने आश्वासन [भिडियो]",
-     "url": "https://nepalsamaya.com/detail/147831",
-     "source": "Nepal Samaya (नेपाल समय)",
-     "published": "2026-11-15T16:49:57+00:00",
-     "summary": "",
-     "image": "https://nepalsamaya.com/uploads/posts/photo-4_6ffbeee4-1794761346.jpg"
     }
    ]
   }
