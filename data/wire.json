@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T20:56:18.293656+00:00",
+ "generated_at": "2026-11-16T21:26:51.819540+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-16T20:56:18.293619+00:00",
+   "fetched_at": "2026-11-16T21:26:51.819503+00:00",
    "stale": false,
    "items": [
     {
@@ -43,6 +43,14 @@
      "source": "Ratopati",
      "published": "2026-11-16T17:34:07+00:00",
      "summary": "Kathmandu. Nepali players have performed impressively in bowling in the league stage of the third edition of the Nepal Premier...",
+     "image": ""
+    },
+    {
+     "title": "India asks Nepal for airspace access for Bagdogra and Raxaul flights; Kathmandu open to Bagdogra request",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4Y3BOTXA1TXk1ZHZ0MkE5N2ZZZXM5ckVNYWx4Zk5sYTBvYW9fUWtwV2FmSlVnVjhLbF9kV2h5OFJOdERJZ3RnZVE3aHkyaFFtLVVvVkdDMW1rMGtMZmlKRWNDUkVsbWtZdFFyV19YdS1NOFU?oc=5",
+     "source": "Avi-Go",
+     "published": "2026-11-16T17:21:21+00:00",
+     "summary": "India asks Nepal for airspace access for Bagdogra and Raxaul flights; Kathmandu open to Bagdogra request&nbsp;&nbsp;Avi-Go",
      "image": ""
     },
     {
@@ -124,19 +132,11 @@
      "published": "2026-11-16T16:05:50+00:00",
      "summary": "Palpa. A two-day 'Heritage Ride (Heritage Journey)' is going to be organized with the objective of promoting domestic and foreign...",
      "image": ""
-    },
-    {
-     "title": "Baglung and Parbat Win Gandaki Provincial Volleyball Championship",
-     "url": "http://english.ratopati.com/story/86902/baglung-and-parbat-champions-in-volleyball-selection-for-10th-national-games",
-     "source": "Ratopati",
-     "published": "2026-11-16T15:55:27+00:00",
-     "summary": "Kaski. In the Gandaki provincial level women's and men's volleyball selection competition for the upcoming 10th National Games, Baglung won...",
-     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-16T20:56:18.293634+00:00",
+   "fetched_at": "2026-11-16T21:26:51.819519+00:00",
    "stale": false,
    "items": [
     {
@@ -238,9 +238,17 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-16T20:56:18.293638+00:00",
+   "fetched_at": "2026-11-16T21:26:51.819523+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Baglung and Parbat Win Gandaki Provincial Volleyball Championship",
+     "url": "http://english.ratopati.com/story/86902/baglung-and-parbat-champions-in-volleyball-selection-for-10th-national-games",
+     "source": "Ratopati",
+     "published": "2026-11-16T15:55:27+00:00",
+     "summary": "Kaski. In the Gandaki provincial level women's and men's volleyball selection competition for the upcoming 10th National Games, Baglung won...",
+     "image": ""
+    },
     {
      "title": "Former Minister Bhim Parajuli Completes 29th Dandavat Pranama Journey During Chhath Festival",
      "url": "http://english.ratopati.com/story/86898/there-is-intense-pressure-to-stand-for-mayor-of-biratnagar-i-dont-know-what-gods-will-is",
@@ -328,19 +336,11 @@
      "published": "2026-11-16T11:13:31+00:00",
      "summary": "KATHMANDU: Newly appointed Indian Ambassador to Nepal, Sudhakar Dalela, paid a courtesy call on Minister for Foreign Affairs Shisir Khanal at the latter&#8217;s office in Singha Du",
      "image": ""
-    },
-    {
-     "title": "Minister Pun assures transparency in use of Prime Minister’s Disaster Relief Fund",
-     "url": "https://english.onlinekhabar.com/minister-pun-assures-transparency-in-use-of-prime-ministers-disaster-relief-fund.html",
-     "source": "Online Khabar",
-     "published": "2026-11-16T11:03:16+00:00",
-     "summary": "Kathmandu, November 16 Minister for Science, Technology and Innovation Mahabir Pun has assured that funds received by the Prime Minister&#8217;s Natural Disaster Relief Fund will n",
-     "image": ""
     }
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-16T20:56:18.293640+00:00",
+   "fetched_at": "2026-11-16T21:26:51.819525+00:00",
    "stale": false,
    "items": [
     {
