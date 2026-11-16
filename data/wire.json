@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-16T22:59:43.723600+00:00",
+ "generated_at": "2026-11-16T23:30:23.062568+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-16T22:59:43.723567+00:00",
+   "fetched_at": "2026-11-16T23:30:23.062537+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Farmers demand increase in milk prices",
+     "url": "https://english.khabarhub.com/2026/17/575846/",
+     "source": "Khabarhub",
+     "published": "2026-11-16T23:15:34+00:00",
+     "summary": "CHITWAN: Dairy farmers have called for an increase in milk prices, citing a rise in the cost of poultry feed and other production-related expenses in the market. The Chitwan Distri",
+     "image": ""
+    },
+    {
+     "title": "Nepal FM Shisir Khanal meets Indian Ambassador Sudhakar Dalela, discusses bilateral ties",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ0piRlhiZ1JRWW52SDBRSWpzWlBzMGRDQnozX253d3J4VnNxWTFDSEZsaEdDZDhHQ2NBQ0liQS00LTZZLUZwZkZNQ1VrZHN5bFVlclVwdHhRMWpuaG5LVmVad2cySVFmS095UERGUWpyMkJFWFRxVlFkUEMxdG9qYmNzR2JaVG11bGM0YW43UFVMQkhzT1RIMTJBVUg3SExhLXZGN1pkLWgwTzBFRG0tRlQwdkljZURWNnJUTGR1ZGtSWTZ0S0lKNWQ1M1VWZjVvM0k3WUVZdw?oc=5",
+     "source": "ANI News",
+     "published": "2026-11-16T23:04:00+00:00",
+     "summary": "Nepal FM Shisir Khanal meets Indian Ambassador Sudhakar Dalela, discusses bilateral ties&nbsp;&nbsp;ANI News",
+     "image": ""
+    },
     {
      "title": "Germany Dominates Netherlands 5-0 in Nations League",
      "url": "http://english.ratopati.com/story/86910/germanys-5-0-win-over-the-netherlands",
@@ -116,27 +132,11 @@
      "published": "2026-11-16T16:51:14+00:00",
      "summary": "Kathmandu. Women convicted of abortion offenses under 19th-century law in England and Wales were automatically pardoned on Monday. They have...",
      "image": ""
-    },
-    {
-     "title": "प्रधानमन्त्री शाहको भारत भ्रमण राजकीय हुने",
-     "url": "https://nepalnews.com/2026/11/16/prime-minister-shahs-visit-to-india-will-be-a-state-visit/",
-     "source": "NepalNews",
-     "published": "2026-11-16T16:48:10+00:00",
-     "summary": "काठमाडौं। प्रधानमन्त्री बालेन्द्र शाहको भारत भ्रमण राजकीय हुने भएको छ। भारतले प्रधानमन्त्री शाहको भ्रमणलाई उच्च महत्व दिँदै राजकीय भ्रमणका रूपमा आयोजना गर्ने तयारी गरेको हो। प्रधान",
-     "image": ""
-    },
-    {
-     "title": "Ugratara Bhagwati Temple to Host Annual 'Dehijat' Fair on December 8",
-     "url": "http://english.ratopati.com/story/86906/dehijant-to-be-held-on-mangsir-21-at-ugratara-temple-in-sudurpaschim",
-     "source": "Ratopati",
-     "published": "2026-11-16T16:36:15+00:00",
-     "summary": "Dadeldhura. The annual fair 'Dehijat' at the famous Shaktipeeth Ugratara Bhagwati Temple in Sudurpashchim Province will be held on December...",
-     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-16T22:59:43.723583+00:00",
+   "fetched_at": "2026-11-16T23:30:23.062553+00:00",
    "stale": false,
    "items": [
     {
@@ -238,7 +238,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-16T22:59:43.723587+00:00",
+   "fetched_at": "2026-11-16T23:30:23.062557+00:00",
    "stale": false,
    "items": [
     {
@@ -340,9 +340,17 @@
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-16T22:59:43.723590+00:00",
+   "fetched_at": "2026-11-16T23:30:23.062559+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "बहुउद्देश्यीय कभर्ड हल निर्माण गर्न देउसी, भैलो",
+     "url": "https://www.ratopati.com/story/605670/deusi-bhailo-to-construct-multi-purpose-covered-hall",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-16T23:18:42+00:00",
+     "summary": "खोटाङ । दिक्तेल रूपाकोट मझुवागढी नगरपालिका–१२ जालपास्थित जालपा माध्यमिक विद्यालयले ‘बहुउद्देश्यीय कभर्ड हल’ निर्माण गर्न देउसी, भैलो कार्यक्रम सञ्चालन गरिरहेको छ । नेपालीको दोस्रो ",
+     "image": "https://rpcdn.ratopati.com/media/albums/khotang_deMYPrhSWV.jpg"
+    },
     {
      "title": "दाङका किसान आलु रोप्न व्यस्त",
      "url": "https://www.ratopati.com/story/605668/dang-farmers-busy-planting-potatoes",
@@ -462,14 +470,6 @@
      "published": "2026-11-16T17:23:17+00:00",
      "summary": "काठमाडौँ । काठमाडौँको गुहेश्वरीस्थित महादेव होटलमा आगलागी भएको छ । सोमबार राति १०ः३० बजेबाट आगलागी सुरु भएको हो । आगलागी नियन्त्रणका लागि नेपाली सेना र नेपाल प्रहरीका दमकल घटनास्थल",
      "image": "https://npcdn.ratopati.com/media/news/ktm-fire_cN0XKvM12W.webp"
-    },
-    {
-     "title": "सहरको व्यवसाय छाडेर गाउँमै करोडौँको लगानी",
-     "url": "https://gorkhapatraonline.com/news/229291",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-16T17:19:14+00:00",
-     "summary": "तिलाचन पाण्डेगुल्मी, कात्तिक ३० गते । पछिल्लो समयमा गाउँ छाडेर सहर पस्ने र सहर छाडेर विदेशिनेको लर्को लाग्ने गरेको छ । नेपालमा केही हुँदैन भन्ने भाष्य नै पछिल्लो समयमा स्थापित जस्त",
-     "image": "https://gorkhapatraonline.com/storage/media/391774/conversions/gauma-lagani-petrol-pump-original.jpg"
     }
    ]
   }
