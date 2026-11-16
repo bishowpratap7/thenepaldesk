@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T20:25:42.436664+00:00",
+ "generated_at": "2026-11-16T20:56:18.293656+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-16T20:25:42.436632+00:00",
+   "fetched_at": "2026-11-16T20:56:18.293619+00:00",
    "stale": false,
    "items": [
     {
@@ -43,14 +43,6 @@
      "source": "Ratopati",
      "published": "2026-11-16T17:34:07+00:00",
      "summary": "Kathmandu. Nepali players have performed impressively in bowling in the league stage of the third edition of the Nepal Premier...",
-     "image": ""
-    },
-    {
-     "title": "Indian Railways approves weekly train between Nepal’s Janakpur Dham and Ayodhya",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX0NCUDFWSDUycVF1UF9nbzJGbTZhYmVlVS1SektSZERzMVY3UmFkbVZ4Z21pbGxlNXlxeUZqZDV5TVRzdDcta1pfMEVzNURPa2p3Z2VsUHhkLTJVZ2tLOU1HcUhzMjcwVG5melFVTGQ5R2hoZjdDaGFkY3JDUlpoMlBydlZjVHJqSnctX3hyUm1mSW5UelFmTF9MQW9vTzZzRzZ2bWNRdw?oc=5",
-     "source": "DD News",
-     "published": "2026-11-16T17:26:13+00:00",
-     "summary": "Indian Railways approves weekly train between Nepal’s Janakpur Dham and Ayodhya&nbsp;&nbsp;DD News",
      "image": ""
     },
     {
@@ -132,13 +124,29 @@
      "published": "2026-11-16T16:05:50+00:00",
      "summary": "Palpa. A two-day 'Heritage Ride (Heritage Journey)' is going to be organized with the objective of promoting domestic and foreign...",
      "image": ""
+    },
+    {
+     "title": "Baglung and Parbat Win Gandaki Provincial Volleyball Championship",
+     "url": "http://english.ratopati.com/story/86902/baglung-and-parbat-champions-in-volleyball-selection-for-10th-national-games",
+     "source": "Ratopati",
+     "published": "2026-11-16T15:55:27+00:00",
+     "summary": "Kaski. In the Gandaki provincial level women's and men's volleyball selection competition for the upcoming 10th National Games, Baglung won...",
+     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-16T20:25:42.436649+00:00",
+   "fetched_at": "2026-11-16T20:56:18.293634+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "ट्रम्प पुनः राष्ट्रपति बनेपछि १९ महिनामा ५०५ नेपाली पक्राउ",
+     "url": "https://www.khasokhas.com/237649",
+     "source": "Khasokhas",
+     "published": "2026-11-16T19:52:11+00:00",
+     "summary": "अमेरिकी अध्यागमन एजेन्सी आइसले राष्ट्रपति डोनाल्ड ट्रम्प पुनः सत्तामा फर्किएपछि नेपाली नागरिकसँग सम्बन्धित ५०५ वटा प्रशासनिक पक्राउ अभिलेख गरेको छ। सन् २०२५ फेब्रुअरीदेखि २०२६ अगस्",
+     "image": ""
+    },
     {
      "title": "अस्वीकृत शरणार्थीलाई रुवान्डा पठाउने ईयूका पाँच राष्ट्रको तयारी",
      "url": "https://www.khasokhas.com/237639",
@@ -169,14 +177,6 @@
      "source": "Khasokhas",
      "published": "2026-11-15T14:03:21+00:00",
      "summary": "स्पेनको क्यानरी टापुमा शनिबार एकैदिन झण्डै १,५०० आप्रवासी आइपुगेका छन् । समुद्री उद्धार सेवालाई उद्धृत गर्दै समाचार एजेन्सी इएफईले आइतबार जनाएअनुसार यो संख्या सन् २०२० यताकै एकैदिन",
-     "image": ""
-    },
-    {
-     "title": "मध्यावधि निर्वाचनमा शानदार जितपछि राष्ट्रपति ट्रम्पसँग सहकार्य गर्ने कि सङ्घर्ष भन्नेमा डेमोक्रेटिक पार्टीभित्र तीव्र बहस",
-     "url": "https://www.khasokhas.com/237612",
-     "source": "Khasokhas",
-     "published": "2026-11-15T03:28:35+00:00",
-     "summary": "मध्यावधि निर्वाचनमा ऐतिहासिक जित हासिल गरेलगत्तै अमेरिकाको डेमोक्रेटिक पार्टीका नेताहरू यस साता कोलोराडोको डेनभरमा भेला भएका छन्। महँगी नियन्त्रण गरी मतदातालाई राहत दिने विषयमा एकम",
      "image": ""
     },
     {
@@ -238,41 +238,9 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-16T20:25:42.436653+00:00",
+   "fetched_at": "2026-11-16T20:56:18.293638+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Nepal Visas and Trekking Permits: A 2026 Authoritative Guide",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeldaaVJpSW0tU3FYa19RV2Z0bklyMTdjZ0MyUXE5OWg4VGpTTWRtTTBLMFlWbjVyNkhyNy1NSGJWam1ZT3NJTk91X1NRWlh2cmMzclBmcDZkYVo0Q0xOMFVTNks5M1VqMkxBSzZVUWhjanNQUlpWXzlBd3hFb1JaUThTTk9sdjNnMmgzdmhuWDVyQQ?oc=5",
-     "source": "https://www.thetraveler.org/",
-     "published": "2026-11-16T18:14:54+00:00",
-     "summary": "Nepal Visas and Trekking Permits: A 2026 Authoritative Guide&nbsp;&nbsp;https://www.thetraveler.org/",
-     "image": ""
-    },
-    {
-     "title": "Nepal considers allowing use of its airspace for flights to India’s Bagdogra",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM2tVZ0MtUjlQN253MzZfWU5kMk11Yl84dEdOU19PempWNXZjdTU0SldzQmFxbWRXcWZaVklycGRfRVdOcFVDanZKdVRqalNSR3JhR1k4Zkd3Z0FrZi0xem5FbDVwdV9MLW03eFMxdlRVTHNQc3QxOTg1TlpRaVRYQWdVSDE5ZnlEN2gwQjlNRjlUd01HVnhabXdOZ2dnMDN4NkJIM3F0Q2xvYm9wS3RZS1FZYVfSAbQBQVVfeXFMTzNrVWdDLVI5UDdudzM2X1lOZDJNdWJfOHRHTlNfT3pqVjV2Y3U1NEpXc0JhcW1kV3FmWlZJcnBkX0VXTnBVQ2p2SnVUampTUkdyYUdZOGZHd2dBa2YtMXpuRWw1cHVfTC1tN3hTMXZUVUxzUHN0MTk4NU5aUWlUWEFnVUgxOWZ5RDdoMEI5TUY5VHdNR1Z4Wm13TmdnZzAzeDZCSDNxdENsb2JvcEt0WUtRWWFX?oc=5",
-     "source": "Social News XYZ",
-     "published": "2026-11-16T17:14:51+00:00",
-     "summary": "Nepal considers allowing use of its airspace for flights to India’s Bagdogra&nbsp;&nbsp;Social News XYZ",
-     "image": ""
-    },
-    {
-     "title": "Baglung and Parbat Win Gandaki Provincial Volleyball Championship",
-     "url": "http://english.ratopati.com/story/86902/baglung-and-parbat-champions-in-volleyball-selection-for-10th-national-games",
-     "source": "Ratopati",
-     "published": "2026-11-16T15:55:27+00:00",
-     "summary": "Kaski. In the Gandaki provincial level women's and men's volleyball selection competition for the upcoming 10th National Games, Baglung won...",
-     "image": ""
-    },
-    {
-     "title": "Nepal's Shaligram Stones, Gorkha Khukris Draw Visitors At India International Trade Fair",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM0hfTWEtdjlPSThMaHM4OE15TmZNYjR0c09Yb1A3X2VBa1FneC1kdEJGN2V2eDBVTUxRSDFwX3NxZWVyN1BnNWZHOG1hTENwQzZDLU5ESjJ3b2NqZkpmd1NLNVR3QXV4YlM5NjhYbzhMdkVaLVR4dVhuekRVT0ZDWXU2UklZRTBreEI4YkJuUHF5MWEyVzRpV240MXlTcXBMQzdVWkRjeG00blB3N0FHblQxb0hkeU1VYVdsa3FkRTE1cWZ5V1J2eDFOXzV4dXJ1RmJoeNIB2gFBVV95cUxORHkzd01QMFItbEVPdmlFVk1fVU1GZ2pVNWhQY25maGdHbTY2UmlaY2tTYkpiU1ZEbDFGQjBNbDlvdXREckx0MXlqZzNMQlprUEZJaVpUdGtSUmtDYTJFck9CQUtldHdQRFFyUHlUa1AxUmhDaEh4SVo4NHJVMFkxYlk2eHVyU0R1NkFIcUNaemc4d0NITUMtU3ZzNWV6MXVwOTlyb0V2dnRINmYtWUR5UUVoMW1rNTA1dmswcG9LLXYyMVhlTlp0aHFFdGFPNHh1RFdDazRkUWVsQQ?oc=5",
-     "source": "ETV Bharat",
-     "published": "2026-11-16T15:49:58+00:00",
-     "summary": "Nepal's Shaligram Stones, Gorkha Khukris Draw Visitors At India International Trade Fair&nbsp;&nbsp;ETV Bharat",
-     "image": ""
-    },
     {
      "title": "Former Minister Bhim Parajuli Completes 29th Dandavat Pranama Journey During Chhath Festival",
      "url": "http://english.ratopati.com/story/86898/there-is-intense-pressure-to-stand-for-mayor-of-biratnagar-i-dont-know-what-gods-will-is",
@@ -306,14 +274,6 @@
      "image": ""
     },
     {
-     "title": "Closure of Tatopani and Rasuwagadhi border points pushes up Nepal-China trade costs",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdlk5MlVpamsybGdYbHpzdnF1Sks3Yjc2LVVGU2g2OW4zbkxhTHk5UHBkWE1aM0hwRm00WFh4OTRqLTdqbWpRdFc4cjZsTjJhanFucEdkMjdfMVkwZUloZW00T0d3REJWblN0VDBMbTVVYkloQk5US2gzTExOelQzdmNVVWJKX3ozYXI3SC1yN3pjbXFJaFdXZU9pbHN6M1VybTdKS29iOW9lNVJLV1hPbUhxbnl2X1ZONjlwekNn?oc=5",
-     "source": "OnlineKhabar English News",
-     "published": "2026-11-16T13:35:28+00:00",
-     "summary": "Closure of Tatopani and Rasuwagadhi border points pushes up Nepal-China trade costs&nbsp;&nbsp;OnlineKhabar English News",
-     "image": ""
-    },
-    {
      "title": "Nepali Prime Minister Balen Shah Continues to Test the Limits of Executive Power",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeHY4OW4tMU9EWHQyaGdyUE1EMHJSNG5EY05lR3N2T3BKS2tHaHBPSGlOOHVJcThodExPb3B1NExRVmVXbF8zdzVOeU1YNzRfX1dSR2dROHlGN1NpUDdTNGkzVHZMS1FWRnM5ZUF2NFZ5eGwxYUNyQzlGdDNQY2VHRUY0Qm1NUXdsam01bWJnblFEYjVTSHFRdVRxWTdoQmRwSHc3MUgtNU1DVVltRFJUcWtCaw?oc=5",
      "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
@@ -336,13 +296,69 @@
      "published": "2026-11-16T13:14:09+00:00",
      "summary": "KATHMANDU: Finance Minister Dr Swarnim Wagle has urged Nepal Bank Limited to intensify efforts to recover bad loans while maintaining financial discipline and sound banking practic",
      "image": ""
+    },
+    {
+     "title": "PM Balen to spend just 25 hours in Delhi during two-day India visit",
+     "url": "https://english.onlinekhabar.com/balen-delhi-india-visit.html",
+     "source": "Online Khabar",
+     "published": "2026-11-16T12:59:16+00:00",
+     "summary": "Kathmandu, November 16 Prime Minister Balendra Shah is expected to make a two-day visit to India, spending approximately 25 hours in New Delhi, according to high-level government s",
+     "image": ""
+    },
+    {
+     "title": "Chitwan dairy cooperatives demand minimum milk price of Rs 75 per litre",
+     "url": "https://english.onlinekhabar.com/chitwan-farmer-raise-milk-price.html",
+     "source": "Online Khabar",
+     "published": "2026-11-16T12:39:40+00:00",
+     "summary": "Kathmandu, November 16 The Chitwan District Milk Producers’ Cooperative Union Ltd has urged the government to set the minimum price of raw milk at Rs 75 per litre. Issuing a statem",
+     "image": ""
+    },
+    {
+     "title": "Attorney General’s Office appeals acquittals in 33-kg gold smuggling and Sanam Shakya murder case",
+     "url": "https://english.onlinekhabar.com/acquittal-33-kg-gold-smuggling.html",
+     "source": "Online Khabar",
+     "published": "2026-11-16T12:23:58+00:00",
+     "summary": "Kathmandu, November 16 The Office of the Attorney General has appealed to the Supreme Court against the decisions of the district and high courts acquitting several defendants of o",
+     "image": ""
+    },
+    {
+     "title": "Indian Ambassador Dalela pays courtesy call on Foreign Minister Khanal",
+     "url": "https://english.khabarhub.com/2026/16/575822/",
+     "source": "Khabarhub",
+     "published": "2026-11-16T11:13:31+00:00",
+     "summary": "KATHMANDU: Newly appointed Indian Ambassador to Nepal, Sudhakar Dalela, paid a courtesy call on Minister for Foreign Affairs Shisir Khanal at the latter&#8217;s office in Singha Du",
+     "image": ""
+    },
+    {
+     "title": "Minister Pun assures transparency in use of Prime Minister’s Disaster Relief Fund",
+     "url": "https://english.onlinekhabar.com/minister-pun-assures-transparency-in-use-of-prime-ministers-disaster-relief-fund.html",
+     "source": "Online Khabar",
+     "published": "2026-11-16T11:03:16+00:00",
+     "summary": "Kathmandu, November 16 Minister for Science, Technology and Innovation Mahabir Pun has assured that funds received by the Prime Minister&#8217;s Natural Disaster Relief Fund will n",
+     "image": ""
     }
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-16T20:25:42.436655+00:00",
+   "fetched_at": "2026-11-16T20:56:18.293640+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "विपद्को चपेटामा म्याग्दीका जलविद्युत् आयोजना",
+     "url": "https://www.ratopati.com/story/605666/myagdis-hydropower-projects-in-the-grip-of-disaster",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-16T20:45:00+00:00",
+     "summary": "म्याग्दी । मनसुनजन्य विपद्ले म्याग्दीका जलविद्युत् आयोजनाको विद्युत् उत्पादन, प्रसारण र निर्माण कार्य प्रभावित बनाएको छ । कालीगण्डकी र म्याग्दी नदी तथा तिनका सहायक खोलामा आएको बाढी",
+     "image": "https://npcdn.ratopati.com/media/news/Eba9p3KHCw.jpg"
+    },
+    {
+     "title": "बाढीपछिको पुनर्निर्माण र जलवायु अनुकूलनमा सहयोग बढाउन एडिबीसँग आग्रह",
+     "url": "https://www.ratopati.com/story/605665/adb-urged-to-increase-support-for-post-flood-reconstruction-and-climate-adaptation",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-16T20:30:00+00:00",
+     "summary": "टर्किए । नेपालले गत अगस्ट २६ को बाढीबाट प्रभावित क्षेत्रको पुनर्निर्माण, जलवायु उत्थानशील पूर्वाधार निर्माण तथा अनुकूलनका कार्यक्रमका लागि एसियाली विकास बैङ्क (एडिबी) लाई सहयोग बढा",
+     "image": "https://npcdn.ratopati.com/media/news/gita-chaudhary_wlHVMW0nvR.webp"
+    },
     {
      "title": "‘काव्यनगरी’ हेम्जामा दोस्रो साहित्य महोत्सव हुँदै",
      "url": "https://www.ratopati.com/story/605664/the-second-literature-festival-is-being-held-in-the-city-of-poetry-hemja",
@@ -453,23 +469,7 @@
      "source": "DC Nepal (डीसी नेपाल)",
      "published": "2026-11-16T16:59:42+00:00",
      "summary": "गण्डकी। अन्नपूर्ण संरक्षण क्षेत्रमा पासो थापेर वन्यजन्तु र पक्षीको अवैध चोरीसिकार हुने गरेको छ। अन्नपूर्ण संरक्षण क्षेत्र आयोजनाले बर्सेनि ठूलो सङ्ख्यामा त्यस्ता पासो नियन्त्रणमा ल",
-     "image": ""
-    },
-    {
-     "title": "जेनजी आन्दोलनमा फरार भएका दुई कैदीबन्दी पक्राउ",
-     "url": "https://baahrakhari.com/detail/507479",
-     "source": "Baahrakhari (बाह्रखरी)",
-     "published": "2026-11-16T16:59:40+00:00",
-     "summary": "",
-     "image": ""
-    },
-    {
-     "title": "हिमपातले यारी–हिल्सा सडक अवरुद्ध",
-     "url": "https://deshsanchar.com/2026/11/16/1252649/",
-     "source": "Desh Sanchar (देशसञ्चार)",
-     "published": "2026-11-16T16:55:21+00:00",
-     "summary": "हुम्ला – सिमकोट हिल्सा सडक खण्डको यारी–हिल्सा क्षेत्रको नारा सडक...",
-     "image": ""
+     "image": "https://dcnepal.com/wp-content/uploads/2026/11/acap_dqYXCjY4aR.jpg"
     }
    ]
   }
