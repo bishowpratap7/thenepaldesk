@@ -1,10 +1,82 @@
 {
- "generated_at": "2026-11-17T02:03:44.175837+00:00",
+ "generated_at": "2026-11-17T02:34:25.081958+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-17T02:03:44.175806+00:00",
+   "fetched_at": "2026-11-17T02:34:25.081929+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "एनपिएलः फाइनल प्रवेशका लागि लुम्बिनी र सुदूरपश्चिम खेल्दै",
+     "url": "https://nepalnews.com/2026/11/17/npl-lumbini-and-sudurpaschim-play-for-finals/",
+     "source": "NepalNews",
+     "published": "2026-11-17T02:30:30+00:00",
+     "summary": "काठमाडौँ। तेस्रो संस्करणको नेपाल प्रिमियर लिग (एनपिएल) क्रिकेटको पहिलो क्वालिफायर खेलमा आज लुम्बिनी लायन्स र सुदूरपश्चिम रोयल्स खेल्दै छन् । यी दुई टोलीबीचको खेल अपराह्न ५ः०० बजेदे",
+     "image": ""
+    },
+    {
+     "title": "Tribhuvan University Students File Lawsuit Against AI Software Use",
+     "url": "http://english.ratopati.com/story/86929/the-thesis-was-rejected-outright-without-even-being-given-a-chance-to-explain",
+     "source": "Ratopati",
+     "published": "2026-11-17T02:27:26+00:00",
+     "summary": "Kathmandu. Tribhuvan University students are in serious trouble after research papers (theses) and clinical reports prepared with months of hard...",
+     "image": ""
+    },
+    {
+     "title": "Pokhara University Teaching Hospital to Hire 16 Contract Staff",
+     "url": "http://english.ratopati.com/story/86928/employment-opportunities-for-16-people-including-10-staff-nurses-open",
+     "source": "Ratopati",
+     "published": "2026-11-17T02:24:06+00:00",
+     "summary": "Pokhara University Teaching Hospital is hiring 16 employees on contract service in various posts.The hospital has demanded 10 Staff Nurses,...",
+     "image": ""
+    },
+    {
+     "title": "Nepal Tourism Institute to Conduct Tourist Guide and Barista Training",
+     "url": "http://english.ratopati.com/story/86927/applications-are-invited-to-conduct-training-for-300-people-with-tourist-guides",
+     "source": "Ratopati",
+     "published": "2026-11-17T02:19:09+00:00",
+     "summary": "Kathmandu. Nepal Tourism, Hotel and Mountain Institute is going to conduct training related to Tourist Guide and Barista.The institute under...",
+     "image": ""
+    },
+    {
+     "title": "Economic Digest: A Snapshot of Nepal’s Business News",
+     "url": "https://english.khabarhub.com/2026/17/575849/",
+     "source": "Khabarhub",
+     "published": "2026-11-17T02:15:17+00:00",
+     "summary": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal’s economic landsca",
+     "image": ""
+    },
+    {
+     "title": "NC launches ‘We Are Ready’ campaign today",
+     "url": "https://peoplesreview.com.np/2026/11/17/nc-launches-we-are-ready-campaign-today/",
+     "source": "Peoples Review",
+     "published": "2026-11-17T02:15:14+00:00",
+     "summary": "Kathmandu, Nov 17: The Nepali Congress (NC) is set to launch its ‘We Are Ready’ campaign today. Party General Secretary Pradeep Paudel said the campaign would focus on reviewing th",
+     "image": ""
+    },
+    {
+     "title": "Teacher Service Commission Announces Teaching License Exam Application",
+     "url": "http://english.ratopati.com/story/86926/applications-for-secondary-level-teaching-licenses-open",
+     "source": "Ratopati",
+     "published": "2026-11-17T02:09:43+00:00",
+     "summary": "Kathmandu. Teacher Service Commission has opened applications for the secondary level teaching license examination.Publishing a notice on Tuesday, the commission...",
+     "image": ""
+    },
+    {
+     "title": "दाङका किसान आलु रोप्न व्यस्त",
+     "url": "https://nepalnews.com/2026/11/17/dang-farmers-busy-planting-potatoes/",
+     "source": "NepalNews",
+     "published": "2026-11-17T02:06:53+00:00",
+     "summary": "दाङ। दाङमा किसान व्यावसायिक तथा घरायसी आलुखेतीमा व्यस्त छन् । राप्ती गाउँपालिका–२ कटाहाका किसान दिलबहादुर चौधरीका अनुसार अहिले रोपिएको आलु आगामी पुससम्म फलिसक्छ । स्थानीय बजारमा आल",
+     "image": ""
+    },
+    {
+     "title": "US tightens AI chip export restrictions ahead of Trump’s visit to China",
+     "url": "https://english.khabarhub.com/2026/17/575864/",
+     "source": "Khabarhub",
+     "published": "2026-11-17T02:03:26+00:00",
+     "summary": "WASHINGTON DC: Ahead of President Donald Trump&#8217;s scheduled meeting with Chinese President Xi Jinping this week, the US Commerce Department on Monday (local time) tightened ex",
+     "image": ""
+    },
     {
      "title": "Former Pakistan PM Imran Khan Claims Deteriorating Health in Jail, Writes to Judges",
      "url": "http://english.ratopati.com/story/86925/imran-khans-emotional-letter-it-is-difficult-to-return-alive-from-prison",
@@ -60,85 +132,29 @@
      "published": "2026-11-17T01:44:37+00:00",
      "summary": "Kathmandu. Nepali Congress is starting the 'We Are Ready' campaign from today. General Minister Pradip Poudel informed that the 'We...",
      "image": ""
-    },
-    {
-     "title": "Tanahun Encroached Forest Land Cleared, 400 Timur Saplings Planted",
-     "url": "http://english.ratopati.com/story/86921/four-hundred-timur-saplings-planted-in-tanahun-after-forest-encroachment-removed",
-     "source": "Ratopati",
-     "published": "2026-11-17T01:39:17+00:00",
-     "summary": "Tanahun. One decimal seven five hectares of encroached area in Taldanda Dadar of Shuklagandaki Municipality-4, Tanahun, and Kaseri Community Forest...",
-     "image": ""
-    },
-    {
-     "title": "Central Committee Member Bishnu Rijal Suggests Prime Minister Balendra Shah Raise Pending National Interest Issues During India Visit",
-     "url": "http://english.ratopati.com/story/86920/prime-ministers-visit-to-india-should-focus-on-resolving-long-pending-issues-uml-leader-rijal",
-     "source": "Ratopati",
-     "published": "2026-11-17T01:37:13+00:00",
-     "summary": "Kathmandu. CPN (UML) Central Committee member Bishnu Rijal has suggested that Prime Minister Balendra Shah should prioritize raising pending national...",
-     "image": ""
-    },
-    {
-     "title": "PM Balen Shah's India Visit Agenda Focuses on Agriculture Cooperation, Fertilizer Plant",
-     "url": "http://english.ratopati.com/story/86919/agriculture-aspect-of-prime-ministers-visit-to-india-what-else-is-there-besides-the-chemical-fertilizer-factory",
-     "source": "Ratopati",
-     "published": "2026-11-17T01:26:22+00:00",
-     "summary": "Kathmandu. The cabinet's formal agenda approval is still pending for Prime Minister Balendra (Balen) Shah's India visit, scheduled for the...",
-     "image": ""
-    },
-    {
-     "title": "Rasuwa’s scenic Dilpu Kunda seeks its place on tourism map",
-     "url": "https://english.khabarhub.com/2026/17/575854/",
-     "source": "Khabarhub",
-     "published": "2026-11-17T01:15:59+00:00",
-     "summary": "RASUWA: The Himalayan district of Rasuwa is blessed with remarkable natural beauty, rich biodiversity and deep-rooted religious and cultural traditions. While popular destinations ",
-     "image": ""
-    },
-    {
-     "title": "मिर्गौलाको मौन जोखिम",
-     "url": "https://nepalnews.com/2026/11/17/silent-risk-of-kidney-disease/",
-     "source": "NepalNews",
-     "published": "2026-11-17T01:15:45+00:00",
-     "summary": "मानव शरीरका महत्त्वपूर्ण अंगमध्ये मिर्गौला पनि एक हो। यसले शरीरमा उत्पादन हुने फोहोर पदार्थ र अतिरिक्त पानी पिसाबमार्फत बाहिर निकाल्ने, रगतमा पानी तथा नुनको सन्तुलन कायम राख्ने, रक",
-     "image": ""
-    },
-    {
-     "title": "Lumbini and Sudurpaschim set for high-stakes battle for direct place in NPL final",
-     "url": "https://english.onlinekhabar.com/lumbini-sudurpaschim-high-stakes-npl.html",
-     "source": "Online Khabar",
-     "published": "2026-11-17T01:15:00+00:00",
-     "summary": "Kathmandu, November 16 The playoff stage of the third edition of the Nepal Premier League (NPL) begins on Tuesday, with defending champions Lumbini Lions taking on Sudurpaschim Roy",
-     "image": ""
-    },
-    {
-     "title": "बाढीपछिको पुनर्निर्माण र जलवायु अनुकूलनमा सहयोग बढाउन एडिबीसँग आग्रह",
-     "url": "https://nepalnews.com/2026/11/17/adb-urged-to-increase-support-for-post-flood-reconstruction-and-climate-adaptation/",
-     "source": "NepalNews",
-     "published": "2026-11-17T01:10:50+00:00",
-     "summary": "टर्किए। नेपालले गत अगस्ट २६ को बाढीबाट प्रभावित क्षेत्रको पुनर्निर्माण, जलवायु उत्थानशील पूर्वाधार निर्माण तथा अनुकूलनका कार्यक्रमका लागि एसियाली विकास बैङ्क (एडिबी) लाई सहयोग बढाउ",
-     "image": ""
-    },
-    {
-     "title": "New Nepali Ambassador to India Departs for Delhi",
-     "url": "http://english.ratopati.com/story/86918/newly-appointed-ambassador-pandey-to-leave-for-india-today",
-     "source": "Ratopati",
-     "published": "2026-11-17T01:08:05+00:00",
-     "summary": "New Nepali Ambassador to India Dr. Nischalnath Pandey is departing for New Delhi today. He is going to Delhi to...",
-     "image": ""
-    },
-    {
-     "title": "Nationwide Rath Yatra Concludes at Triveni Dham",
-     "url": "http://english.ratopati.com/story/86917/muktinath-rath-yatra-concludes-month-long-mahayagya-begins-today",
-     "source": "Ratopati",
-     "published": "2026-11-17T01:06:01+00:00",
-     "summary": "Chitwan. The nationwide Shri Gajendra Moksha Narayan Muktinath Rath Yatra, which began on Kartik 8 from the holy pilgrimage site...",
-     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-17T02:03:44.175822+00:00",
+   "fetched_at": "2026-11-17T02:34:25.081944+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "अमेरिकामा विदेशी विद्यार्थीको बसाइ अवधि चार वर्षमा सीमित गर्ने ट्रम्प प्रशासनको नियम संघीय न्यायाधीशद्वारा खारेज",
+     "url": "https://www.khasokhas.com/237656",
+     "source": "Khasokhas",
+     "published": "2026-11-17T02:20:58+00:00",
+     "summary": "अमेरिकाका एक संघीय न्यायाधीशले विदेशी विद्यार्थीहरूलाई अमेरिकामा बस्न दिइने समयसीमा संकुचित गर्ने ट्रम्प प्रशासनको नियम सोमबार खारेज गरिदिएका छन् । डिपार्टमेन्ट अफ होमल्याण्ड सेक्य",
+     "image": ""
+    },
+    {
+     "title": "अमेरिकी श्रम मन्त्रालयद्वारा कुशल विदेशी कामदारहरूको ग्रीन कार्ड कार्यक्रममा नयाँ नियमको प्रस्ताव",
+     "url": "https://www.khasokhas.com/237651",
+     "source": "Khasokhas",
+     "published": "2026-11-17T01:39:17+00:00",
+     "summary": "अमेरिकी श्रम मन्त्रालयले सोमबार कुशल विदेशी कामदारहरूलाई अमेरिकामा स्थायी बासस्थान प्राप्त गर्न सहज बनाउने &#8216;ग्रीन कार्ड&#8217; कार्यक्रममा नयाँ सीमाहरूको प्रस्ताव गरेको छ। यो",
+     "image": ""
+    },
     {
      "title": "ट्रम्प पुनः राष्ट्रपति बनेपछि १९ महिनामा ५०५ नेपाली पक्राउ",
      "url": "https://www.khasokhas.com/237649",
@@ -169,14 +185,6 @@
      "source": "Khasokhas",
      "published": "2026-11-15T14:55:58+00:00",
      "summary": "न्युयोर्क — नेपालको चर्चित लोक, रक तथा पप ब्याण्ड नेपथ्यका संस्थापक तथा पहिलो गायक रबिन श्रेष्ठले नोभेम्बर २० मा न्युयोर्कमा सांगीतिक प्रस्तुति दिने भएका छन्। श्रेष्ठसँगै चर्चित गा",
-     "image": ""
-    },
-    {
-     "title": "पश्चिम अफ्रिकाबाट स्पेन छिर्ने आप्रवासीको लर्को, एकैदिन झण्डै १५ सयको उद्धार",
-     "url": "https://www.khasokhas.com/237623",
-     "source": "Khasokhas",
-     "published": "2026-11-15T14:03:21+00:00",
-     "summary": "स्पेनको क्यानरी टापुमा शनिबार एकैदिन झण्डै १,५०० आप्रवासी आइपुगेका छन् । समुद्री उद्धार सेवालाई उद्धृत गर्दै समाचार एजेन्सी इएफईले आइतबार जनाएअनुसार यो संख्या सन् २०२० यताकै एकैदिन",
      "image": ""
     },
     {
@@ -226,27 +234,27 @@
      "published": "2026-10-21T07:00:00+00:00",
      "summary": "How Dashain travels with the Nepali diaspora&nbsp;&nbsp;OnlineKhabar English News",
      "image": ""
-    },
-    {
-     "title": "Non-Resident Nepali Campaign: From Emotional Connection to Economic Partnership",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEwzS2tZaEtFRzhFU0hCTV9vLWM0YTFZZkVMY1NfNlBtdFNMT19JX09HVnlaN1FUZ19xV1JVa19SNGc4TzVtZW90ZnpkMC1KNWVSa2NSc0JaYnRJaHZEdHhZLU4yNlBUUlA5MldQTVE0QnlsWE9FMy1WWGpURzAwQW1xMTZzcWdsVzNyQ29ZN2RJWGc3RmpMeVRUcDUzSzFjNC02bmVn?oc=5",
-     "source": "Ratopati",
-     "published": "2026-10-11T07:00:00+00:00",
-     "summary": "Non-Resident Nepali Campaign: From Emotional Connection to Economic Partnership&nbsp;&nbsp;Ratopati",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-17T02:03:44.175826+00:00",
+   "fetched_at": "2026-11-17T02:34:25.081947+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Minister Chaudhary requests additional support from ADB",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUIzeFFrUjd4aVRKZkFHcXZEMGFyX3NRcWlMcmZiNWFWMWxxYTNwd1dOcS01bmNKdkdjZlN1ekFkYmVENXJuVElMNDRKWm1CMWtPUkF2MHlfVUkwc1lydl81WlZIb1V3N0t5V3RPS0RsODlJb0FGRlcxMkEzeE5yMjRqa2tFN3RLNk4xVmJBOS1rS0xmcG90VU9LOXQ?oc=5",
-     "source": "Nepalnews.com",
-     "published": "2026-11-17T01:31:19+00:00",
-     "summary": "Minister Chaudhary requests additional support from ADB&nbsp;&nbsp;Nepalnews.com",
+     "title": "Central Committee Member Bishnu Rijal Suggests Prime Minister Balendra Shah Raise Pending National Interest Issues During India Visit",
+     "url": "http://english.ratopati.com/story/86920/prime-ministers-visit-to-india-should-focus-on-resolving-long-pending-issues-uml-leader-rijal",
+     "source": "Ratopati",
+     "published": "2026-11-17T01:37:13+00:00",
+     "summary": "Kathmandu. CPN (UML) Central Committee member Bishnu Rijal has suggested that Prime Minister Balendra Shah should prioritize raising pending national...",
+     "image": ""
+    },
+    {
+     "title": "PM Balen Shah's India Visit Agenda Focuses on Agriculture Cooperation, Fertilizer Plant",
+     "url": "http://english.ratopati.com/story/86919/agriculture-aspect-of-prime-ministers-visit-to-india-what-else-is-there-besides-the-chemical-fertilizer-factory",
+     "source": "Ratopati",
+     "published": "2026-11-17T01:26:22+00:00",
+     "summary": "Kathmandu. The cabinet's formal agenda approval is still pending for Prime Minister Balendra (Balen) Shah's India visit, scheduled for the...",
      "image": ""
     },
     {
@@ -258,19 +266,11 @@
      "image": ""
     },
     {
-     "title": "Is Nepal’s new Parliament building ready for winter session move-in?",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNktveFJDdHBWRGl2dkVJYWFMNUhXd2ZjUlQ5ZGpsd0FWeE1yWWpDemp1MUhWMk5fSjZUNE5YNmRJRk5zZWtQZ0wxOHpTWkFZTjJxeERQZXUwY0ZRbUdaNUF5VzlFdjZMOWE0T2otQndvR2FwU1o4WVVPZFM1bGduaU05OG1CVkdMZnl1R0F4RXhuRTBrekFhSTV6eW8zLXQ3enZ2ZmoyY1hXWEd3TV8xTUZNNA?oc=5",
-     "source": "The Kathmandu Post",
-     "published": "2026-11-17T00:35:42+00:00",
-     "summary": "Is Nepal’s new Parliament building ready for winter session move-in?&nbsp;&nbsp;The Kathmandu Post",
-     "image": ""
-    },
-    {
      "title": "Nepal at One Year: Promise, Resistance and the Test of Strategic Stability",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JYWZ5eVdRazZTclMzS29LNTVEV0lPd0x5T2FOWlhIcGRncUNyLW9rUElkRmV1RW5MZW1qTjMxXzctZ2c0bjBHUTd0SllQMVVsZkdZal9zcUw?oc=5",
+     "url": "https://english.khabarhub.com/2026/17/575733/",
      "source": "Khabarhub",
-     "published": "2026-11-17T00:18:59+00:00",
-     "summary": "Nepal at One Year: Promise, Resistance and the Test of Strategic Stability&nbsp;&nbsp;Khabarhub",
+     "published": "2026-11-17T00:15:02+00:00",
+     "summary": "Six months after Balendra Shah assumed office as Prime Minister, Nepal is at an unusual point in its political history. The September 2025 Gen Z uprising disrupted the established ",
      "image": ""
     },
     {
@@ -279,38 +279,6 @@
      "source": "Khabarhub",
      "published": "2026-11-16T23:45:56+00:00",
      "summary": "KATHMANDU: Prime Minister (PM) Balendra Shah is scheduled to undertake a two-day state visit to India on November 22 and 23 at the invitation of Indian Prime Minister Narendra Modi",
-     "image": ""
-    },
-    {
-     "title": "Nepal’s forest deal, climate justice push and finance demands at COP31",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYVVMWGwySThmWGhOY2JJVE9ubl95OHd3UE8wV3pLYXdOajlFZnY2aXJWOFNFTlVYdVVUdXVLSHVEVmIybWE0XzVlRFF6SFJpQnVfWWM1MEU5Vk1oQWIyWDJvelUzdGI2ZW04WEZuVC1VUF82OVM3T21OQ01hQVVpdHZxRHUtV013M3A0TG5rS0t6S1UtTEZfejk0OG9KUQ?oc=5",
-     "source": "The Climate Watch",
-     "published": "2026-11-16T20:15:22+00:00",
-     "summary": "Nepal’s forest deal, climate justice push and finance demands at COP31&nbsp;&nbsp;The Climate Watch",
-     "image": ""
-    },
-    {
-     "title": "Nepal Visas and Trekking Permits: A 2026 Authoritative Guide",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeldaaVJpSW0tU3FYa19RV2Z0bklyMTdjZ0MyUXE5OWg4VGpTTWRtTTBLMFlWbjVyNkhyNy1NSGJWam1ZT3NJTk91X1NRWlh2cmMzclBmcDZkYVo0Q0xOMFVTNks5M1VqMkxBSzZVUWhjanNQUlpWXzlBd3hFb1JaUThTTk9sdjNnMmgzdmhuWDVyQQ?oc=5",
-     "source": "https://www.thetraveler.org/",
-     "published": "2026-11-16T18:14:54+00:00",
-     "summary": "Nepal Visas and Trekking Permits: A 2026 Authoritative Guide&nbsp;&nbsp;https://www.thetraveler.org/",
-     "image": ""
-    },
-    {
-     "title": "India asks Nepal for airspace access for Bagdogra and Raxaul flights; Kathmandu open to Bagdogra request",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4Y3BOTXA1TXk1ZHZ0MkE5N2ZZZXM5ckVNYWx4Zk5sYTBvYW9fUWtwV2FmSlVnVjhLbF9kV2h5OFJOdERJZ3RnZVE3aHkyaFFtLVVvVkdDMW1rMGtMZmlKRWNDUkVsbWtZdFFyV19YdS1NOFU?oc=5",
-     "source": "Avi-Go",
-     "published": "2026-11-16T17:21:21+00:00",
-     "summary": "India asks Nepal for airspace access for Bagdogra and Raxaul flights; Kathmandu open to Bagdogra request&nbsp;&nbsp;Avi-Go",
-     "image": ""
-    },
-    {
-     "title": "Nepal considers allowing use of its airspace for flights to India’s Bagdogra",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM2tVZ0MtUjlQN253MzZfWU5kMk11Yl84dEdOU19PempWNXZjdTU0SldzQmFxbWRXcWZaVklycGRfRVdOcFVDanZKdVRqalNSR3JhR1k4Zkd3Z0FrZi0xem5FbDVwdV9MLW03eFMxdlRVTHNQc3QxOTg1TlpRaVRYQWdVSDE5ZnlEN2gwQjlNRjlUd01HVnhabXdOZ2dnMDN4NkJIM3F0Q2xvYm9wS3RZS1FZYVfSAbQBQVVfeXFMTzNrVWdDLVI5UDdudzM2X1lOZDJNdWJfOHRHTlNfT3pqVjV2Y3U1NEpXc0JhcW1kV3FmWlZJcnBkX0VXTnBVQ2p2SnVUampTUkdyYUdZOGZHd2dBa2YtMXpuRWw1cHVfTC1tN3hTMXZUVUxzUHN0MTk4NU5aUWlUWEFnVUgxOWZ5RDdoMEI5TUY5VHdNR1Z4Wm13TmdnZzAzeDZCSDNxdENsb2JvcEt0WUtRWWFX?oc=5",
-     "source": "Social News XYZ",
-     "published": "2026-11-16T17:14:51+00:00",
-     "summary": "Nepal considers allowing use of its airspace for flights to India’s Bagdogra&nbsp;&nbsp;Social News XYZ",
      "image": ""
     },
     {
@@ -330,145 +298,177 @@
      "image": ""
     },
     {
-     "title": "Nepal's Shaligram Stones, Gorkha Khukris Draw Visitors At India International Trade Fair",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM0hfTWEtdjlPSThMaHM4OE15TmZNYjR0c09Yb1A3X2VBa1FneC1kdEJGN2V2eDBVTUxRSDFwX3NxZWVyN1BnNWZHOG1hTENwQzZDLU5ESjJ3b2NqZkpmd1NLNVR3QXV4YlM5NjhYbzhMdkVaLVR4dVhuekRVT0ZDWXU2UklZRTBreEI4YkJuUHF5MWEyVzRpV240MXlTcXBMQzdVWkRjeG00blB3N0FHblQxb0hkeU1VYVdsa3FkRTE1cWZ5V1J2eDFOXzV4dXJ1RmJoeNIB2gFBVV95cUxORHkzd01QMFItbEVPdmlFVk1fVU1GZ2pVNWhQY25maGdHbTY2UmlaY2tTYkpiU1ZEbDFGQjBNbDlvdXREckx0MXlqZzNMQlprUEZJaVpUdGtSUmtDYTJFck9CQUtldHdQRFFyUHlUa1AxUmhDaEh4SVo4NHJVMFkxYlk2eHVyU0R1NkFIcUNaemc4d0NITUMtU3ZzNWV6MXVwOTlyb0V2dnRINmYtWUR5UUVoMW1rNTA1dmswcG9LLXYyMVhlTlp0aHFFdGFPNHh1RFdDazRkUWVsQQ?oc=5",
-     "source": "ETV Bharat",
-     "published": "2026-11-16T15:49:58+00:00",
-     "summary": "Nepal's Shaligram Stones, Gorkha Khukris Draw Visitors At India International Trade Fair&nbsp;&nbsp;ETV Bharat",
+     "title": "Finance Minister Wagle calls for stronger recovery of bad loans",
+     "url": "https://english.khabarhub.com/2026/16/575835/",
+     "source": "Khabarhub",
+     "published": "2026-11-16T13:14:09+00:00",
+     "summary": "KATHMANDU: Finance Minister Dr Swarnim Wagle has urged Nepal Bank Limited to intensify efforts to recover bad loans while maintaining financial discipline and sound banking practic",
+     "image": ""
+    },
+    {
+     "title": "PM Balen to spend just 25 hours in Delhi during two-day India visit",
+     "url": "https://english.onlinekhabar.com/balen-delhi-india-visit.html",
+     "source": "Online Khabar",
+     "published": "2026-11-16T12:59:16+00:00",
+     "summary": "Kathmandu, November 16 Prime Minister Balendra Shah is expected to make a two-day visit to India, spending approximately 25 hours in New Delhi, according to high-level government s",
+     "image": ""
+    },
+    {
+     "title": "Chitwan dairy cooperatives demand minimum milk price of Rs 75 per litre",
+     "url": "https://english.onlinekhabar.com/chitwan-farmer-raise-milk-price.html",
+     "source": "Online Khabar",
+     "published": "2026-11-16T12:39:40+00:00",
+     "summary": "Kathmandu, November 16 The Chitwan District Milk Producers’ Cooperative Union Ltd has urged the government to set the minimum price of raw milk at Rs 75 per litre. Issuing a statem",
+     "image": ""
+    },
+    {
+     "title": "Attorney General’s Office appeals acquittals in 33-kg gold smuggling and Sanam Shakya murder case",
+     "url": "https://english.onlinekhabar.com/acquittal-33-kg-gold-smuggling.html",
+     "source": "Online Khabar",
+     "published": "2026-11-16T12:23:58+00:00",
+     "summary": "Kathmandu, November 16 The Office of the Attorney General has appealed to the Supreme Court against the decisions of the district and high courts acquitting several defendants of o",
+     "image": ""
+    },
+    {
+     "title": "Minister Pun assures transparency in use of Prime Minister’s Disaster Relief Fund",
+     "url": "https://english.onlinekhabar.com/minister-pun-assures-transparency-in-use-of-prime-ministers-disaster-relief-fund.html",
+     "source": "Online Khabar",
+     "published": "2026-11-16T11:03:16+00:00",
+     "summary": "Kathmandu, November 16 Minister for Science, Technology and Innovation Mahabir Pun has assured that funds received by the Prime Minister&#8217;s Natural Disaster Relief Fund will n",
      "image": ""
     }
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-17T02:03:44.175827+00:00",
+   "fetched_at": "2026-11-17T02:34:25.081949+00:00",
    "stale": false,
    "items": [
     {
-     "title": "ललितपुरको गान बन्दै ‘जय यल देय्’",
-     "url": "https://gorkhapatraonline.com/news/229308",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-17T02:01:26+00:00",
-     "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, मङ्सिर १ गते । २६५ गायकगायिकाको आवाज, ६८ अभिनय कलाकार, ९० वाद्यवादकलगायत चार सयभन्दा बढी व्यक्तिको सहभागितामा तयार भएको ‘जय यल देय्’ ललितपुर महानगरको.",
-     "image": "https://gorkhapatraonline.com/storage/media/391792/conversions/yala-muna-original.jpg"
-    },
-    {
-     "title": "साउदीका अमेजन गोदाममा कार्यरत नेपालीमाथि श्रम शोषण",
-     "url": "https://www.onlinekhabar.com/2026/11/2059146/labor-exploitation-of-nepalis-working-in-amazon-warehouses-in-saudi-arabia",
-     "source": "Online Khabar (नेपाली)",
-     "published": "2026-11-17T02:01:15+00:00",
-     "summary": "एम्नेस्टी इन्टरनेसनलले साउदी अरबस्थित अमेजनको गोदाममा कार्यरत नेपाली श्रमिकले भोगिरहेको शोषण र असुरक्षाको पाटो उजागर गरेको छ ।",
-     "image": ""
-    },
-    {
-     "title": "इमरान खानको भावुक पत्र– जेलबाट जीवित फर्किन मुस्किल छ",
-     "url": "https://www.ratopati.com/story/605690/imran-khans-emotional-letter-it-is-difficult-to-return-alive-from-prison",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-17T02:00:50+00:00",
-     "summary": "काठमाडौँ । पाकिस्तानका पूर्वप्रधानमन्त्री इमरान खानले जेलमा आफ्नो स्वास्थ्य अवस्था बिग्रँदै गएको बताएका छन् । उनले देशका तीनवटा प्रमुख अदालतका न्यायाधीशलाई एक भावुक पत्र लेख्दै यस्",
-     "image": "https://npcdn.ratopati.com/media/news/imran-khan_si6zSeW8eK.jpg"
-    },
-    {
-     "title": "लुम्बिनी र सुदूरपश्चिम क्वालिफायर वनमा भिड्दै",
-     "url": "https://gorkhapatraonline.com/news/229307",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-17T01:59:08+00:00",
-     "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, मङ्सुर १ गते । नेपाल प्रिमियर लिग (एनपिएल) ३ च्याम्पियनको धमिलो तस्बिर धेरै हदसम्म सफा भइसकेको छ । अब एनपिएलको तेस्रो विजेताको छिनोफानोका लागि लुम्बिन",
-     "image": "https://gorkhapatraonline.com/storage/media/391791/conversions/lumbini-sudur-original.jpg"
-    },
-    {
-     "title": "टमाटरखेतीमा अब्बल बन्दै टोड्केका किसान",
-     "url": "https://www.ratopati.com/story/605689/todke-farmers-are-becoming-proficient-in-tomato-farming",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-17T01:57:14+00:00",
-     "summary": "इलाम । इलामको माङसेबुङ गाउँपालिका–६ स्थित टोड्के गाउँ व्यावसायिक टमाटरखेतीको केन्द्र बन्दै गएको छ । गाउँका ८० घरपरिवार व्यावसायिक टमाटरखेतीमा संलग्न छन् । यहाँबाट वार्षिक रु एक करो",
-     "image": "https://npcdn.ratopati.com/media/news/VrUQx8jj1w.jpg"
-    },
-    {
-     "title": "अमेरिकामा थुप्रै बैंकहरूमा प्राविधिक गडबडी, कारण के हो ?",
-     "url": "https://dcnepal.com/2026/11/815602/",
-     "source": "DC Nepal (डीसी नेपाल)",
-     "published": "2026-11-17T01:56:09+00:00",
-     "summary": "काठमाडौं । अमेरिकामा बैंक अफ अमेरिका, जेपी मोर्गन चेज र वेल्स फार्गो लगायतका थुप्रै बैंक तथा वित्तीय संस्थाहरूका ग्राहकहरूले केही बैंकिङ सेवाहरू प्रयोग गर्नमा कठिनाई भएको गुनासो गर",
-     "image": "https://dcnepal.com/wp-content/uploads/2026/11/fe4c051d-5e0b-4da0-be90-d52db6356766.jpg.jpg"
-    },
-    {
-     "title": "बढ्दै छन् कफी पारखी",
-     "url": "https://gorkhapatraonline.com/news/229306",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-17T01:55:51+00:00",
-     "summary": "काठमाडौँ, मङ्सिर १ गते । विगतमा निर्यातमुखी उत्पादनका रूपमा हेरिने कफीको खपत अहिले मुलुकभित्र पनि उल्लेख्य बढेको पाइएको छ । देशभित्र कफी पारखी बढ्दै जाँदा देशभित्रै उत्पादित कफीको.",
-     "image": "https://gorkhapatraonline.com/storage/media/391790/conversions/234-original.jpg"
-    },
-    {
-     "title": "एनपीएलको पहिलो क्वालिफायरमा आज लुम्बिनी र सुदूरपश्चिम भिड्दै",
-     "url": "https://www.imagekhabar.com/news/563617/",
-     "source": "Image Khabar (इमेज खबर)",
-     "published": "2026-11-17T01:55:21+00:00",
-     "summary": "काठमाडौं । नेपाल प्रिमियर लिग (एनपीएल) को उपाधि यात्रामा पहिलो फाइनलिस्टको टुंगो आज लाग्दैछ। पहिलो क्वालिफायरमा लुम्बिनी लायन्स र सुदूरपश्चिम रोयल्सबीच प्रतिस्पर्धा हुँदैछ। कीर्तिप",
-     "image": ""
-    },
-    {
-     "title": "पाँच युरोपेली देशले रुवान्डामा आप्रवासी फिर्ती केन्द्र खोल्ने",
-     "url": "https://khabarhub.com/2026/17/1048450/",
-     "source": "Khabarhub (नेपाली)",
-     "published": "2026-11-17T01:54:59+00:00",
-     "summary": "एजेन्सी &#8211; पाँच युरोपेली सङ्घ (ईयू) सदस्य राष्ट्रले अवैध रूपमा बसिरहेका आप्रवासीलाई फिर्ता पठाउने उद्देश्यले अफ्रिकी मुलुक रुवान्डामा ‘रिटर्न हब’ (फिर्ती केन्द्र) स्थापना गर्न",
-     "image": ""
-    },
-    {
-     "title": "उपाधि रक्षा अभियानमा लुम्बिनी, लगातार तेस्रो पटक फाइनल पुग्ने सुदूरपश्चिमको दाउ",
-     "url": "https://www.thahakhabar.com/detail/312023",
-     "source": "Thaha Khabar (थाहा खबर)",
-     "published": "2026-11-17T01:54:00+00:00",
-     "summary": "",
-     "image": "https://www.thahakhabar.com/uploads/posts/lumbini123-1793867099.jpg"
-    },
-    {
-     "title": "सी, ट्रम्प र पुटिनबीच चीनको सेन्जेनमा ‘विश्व शान्ति’बारे छलफल हुने",
-     "url": "https://baahrakhari.com/detail/507486",
+     "title": "लुम्बिनी र सुदूरपश्चिम भिड्दै, कसले मार्ला बाजी ?",
+     "url": "https://baahrakhari.com/detail/507487",
      "source": "Baahrakhari (बाह्रखरी)",
-     "published": "2026-11-17T01:52:14+00:00",
+     "published": "2026-11-17T02:32:10+00:00",
      "summary": "",
      "image": ""
     },
     {
-     "title": "उखु किसानलाई मूल्यको चिन्ता",
-     "url": "https://gorkhapatraonline.com/news/229305",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-17T01:50:52+00:00",
-     "summary": "रमेशप्रसाद भट्टकञ्चनपुर, मङ्सिर १ गते । कञ्चनपुरका उखु किसानलाई यतिबेला उखु बिक्री गर्ने समय नजिकिँदै गर्दा उचित मूल्य पाउने हो वा होइन भन्ने चिन्ता बढेको छ । उखु क्रसिङको सिजन सुर",
-     "image": "https://gorkhapatraonline.com/storage/media/391789/conversions/331-original.jpg"
-    },
-    {
-     "title": "तरकारी पोहोरभन्दा सस्तो",
-     "url": "https://gorkhapatraonline.com/news/229304",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-17T01:47:59+00:00",
-     "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, मङ्सिर १ गते । पछिल्लो समयमा हरिया तरकारीको मूल्य घटेको छ । कालीमाटी फलफूल तथा तरकारी बजार विकास समितिका अनुसार २०८२ साल कात्तिक ३० गते र २०८३ कात्तिक",
-     "image": "https://gorkhapatraonline.com/storage/media/391788/conversions/adrhs-original.jpg"
-    },
-    {
-     "title": "एमाले स्थायी कमिटी बैठक आज बस्दै, राष्ट्रिय भेलाका एजेन्डा अनुमोदन गर्ने",
-     "url": "https://www.ratopati.com/story/605688/uml-standing-committee-meeting-to-be-held-today-to-approve-agenda-of-national-gathering",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-17T01:47:15+00:00",
-     "summary": "काठमाडौँ । नेकपा (एमाले) स्थायी कमिटीको दोस्रो बैठक आज बस्ने भएको छ। भोलि देखि सुरु हुने राष्ट्रिय भेलाको पूर्व सन्ध्यामा पार्टीले आज स्थायी कमिटी बैठक बोलाएको हो । पार्टीका प्रचार",
-     "image": "https://npcdn.ratopati.com/media/news/uml-office_rh7TGLKWoi.webp"
-    },
-    {
-     "title": "प्रधानमन्त्री शाह राजकीय भ्रमणमा भारत जाँदै, मोदीसँग आधा घण्टा वार्ता गर्ने",
-     "url": "https://nepalsamaya.com/detail/147863",
-     "source": "Nepal Samaya (नेपाल समय)",
-     "published": "2026-11-17T01:46:27+00:00",
-     "summary": "",
-     "image": "https://nepalsamaya.com/uploads/posts/Balen_101788497371-1788788647.jpg"
-    },
-    {
-     "title": "अब छाप हेरेर मात्रै मासु किन्नुहोला, उपत्यकामा आजदेखि ‘मासु जाँच ऐन’ लागु",
-     "url": "https://www.onlinekhabar.com/2026/11/2059037/now-buy-meat-only-by-looking-at-the-label-meat-inspection-act-to-be-implemented-in-kathmandu-valley-from-today",
+     "title": "खैरो हेरोइनसहित तीन भारतीय नागरिक पक्राउ",
+     "url": "https://www.onlinekhabar.com/2026/11/2059163/three-indian-nationals-arrested-with-brown-heroin",
      "source": "Online Khabar (नेपाली)",
-     "published": "2026-11-17T01:45:46+00:00",
-     "summary": "ऐन लागु भएसँगै अब पशु वधशाला स्थापना गर्न र मासु पसल सञ्चालन गर्न सरकारी निकायबाट अनिवार्य इजाजतपत्र लिनुपर्ने छ । अनुगमन क्रममा अस्वस्थकर वा गुणस्तरहीन मासु फेला परे मासु निरीक्षक",
+     "published": "2026-11-17T02:32:05+00:00",
+     "summary": "१ मंसिर,काठमाडौं । मोरङको रंगेली नगरपालिका–४ चोप्राहा बोर्डरबाट प्रतिबन्धित लागुऔषध खैरो हेरोइनसहित तीन जना भारतीय नागरिक पक्राउ परेका छन् । पक्राउ पर्नेमा भारत, बिहार प्रान्त, अरर",
+     "image": ""
+    },
+    {
+     "title": "जेनसन हुआङको पुनरागमनको अड्कलबाजीमा एनभिडियाको भनाइ सार्वजनिक",
+     "url": "https://dcnepal.com/2026/11/815612/",
+     "source": "DC Nepal (डीसी नेपाल)",
+     "published": "2026-11-17T02:30:07+00:00",
+     "summary": "काठमाडौं । एनभिडियाका पूर्व प्रमुख कार्यकारी अधिकृत जेनसन हुआङलाई पुनः सोही पद सुम्पने अभियानलाई अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प लगायत थुप्रै प्रमुख व्यक्तिहरूको समर्थन प्राप्त भ",
+     "image": "https://dcnepal.com/wp-content/uploads/2026/09/nvidia-ceo-jensen-huang-says-agi-is-here-sort-of_4sck.1248.jpg"
+    },
+    {
+     "title": "सफाइको मौकासमेत नदिई सीधै थेसिस अस्वीकार",
+     "url": "https://www.ratopati.com/story/605695/the-thesis-was-rejected-outright-without-even-being-given-a-chance-to-explain",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-17T02:27:30+00:00",
+     "summary": "काठमाडौं । विदेशी निजी सफ्टवेयर टर्निटिनले देखाउने अनुमानित ‘एआई रिपोर्ट’का आधारमा महिनौँको मिहिनेतले तयार पारिएका शोधपत्र (थेसिस) र क्लिनिकल रिपोर्टहरू अस्वीकार गरिन थालेपछि त्रिभ",
+     "image": "https://npcdn.ratopati.com/media/news/tribhuwan-university_wy1rk50crt_67nnt3rrft_xhrukeuukk_8vupetmw6k_2ISwH5xZcV.jpg"
+    },
+    {
+     "title": "मिथिलाञ्चलमा सामाचकेवा पर्व सुरु, पूर्णिमासम्म मनाइने",
+     "url": "https://dcnepal.com/2026/11/815609/",
+     "source": "DC Nepal (डीसी नेपाल)",
+     "published": "2026-11-17T02:26:23+00:00",
+     "summary": "मटिहानी, महोत्तरी । मिथिलाञ्चलको प्रसिद्ध सांस्कृतिक पर्व सामाचकेवा आज रातिदेखि विधिवत् रूपमा सुरु भएको छ । दाजुभाइ तथा दिदीबहिनीबीचको प्रेम, सद्भाव र आत्मीय सम्बन्धको प्रतीक मानिन",
+     "image": "https://dcnepal.com/wp-content/uploads/2026/11/photo-1_8103c24f.jpeg"
+    },
+    {
+     "title": "फाइनल प्रवेशका लागि लुम्बिनी र सुदूरपश्चिम खेल्दै",
+     "url": "https://gorkhapatraonline.com/news/229311",
+     "source": "Gorkhapatra (गोरखापत्र)",
+     "published": "2026-11-17T02:25:05+00:00",
+     "summary": "काठमाडौँ, मङ्सिर १ गते । तेस्रो संस्करणको नेपाल प्रिमियर लिग (एनपिएल) क्रिकेटको पहिलो क्वालिफायर खेलमा आज लुम्बिनी लायन्स र सुदूरपश्चिम रोयल्स खेल्दै छन् । यी दुई टोलीबिचको खेल अपर",
+     "image": "https://gorkhapatraonline.com/storage/media/391797/conversions/cricket-(1)-original.jpg"
+    },
+    {
+     "title": "१० स्टाफ नर्ससहित १६ जनाका लागि रोजगारी खुल्यो",
+     "url": "https://www.ratopati.com/story/605694/employment-opportunities-for-16-people-including-10-staff-nurses-open",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-17T02:24:11+00:00",
+     "summary": "पोखरा । पोखरा विश्वविद्यालय शिक्षण अस्पतालले विभिन्न पदमा १६ जना कर्मचारी करार सेवामा भर्ना गर्ने भएको छ । अस्पतालले स्टाफ नर्स १०, रेडियोग्राफी टेक्निसियन १, ल्याब असिस्टेन्ट १ र ",
+     "image": "https://npcdn.ratopati.com/media/news/pokhara-hospital_o81eWd2aGi.webp"
+    },
+    {
+     "title": "आजदेखि काठमाण्डौ उपत्यकामा ‘पशु वधशाला तथा मासु जाँच ऐन–२०५५’ कार्यान्वयनमा",
+     "url": "https://www.ujyaaloonline.com/detail/133567",
+     "source": "Ujyaalo (उज्यालो)",
+     "published": "2026-11-17T02:24:00+00:00",
+     "summary": "सरकारले आजदेखि काठमाण्डौ उपत्यकामा ‘पशु वधशाला तथा मासु जाँच ऐन २०५५’ कार्यान्वयनमा ल्याएको छ ।",
+     "image": "https://www.ujyaaloonline.com/uploads/posts/MMM-1794882407.JPG"
+    },
+    {
+     "title": "कांग्रेस विधानमा फेरबदल : सुशासन प्रतिष्ठानदेखि युवा सल्लाहकार परिषद्सम्म",
+     "url": "https://www.onlinekhabar.com/2026/11/2059161/changes-to-the-congress-statute-from-the-good-governance-foundation-to-the-youth-advisory-council",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-17T02:23:09+00:00",
+     "summary": "जनप्रतिनिधिको कार्यसम्पादन अनुगमन र मूल्यांकन गर्न सुशासन प्रतिष्ठान गठनदेखि युवा सल्लाहकार परिषद्, प्रज्ञा तथा अनुभव परिषद् र केन्द्रीय निर्वाचन ब्युरोको व्यवस्थासम्म विधानमा नयाँ",
+     "image": ""
+    },
+    {
+     "title": "विपद्का बेला काम नलागेको बेनीको वैकल्पिक खानेपानी संरचना",
+     "url": "https://khabarhub.com/2026/17/1048453/",
+     "source": "Khabarhub (नेपाली)",
+     "published": "2026-11-17T02:22:40+00:00",
+     "summary": "म्याग्दी– म्याग्दीको सदरमुकाम बेनीमा खानेपानी आपूर्तिको वैकल्पिक व्यवस्था गर्न तीन वर्षअघि निर्माण गरिएको संरचना अझै सञ्चालनमा आउन सकेको छैन । मुख्य खानेपानीको मुहान र पाइपलाइनमा स",
+     "image": ""
+    },
+    {
+     "title": "जहाजविहीन बने सुदूरपश्चिमका पहाडी विमानस्थल",
+     "url": "https://gorkhapatraonline.com/news/229310",
+     "source": "Gorkhapatra (गोरखापत्र)",
+     "published": "2026-11-17T02:21:09+00:00",
+     "summary": "तारामान खड्काअछाम, मङ्सिर १ गते । सुदूरपश्चिमका पहाडी जिल्लामा रहेका विमानस्थल जहाजको प्रतीक्षामा छन् । तत्कालीन विद्रोही पक्ष माओवादी आन्दोलनको समयमा ध्वस्त बनेका विमानस्थल शान्ति",
+     "image": "https://gorkhapatraonline.com/storage/media/391795/conversions/IMG_1977-original.jpg"
+    },
+    {
+     "title": "४० वर्षदेखि भीरमा झुन्डिएर काढ्दै छन् मह, छुट्ट्याउँछन् मौरीको भाग!",
+     "url": "https://www.setopati.com/social/402723",
+     "source": "Setopati (सेतोपाटी)",
+     "published": "2026-11-17T02:21:00+00:00",
+     "summary": "न तल टेक्ने ठाउँ छ, न समात्ने हाँगा। डोरीको भर्‍याङमा झुन्डिएर मह काढ्नुपर्छ। मौरीको टोकाइ र भीरबाट खस्ने जोखिम त छँदै छ। तर मह काढ्दा केही चाका मौरीकै लागि छाड्छन्।",
+     "image": ""
+    },
+    {
+     "title": "६ वटा बैंकले घटाए ब्याजदर",
+     "url": "https://nagariknews.nagariknetwork.com/economy/6-banks-reduce-interest-rates-12-15.html",
+     "source": "Nagarik (नागरिक)",
+     "published": "2026-11-17T02:20:18+00:00",
+     "summary": "मंसिर महिनाका लागि ६ वटा वाणिज्य बैंकले निक्षेपको ब्याजदर घटाएका छन्।",
+     "image": ""
+    },
+    {
+     "title": "एमाले भेला : एकता सन्देश कि शक्ति सन्तुलनको परीक्षा",
+     "url": "https://nagariknews.nagariknetwork.com/politics/uml-gathering-a-message-of-unity-or-a-test-of-the-balance-of-power-45-37.html",
+     "source": "Nagarik (नागरिक)",
+     "published": "2026-11-17T02:20:18+00:00",
+     "summary": "नेकपा एमालेले बुधबार सुरु हुने दुई दिने राष्ट्रिय भेलाको तयारी पूरा भएको जनाएको छ। एमालेले सोमबार पत्रकार सम्मेलन गरेर भेलाको तयारी पूरा भएको जनाएको हो।...",
+     "image": ""
+    },
+    {
+     "title": "३०० जनालाई टुरिस्ट गाइडसहितको तालिम सञ्चालन गर्न आवेदन माग",
+     "url": "https://www.ratopati.com/story/605693/applications-are-invited-to-conduct-training-for-300-people-with-tourist-guides",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-17T02:19:16+00:00",
+     "summary": "काठमाडौं । नेपाल पर्यटन, होटल तथा पर्वतीय प्रतिष्ठानले टुरिस्ट गाइड र बरिस्टासम्बन्धी तालिम सञ्चालन गर्ने भएको छ । संस्कृति, पर्यटन तथा नागरिक उड्डयन मन्त्रालयअन्तर्गतको प्रतिष्ठान",
+     "image": "https://npcdn.ratopati.com/media/news/tourist_VESmmhswgy.webp"
+    },
+    {
+     "title": "मंगलबारका लागि विदेशी मुद्राको विनिमयदर सार्वजनिक, अमेरिकी डलरको मूल्य कति ?",
+     "url": "https://www.imagekhabar.com/news/563619/",
+     "source": "Image Khabar (इमेज खबर)",
+     "published": "2026-11-17T02:16:42+00:00",
+     "summary": "काठमाडौं । नेपाल राष्ट्र बैंकले मंगलबारका लागि विदेशी मुद्राको विनिमयदर सार्वजनिक गरेको छ। नयाँ दरअनुसार अमेरिकी डलर एकको खरिदमूल्य १४९ रुपैयाँ ९८ पैसा र बिक्रीदर १५० रुपैयाँ ५८ पै",
      "image": ""
     }
    ]
