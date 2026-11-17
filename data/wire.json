@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T13:19:30.423404+00:00",
+ "generated_at": "2026-11-17T13:20:17.246935+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-17T13:19:30.423374+00:00",
+   "fetched_at": "2026-11-17T13:20:17.246873+00:00",
    "stale": false,
    "items": [
     {
@@ -136,7 +136,7 @@
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-17T13:19:30.423389+00:00",
+   "fetched_at": "2026-11-17T13:20:17.246890+00:00",
    "stale": false,
    "items": [
     {
@@ -238,7 +238,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-17T13:19:30.423392+00:00",
+   "fetched_at": "2026-11-17T13:20:17.246894+00:00",
    "stale": false,
    "items": [
     {
@@ -340,9 +340,17 @@
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-17T13:19:30.423395+00:00",
+   "fetched_at": "2026-11-17T13:20:17.246897+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "पहिलो ओभरमै लुम्बिनीले गुमायो विकेट, डार्सी ‘डक आउट'",
+     "url": "https://baahrakhari.com/detail/507552",
+     "source": "Baahrakhari (बाह्रखरी)",
+     "published": "2026-11-17T13:19:42+00:00",
+     "summary": "",
+     "image": ""
+    },
     {
      "title": "एनपीएल : सुदूरपश्चिमद्वारा लुम्बिनीलाई १०६ रनको लक्ष्य",
      "url": "https://nepalsamaya.com/detail/147875",
@@ -462,14 +470,6 @@
      "published": "2026-11-17T13:03:50+00:00",
      "summary": "काठमाडाैँ। तेस्रो संस्करणको नेपाल प्रिमियर लिग(एनपीएल)अन्तर्गत मंगलबार लुम्बिनी लायन्स र सुदूरपश्चिम रोयल्सबिचको खेल हेर्न समर्थकहरु त्रिवि क्रिकेट मैदान पुगेका छन्। अघिल्लो संस्कर",
      "image": "https://npcdn.ratopati.com/media/news/s_m9ePpioH44.webp"
-    },
-    {
-     "title": "लुम्बिनीलाई सुदूरपश्चिमको १०६ रनको लक्ष्य, दीपेन्द्रको अर्धशतकिय पारी!",
-     "url": "https://www.thahakhabar.com/detail/312061",
-     "source": "Thaha Khabar (थाहा खबर)",
-     "published": "2026-11-17T13:02:00+00:00",
-     "summary": "",
-     "image": "https://www.thahakhabar.com/uploads/posts/Untitled-1-Recovered-Recovered-Recovered-Recovered-1794920471.jpg"
     }
    ]
   }
