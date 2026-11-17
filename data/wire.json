@@ -1,10 +1,42 @@
 {
- "generated_at": "2026-11-17T14:52:15.069911+00:00",
+ "generated_at": "2026-11-17T15:22:56.951819+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-17T14:52:15.069882+00:00",
+   "fetched_at": "2026-11-17T15:22:56.951788+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Nepal secures approval to import 350 MW of electricity from India",
+     "url": "https://english.khabarhub.com/2026/17/575948/",
+     "source": "Khabarhub",
+     "published": "2026-11-17T15:21:11+00:00",
+     "summary": "KATHMANDU: The Nepal Electricity Authority (NEA) has received approval to import up to 350 megawatts (MW) of electricity from India to meet domestic energy demand during the upcomi",
+     "image": ""
+    },
+    {
+     "title": "APEC Shenzhen meeting to inject fresh momentum into Asia-Pacific cooperation",
+     "url": "https://peoplesreview.com.np/2026/11/17/apec-shenzhen-meeting-to-inject-fresh-momentum-into-asia-pacific-cooperation/",
+     "source": "Peoples Review",
+     "published": "2026-11-17T15:16:00+00:00",
+     "summary": "SHENZHEN, Nov. 16 (Xinhua) &#8212; Asia-Pacific cooperation now stands at a crossroads amid mounting economic uncertainty and rising protectionism. The upcoming 33rd Asia-Pacific E",
+     "image": ""
+    },
+    {
+     "title": "Nepal Seeks Additional Air Routes from India Amidst Strategic Discussions",
+     "url": "http://english.ratopati.com/story/87034/if-giving-up-the-bagdora-will-not-have-any-impact-one-should-not-miss-taking-the-mahendranagar-route",
+     "source": "Ratopati",
+     "published": "2026-11-17T14:56:38+00:00",
+     "summary": "Kathmandu. Among the issues that are always at the center of discussion and interest before almost every Prime Minister of...",
+     "image": ""
+    },
+    {
+     "title": "European Economy Shows Resilience Amidst Energy Crisis, Growth Forecasts Raised",
+     "url": "http://english.ratopati.com/story/87033/expectations-of-economic-recovery-in-europe-risk-of-rising-food-and-energy-prices",
+     "source": "Ratopati",
+     "published": "2026-11-17T14:55:13+00:00",
+     "summary": "Kathmandu. The European Commission has increased its economic growth forecast for 2026 for the 21 countries using the European common...",
+     "image": ""
+    },
     {
      "title": "Lumbini Lions beat Sudurpaschim Royals to reach NPL final",
      "url": "https://english.khabarhub.com/2026/17/575942/",
@@ -100,43 +132,11 @@
      "published": "2026-11-17T13:29:36+00:00",
      "summary": "Kathmandu. Nine government departments of China have issued new guidelines with the objective of further systematizing and making the recycling...",
      "image": ""
-    },
-    {
-     "title": "NEPSE declines by 12.79 points to close at 2,636.10",
-     "url": "https://english.khabarhub.com/2026/17/575940/",
-     "source": "Khabarhub",
-     "published": "2026-11-17T13:24:13+00:00",
-     "summary": "KATHMANDU: The Nepal Stock Exchange (NEPSE) index dropped by 12.79 points to settle at 2,636.10 points on Tuesday, following a three-day public holiday. A total of 11.29 million sh",
-     "image": ""
-    },
-    {
-     "title": "Policewoman who helped in Nepal disaster relief among nearly 1,000 Home Team award recipients",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzlmZEd1NWdnR21YblZZZEVocUhpUW4wYVRMcEI0WnpqTUdrak5PSEhucEZXYlNEelVaRElaUHV6YndXMWs0UGZnSXZCRTdab1V5bVM4RS1QMUJNTFNxMkRoQXA5X0otMEZwU0JkUDI5UUFuYTF4a1c2VGdZWmh4MFhjRmo3eUto?oc=5",
-     "source": "Yahoo News Singapore",
-     "published": "2026-11-17T13:20:00+00:00",
-     "summary": "Policewoman who helped in Nepal disaster relief among nearly 1,000 Home Team award recipients&nbsp;&nbsp;Yahoo News Singapore",
-     "image": ""
-    },
-    {
-     "title": "Motorcyclist killed after being struck by falling stone at Ghoptebhir",
-     "url": "https://english.khabarhub.com/2026/17/575937/",
-     "source": "Khabarhub",
-     "published": "2026-11-17T13:18:39+00:00",
-     "summary": "CHITWAN: A motorcyclist died after a stone fell from a cliff and struck his motorcycle at Ghoptebhir in Ichchhakamana Rural Municipality-4 along the Prithvi Highway. The deceased h",
-     "image": ""
-    },
-    {
-     "title": "Bhatbhateni postpones 24-hour grocery service at Tangal store",
-     "url": "https://english.onlinekhabar.com/bhatbhateni-postpones-tangal-24-hour.html",
-     "source": "Online Khabar",
-     "published": "2026-11-17T13:16:20+00:00",
-     "summary": "Kathmandu, November 17 Bhatbhateni Supermarket and Departmental Store Pvt Ltd has postponed its plan to operate the grocery section of its Tangal store round the clock, which was s",
-     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-17T14:52:15.069896+00:00",
+   "fetched_at": "2026-11-17T15:22:56.951805+00:00",
    "stale": false,
    "items": [
     {
@@ -238,7 +238,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-17T14:52:15.069899+00:00",
+   "fetched_at": "2026-11-17T15:22:56.951808+00:00",
    "stale": false,
    "items": [
     {
@@ -340,136 +340,136 @@
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-17T14:52:15.069901+00:00",
+   "fetched_at": "2026-11-17T15:22:56.951810+00:00",
    "stale": false,
    "items": [
     {
-     "title": "साढे ८ करोडभन्दा बढीको अनुचित लेनदेन मुद्दाका प्रतिवादी पक्राउ",
-     "url": "https://www.ratopati.com/story/605881/defendant-arrested-in-improper-transaction-case-worth-over-rs-85-million",
+     "title": "पहिलो बलमै मुन्सेलाई आउट गर्नु जितको टर्निङ प्वाइन्ट बन्यो : ट्रम्पलम्यान",
+     "url": "https://www.ratopati.com/story/605886/getting-munsey-out-on-the-first-ball-was-the-turning-point-of-the-win-trumpelman",
      "source": "Ratopati (नेपाली)",
-     "published": "2026-11-17T14:49:03+00:00",
-     "summary": "काठमाडौँ। साढे ८ करोड रुपैयाँभन्दा बढी बिगो रहेको अनुचित लेनदेन मुद्दाका फरार प्रतिवादी पक्राउ परेका छन् । काठमाडौं उपत्यका अपराध अनुसन्धान कार्यालयको टोलीले काठमाडौं महानगरपालिका–",
-     "image": "https://npcdn.ratopati.com/media/news/pk_UIZgJ7pyMx.webp"
+     "published": "2026-11-17T15:18:11+00:00",
+     "summary": "काठमाडौँ। नेपाल प्रिमियर लिग (एनपीएल) को पहिलो क्वालिफायरमा सुदूरपश्चिम रोयल्सलाई ६ विकेटले हराउँदै फाइनल पुगेको लुम्बिनी लायन्सका बलर रुबेन ट्रम्पलम्यानले खेलको पहिलो बलमै जर्ज मु",
+     "image": "https://npcdn.ratopati.com/media/news/ruben_oFYjTM50fH.webp"
     },
     {
-     "title": "भोटेकोशी बाढीपीडितका समस्या र पुनर्स्थापनाबारे उत्तरगया गाउँपालिकामा छलफल",
-     "url": "https://www.ratopati.com/story/605880/discussion-in-uttargaya-rural-municipality-on-the-problems-and-rehabilitation-of-bhotekoshi-flood-victims",
+     "title": "सिट थप गर्ने ४ ईभी गाडी कारबाहीमा, ४० हजार जरिवाना",
+     "url": "https://www.ratopati.com/story/605885/4-ev-vehicles-with-extra-seats-taken-into-action-fined-rs-40000",
      "source": "Ratopati (नेपाली)",
-     "published": "2026-11-17T14:47:37+00:00",
-     "summary": "काठमाडाैँ। उत्तरगया गाउँपालिकाका बाढीपीडित संघर्ष समितिले मंगलबार गाउँपालिका पुगेर ज्ञापनपत्र बुझाएका छन्। ​ज्ञापनपत्र बुझाएपछि संघर्ष समिति र गाउँपालिका पदाधिकारीबिच बाढीपीडितका स",
-     "image": "https://npcdn.ratopati.com/media/news/rasuwa-badhi_27y4wVkjOC.webp"
+     "published": "2026-11-17T15:14:59+00:00",
+     "summary": "मकवानपुर । निर्धारित क्षमता भन्दा बढी सिट राख्ने ४ विद्युतीय गाडी (ईभी)लाई मकवानपुर प्रहरीले कारबाही थालेको छ । बढ्दो सवारी दुर्घटनालाई मध्यनजर गर्दै मकवानपुर प्रहरीले अवैध रूपमा थ",
+     "image": "https://npcdn.ratopati.com/media/news/evv_mWCfYsncb9.webp"
     },
     {
-     "title": "लुम्बिनीले सुदूरलाई हराउँदा मैदानमा जे देखियाे, तस्बिरहरू",
-     "url": "https://www.ratopati.com/story/605879/lumbini-advances-to-finals-after-defeating-sudur",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-17T14:45:53+00:00",
-     "summary": "काठमाडाैँ। नेपाल प्रिमियर लिग (एनपीएल)को पहिलो क्वालिफायरमा सुदूरपश्चिम राेयल्सलाई राउँदै लुम्बिनी लायन्सले फाइनलमा पुगेकाे छ। मंगलबार त्रिभुवन विश्वविद्यालय अन्तर्राष्ट्रिय क्रिके",
-     "image": "https://npcdn.ratopati.com/media/news/51-whatsapp-image-2026-11-018_Eturpvr3qq.webp"
-    },
-    {
-     "title": "दीपेन्द्रसिंह ऐरीको अर्धशतक ओझेलमा : सुदूरपश्चिमलाई पछि पार्दै लुम्बिनी फाइनलमा प्रवेश",
-     "url": "https://dcnepal.com/2026/11/815861/",
-     "source": "DC Nepal (डीसी नेपाल)",
-     "published": "2026-11-17T14:45:12+00:00",
-     "summary": "काठमाडौं। राजधानीमा जारी तेस्रो संस्करणको नेपाल प्रिमियर लिग (एनपीएल) अन्तरगत पहिलो क्वालिफायरमा सुदूरपश्चिम रोयल्सलाई ६ विकेटले पराजित गरेर लुम्बिनी लायन्स फाइनलमा पुगेको छ। जितका",
-     "image": ""
-    },
-    {
-     "title": "लुम्बिनी लायन्स एनपीएलको फाइनलमा",
-     "url": "https://www.ujyaaloonline.com/detail/133588",
-     "source": "Ujyaalo (उज्यालो)",
-     "published": "2026-11-17T14:43:36+00:00",
-     "summary": "",
-     "image": "https://www.ujyaaloonline.com/uploads/posts/Lumbini-Lions-1793754240.jpg"
-    },
-    {
-     "title": "सुदूरपश्चिमलाई हराउँदै लुम्बिनी फाइनलमा प्रवेश",
-     "url": "https://gorkhapatraonline.com/news/229407",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-17T14:43:25+00:00",
-     "summary": "काठमाडौँ, मङ्सिर १ गते । नेपाल प्रिमियर लिग (एनपिएल) को तेस्रो संस्करणको पहिलो क्वालिफायरमा सुदूरपश्चिम रोयल्सलाई छ विकेटले पराजित गर्दै लुम्बिनी लायन्स फाइनलमा प्रवेश गरेको छ ।कीर",
-     "image": "https://gorkhapatraonline.com/storage/media/391937/conversions/911178145_122216683334455690_3988024303151756426_n-original.jpg"
-    },
-    {
-     "title": "लुम्बिनी लायन्स एनपीएलको फाइनलमा प्रवेश",
-     "url": "https://www.thahakhabar.com/detail/312067",
-     "source": "Thaha Khabar (थाहा खबर)",
-     "published": "2026-11-17T14:42:06+00:00",
-     "summary": "",
-     "image": "https://www.thahakhabar.com/uploads/posts/Untitled-1-Recovered-Recovered-Recovered-Recovered-1794926333.jpg"
-    },
-    {
-     "title": "एनपीएलको तेस्रो सिजनको फाइनलमा लुम्बिनी",
-     "url": "https://baahrakhari.com/detail/507558",
+     "title": "चांगानको अत्याधुनिक ड्राइभर असिस्टेन्स प्रणाली ‘एसडीए पाइलट’ सार्वजनिक",
+     "url": "https://baahrakhari.com/detail/507560",
      "source": "Baahrakhari (बाह्रखरी)",
-     "published": "2026-11-17T14:36:41+00:00",
+     "published": "2026-11-17T15:12:31+00:00",
      "summary": "",
      "image": ""
     },
     {
-     "title": "लुम्बिनीको फाइनल यात्रा पक्का, अब सुदूरपश्चिमको नजर दोस्रो क्वालिफायरमा",
-     "url": "https://www.setopati.com/sports/npl/402792",
-     "source": "Setopati (सेतोपाटी)",
-     "published": "2026-11-17T14:36:00+00:00",
-     "summary": "साविक विजेता लुम्बिनी लायन्स नेपाल प्रिमियर लिग (एनपिएल) को तेस्रो संस्करणको फाइनलमा प्रवेश गरेको छ।",
-     "image": ""
-    },
-    {
-     "title": "डिकवेलाको अर्धशतकमा सुदूरपश्चिमलाई हराउँदै लुम्बिनी फाइनलमा",
-     "url": "https://www.onlinekhabar.com/2026/11/2059890/lumbini-enters-final-after-defeating-sudurpaschim-on-dickwellas-half-century",
-     "source": "Online Khabar (नेपाली)",
-     "published": "2026-11-17T14:34:49+00:00",
-     "summary": "लुम्बिनी लगातार दोस्रो पटक फाइनल पुग्दै उपाधि रक्षा अभियानको नजिक पुगेको छ । दुई पटकको उपविजेता सुदूरपश्चिम भने पहिलो पटक क्वालिफायरमा पराजित भएको हो ।",
-     "image": ""
-    },
-    {
-     "title": "आजका समाचार : इनम प्रकरणपछि सर्वोच्चका न्यायाधीश इजलास फर्किए, आदोलनको तयारी गर्न ओलीको निर्देशन, लुम्बिनी एनपीएलको फाइनलमा र ट्रम्प-सी-पुटिन त्रिपक्षीय वार्ता हुँदै",
-     "url": "https://khabarhub.com/2026/17/1048755/",
-     "source": "Khabarhub (नेपाली)",
-     "published": "2026-11-17T14:32:15+00:00",
-     "summary": "सर्वोच्चका प्रधानन्यायाधीश शर्मा र न्यायाधीश फुँयाल इजलासमा फर्किए इनम सापकोटाको ह्वाट्सएप सन्देश सार्वजनिक भएपछि केही समय इजलासमा नबसेका सर्वोच्च अदालतका प्रधानन्यायाधीश डा. मनोज ",
-     "image": ""
-    },
-    {
-     "title": "सुदूरपश्चिममाथि ह्याट्रिक जित निकाल्दै साविक विजेता लुम्बिनी फाइनलमा",
-     "url": "https://nagariknews.nagariknetwork.com/sports/the-main-title-of-sama-char-83-61.html",
-     "source": "Nagarik (नागरिक)",
-     "published": "2026-11-17T14:31:30+00:00",
-     "summary": "विकेटकिपर ब्याटर निरोशन डिकवेलाको अविजित अर्धशतक र बलरहरूको कसिलो प्रदर्शनको मद्दतले साविक विजेता लुम्बिनी लायन्स नेपाल प्रिमियर लिग (एनपिएल) सिजन ३ को फाइनलमा प्रवेश गरेको छ।...",
-     "image": ""
-    },
-    {
-     "title": "लुम्बिनी एनपीएलको फाइनलमा, सुदूरपश्चिमले दोस्रो क्वालिफायर खेल्ने",
-     "url": "https://khabarhub.com/2026/17/1048778/",
-     "source": "Khabarhub (नेपाली)",
-     "published": "2026-11-17T14:30:35+00:00",
-     "summary": "काठमाडौं&#8211; सुदूरपश्चिम रोयल्सलाई पराजित गर्दै लुम्बिनी लायन्स नेपाल प्रिमियर लिग एनपीएलको फाइनल प्रवेश गरेको छ । मंगलबार सम्पन्न पहिलो क्वालिफायरमा लुम्बिनीले सुदूरपश्चिमलाई ६",
-     "image": ""
-    },
-    {
-     "title": "लुम्बिनीका डिकवेलाले बनाए अर्धशतक",
-     "url": "https://www.onlinekhabar.com/2026/11/2059887/lumbinis-dikwela-scores-a-half-century",
-     "source": "Online Khabar (नेपाली)",
-     "published": "2026-11-17T14:30:29+00:00",
-     "summary": "लुम्बिनी लायन्सका निरोशन डिकवेलाले नेपाल प्रिमियर लिगमा सुदूरपश्चिम रोएल्सविरुद्ध पहिलो क्वालिफायरमा अर्धशतक बनाएका छन् ।",
-     "image": ""
-    },
-    {
-     "title": "सुदूरपश्चिमलाई हराउँदै लुम्बिनी लगातार दाेस्रो पटक एनपीएलको फाइनलमा",
-     "url": "https://www.ratopati.com/story/605878/lumbini-advances-to-finals-after-defeating-sudur",
+     "title": "सभामुख अर्याल र फ्रान्स–नेपाल संसदीय समूहकी अध्यक्षबिच भेटवार्ता",
+     "url": "https://www.ratopati.com/story/605884/meeting-between-speaker-aryal-and-the-chair-of-the-france-nepal-parliamentary-group",
      "source": "Ratopati (नेपाली)",
-     "published": "2026-11-17T14:29:50+00:00",
-     "summary": "काठमाडाैँ । नेपाल प्रिमियर लिग (एनपीएल)को पहिलो क्वालिफायरमा सुदूरपश्चिम राेयल्सलाई राउँदै लुम्बिनी लायन्सले फाइनलमा पुगेकाे छ ।",
-     "image": "https://npcdn.ratopati.com/media/news/lumbini-sudur-photo_781C103ZyK.webp"
+     "published": "2026-11-17T15:11:48+00:00",
+     "summary": "काठमाडौँ। सभामुख डोलप्रसाद (डीपी) अर्यालसँग फ्रान्सेली संसद्को प्रतिनिधि सभाअन्तर्गत फ्रान्स–नेपाल संसदीय समूहकी अध्यक्ष महामहिम बियाट्रिस पिरोनले शिष्टाचार भेटवार्ता गरेकी छन्। भे",
+     "image": "https://npcdn.ratopati.com/media/news/dpp_iE57icJTZA.webp"
     },
     {
-     "title": "राप्रपा मकवानपुरको अगुवा कार्यकर्ता भेला हुँदै",
-     "url": "https://www.ratopati.com/story/605877/leading-cadres-of-rpp-makawanpur-are-gathering",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-17T14:28:43+00:00",
-     "summary": "मकवानपुर । राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) मकवानपुरले जिल्ला स्तरीय अगुवा कार्यकर्ता भेला आयोजना गर्ने भएको छ । जिल्ला अध्यक्ष रिशिलाल श्रेष्ठको नेतृत्वमा हुने भेलामा जिल्ला",
-     "image": "https://npcdn.ratopati.com/media/news/whatsapp-image-2026-11-17-at-201126_bnzhKgRf2e.webp"
+     "title": "हिमालको काखमा प्रकृतिको मोहनी, पर्यटकको रोजाइमा गुफापोखरी (तस्वीरहरू)",
+     "url": "https://www.onlinekhabar.com/2026/11/2059193/the-charm-of-nature-in-the-lap-of-the-mountains-the-cave-pool-is-a-favorite-among-tourists-photos",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-17T15:09:22+00:00",
+     "summary": "प्राकृतिक सुन्दरता, चिसो हावापानी र मनोरम हिमाली दृश्यका कारण गुफा पोखरी पर्यटकको रोजाइमा पर्दै आएको छ ।",
+     "image": ""
+    },
+    {
+     "title": "क्रसिङ नजिकिँदा उखु मूल्यमा रस्साकस्सी, ८ रुपैयाँ मात्रै बढ्ने भन्दा भड्किए किसान",
+     "url": "https://www.onlinekhabar.com/2026/11/2059625/sugarcane-prices-surge-as-crossing-approaches-farmers-angry-over-increase-of-just-rs-8",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-17T15:08:25+00:00",
+     "summary": "अघिल्लो वर्षको तुलनामा जम्मा ८ रुपैयाँमात्र मूल्यवृद्धि गर्ने गरी लागत प्रतिवेदन पेस गरिएपछि किसान प्रतिनिधिहरू आक्रोशित बनेका छन् ।",
+     "image": ""
+    },
+    {
+     "title": "बालेनले कसरी बदल्छन् नेपाल-भारत सम्बन्धको समीकरण ?",
+     "url": "https://www.onlinekhabar.com/2026/11/2059895/how-does-balen-change-the-equation-of-nepal-india-relations",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-17T15:07:43+00:00",
+     "summary": "प्रधानमन्त्री बालेनको भारत भ्रमण आन्तरिक राजनीतिमा प्राप्त नयाँ जनादेशले नेपालको बाह्य सम्बन्धमा पनि नयाँ शक्ति र आत्मविश्वास निर्माण गर्न सक्छ कि सक्दैन भन्ने परीक्षाको घडी पनि हो",
+     "image": ""
+    },
+    {
+     "title": "विकेन्द्रीकरण विस्तार गर्दै त्रिवि",
+     "url": "https://www.onlinekhabar.com/2026/11/2059794/tu-expanding-decentralization",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-17T15:06:29+00:00",
+     "summary": "त्रिविले विकेन्द्रीकरणलाई विस्तार गर्ने भएको छ । यो नियमअनुसार त्रिविका संस्थान र क्याम्पसले आर्थिक अधिकारको मात्र प्रयोग गरेका छन् । जसका कारण बेरुजु बढेको छ । अब शैक्षिक गुणस्तर ",
+     "image": ""
+    },
+    {
+     "title": "एआईजीको जागिर खुस्कियो, लगानी बोर्डका पूर्वसीईओदेखि नेताका भाइसम्म पक्राउ",
+     "url": "https://www.onlinekhabar.com/2026/11/2059787/aig-job-loss-from-former-ceo-of-investment-board-to-leaders-brother-arrested",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-17T15:05:09+00:00",
+     "summary": "कनेक्सन देखिएको भने पनि इनम–महेश सम्बन्ध कस्तो हो भन्नेबारे प्रहरीले केही बताएको छैन । इनमकै मोबाइलबाट कनेक्सन देखिएपछि महेश पक्राउ परेका हुन् ।",
+     "image": ""
+    },
+    {
+     "title": "सत्तालिप्साको लहरो सर्‍यो मधेशतिर",
+     "url": "https://www.onlinekhabar.com/2026/11/2059567/unstable-power-in-madhesh-lack-of-integrity-and-morality-among-leaders",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-17T15:04:49+00:00",
+     "summary": "राजनीतिक विश्लेषक डा. भोगेन्द्र झा भन्छन्– मधेशमा मात्र होइन, देशकै राजनीतिमा नैतिकताको खडेरी छ । पदका लागि राजनीतिक निष्ठा र सिद्धान्त बिर्सिइएको छ ।",
+     "image": ""
+    },
+    {
+     "title": "विदेशबाट शव ल्याउन र बेचबिखनमा परेका व्यक्तिको उद्धार गर्न महिनौं किन लाग्छ ?",
+     "url": "https://www.onlinekhabar.com/2026/11/2059500/why-does-it-take-months-to-bring-bodies-from-abroad-and-rescue-trafficked-people",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-17T15:03:37+00:00",
+     "summary": "वैदेशिक रोजगारीको प्रलोभनमा विदेश पुर्‍याएर बेचबिखन तथा शोषणमा पारिएका नेपालीको उद्धार र विदेशमा मृत्यु भएकाहरूको शव स्वदेश ल्याउन महिनौं लाग्ने गरेको विषय संसदीय समितिमा उठेको छ ।",
+     "image": ""
+    },
+    {
+     "title": "‘नेपाल-भारतका समस्या अब कार्पेटमुनि लुकाउन हुन्न, प्रधानमन्त्रीले आँखा जुधाएर कुरा गर्नुपर्छ’",
+     "url": "https://www.onlinekhabar.com/2026/11/2059415/nepal-india-problems-should-no-longer-be-hidden-under-the-carpet-the-prime-minister-should-talk-face-to-face",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-17T15:03:12+00:00",
+     "summary": "हिजोका सन्धि–सम्झौताको ब्यागेज बोक्नैपर्छ। त्यो बोक्दिनँ भन्नु राजनीतिक र कूटनीतिक कच्चापन हुन्छ । यो कुरा नेपाल र भारतले पनि बुझ्नु पर्छ।",
+     "image": ""
+    },
+    {
+     "title": "उपेन्द्र यादवलाई आइलागेको अप्ठ्यारो",
+     "url": "https://www.onlinekhabar.com/2026/11/2059643/the-trouble-that-upendra-yadav-is-facing",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-17T15:01:48+00:00",
+     "summary": "मधेश प्रदेशमा मुख्यमन्त्री कृष्णप्रसाद यादवले राजीनामा दिएपछि नयाँ सरकार गठनको प्रक्रिया सुरु भएको छ। प्रदेश सभाको सबैभन्दा ठूलो दल जसपा नेपालले सरकारको नेतृत्व लिने अनौपचारिक सहमत",
+     "image": ""
+    },
+    {
+     "title": "माछापुच्छ्रे बैंक र ‘ट्याप ट्याप सेन्ड’बीच रेमिट्यान्स सम्झौता",
+     "url": "https://baahrakhari.com/detail/507559",
+     "source": "Baahrakhari (बाह्रखरी)",
+     "published": "2026-11-17T15:00:38+00:00",
+     "summary": "",
+     "image": ""
+    },
+    {
+     "title": "‘सरकार नै कांग्रेस फुटाउन सक्रिय छ’",
+     "url": "https://www.onlinekhabar.com/2026/11/2059343/the-government-is-active-in-splitting-the-congress",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-17T14:59:48+00:00",
+     "summary": "'इनम सापकोटा खडा गरिएका पात्र हुन् या राज्यको माथिल्लो तहमा सम्बन्ध भएका व्यक्ति हुन्, सरकारले भन्नुपर्छ’",
+     "image": ""
+    },
+    {
+     "title": "प्रधानमन्त्रीको भारत भ्रमणमा धाम्रा र मुन्द्रा बन्दरगाहसम्मको पहुँच माग्ने तयारी",
+     "url": "https://www.onlinekhabar.com/2026/11/2059871/preparations-to-request-access-to-dhamra-and-mundra-ports-during-prime-ministers-visit-to-india",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-17T14:57:51+00:00",
+     "summary": "'हामीलाई बन्दरगाहको थप विकल्प होस् भनेर माग गर्ने तयारी गरेका छौं,' भ्रमणका एजेण्डाहरूलाई अन्तिम रुपमा दिन काममा संलग्न एक उच्च अधिकारी भने ।",
+     "image": ""
     }
    ]
   }
