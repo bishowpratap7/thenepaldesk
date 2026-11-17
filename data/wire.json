@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-17T23:05:07.430575+00:00",
+ "generated_at": "2026-11-17T23:35:49.949770+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-17T23:05:07.430550+00:00",
+   "fetched_at": "2026-11-17T23:35:49.949744+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Nvidia Records Quarterly Sales Exceeding $100 Billion, Confirms Founder Jensen Huang Not Returning",
+     "url": "http://english.ratopati.com/story/87043/nvidias-quarterly-sales-double-former-ceo-huang-rules-out-return",
+     "source": "Ratopati",
+     "published": "2026-11-17T23:10:48+00:00",
+     "summary": "Kathmandu. Artificial intelligence (AI) chip manufacturing company Nvidia's quarterly sales have set a new record, surpassing $100 billion (1 kharba)...",
+     "image": ""
+    },
     {
      "title": "Agroecological Farming Matches Or Exceeds Conventional Vegetable Yields In Nepal Study",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGdYekZUa05zdW5EOWUtMDBjZlBjLV9ReHlUWnk1R1hKQmU2WURvQUdaM2hnWnZwYXotT3ByZlM2WUZlQ3UyVU1nRTJEZ3ZkNjNuTERwUnFTeUQ0SWt5d2xUcFJuZEhtOE1QUHJVZEo1eUVGRjFHd0NGZFpVNVBIbFJIdktqS3BOUHJYMGxfWG82TXl3c1pKSVhGOFpHR3NueW1sNzFHMl9nSVNBdlpqZQ?oc=5",
@@ -124,19 +132,11 @@
      "published": "2026-11-17T16:56:08+00:00",
      "summary": "काठमाडौं। नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीले आफ्नो पार्टीलाई लक्षित गरी भइरहेको आलोचना र बहिष्कारको प्रयासले कुनै असर नपर्ने बताएका छन्। मङ्गलबार अखिल नेपाल किसान महासङ्घको बैठ",
      "image": ""
-    },
-    {
-     "title": "India Wins SAFF Championship 2026 Title",
-     "url": "http://english.ratopati.com/story/87039/india-wins-saff-championship-with-thrilling-win-over-pakistan",
-     "source": "Ratopati",
-     "published": "2026-11-17T16:54:45+00:00",
-     "summary": "Kathmandu. India has won the SAFF Championship 2026 title. India became the champion by defeating Pakistan by 2-1 goals in...",
-     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-17T23:05:07.430562+00:00",
+   "fetched_at": "2026-11-17T23:35:49.949756+00:00",
    "stale": false,
    "items": [
     {
@@ -238,7 +238,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-17T23:05:07.430565+00:00",
+   "fetched_at": "2026-11-17T23:35:49.949759+00:00",
    "stale": false,
    "items": [
     {
@@ -340,9 +340,25 @@
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-17T23:05:07.430566+00:00",
+   "fetched_at": "2026-11-17T23:35:49.949761+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "नमोबुद्ध जात्रा: करुणा र देहत्यागको बौद्ध मान्यता जोडिएको ऐतिहासिक मेला",
+     "url": "https://www.ratopati.com/story/605913/namobuddha-jatra-a-historic-fair-connected-to-the-buddhist-values-of-compassion-and-self-sacrifice",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-17T23:19:31+00:00",
+     "summary": "काभ्रेपलान्चोक । कात्तिक शुक्ल पूर्णिमाका अवसरमा काभ्रेपलान्चोकको नमोबुद्धमा लाग्ने तीन दिने जात्रा यस वर्ष सोमबारदेखि सुरु हुँदैछ । गौतम बुद्धको पूर्वजन्ममा एक राजकुमारले भोकले छट",
+     "image": "https://npcdn.ratopati.com/media/news/1wHqLbP8SJ.jpg"
+    },
+    {
+     "title": "एनभिडियाको त्रैमासिक बिक्री दोब्बर, पूर्वसीईओ हुआङको पुनरागमन अस्वीकार",
+     "url": "https://www.ratopati.com/story/605915/nvidias-quarterly-sales-double-former-ceo-huang-rules-out-return",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-17T23:10:54+00:00",
+     "summary": "काठमाडौँ । आर्टिफिसियल इन्टेलिजेन्स (एआई) चिप निर्माता कम्पनी एनभिडियाको त्रैमासिक बिक्री पहिलो पटक १०० अर्ब (१ खर्ब) डलर पार गर्दै नयाँ रेकर्ड कायम गरेको छ । ऐतिहासिक वित्तीय नतिज",
+     "image": "https://npcdn.ratopati.com/media/news/nvidia_kyO79yWX2o.webp"
+    },
     {
      "title": "एनभिडियाको सीईओमा फर्किन तयार छु: जेन्सन हुआङ",
      "url": "https://www.ratopati.com/story/605914/ready-to-return-as-nvidia-ceo-jensen-huang",
@@ -454,22 +470,6 @@
      "published": "2026-11-17T17:59:28+00:00",
      "summary": "राजन रावतहुम्ला मङसिर १ गते । जिल्ला प्रहरी कार्यालय हुम्लाका प्रमुखको कार्यकक्ष स्थापना गर्नका लागि नयाँ भवन सहयोग जुटाएर निर्माण गरि सञ्चालनमा आएको छ । यसअघि प्रहरी प्रमुखको कार्",
      "image": "https://gorkhapatraonline.com/storage/media/391952/conversions/893373809_1111873755088553_9075235069056861045_n-original.jpg"
-    },
-    {
-     "title": "पोखरामा कर सप्‍ताह सुरु, लक्ष्यभन्दा बढी राजश्व संकलन",
-     "url": "https://baahrakhari.com/detail/507570",
-     "source": "Baahrakhari (बाह्रखरी)",
-     "published": "2026-11-17T17:55:23+00:00",
-     "summary": "",
-     "image": ""
-    },
-    {
-     "title": "एनपीएलमा सट्टेबाजी गराएको आरोपमा भारतीय नागरिक पक्राउ",
-     "url": "https://baahrakhari.com/detail/507569",
-     "source": "Baahrakhari (बाह्रखरी)",
-     "published": "2026-11-17T17:48:42+00:00",
-     "summary": "",
-     "image": ""
     }
    ]
   }
