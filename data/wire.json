@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-11-18T23:12:35.605777+00:00",
+ "generated_at": "2026-11-18T23:43:39.575768+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-18T23:12:35.605741+00:00",
+   "fetched_at": "2026-11-18T23:43:39.575733+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Nepal Rastra Bank Sets Today's Exchange Rates",
+     "url": "http://english.ratopati.com/story/87206/this-is-the-foreign-exchange-rate-on-thursday",
+     "source": "Ratopati",
+     "published": "2026-11-18T23:30:00+00:00",
+     "summary": "Kathmandu. Nepal Rastra Bank has determined the exchange rate for foreign currencies today. According to the central bank, the purchase...",
+     "image": ""
+    },
     {
      "title": "Nepali Army has made key contribution in construction of road infrastructure: President Paudel",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxbHNWRGtYQUZPU0ducE9JVEdnMTNRVFA5eENhcEx1WHR0ZVFfTmVvT0pGLUUtWlMtYVc1NXg2ZTFZZWlrczRSWXhOVmF2TnRo?oc=5",
      "source": "The Rising Nepal",
      "published": "2026-11-18T22:56:05+00:00",
      "summary": "Nepali Army has made key contribution in construction of road infrastructure: President Paudel&nbsp;&nbsp;The Rising Nepal",
-     "image": ""
-    },
-    {
-     "title": "Nepal Rastra Bank Sets Today's Exchange Rates",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeWwzMVUtQWJidkVIdmREcEMwd29GSXp6U1RfN2l6aGRkLTFBRU9UZlZrS1FDUmk0cWNTTTY3TnZyMzg2NGs1ZmhDUmZMNC1yLUIyTGdCemdiN1pnRFE1U3NURUtBN3NNX2p0dTRyamlYaDQ0OUFxSDdsN3JrSm04SFhoTHpveWtnMHl2S0lHcw?oc=5",
-     "source": "Ratopati",
-     "published": "2026-11-18T21:29:57+00:00",
-     "summary": "Nepal Rastra Bank Sets Today's Exchange Rates&nbsp;&nbsp;Ratopati",
      "image": ""
     },
     {
@@ -136,7 +136,7 @@
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-18T23:12:35.605759+00:00",
+   "fetched_at": "2026-11-18T23:43:39.575750+00:00",
    "stale": false,
    "items": [
     {
@@ -238,9 +238,17 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-18T23:12:35.605764+00:00",
+   "fetched_at": "2026-11-18T23:43:39.575755+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Indian envoy meets Nepal PM Shah ahead of his visit to India",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTGlVTVM5TzNyWUItWEg2ZnhTa3F2YTB6YUhCYWhkY05wbElsNDBjYms4R1BBZE1xNG9NWGE3ZU9CMXdQSFZFVUh1M1NJR21KWW1pOUhQalRUMU9LY2RwR0xOeVFrZ290WXZTT2lOR3RBZy1oWjZjR1JKSXh3YTktdFBTd3VaUTdDZDR4dXk3a1ZPMUVYWkJv0gGbAUFVX3lxTE04dldUdVYzNFVMazNtZmRsc1ktVlBvUl9IMnI2UlFaM09TSWpBZ0VaX3psMkduQlFtcFhic0FIUGplM0pwTkVpaDhQSTlpdEdSRkJXUFJFTmo4MGVZVUZ2dUM2bzlDYzFuLWwtNHhScllsLUdaU0hiN2NOZ2oxUUZXU1VlS0hLNGlpOHh3Rk9XOUlwRWxPUWtqVkJj?oc=5",
+     "source": "Daily Excelsior",
+     "published": "2026-11-18T22:54:41+00:00",
+     "summary": "Indian envoy meets Nepal PM Shah ahead of his visit to India&nbsp;&nbsp;Daily Excelsior",
+     "image": ""
+    },
     {
      "title": "India approves export of additional 615 megawatts of electricity from Nepal",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenhITVJqdWQyNkhiYllnWjJwdXZhWnhSOTJobjdra0R2eVRSMl9jVEI1WE5xRGI0bU8yUkZFQXlwbWlYM0k3U2F1MlJoaGlfM3dDcHdmMEY0WEoxN0pTNXJpNTJPeWRuMDRDM00weW96amxtam9lUFpHSTlEQ0ZyVWIzN0xTNndQZ0xtYnZUOG5MWkh0NDdBZmVDZUxyRVpyS25NLWlOMDRGSkUyWDh2TGFUNTdvR2hY?oc=5",
@@ -328,21 +336,29 @@
      "published": "2026-11-18T15:13:00+00:00",
      "summary": "Science, technology and innovation: What kind of system does Nepal need?&nbsp;&nbsp;The Annapurna Express",
      "image": ""
-    },
-    {
-     "title": "Nepal, India to unveil 10-point vision for partnership during PM’s visit",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbDVESE9pUnJaUzM1b1lPb0JYbk5GbWkwVmIzbVlpN1Q3VVNXSFQ4VGlVNjBBc2dMN3ppc21zUE5WUG9SSUo3WUJ0OURfN3NwQlFLS3JJX2RJZGFnVHZlRUZiUmF1aTVSc1ZELXFKeURhWXRpMDVJdGxia1VmUVNVR0Y0Z1JUNmhIMW9zQkNHRXBZN2xrQWYybHM1ZXNRVHlNYzRxMDJocmVKZzVjeU9kWFJxU2pIVkNm?oc=5",
-     "source": "The Kathmandu Post",
-     "published": "2026-11-18T15:05:30+00:00",
-     "summary": "Nepal, India to unveil 10-point vision for partnership during PM’s visit&nbsp;&nbsp;The Kathmandu Post",
-     "image": ""
     }
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-18T23:12:35.605766+00:00",
+   "fetched_at": "2026-11-18T23:43:39.575757+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "बिहीबार यस्तो छ विदेशी मुद्राको विनिमय दर",
+     "url": "https://www.ratopati.com/story/606158/this-is-the-foreign-exchange-rate-on-thursday",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-18T23:30:00+00:00",
+     "summary": "काठमाडौँ । नेपाल राष्ट्र बैङ्कले आजका लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैङ्कका अनुसार अमेरिकी डलर एकको खरिददर १४९ रुपैयाँ २१ पैसा र बिक्रीदर १४९ रुपैयाँ ८१",
+     "image": "https://npcdn.ratopati.com/media/news/forex_g5zWyL63Qc.webp"
+    },
+    {
+     "title": "आज यस्तो छ विदेशी मुद्राको विनिमयदर",
+     "url": "https://www.onlinekhabar.com/2026/11/2060685/todays-foreign-exchange-rate-is-52",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-18T23:23:44+00:00",
+     "summary": "३ मंसिर, काठमाडौं । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १४९ रुपैयाँ २१ पैसा र बिक्रीदर १४९ रुपै",
+     "image": ""
+    },
     {
      "title": "म्याग्दी प्रहरीको ‘ब्राबोसेरा’ अभियान",
      "url": "https://www.ratopati.com/story/606161/myagdi-polices-brabocera-campaign",
@@ -454,22 +470,6 @@
      "published": "2026-11-18T18:10:04+00:00",
      "summary": "",
      "image": ""
-    },
-    {
-     "title": "हुम्लामा पहिलोपटक ३९ किलोमिटर सडक कालोपत्रे हुँदै, दुई अर्बको ठेक्का सम्झौता",
-     "url": "https://baahrakhari.com/detail/507684",
-     "source": "Baahrakhari (बाह्रखरी)",
-     "published": "2026-11-18T17:51:27+00:00",
-     "summary": "",
-     "image": ""
-    },
-    {
-     "title": "अमेरिकी प्रतिनिधि सभाको सभामुख पदका लागि डेमोक्र्याट्सद्वारा हकिम जेफ्रिज मनोनीत",
-     "url": "https://www.ratopati.com/story/606146/democrats-nominate-hakeem-jeffries-for-speaker-of-the-us-house-of-representatives",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-18T17:45:01+00:00",
-     "summary": "काठमाडौँ । अमेरिकी प्रतिनिधि सभाका डेमोक्रेटिक पार्टीका सांसदहरूले हकिम जेफ्रिजलाई आधिकारिक रूपमा सभामुख (स्पिकर) पदका लागि मनोनीत गरेका छन् । यस निर्णयसँगै उनी अमेरिकी प्रतिनिधि स",
-     "image": "https://npcdn.ratopati.com/media/news/hakim-jhprej_USU08yf4EN.webp"
     }
    ]
   }
