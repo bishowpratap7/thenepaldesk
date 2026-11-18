@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-18T04:43:47.206240+00:00",
+ "generated_at": "2026-11-18T04:44:36.672079+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-18T04:43:47.206210+00:00",
+   "fetched_at": "2026-11-18T04:44:36.672052+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Nepal's Judiciary Faces Persistent Questions on Judicial Appointments and Independence",
+     "url": "http://english.ratopati.com/story/87077/why-does-the-issue-of-judicial-appointment-always-recur-along-with-the-issue-of-an-independent-judiciary",
+     "source": "Ratopati",
+     "published": "2026-11-18T04:43:21+00:00",
+     "summary": "Kathmandu. Questions have always been raised about judicial appointments and independent courts in Nepal. The issue of political quota in...",
+     "image": ""
+    },
     {
      "title": "एमालेको राष्ट्रिय कार्यकर्ता भेला आजदेखि",
      "url": "https://nepalnews.com/2026/11/18/umls-national-cadres-gathering-begins-today/",
@@ -124,29 +132,13 @@
      "published": "2026-11-18T04:02:44+00:00",
      "summary": "काठमाडौँ। जलवायु परिवर्तनसम्बन्धी संयुक्त राष्ट्रसंघीय सम्मेलन (कोप-३१) को अध्यक्षताले सन् २०३५ सम्म विकासोन्मुख देशका लागि वार्षिक कम्तीमा एक खर्ब २० अर्ब अमेरिकी डलर अनुकूलन वित्",
      "image": ""
-    },
-    {
-     "title": "One-stop service delivery initiative in Phedikhola",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdHVBY05KX1FDQzA0MFRVSDFkcDZJNUFTaDVhR2t1M1BIdHh4YmpiOTJUVVI5d3MtWTRVejhyZDc4ZnZBLXhDeWJGVkFJTy1KSXlvN3ROaC1lOGREbXQ2ZlVISVRpRWlvM1ZOakx3b1k0T1V2T25Ec25QTUdodGJzM2s4cDkwLXdFNm0zR05PY9IBXEFVX3lxTE5OUmxiY3VoVlRjTkNWS2JXY3ptSklIQ3FvLUI1a3JYYXJpS0ZScGdCcFREQlBWNVp2aGxyNTM3TVJ4N05PVlBic1VtWEF3VURzVDNNRGw1VHZWRktT?oc=5",
-     "source": "The Himalayan Times",
-     "published": "2026-11-18T03:58:26+00:00",
-     "summary": "One-stop service delivery initiative in Phedikhola&nbsp;&nbsp;The Himalayan Times",
-     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-18T04:43:47.206227+00:00",
+   "fetched_at": "2026-11-18T04:44:36.672066+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "अमेरिकामा दशकौं पछि जन्मजात दादुराको जोखिम, गर्भमै शिशु संक्रमित हुन थालेपछि चिकित्सकहरू चिन्तित",
-     "url": "https://www.khasokhas.com/237712",
-     "source": "Khasokhas",
-     "published": "2026-11-18T04:08:50+00:00",
-     "summary": "दशकौंपछि पहिलो पटक अमेरिकी चिकित्सकहरूले जन्मजात दादुराको संक्रमण लिएर जन्मने शिशुहरूको संख्या बढेको भन्दै गम्भीर चिन्ता व्यक्त गरेका छन्। गर्भवती महिलाबाट गर्भमा रहेको भ्रूणमा दाद",
-     "image": ""
-    },
     {
      "title": "आईजीपीको जिम्मेवारी परिवर्तनले उठाएका कानुनी प्रश्न",
      "url": "https://www.khasokhas.com/237708",
@@ -185,6 +177,14 @@
      "source": "Khasokhas",
      "published": "2026-11-17T01:39:17+00:00",
      "summary": "अमेरिकी श्रम मन्त्रालयले सोमबार कुशल विदेशी कामदारहरूलाई अमेरिकामा स्थायी बासस्थान प्राप्त गर्न सहज बनाउने &#8216;ग्रीन कार्ड&#8217; कार्यक्रममा नयाँ सीमाहरूको प्रस्ताव गरेको छ। यो",
+     "image": ""
+    },
+    {
+     "title": "ट्रम्प पुनः राष्ट्रपति बनेपछि १९ महिनामा ५०५ नेपाली पक्राउ",
+     "url": "https://www.khasokhas.com/237649",
+     "source": "Khasokhas",
+     "published": "2026-11-16T19:52:11+00:00",
+     "summary": "अमेरिकी अध्यागमन एजेन्सी आइसले राष्ट्रपति डोनाल्ड ट्रम्प पुनः सत्तामा फर्किएपछि नेपाली नागरिकसँग सम्बन्धित ५०५ वटा प्रशासनिक पक्राउ अभिलेख गरेको छ। सन् २०२५ फेब्रुअरीदेखि २०२६ अगस्",
      "image": ""
     },
     {
@@ -238,9 +238,17 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-18T04:43:47.206229+00:00",
+   "fetched_at": "2026-11-18T04:44:36.672069+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "One-stop service delivery initiative in Phedikhola",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdHVBY05KX1FDQzA0MFRVSDFkcDZJNUFTaDVhR2t1M1BIdHh4YmpiOTJUVVI5d3MtWTRVejhyZDc4ZnZBLXhDeWJGVkFJTy1KSXlvN3ROaC1lOGREbXQ2ZlVISVRpRWlvM1ZOakx3b1k0T1V2T25Ec25QTUdodGJzM2s4cDkwLXdFNm0zR05PY9IBXEFVX3lxTE5OUmxiY3VoVlRjTkNWS2JXY3ptSklIQ3FvLUI1a3JYYXJpS0ZScGdCcFREQlBWNVp2aGxyNTM3TVJ4N05PVlBic1VtWEF3VURzVDNNRGw1VHZWRktT?oc=5",
+     "source": "The Himalayan Times",
+     "published": "2026-11-18T03:58:26+00:00",
+     "summary": "One-stop service delivery initiative in Phedikhola&nbsp;&nbsp;The Himalayan Times",
+     "image": ""
+    },
     {
      "title": "Former IGP Dan Bahadur Karki's reinstatement plea to be heard today",
      "url": "http://english.ratopati.com/story/87070/dan-bahadur-karkis-first-hearing-today",
@@ -328,21 +336,29 @@
      "published": "2026-11-18T00:40:07+00:00",
      "summary": "Govt pledges to continue tax reform&nbsp;&nbsp;The Rising Nepal",
      "image": ""
-    },
-    {
-     "title": "Nepal Pavilion emerges as a shared meeting place for Nepalis at COP31",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUW52eG52c2xlOVlrRXlFa0cyOWZ0ampMeXI4NnFod01Zdy12ME8xQjQ3X2dLQkpPYlNicU5CcVlxZlo1a3JtQU10di1sbXMycEYwSGNzY1BTS0pYZDVQTTR0ZDNtRWM0T3Jid3MyMDJjVmZTVHdOMEZGSU13VkZ6YVEtbUlZRkFvWjRVek1qYlJPYS1nWm5nTnFfY2lrZ0FmaG9MRk5OV3FrUWJvSF9VSy13UF95SGpSMl9QM2N1ckZHUQ?oc=5",
-     "source": "myRepublica",
-     "published": "2026-11-18T00:27:59+00:00",
-     "summary": "Nepal Pavilion emerges as a shared meeting place for Nepalis at COP31&nbsp;&nbsp;myRepublica",
-     "image": ""
     }
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-18T04:43:47.206231+00:00",
+   "fetched_at": "2026-11-18T04:44:36.672071+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "स्वतन्त्र न्यायालयको प्रश्नसँगै न्यायाधीश नियुक्ति विवाद सधैँ किन दोहोरिन्छ ?",
+     "url": "https://www.ratopati.com/story/605960/why-does-the-issue-of-judicial-appointment-always-recur-along-with-the-issue-of-an-independent-judiciary",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-18T04:43:25+00:00",
+     "summary": "काठमाडौँ । नेपालमा न्यायाधीश नियुक्ति र स्वतन्त्र न्यायालयबारे सधैँ प्रश्न उठ्ने गरेको छ । न्यायाधीश नियुक्तिमा राजनीतिक भागबन्डाको प्रश्न विगतमा जसरी उठेको थियो, अहिले पनि त्यसरी ",
+     "image": "https://npcdn.ratopati.com/media/news/judge-empty-chair_WOAIJ1uWqO.jpg"
+    },
+    {
+     "title": "द्रुतमार्गको सुरुङ ‘ब्रेक थ्रु’ कार्यक्रममा सहभागी हुन राष्ट्रपति मकवानपुरमा",
+     "url": "https://www.ratopati.com/story/605959/president-in-makawanpur-to-participate-in-fast-track-tunnel-breakthrough-program",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-18T04:43:03+00:00",
+     "summary": "काठमाडौँ । राष्ट्रपति रामचन्द्र पौडेल काठमाडौँ–तराई/मधेस द्रुतमार्गअन्तर्गत मकवानपुरको महादेवटारस्थित सुरुङ छिचोल्ने ( ब्रेक थ्रु )कार्यक्रममा सहभागी हुन आज मकवानपुर पुगेका छन् । उ",
+     "image": "https://npcdn.ratopati.com/media/news/ramchandra-paudel_PqyVQtFU0z.png"
+    },
     {
      "title": "शिलान्यासमै सीमित गल्याङ बसपार्क",
      "url": "https://gorkhapatraonline.com/news/229455",
@@ -390,22 +406,6 @@
      "published": "2026-11-18T04:37:36+00:00",
      "summary": "सिराज खान बाँके, मङ्सिर २ गते । प्रधानमन्त्री वालेन्द्र शाहको आसन्न भारत भ्रमणका क्रममा नेपालगन्ज–दिल्ली सिधा हवाई उडान, सुक्खा बन्दरगाह, रेलमार्गको पहुँचलगायतका विषयलाई एजेन्डा बन",
      "image": "https://gorkhapatraonline.com/storage/media/391995/conversions/gyapan-patra-bujhaundai-original.jpg"
-    },
-    {
-     "title": "द्रुतमार्गको सुरुङ ‘ब्रेक थ्रु’ कार्यक्रममा सहभागी हुन राष्ट्रपति पौडेल मकवानपुरमा",
-     "url": "https://nagariknews.nagariknetwork.com/economy/president-poudel-in-makawanpur-to-participate-in-the-fast-track-tunnel-breakthrough-program-28-23.html",
-     "source": "Nagarik (नागरिक)",
-     "published": "2026-11-18T04:37:17+00:00",
-     "summary": "राष्ट्रपति रामचन्द्र पौडेल काठमाडौं–तराई/मधेस द्रुतमार्गअन्तर्गत मकवानपुरको महादेवटारस्थित सुरुङ छिचोल्ने (ब्रेक थ्रु) कार्यक्रममा सहभागी हुन आज मकवानपुर आएका छन्।...",
-     "image": ""
-    },
-    {
-     "title": "पार्टी सुदृढीकरण र निर्वाचन तयारीमा एमाले",
-     "url": "https://nagariknews.nagariknetwork.com/opinion/uml-in-party-strengthening-and-election-preparations-br-84-29.html",
-     "source": "Nagarik (नागरिक)",
-     "published": "2026-11-18T04:36:18+00:00",
-     "summary": "आधुनिक राजनीतिमा संगठनको आन्तरिक एकता जति महत्त्वपूर्ण हुन्छ, त्यति नै महत्त्वपूर्ण पार्टीका विचार र कामहरूको सही सम्प्रेषण पनि हुन्छ।...",
-     "image": ""
     },
     {
      "title": "जेनसन हुआङ विवादको बीचमै एनभिडियाले भारी पैसा कमायो",
