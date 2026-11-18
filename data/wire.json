@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T09:50:54.124902+00:00",
+ "generated_at": "2026-11-18T09:51:40.982465+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-18T09:50:54.124872+00:00",
+   "fetched_at": "2026-11-18T09:51:40.982406+00:00",
    "stale": false,
    "items": [
     {
@@ -136,7 +136,7 @@
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-18T09:50:54.124888+00:00",
+   "fetched_at": "2026-11-18T09:51:40.982423+00:00",
    "stale": false,
    "items": [
     {
@@ -238,7 +238,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-18T09:50:54.124891+00:00",
+   "fetched_at": "2026-11-18T09:51:40.982427+00:00",
    "stale": false,
    "items": [
     {
@@ -340,9 +340,25 @@
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-18T09:50:54.124893+00:00",
+   "fetched_at": "2026-11-18T09:51:40.982430+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "एक सातादेखि बेपत्ता पुरुषको शव फेला",
+     "url": "https://www.ratopati.com/story/606051/body-of-man-missing-for-a-week-found",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-18T09:50:40+00:00",
+     "summary": "सिरहा । सिरहाको गोलबजार नगरपालिका–६ सैनिक चोक नजिकैको पोखरीमा एक सातादेखि बेपत्ता पुरुषको शव फेला परेको छ । बुधबार पोखरीमा शव देखेपछि स्थानीयले प्रहरीलाई खबर गरेका थिए । मृतक गोलबज",
+     "image": "https://npcdn.ratopati.com/media/news/crime-scene_9rhjhbfqjw_gNWqwGV6Qh.jpg"
+    },
+    {
+     "title": "जब तीनखुट्टे चितुवाले हिउँले ढाकिएका पर्वत पार गर्दै तय गर्‍यो २४० किलोमिटर यात्रा",
+     "url": "https://www.ratopati.com/story/606050/when-a-three-legged-leopard-traveled-240-kilometers-across-snow-capped-mountains",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-18T09:50:21+00:00",
+     "summary": "यात्राका दौरान बारुदी सुरुङ बिस्फोटमा परी एउटा खुट्टाको तल्लो भाग गुमाएको संकटापन्न फारसी चितुवा (पर्सियन लियोपार्ड)ले तीन खुट्टाकै सहारामा हिउँले ढाकिएका ककेसस पर्वत पार गर्दै २४०",
+     "image": "https://npcdn.ratopati.com/media/news/leopard_WgRf3ChzGg.webp"
+    },
     {
      "title": "दानबहादुर कार्कीको पुनर्बहाली मागमा सर्वोच्चले दिएन अन्तरिम आदेश",
      "url": "https://www.imagekhabar.com/news/563731/",
@@ -376,11 +392,11 @@
      "image": ""
     },
     {
-     "title": "दानबहादुर कार्कीको रिटमा सर्वोच्चले दिएन अल्पकालीन आदेश",
-     "url": "https://nagariknews.nagariknetwork.com/social-affairs/supreme-court-does-not-give-short-term-order-on-outgoing-igp-karki-s-writ-petition-government-s-decision-will-not-be-immediately-stopped-72-86.html",
-     "source": "Nagarik (नागरिक)",
-     "published": "2026-11-18T09:46:22+00:00",
-     "summary": "सर्वोच्च अदालतले निवर्तमान प्रहरी महानिरीक्षक (आईजीपी) दानबहादुर कार्कीको पुनर्बहाली मागसम्बन्धी रिटमा अल्पकालीन अन्तरिम आदेश दिन अस्वीकार गरेको छ।...",
+     "title": "एआईमा सहकार्य बढाउन सीको आग्रह",
+     "url": "https://khabarhub.com/2026/18/1048982/",
+     "source": "Khabarhub (नेपाली)",
+     "published": "2026-11-18T09:46:52+00:00",
+     "summary": "सेन्जेन&#8211; चिनियाँ राष्ट्रपति सी जिनपिङले कृत्रिम बौद्धिकता (एआई), डिजिटल अर्थतन्त्र र स्वतन्त्र व्यापारमा अन्तर्राष्ट्रिय सहकार्य विस्तार गर्न आह्वान गरेका छन् । उनले एसिया–प्",
      "image": ""
     },
     {
@@ -454,22 +470,6 @@
      "published": "2026-11-18T09:36:44+00:00",
      "summary": "काठमाडौँ । जलस्रोत तथा सिँचाइ विकास डिभिजन कार्यालय वीरगन्जमा कार्यरत दुई जना प्राविधिक अधिकृतविरुद्ध अख्तियार दुरुपयोग अनुसन्धान आयोगले भ्रष्टाचार मुद्दा दायर गरेको छ। ठोरी गाउँपा",
      "image": "https://npcdn.ratopati.com/media/news/bisesh-adalat-2-001_3G6oRmlZsl.jpg"
-    },
-    {
-     "title": "दानबहादुर कार्कीको रिटमा सर्वोच्चले दिएन अन्तरिम आदेश",
-     "url": "https://www.ratopati.com/story/606048/supreme-court-does-not-issue-interim-order-on-dan-bahadur-karkis-writ-petition",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-18T09:36:27+00:00",
-     "summary": "काठमाडौँ । प्रहरी महानिरीक्षकबाट हटाएर प्रधानमन्त्रीको प्रमुख सुरक्षा सल्लाहकार बनाइएपछि दानबहादुर कार्कीले दायर गरेको रिटमा सर्वोच्च अदालतले अन्तरिम आदेश दिन अस्वीकार गरेको छ । सर",
-     "image": "https://npcdn.ratopati.com/media/news/danbahadur_aSi9i0n0vs.png"
-    },
-    {
-     "title": "पर्यटकको चाप बढेसँगै लुक्लामा उडान वृद्धि",
-     "url": "https://gorkhapatraonline.com/news/229488",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-18T09:36:10+00:00",
-     "summary": "सन्तोष राउतसोलुखुम्बु, मङ्सिर २ गते । सोलुखुम्बुको पर्यटकीय क्षेत्रमा पर्ने अति व्यस्त तेन्जिङ हिलारी विमानस्थल लुक्लामा आजभोलि सगरमाथा तथा अन्य हिमशृङ्खला अवलोकन गर्न आउने पर्यटकक",
-     "image": "https://gorkhapatraonline.com/storage/media/392046/conversions/lukla-airport-original.jpg"
     }
    ]
   }
