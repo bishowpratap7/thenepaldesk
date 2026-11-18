@@ -1,10 +1,90 @@
 {
- "generated_at": "2026-11-18T01:08:58.236958+00:00",
+ "generated_at": "2026-11-18T01:39:44.220539+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-18T01:08:58.236925+00:00",
+   "fetched_at": "2026-11-18T01:39:44.220503+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Nepal Insurance Authority Publishes Updated Details of 37 Operating Insurance Companies",
+     "url": "http://english.ratopati.com/story/87051/updated-details-of-37-insurance-companies-made-public-how-much-business-each-has-with-list",
+     "source": "Ratopati",
+     "published": "2026-11-18T01:36:40+00:00",
+     "summary": "Kathmandu. Nepal Insurance Authority has published the updated details of 37 insurance companies operating across the country.The authority published the...",
+     "image": ""
+    },
+    {
+     "title": "हिउँदमा भारतबाट ३५० मेगावाट विद्युत् आयात गर्न अनुमति",
+     "url": "https://nepalnews.com/2026/11/18/permission-to-import-350-mw-of-electricity-from-india-during-winter/",
+     "source": "NepalNews",
+     "published": "2026-11-18T01:32:34+00:00",
+     "summary": "काठमाडौं। नेपाल विद्युत् प्राधिकरणले यस वर्षको हिउँदयामका लागि भारतबाट ३५० मेगावाट विद्युत् आयात गर्ने अनुमति पाएको छ। भारतको केन्द्रीय विद्युत् प्राधिकरणले भारतीय ऊर्जा विनिमय बजा",
+     "image": ""
+    },
+    {
+     "title": "NSA's Secret Network NSAnet Disrupted Due to Software Update",
+     "url": "http://english.ratopati.com/story/87050/us-national-security-agencys-secret-communications-network-disrupted",
+     "source": "Ratopati",
+     "published": "2026-11-18T01:28:50+00:00",
+     "summary": "CNN. The United States National Security Agency (NSA) has blocked its highly secret network 'NSAnet' used for internal communications. Through...",
+     "image": ""
+    },
+    {
+     "title": "फोहर बिक्रीबाट व्यास नगरपालिकालाई नौ लाख आम्दानी",
+     "url": "https://nepalnews.com/2026/11/18/byas-municipality-earns-rs-9-lakh-from-garbage-sale/",
+     "source": "NepalNews",
+     "published": "2026-11-18T01:26:40+00:00",
+     "summary": "दमौली । व्यास नगरपालिकाले चालु आर्थिक वर्षको साउनदेखि कात्तिक १९ गतेसम्म फोहर बिक्री गरेर नौ लाख ४० हजार ४९४ आम्दानी गरेको छ । नगरपालिकाले कागज, कार्टुन, फलाम, प्लास्टिक तथा सिसाजन",
+     "image": ""
+    },
+    {
+     "title": "देशका विभिन्न भागबाट लागुऔषधसहित २१ जना पक्राउ",
+     "url": "https://nepalnews.com/2026/11/18/21-people-arrested-with-drugs-from-various-parts-of-the-country/",
+     "source": "NepalNews",
+     "published": "2026-11-18T01:21:17+00:00",
+     "summary": "काठमाडौं। प्रहरीले देशका विभिन्न भागबाट लागुऔषधसहित २१ जनालाई पक्राउ गरेको छ। नियमित गस्तीका क्रममा उनीहरूलाई नियन्त्रणमा लिइएको केन्द्रीय प्रहरी समाचारकक्षले जनाएको छ। पक्राउ पर्न",
+     "image": ""
+    },
+    {
+     "title": "विदेशको रोजगारी छाडेर गाउँमै भैँसीपालन",
+     "url": "https://nepalnews.com/2026/11/18/leaving-foreign-employment-to-raise-buffaloes-in-the-village/",
+     "source": "NepalNews",
+     "published": "2026-11-18T01:20:26+00:00",
+     "summary": "कास्की । कतार र कुवेतमा १८ वर्ष बिताएका कास्कीको माछापुच्छ्रे गाउँपालिका-९ सिदिङका मीनबहादुर क्षेत्री अहिले आफ्नै गाउँमा भैँसीपालन गरेर जीविकोपार्जन गरिरहेको छ । विदेशको रोजगारी छा",
+     "image": ""
+    },
+    {
+     "title": "बैसरी–रिसिनचौतारी सडक स्तरोन्नति सुरु, तीन करोड ३५ लाख लागतमा काम हुँदै",
+     "url": "https://nepalnews.com/2026/11/18/upgrading-of-baisari-risin-chautari-road-begins-work-underway-at-a-cost-of-rs-33-5-million/",
+     "source": "NepalNews",
+     "published": "2026-11-18T01:20:02+00:00",
+     "summary": "म्याग्दी। रघुगङ्गा गाउँपालिका–२ स्थित बैसरी–रिसिनचौतारी सडक स्तरोन्नति सुरु भएको छ । पूर्वाधार विकास कार्यालयले जैसीखोर–खहरेखोला–रिसिनचौतारी सडक योजनाअन्तर्गत बैसरी–रिसिनचौतारी खण्",
+     "image": ""
+    },
+    {
+     "title": "हुलाकी सडकले फेरिँदै दुर्गम गाउँको मुहार",
+     "url": "https://nepalnews.com/2026/11/18/postal-road-is-changing-the-face-of-a-remote-village/",
+     "source": "NepalNews",
+     "published": "2026-11-18T01:15:07+00:00",
+     "summary": "राँझा (बाँके)। हुलाकी सडक निर्माणसँगै बाँकेका दुर्गम गाउँको आवागमन सहज भएको छ । सडक सञ्जाल विस्तार भएपछि राप्ती सोनारी गाउँपालिकाका बैजापुर, बिनौना र फत्तेपुर तथा नरैनापुर क्षेत्रक",
+     "image": ""
+    },
+    {
+     "title": "डिप्रेसन कसरी चिन्ने?",
+     "url": "https://nepalnews.com/2026/11/18/how-to-recognize-depression/",
+     "source": "NepalNews",
+     "published": "2026-11-18T01:15:07+00:00",
+     "summary": "मानिसको जीवनमा दुःख, निराशा, तनाव र चिन्ता आउनु स्वाभाविक हो। असफलता, पारिवारिक तथा आर्थिक समस्या, सम्बन्धमा उतारचढाव वा प्रियजन गुमाउँदा केही समय मन खिन्न हुन सक्छ। तर उदासी लामो ",
+     "image": ""
+    },
+    {
+     "title": "Computer Stolen from National Innovation Center in Kirtipur",
+     "url": "http://english.ratopati.com/story/87049/theft-at-mahavir-puns-national-innovation-center-in-the-early-hours-of-the-morning",
+     "source": "Ratopati",
+     "published": "2026-11-18T01:13:19+00:00",
+     "summary": "Kathmandu. A computer has been stolen from the National Innovation Center located in Kirtipur. The computer was stolen from the...",
+     "image": ""
+    },
     {
      "title": "21 arrested with illegal drugs in police operations across 10 districts",
      "url": "https://english.khabarhub.com/2026/18/575977/",
@@ -12,14 +92,6 @@
      "published": "2026-11-18T01:08:07+00:00",
      "summary": "KATHMANDU: Police have arrested 21 people in separate operations targeting drug-related activities across various parts of the country. According to the Central Police Newsroom, th",
      "image": ""
-    },
-    {
-     "title": "Belonging, but at what cost?",
-     "url": "https://nepalitimes.com/belonging-but-at-what-cost",
-     "source": "Nepali Times",
-     "published": "2026-11-18T01:07:19+00:00",
-     "summary": "A South Asian’s musings about Sonia Gandhi’s new autobiography",
-     "image": "https://media.nepalitimes.com/cover/Sonia%20Gandhi.jpg"
     },
     {
      "title": "पाँच पालिका भूमिहीन तथा अव्यवस्थित बसोबासी समस्यामुक्त घोषणा",
@@ -60,83 +132,11 @@
      "published": "2026-11-18T00:59:47+00:00",
      "summary": "KATHMANDU: Nepal Rastra Bank (NRB) has announced the official foreign exchange rates for today, fixing the buying rate of one US dollar at Rs 149.26 and the selling rate at Rs 149.",
      "image": ""
-    },
-    {
-     "title": "एनपीएल इलिमिनेटर: आज चितवन र काठमाण्डु भिड्दै",
-     "url": "https://nepalnews.com/2026/11/18/npl-eliminator-chitwan-and-kathmandu-clash-today/",
-     "source": "NepalNews",
-     "published": "2026-11-18T00:59:11+00:00",
-     "summary": "काठमाडौं। नेपाल प्रिमियर लिग (एनपीएल) क्रिकेटको इलिमिनेटर खेलमा बुधबार चितवन राइनोज र काठमाण्डु गोर्खाज आमनेसामने हुँदैछन्। कीर्तिपुरस्थित त्रिवि अन्तर्राष्ट्रिय क्रिकेट मैदानमा बे",
-     "image": ""
-    },
-    {
-     "title": "No visit dates yet, but cooperation big on Nepal PM Balendra Shah’s agenda in India",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdTJVa3ZhTjFNb2ZyLVBEMmRoUzBmOURqaXRUaHhuU2htUXhCRHptcHd5MlRMZndUZzRXNHhBdUR0NmFEREZ2M1NuR0R0M0tQSXdCT2lGMFNXbnozU2lFUFNlY0JYa3ZMWXhSYTFyLUZpVUVJQ1EzQU5QQTVLYmNvR0tMZ1g2d2IxeFdnbkktak8zM2hCNXpSWkk5QmFJMDVkaTh6a3dTTHNXUdIBsAFBVV95cUxPcWIzR0hfRGt2b1E3bWNkVWc3U3BJbGlBbURlbTJoMkd3bnJ5VXl0X2Q1UDU0dTcxeFVTTzVEUzd4UTd5eThCZC1LR2RZcndQRlBzLXZlczZGU0N0LTRVdlZUSVZfcmxoUkdEek5HODFrUTg5WEFlTXFLN1JnRDV5dmNmYkk4eXNndkFFS0x2eDE0MmlUeG5BQ214Z2I2b250TEN1d0k4SGxrUHM4WUtYTw?oc=5",
-     "source": "The Indian Express",
-     "published": "2026-11-18T00:57:59+00:00",
-     "summary": "No visit dates yet, but cooperation big on Nepal PM Balendra Shah’s agenda in India&nbsp;&nbsp;The Indian Express",
-     "image": ""
-    },
-    {
-     "title": "काठमाडौँ उपत्यकाको न्यूनतम तापक्रम ९.८ डिग्री सेल्सियस",
-     "url": "https://nepalnews.com/2026/11/18/kathmandu-valleys-minimum-temperature-is-9-8-degrees-celsius/",
-     "source": "NepalNews",
-     "published": "2026-11-18T00:57:47+00:00",
-     "summary": "काठमाडौं। मौसम पूर्वानुमान महाशाखाले बुधबार बिहान ५:४५ बजे मापन गर्दा काठमाडौँ उपत्यकाको न्यूनतम तापक्रम ९.८ डिग्री सेल्सियस कायम भएको छ। मंगलबार सोही समयमा न्यूनतम तापक्रम ८.८ डिग",
-     "image": ""
-    },
-    {
-     "title": "यस्तो छ विदेशी मुद्राको विनिमयदर",
-     "url": "https://nepalnews.com/2026/11/18/this-is-the-foreign-currency-exchange-rate/",
-     "source": "NepalNews",
-     "published": "2026-11-18T00:57:10+00:00",
-     "summary": "काठमाडौँ। नेपाल राष्ट्र बैङ्कले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैङ्कका अनुसार अमेरिकी डलर एकको खरिददर १४९ रुपैयाँ २६ पैसा र बिक्रीदर १४९ रुपैयाँ ८६ प",
-     "image": ""
-    },
-    {
-     "title": "Nepal pushes for dedicated mountain climate program",
-     "url": "https://english.khabarhub.com/2026/18/575967/",
-     "source": "Khabarhub",
-     "published": "2026-11-18T00:55:10+00:00",
-     "summary": "KATHMANDU: Nepal is preparing to put forward a three-point proposal in the draft decision of the 31st Conference of the Parties (COP-31), seeking to launch a dedicated programme on",
-     "image": ""
-    },
-    {
-     "title": "Kathmandu’s morning temperature rises to 9.8 degrees Celsius",
-     "url": "https://english.khabarhub.com/2026/18/575965/",
-     "source": "Khabarhub",
-     "published": "2026-11-18T00:50:33+00:00",
-     "summary": "KATHMANDU: Kathmandu Valley experienced a slightly warmer start to Wednesday, with the morning minimum temperature rising by one degree Celsius compared to the same time on Tuesday",
-     "image": ""
-    },
-    {
-     "title": "Opinion | What Mithila’s stray bulls tell us about Nepal’s economy",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMGc3WjB2bURHNmFTenVUbUdVdzBTUmhTTmViVVRSOXpkcEl5eE1pZ1l6WmlkRHNsbE1RS1ZhaGxGblJ2OFJhR2Joc3FUVXhETEktX2FYNDJVT2ZaMzFTRFlhQjU3YVRXRnRXODVQQ3JYdDNQWkVNQlZNY3ZpZEZfQ195Q3J1T1ZNY3RoN3pWZXo5VXJSNjV6UVJENUR3WExNdXJj?oc=5",
-     "source": "The Kathmandu Post",
-     "published": "2026-11-18T00:49:25+00:00",
-     "summary": "Opinion | What Mithila’s stray bulls tell us about Nepal’s economy&nbsp;&nbsp;The Kathmandu Post",
-     "image": ""
-    },
-    {
-     "title": "Opinion | How crony capitalism keeps Nepalis poor",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQTUzNWtGR212TkJIUHlqV1F2b0ZzdHQ1R1RFd1E2Mk1WZjdLTXRBU1F6bV90TmtaMGJORWg5TmJOdDlCRHJQdGktVGdFcXA3Vmt3VUJ4WC1ra2g3dFR4NzdOdVFDbU5HYTdMVTh4djVUeXA3ODhwWGQyVGFGUjhuVEhOS1BxVkd4MzVNQQ?oc=5",
-     "source": "The Kathmandu Post",
-     "published": "2026-11-18T00:49:25+00:00",
-     "summary": "Opinion | How crony capitalism keeps Nepalis poor&nbsp;&nbsp;The Kathmandu Post",
-     "image": ""
-    },
-    {
-     "title": "Nepal Premier League Cricket: Eliminator Match Between Chitwan Rhinos and Kathmandu Gurkhas Today",
-     "url": "http://english.ratopati.com/story/87047/chitwan-and-kathmandu-are-playing-in-the-eliminator-today-the-winning-team-will-play-against-sudurpaschim",
-     "source": "Ratopati",
-     "published": "2026-11-18T00:42:04+00:00",
-     "summary": "Kathmandu. Nepal Premier League (NPL) cricket's third edition will see an eliminator match between Chitwan Rhinos and Kathmandu Gurkhas on...",
-     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-18T01:08:58.236942+00:00",
+   "fetched_at": "2026-11-18T01:39:44.220523+00:00",
    "stale": false,
    "items": [
     {
@@ -238,7 +238,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-18T01:08:58.236945+00:00",
+   "fetched_at": "2026-11-18T01:39:44.220527+00:00",
    "stale": false,
    "items": [
     {
@@ -263,6 +263,14 @@
      "source": "The Rising Nepal",
      "published": "2026-11-18T00:40:07+00:00",
      "summary": "Govt pledges to continue tax reform&nbsp;&nbsp;The Rising Nepal",
+     "image": ""
+    },
+    {
+     "title": "Nepal Pavilion emerges as a shared meeting place for Nepalis at COP31",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUW52eG52c2xlOVlrRXlFa0cyOWZ0ampMeXI4NnFod01Zdy12ME8xQjQ3X2dLQkpPYlNicU5CcVlxZlo1a3JtQU10di1sbXMycEYwSGNzY1BTS0pYZDVQTTR0ZDNtRWM0T3Jid3MyMDJjVmZTVHdOMEZGSU13VkZ6YVEtbUlZRkFvWjRVek1qYlJPYS1nWm5nTnFfY2lrZ0FmaG9MRk5OV3FrUWJvSF9VSy13UF95SGpSMl9QM2N1ckZHUQ?oc=5",
+     "source": "myRepublica",
+     "published": "2026-11-18T00:27:59+00:00",
+     "summary": "Nepal Pavilion emerges as a shared meeting place for Nepalis at COP31&nbsp;&nbsp;myRepublica",
      "image": ""
     },
     {
@@ -328,148 +336,140 @@
      "published": "2026-11-17T15:54:55+00:00",
      "summary": "President Piron pays courtesy call on Speaker Aryal&nbsp;&nbsp;Nepalnews.com",
      "image": ""
-    },
-    {
-     "title": "UN Loss And Damage Fund Approves First $21.6 Million Grant For Nepal, But Questions Abound - OpEd",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdlFIY0hKSGUwa0dGdE1GQzdMNmNpMkljcndKYzFERlJxeHJMT19oWEg5cGptal9qaUxUTWgyV0RFSWlCWmlSX3NMcVZTaWxVNllBQ0RwUmVKbmJtVzhpNndRQjhRSF9jQ0Z4bVIyVHpkR1FkZDhhWXJQYUhSWHEzTUpmMmwzdU5HYXJFX3gwRTRHYUJxQUluN2V3MDI1MkFGRnR6aW5WREJFdE5pODNCenREbFdpc29YcHFnTTBMNE81ekJkdUpWWVRTRnpGdw?oc=5",
-     "source": "Eurasia Review",
-     "published": "2026-11-17T15:48:14+00:00",
-     "summary": "UN Loss And Damage Fund Approves First $21.6 Million Grant For Nepal, But Questions Abound - OpEd&nbsp;&nbsp;Eurasia Review",
-     "image": ""
     }
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-18T01:08:58.236947+00:00",
+   "fetched_at": "2026-11-18T01:39:44.220529+00:00",
    "stale": false,
    "items": [
     {
-     "title": "अर्धन्यायिक निकायको पुनरावेदन जिल्लामा",
-     "url": "https://gorkhapatraonline.com/news/229422",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-18T01:06:59+00:00",
-     "summary": "काठमाडौँ, मङ्सिर २ गते । अदालतमा मुद्दाको कार्यबोझ न्यूनीकरण गर्न अधिकार क्षेत्र, पुनरावेदन लाग्ने व्यवस्था, मुद्दाको सुरु कारबाही र किनारा, म्याद तथा हद म्याद जस्ता कानुनी व्यवस्थ",
-     "image": "https://gorkhapatraonline.com/storage/media/391960/conversions/Nepal-District-Court-Appeal-File-original.jpg"
-    },
-    {
-     "title": "पक्की घरमा धमिराको साम्राज्य फैलिँदो",
-     "url": "https://www.ratopati.com/story/605922/the-empire-of-the-beetles-is-spreading-in-the-concrete-house",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-18T01:03:56+00:00",
-     "summary": "विराटनगर । नेपाली जनजिब्रोमा एउटा चर्चित उखान छ, ‘धमिराले खाएझैँ भित्रभित्रै सिद्ध्याउनु’ । धमिराले काठ वा किताबको बाहिरी पत्र जस्ताको तस्तै राखेर भित्रको भाग खोक्रो बनाउने भएकै का",
-     "image": "https://npcdn.ratopati.com/media/news/111_6i6RwG2Zei.webp"
-    },
-    {
-     "title": "बलियो बन्दै नेपालको मुद्दा",
-     "url": "https://gorkhapatraonline.com/news/229421",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-18T01:01:17+00:00",
-     "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, मङ्सिर २ गते । जलवायु परिवर्तनसम्बन्धी संयुक्त राष्ट्रसङ्घीय महासन्धिका पक्ष राष्ट्रहरूको ३१ औँ सम्मेलन (कोप–३१) मा नेपाल, भुटान र किर्गिस्तानले अघि स",
-     "image": "https://gorkhapatraonline.com/storage/media/391959/conversions/Ministery_of_foreign_affairs-original.jpg"
-    },
-    {
-     "title": "आज कुन देशको मुद्रा कति रूपैयाँमा साटिन्छ?",
-     "url": "https://www.setopati.com/kinmel/banking/402800",
-     "source": "Setopati (सेतोपाटी)",
-     "published": "2026-11-18T00:59:24+00:00",
-     "summary": "नेपाल राष्ट्र बैङ्कले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ।",
-     "image": ""
-    },
-    {
-     "title": "फोहर बिक्रीबाट व्यास नगरपालिकालाई चार महिनामा नौ लाख ४० हजार आम्दानी",
-     "url": "https://www.onlinekhabar.com/2026/11/2059943/byas-municipality-earns-rs-940000-in-four-months-from-garbage-sale",
-     "source": "Online Khabar (नेपाली)",
-     "published": "2026-11-18T00:54:29+00:00",
-     "summary": "२ मंसिर, तनहुँ । व्यास नगरपालिकाले चालु आर्थिक वर्षको साउनदेखि कात्तिक १९ गतेसम्म फोहर बिक्री गरेर नौ लाख ४० हजार ४९४ रुपैयाँ आम्दानी गरेको छ । नगरपालिकाले कागज, कार्टुन, फलाम, प्ल",
-     "image": ""
-    },
-    {
-     "title": "पश्चिमी वायुको आंशिक प्रभाव: कोशी र गण्डकीका हिमाली भेगमा हल्का वर्षा र हिमपातको सम्भावना",
-     "url": "https://dcnepal.com/2026/11/815889/",
+     "title": "आजदेखि एमालेको राष्ट्रिय भेला, महाधिवेशनभन्दा ठूलो सहभागिता रहने",
+     "url": "https://dcnepal.com/2026/11/815900/",
      "source": "DC Nepal (डीसी नेपाल)",
-     "published": "2026-11-18T00:53:17+00:00",
-     "summary": "काठमाडाैं। हाल देशभर पश्चिमी वायुको आंशिक प्रभाव रहेको मौसम पूर्वानुमान महाशाखाले जनाएको छ। जसका कारण अहिले कोशी, बागमती र गण्डकी प्रदेशका हिमाली तथा पहाडी भूभागमा साधारणतया बदली भ",
-     "image": "https://dcnepal.com/wp-content/uploads/2026/10/weather_mausam_20250208062925.jpg"
-    },
-    {
-     "title": "१८ वर्ष विदेश बसेर फर्केपछि भैँसीपालन, घ्यू बेचेरै जोगाएका छन् वार्षिक ३ लाख",
-     "url": "https://www.setopati.com/social/402799",
-     "source": "Setopati (सेतोपाटी)",
-     "published": "2026-11-18T00:53:00+00:00",
-     "summary": "विदेशको रोजगारी छाडेर गाउँ फर्किएका उनले आठ वर्षदेखि भैँसीपालनलाई आम्दानीको माध्यम बनाएका छन्।",
+     "published": "2026-11-18T01:39:23+00:00",
+     "summary": "काठमाडाैं। नेकपा एमालेको राष्ट्रिय भेला आज (बुधबार) देखि काठमाडौंमा सुरु हुँदैछ। काठमाडौंको माइतीघरस्थित कार्की ब्याङ्क्वेटमा आज र भोलि गरी दुई दिनसम्म चल्ने उक्त राष्ट्रिय भेलाको ",
      "image": ""
     },
     {
-     "title": "देशका विभिन्न भागबाट लागुऔषधसहित २१ जना पक्राउ",
-     "url": "https://www.ratopati.com/story/605921/21-people-arrested-with-drugs-from-various-parts-of-the-country",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-18T00:50:08+00:00",
-     "summary": "काठमाडौँ । नियमित गस्तीमा रहेको प्रहरी टोलीले देशका विभिन्न भागबाट लागुऔषधसहित २१ जनालाई पक्राउ गरेको छ । केन्द्रीय प्रहरी समाचारकक्षका अनुसार बर्दिया, कञ्चनपुर, सुनसरी, दाङ, कैलाल",
-     "image": "https://npcdn.ratopati.com/media/news/large-group-arrest-jail_rtGCODXQ5L.jpg"
-    },
-    {
-     "title": "प्रधानमन्त्रीको भारत भ्रमण तयारी तीव्र",
-     "url": "https://gorkhapatraonline.com/news/229420",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-18T00:47:29+00:00",
-     "summary": "काठमाडौँ, मङ्सिर २ गते । प्रधानमन्त्री वालेन्द्र शाहको भारत भ्रमणको मिति नजिकिँदै जाँदा तयारी तीव्र पारिएको छ । भारतका प्रधानमन्त्री नरेन्द्र दामोदरदास मोदीको निमन्त्रणामा प्रधानमन",
-     "image": "https://gorkhapatraonline.com/storage/media/391958/conversions/PM-Balendra-shah-gorkhapatra-cover-original.jpg"
-    },
-    {
-     "title": "पूर्वी युरोपमा नेटोको विस्तार उल्ट्याउन रुसको माग",
-     "url": "https://baahrakhari.com/detail/507577",
-     "source": "Baahrakhari (बाह्रखरी)",
-     "published": "2026-11-18T00:46:02+00:00",
+     "title": "नेपालमा पश्चिमी वायुको आंशिक प्रभाव, हिमाली क्षेत्रमा हल्का वर्षा र हिमपातको सम्भावना",
+     "url": "https://nepalsamaya.com/detail/147881",
+     "source": "Nepal Samaya (नेपाल समय)",
+     "published": "2026-11-18T01:38:55+00:00",
      "summary": "",
+     "image": "https://nepalsamaya.com/uploads/posts/himpat-1761626297.gif"
+    },
+    {
+     "title": "३७ बीमा कम्पनीको अद्यावधिक विवरण सार्वजनिक, कसको कति कारोबार (सूचीसहित)",
+     "url": "https://www.ratopati.com/story/605925/updated-details-of-37-insurance-companies-made-public-how-much-business-each-has-with-list",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-18T01:36:40+00:00",
+     "summary": "काठमाडौं । नेपाल बीमा प्राधिकरणले देशभर सञ्चालनमा रहेका ३७ वटा बीमा कम्पनीको अद्यावधिक विवरण सार्वजनिक गरेको छ । प्राधिकरणले १४ जीवन बीमा, १४ निर्जीवन बीमा, ७ लघुबीमा र २ पुनर्बीमा",
+     "image": "https://npcdn.ratopati.com/media/news/bima_ZPrnbOrm7v.webp"
+    },
+    {
+     "title": "जैमिनी नगरपालिका सुकुम्बासी समस्यामुक्त घोषित",
+     "url": "https://khabarhub.com/2026/18/1048833/",
+     "source": "Khabarhub (नेपाली)",
+     "published": "2026-11-18T01:36:16+00:00",
+     "summary": "बागलुङ- बागलुङको जैमिनी नगरपालिका सुकुम्बासी तथा अव्यवस्थित बसोबासको समस्या समाधान भएको पालिका घोषित भएको छ । भूमि समस्या समाधान समितिले देशभरका पाँच स्थानीय तहलाई सुकुम्बासी तथा अ",
      "image": ""
     },
     {
-     "title": "सन् २०२७ देखि पर्वतीय जलवायु कार्यक्रम सञ्चालन गर्न नेपालको प्रस्ताव",
-     "url": "https://www.onlinekhabar.com/2026/11/2059938/nepal-proposes-to-operate-a-mountain-climate-program-from-2027",
-     "source": "Online Khabar (नेपाली)",
-     "published": "2026-11-18T00:45:35+00:00",
-     "summary": "२ मंसिर, टर्किए । नेपालले पर्वतीय क्षेत्र र जलवायु परिवर्तनसम्बन्धी छुट्टै कार्यक्रम सन् २०२७ देखि सञ्चालन गर्न तथा त्यसको कार्यक्षेत्र र कार्यान्वयन विधि स्पष्ट पार्न कोप–३१ को नि",
-     "image": ""
-    },
-    {
-     "title": "विदेशी मुद्राको विनिमय दर , अमेरिकी डलरको खरिददर १४९ रुपैयाँ २६ पैसा",
-     "url": "https://dcnepal.com/2026/11/815887/",
-     "source": "DC Nepal (डीसी नेपाल)",
-     "published": "2026-11-18T00:44:41+00:00",
-     "summary": "काठमाडाैं। नेपाल राष्ट्र बैंकले आजका लागि विभिन्न देशका विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ। केन्द्रीय बैंकले तोकेको नयाँ दरअनुसार अमेरिकी डलर एकको खरिददर १४९ रुपैयाँ २६ पैस",
-     "image": "https://dcnepal.com/wp-content/uploads/2024/01/exchange-american-dollar1658309594.jpg"
-    },
-    {
-     "title": "एनपीएल इलिमिनेटर : काठमान्डु र चितवनको खेल आज",
-     "url": "https://www.thahakhabar.com/detail/312074",
+     "title": "अमेरिकी राष्ट्रिय सुरक्षा एजेन्सीको गोप्य सञ्चार सञ्जाल अबरुद्ध",
+     "url": "https://www.thahakhabar.com/detail/312079",
      "source": "Thaha Khabar (थाहा खबर)",
-     "published": "2026-11-18T00:44:00+00:00",
+     "published": "2026-11-18T01:35:20+00:00",
      "summary": "",
-     "image": "https://www.thahakhabar.com/uploads/posts/Kathmadnu-1794962558.jpg"
+     "image": "https://www.thahakhabar.com/uploads/posts/USA-1794965702.jpg"
     },
     {
-     "title": "इलिमिनेटरमा आज चितवन र काठमाण्डु खेल्दै, जित्ने टोलीले सुदूरपश्चिमसँग खेल्ने",
-     "url": "https://www.ratopati.com/story/605920/chitwan-and-kathmandu-are-playing-in-the-eliminator-today-the-winning-team-will-play-against-sudurpaschim",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-18T00:42:04+00:00",
-     "summary": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) क्रिकेटको तेस्रो संस्करणअन्तर्गत बुधबार इलिमिनेटरमा चितवन राइनोज र काठमाण्डु गोर्खाजबिच प्रतिस्पर्धा हुँदैछ । कीर्तिपुरस्थित त्रिवि अन्तर्राष",
-     "image": "https://npcdn.ratopati.com/media/news/chitwan-kathmandu_ObU3jSbYio.webp"
+     "title": "वासिंटनमा ‘डर्टी बम’ आक्रमणको योजना सम्बन्धी रिपोर्ट इरानद्वारा खारेज",
+     "url": "https://baahrakhari.com/detail/507580",
+     "source": "Baahrakhari (बाह्रखरी)",
+     "published": "2026-11-18T01:33:00+00:00",
+     "summary": "",
+     "image": ""
     },
     {
-     "title": "कोशी र गण्डकीको हिमाली एक/दुई ठाउँमा हल्का वर्षा र हिमपातको सम्भावना",
-     "url": "https://www.ujyaaloonline.com/detail/133591",
-     "source": "Ujyaalo (उज्यालो)",
-     "published": "2026-11-18T00:41:51+00:00",
-     "summary": "आज कोशी र गण्डकीकोे हिमाली एक/दुई ठाउँमा हल्का वर्षा र हिमपातको सम्भावना रहेको मौसम पूर्वानुमान महाशाखाले जनाएको छ ।",
-     "image": "https://www.ujyaaloonline.com/uploads/posts/hussu_8B9JwNWMcv.jpg"
-    },
-    {
-     "title": "ढोरपाटनका नगर प्रमुखलाई आठ वर्ष जेल सजाय",
-     "url": "https://gorkhapatraonline.com/news/229419",
+     "title": "‘देहमा अवरित बोधी’ को प्रदर्शनी",
+     "url": "https://gorkhapatraonline.com/news/229430",
      "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-18T00:41:41+00:00",
-     "summary": "कास्की समाचारदाताकास्की, मङ्सिर २ गते । सहकारी ठगी अभियोगमा पुर्पक्षका लागि कारागारमा रहनु भएका बागलुङको ढोरपाटन नगरपालिकाका नगर प्रमुख देवबहादुर नेपालीलाई आठ वर्ष कैद सजाय भएको छ.",
-     "image": "https://gorkhapatraonline.com/storage/media/391957/conversions/mayor-jail-original.jpg"
+     "published": "2026-11-18T01:32:07+00:00",
+     "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, मङ्सिर २ गते । कलाकार समुन्द्रमानसिंह श्रेष्ठको एकल चित्रकला प्रदर्शनी ‘देहमा अवरित बोधी’ शीर्षकको चित्रकला प्रदर्शनी भइरहेको छ । परम्परागत कलाको संरक",
+     "image": "https://gorkhapatraonline.com/storage/media/391968/conversions/samundraman-shigka-kala-himanilai-chitra-pradan-gardai-original.jpg"
+    },
+    {
+     "title": "काठमाडौंका सबै ठाउँ चौबीसै घन्टा खुला गर्न प्रशासनले थाल्यो तयारी",
+     "url": "https://www.setopati.com/social/402802",
+     "source": "Setopati (सेतोपाटी)",
+     "published": "2026-11-18T01:32:04+00:00",
+     "summary": "अहिले ठमेल र दरबारमार्ग चौबीसै घन्टा खुला हुन्छ।",
+     "image": ""
+    },
+    {
+     "title": "जित्नैपर्ने दबाबमा काठमाडौँ र चितवन",
+     "url": "https://gorkhapatraonline.com/news/229429",
+     "source": "Gorkhapatra (गोरखापत्र)",
+     "published": "2026-11-18T01:31:30+00:00",
+     "summary": "काठमाडौँ, मङ्सिर २ गते । नेपाल प्रिमियर लिग (एनपिएल) क्रिकेटको उपाधि यात्रामा कायम रहन काठमाडौँ गोर्खाज र चितवन राइनोजले आज निर्णायक प्रतिस्पर्धा गर्दैछन् । लिग चरणको प्रदर्शनका आध",
+     "image": "https://gorkhapatraonline.com/storage/media/391967/conversions/cricket-original.jpg"
+    },
+    {
+     "title": "काठमाडौं उपत्यकामा ट्राफिक नियम उल्लङ्घन गर्ने ५५७ सवारीचालक कारबाहीमा",
+     "url": "https://dcnepal.com/2026/11/815898/",
+     "source": "DC Nepal (डीसी नेपाल)",
+     "published": "2026-11-18T01:31:25+00:00",
+     "summary": "काठमाडौं। उपत्यकामा ट्राफिक नियमको उल्लङ्घन गर्ने ५५७ जना सवारीसाधनका चालकलाई ट्राफिक प्रहरीले कारबाही गरेको छ। पछिल्लो २४ घण्टामा काठमाडौं उपत्यकाका विभिन्न स्थानमा गरिएको विशेष ज",
+     "image": ""
+    },
+    {
+     "title": "अर्को वर्षदेखि पर्वतीय जलवायु कार्यक्रम सञ्चालन गर्न नेपालको प्रस्ताव",
+     "url": "https://www.ujyaaloonline.com/detail/133592",
+     "source": "Ujyaalo (उज्यालो)",
+     "published": "2026-11-18T01:31:00+00:00",
+     "summary": "नेपालले पर्वतीय क्षेत्र र जलवायु परिवर्तनसम्बन्धी छुट्टै कार्यक्रम सञ्चालन तथा त्यसको कार्यक्षेत्र र कार्यान्वयन विधि स्पष्ट पार्न कोप–३१ को निर्णय मस्यौदामा तीनबुँदे प्रस्ताव पेस ",
+     "image": "https://www.ujyaaloonline.com/uploads/posts/cop-31-1794965290.jpg"
+    },
+    {
+     "title": "‘सुशासनकै माध्यमबाट राजस्व लक्ष्य हासिल गर्छौं’",
+     "url": "https://gorkhapatraonline.com/news/229428",
+     "source": "Gorkhapatra (गोरखापत्र)",
+     "published": "2026-11-18T01:29:12+00:00",
+     "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, मङ्सिर २ गते । अर्थमन्त्री डा. स्वर्णिम वाग्लेले सुशासनकै माध्यमबाट राजस्वको लक्ष्य पूरा गरिने बताउनुभएको छ । राष्ट्रिय कर दिवस, २०८३ का अवसरमा आन्तरि",
+     "image": "https://gorkhapatraonline.com/storage/media/391966/conversions/Rastriya-Kar-Diwas_2083-sujan-gurung_DSC00590-original.jpg"
+    },
+    {
+     "title": "अमेरिकी राष्ट्रिय सुरक्षा एजेन्सीको गोप्य सञ्चार सञ्जाल अवरुद्ध",
+     "url": "https://www.ratopati.com/story/605924/us-national-security-agencys-secret-communications-network-disrupted",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-18T01:28:55+00:00",
+     "summary": "सिएनएन । अमेरिकाको राष्ट्रिय सुरक्षा एजेन्सी (एनएसए) ले आन्तरिक सञ्चारका लागि प्रयोग गर्दै आएको अत्यन्त गोप्य सञ्जाल ‘एनएसएनेट’ अवरुद्ध भएको छ । एनएसएनेटमार्फत एजेन्सीका कर्मचारीहर",
+     "image": "https://npcdn.ratopati.com/media/news/sanjal_dyjqD9xoys.webp"
+    },
+    {
+     "title": "दानबहादुर कार्कीको रिटमा आज सुनुवाइ",
+     "url": "https://baahrakhari.com/detail/507579",
+     "source": "Baahrakhari (बाह्रखरी)",
+     "published": "2026-11-18T01:24:39+00:00",
+     "summary": "",
+     "image": ""
+    },
+    {
+     "title": "लागुऔषधसहित देशका विभिन्न भागबाट २१ जना पक्राउ",
+     "url": "https://www.thahakhabar.com/detail/312077",
+     "source": "Thaha Khabar (थाहा खबर)",
+     "published": "2026-11-18T01:23:33+00:00",
+     "summary": "",
+     "image": "https://www.thahakhabar.com/uploads/posts/pakrau-1772696901.jpg"
+    },
+    {
+     "title": "विराटनगर जुट मिल्स : निजी क्षेत्रलाई ‘लिज’ मा दिन सिफारिस",
+     "url": "https://gorkhapatraonline.com/news/229427",
+     "source": "Gorkhapatra (गोरखापत्र)",
+     "published": "2026-11-18T01:22:45+00:00",
+     "summary": "विराटनगर समाचारदाताविराटनगर, मङ्सिर २ गते । विराटनगर जुट मिल पुनः सञ्चालनका लागि नयाँ मोडालिटीको तयारी सुरु भएको छ । मिल पुनः सञ्चालनका लागि सरकारले गठन गरेको अध्ययन कार्यदलले प्रत",
+     "image": "https://gorkhapatraonline.com/storage/media/391965/conversions/Jut-Mills-(2)-(2)-original.jpg"
     }
    ]
   }
