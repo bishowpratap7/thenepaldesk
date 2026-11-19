@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T19:12:36.674416+00:00",
+ "generated_at": "2026-11-19T19:43:07.258058+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-19T19:12:36.674368+00:00",
+   "fetched_at": "2026-11-19T19:43:07.258028+00:00",
    "stale": false,
    "items": [
     {
@@ -11,14 +11,6 @@
      "source": "Harlem World Magazine",
      "published": "2026-11-19T18:39:06+00:00",
      "summary": "We Raise Hope Holds New York Gala In Support Of Healthcare And Education In Nepal&nbsp;&nbsp;Harlem World Magazine",
-     "image": ""
-    },
-    {
-     "title": "Israeli man dies during Nepal trip after being exposed to gas while showering",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQU5OaDI3SzlnLVpoR2w5ek9wRW0tWmVSSTNWd3F4LUw4b3QzVktRNWUwXzZoVFhnR2haS09IQmFrTWhtVnM0b3hMcVo2R0doelBRM3pCTnZCTWdGbmpDdmk1WlpneUt5MXZja3FndzNnS0ZpeU8zcnhCek50SzBLYVFmeGtfajJOMElubUFFYw?oc=5",
-     "source": "Yahoo",
-     "published": "2026-11-19T18:18:26+00:00",
-     "summary": "Israeli man dies during Nepal trip after being exposed to gas while showering&nbsp;&nbsp;Yahoo",
      "image": ""
     },
     {
@@ -75,6 +67,14 @@
      "source": "myRepublica",
      "published": "2026-11-19T16:18:49+00:00",
      "summary": "Nepal’s envoy presents credentials within 48 hours, in rare diplomatic gesture&nbsp;&nbsp;myRepublica",
+     "image": ""
+    },
+    {
+     "title": "Israeli man dies during Nepal trip after being exposed to gas while showering",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlcjdySXNTdEt4WlFzaW5xcmNMRW55cnhKY0V4ZjZJNTk3UFBGaWVsdWtXWlk1VFZhaVY3ZVpva3dHZF9wTGNqSEVjb2dOYnNlTVVHTEV2ZzNLM2xx?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-19T16:18:26+00:00",
+     "summary": "Israeli man dies during Nepal trip after being exposed to gas while showering&nbsp;&nbsp;The Jerusalem Post",
      "image": ""
     },
     {
@@ -136,7 +136,7 @@
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-19T19:12:36.674382+00:00",
+   "fetched_at": "2026-11-19T19:43:07.258041+00:00",
    "stale": false,
    "items": [
     {
@@ -238,7 +238,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-19T19:12:36.674385+00:00",
+   "fetched_at": "2026-11-19T19:43:07.258044+00:00",
    "stale": false,
    "items": [
     {
@@ -340,7 +340,7 @@
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-19T19:12:36.674387+00:00",
+   "fetched_at": "2026-11-19T19:43:07.258047+00:00",
    "stale": false,
    "items": [
     {
