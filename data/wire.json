@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T11:31:03.616448+00:00",
+ "generated_at": "2026-11-19T11:31:47.566502+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-19T11:31:03.616417+00:00",
+   "fetched_at": "2026-11-19T11:31:47.566467+00:00",
    "stale": false,
    "items": [
     {
@@ -19,14 +19,6 @@
      "source": "Cricbuzz",
      "published": "2026-11-19T11:27:52+00:00",
      "summary": "Nepal to play Bangladesh at Lord's in June 2027&nbsp;&nbsp;Cricbuzz",
-     "image": ""
-    },
-    {
-     "title": "Rekha Thapa Discusses Her Film '36 Ko Aankada' and Career",
-     "url": "http://english.ratopati.com/story/87337/back-then-when-i-got-the-lead-role-my-co-stars-were-hostile",
-     "source": "Ratopati",
-     "published": "2026-11-19T11:26:56+00:00",
-     "summary": "Kathmandu. Rekha Thapa is an actress who has established the image of a 'female hero' in Nepali films, breaking the...",
      "image": ""
     },
     {
@@ -132,11 +124,19 @@
      "published": "2026-11-19T11:02:46+00:00",
      "summary": "Hetauda. The Congress Hetauda Sub-Metropolitan City Ward No.-19 Committee has given a 7-day ultimatum to repair the road under the...",
      "image": ""
+    },
+    {
+     "title": "Promoting the mountain agenda at the UNFCCC: In convesation with Atal Dev Dhakal",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ2wwNVRiS1oyTXdJUlJPeDA0RlpTYmlQeDN0ZkM0X3BzZFpZeGhMUmJmN1pZLXZhN0R4ZF9sczJKbndaalZvRlM1Ni1acEptR2trZ1BkeVl5TmdNcHB6TnAzMGozM0FCUTJkZWlEcDJDZVJMYVdWaTQ5THRHSnRzLTlHbFZtU1huNDkxMU9sdnI5dHd0N0FFOWMxSUR1T0tRUEQtdFlVc1MxTkdDbDB1c1I1ZG9ocDJjaDVGNDl5WHQ?oc=5",
+     "source": "Nepalnews.com",
+     "published": "2026-11-19T11:00:43+00:00",
+     "summary": "Promoting the mountain agenda at the UNFCCC: In convesation with Atal Dev Dhakal&nbsp;&nbsp;Nepalnews.com",
+     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-19T11:31:03.616431+00:00",
+   "fetched_at": "2026-11-19T11:31:47.566483+00:00",
    "stale": false,
    "items": [
     {
@@ -238,25 +238,9 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-19T11:31:03.616436+00:00",
+   "fetched_at": "2026-11-19T11:31:47.566488+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "President Murmu receives credentials from envoys of Greece, Spain, Nepal",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUzVQUmxMdkFRUGtscXRTS2NaTV9KUHNpV3p5OTJNNGZzeWdCenVwTXJ1cVVqc1RWTVFkQlBMaGJWRkFIQmRmS2dTclJ1Ymt3U3B2Y0tGcGktcXpoTFVpcU52UFF5RkN5ZDhfeXhLZkZKQWlGa2NCQU9OaWxLMkxWM19VbW5UelhEQVdDUHIzTGgxTXI4LWVvSEREUXZSSWtHVGdwSzhXWElldUdtSmp2b2hibU54M3hCWmdDSXp3ZVprdk9R?oc=5",
-     "source": "ANI News",
-     "published": "2026-11-19T11:09:00+00:00",
-     "summary": "President Murmu receives credentials from envoys of Greece, Spain, Nepal&nbsp;&nbsp;ANI News",
-     "image": ""
-    },
-    {
-     "title": "Promoting the mountain agenda at the UNFCCC: In convesation with Atal Dev Dhakal",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ2wwNVRiS1oyTXdJUlJPeDA0RlpTYmlQeDN0ZkM0X3BzZFpZeGhMUmJmN1pZLXZhN0R4ZF9sczJKbndaalZvRlM1Ni1acEptR2trZ1BkeVl5TmdNcHB6TnAzMGozM0FCUTJkZWlEcDJDZVJMYVdWaTQ5THRHSnRzLTlHbFZtU1huNDkxMU9sdnI5dHd0N0FFOWMxSUR1T0tRUEQtdFlVc1MxTkdDbDB1c1I1ZG9ocDJjaDVGNDl5WHQ?oc=5",
-     "source": "Nepalnews.com",
-     "published": "2026-11-19T11:00:43+00:00",
-     "summary": "Promoting the mountain agenda at the UNFCCC: In convesation with Atal Dev Dhakal&nbsp;&nbsp;Nepalnews.com",
-     "image": ""
-    },
     {
      "title": "From ministerial office to police custody: Five former ministers arrested since Balen became PM",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY0U4VkszX0lSdTBOdDNqUDlOSnAtM1JWSXJvQ0RVdnpIVGZ2TWFQQ3d4N21sTXM4OXpITmQzdGZWMGluWGtoZEw1LWh0WXVEUGVndVhNc0liTkZNT09iRUVpSGpaZFU3bWRvd1pWTTZPejlDYmthNkY4MVZRdlI5S0Y5cHhXWDFsbmxnTTJscHJvdTNscEVQczJPcHJIWm8xcDRwWVdvZEJ1bzkxX2p4NndIVkEyTkZ0ekg5SXdvTnM0TkZVdFVKTmE0dnRhalVJeGc?oc=5",
@@ -291,10 +275,10 @@
     },
     {
      "title": "Nepal's Energy Sector Eyes Opportunities in PM's India Visit",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZlB3Qmx5eHJDZVVldE4zWTNyb3JNTXVmcy04SUgyZjlySUNyejNNRVpxZVBxXzhxOG5OLVFrZWdSYUswTDkxazRHeFQ1VmV6VE9Pa2EySGszQk45djdpX1A0dG1LQ3VvQ1lPYnRyaG9DOGVwMnZNZ0N0NGlPRHVIXzlUY2xmSy1qX01zbS1XajhiT0FhNTkyX2tscWdYejVGZnhJa25uSVJ5VllFVzRjN2gzcGtBNXh3Z1ZXYTZwdnFjNl9fOGwzQTBIQ0l4Y3R2NlNYbmFfZ3p2X3ZfWFE?oc=5",
+     "url": "http://english.ratopati.com/story/87319/prime-ministers-visit-to-india-seeks-breakthrough-in-energy-sector-demands-to-facilitate-10000-mw-export",
      "source": "Ratopati",
-     "published": "2026-11-19T10:30:00+00:00",
-     "summary": "Nepal's Energy Sector Eyes Opportunities in PM's India Visit&nbsp;&nbsp;Ratopati",
+     "published": "2026-11-19T10:25:11+00:00",
+     "summary": "Kathmandu. Nepal's energy sector views the upcoming India visit of the Prime Minister as a significant opportunity. Energy sector experts...",
      "image": ""
     },
     {
@@ -330,17 +314,33 @@
      "image": ""
     },
     {
-     "title": "Officials’ search for Nepal flood victims is over. Families are still looking.",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeVQ4MVlPWWJ3VUxBMWpOMkt4Z2xqRG53ZmNQdE8wX3ZGNURiQ09Cb05JV05hN0dRN25OTEo3bFItc3p6amhuYnFxWDZsRm9kTHBPdnl4clRZeFN3b2ZDVUktODB6UzFTOVY1Q0NKY05tWUdxM1ZYSUFoNW9PUzJMcUh0a0l6MUpYUWNiZ2RidnNWVmU5R3I5MmhNRWo0REsxTHMxZjZnZDJhdHFsT3pQd1BCajZQZ3p1X2stUg?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-19T10:04:20+00:00",
-     "summary": "Officials’ search for Nepal flood victims is over. Families are still looking.&nbsp;&nbsp;The Washington Post",
+     "title": "Tourism Minister Paudel emphasizes boosting Nepal-India historic ties through tourism",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qcWEzTHU3MU45Sjk0b2xsbkRVVzAyWXhtd0N0bWplamtLampZa2g1eEhjT1Y4eVZRcjFrbmpkUFduUGVCRGJteWJ3c2ctTVdW?oc=5",
+     "source": "The Rising Nepal",
+     "published": "2026-11-19T10:03:20+00:00",
+     "summary": "Tourism Minister Paudel emphasizes boosting Nepal-India historic ties through tourism&nbsp;&nbsp;The Rising Nepal",
+     "image": ""
+    },
+    {
+     "title": "Russia consistently implements state policy to ensure interethnic and interfaith harmony in society",
+     "url": "https://peoplesreview.com.np/2026/11/19/russia-consistently-implements-state-policy-to-ensure-interethnic-and-interfaith-harmony-in-society/",
+     "source": "Peoples Review",
+     "published": "2026-11-19T09:49:00+00:00",
+     "summary": "By Our Reporter The national policy of the Russian Federation is based on the principle of &#8220;Unity in Diversity.&#8221; In the national republics, equality between Russian and",
+     "image": ""
+    },
+    {
+     "title": "Prime Minister Balen Shah's India Visit Details Forthcoming",
+     "url": "http://english.ratopati.com/story/87314/formal-announcement-on-prime-minister-balens-visit-to-india-tomorrow",
+     "source": "Ratopati",
+     "published": "2026-11-19T09:45:08+00:00",
+     "summary": "Kathmandu. The government will formally announce Prime Minister Balen Shah's India visit tomorrow. The Ministry of Foreign Affairs is preparing...",
      "image": ""
     }
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-19T11:31:03.616438+00:00",
+   "fetched_at": "2026-11-19T11:31:47.566490+00:00",
    "stale": false,
    "items": [
     {
