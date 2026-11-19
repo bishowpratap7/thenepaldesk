@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-19T06:24:21.307716+00:00",
+ "generated_at": "2026-11-19T06:25:08.334004+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-19T06:24:21.307687+00:00",
+   "fetched_at": "2026-11-19T06:25:08.333971+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "KP Sharma Oli Questions Nepali Army's Security During Past Protests",
+     "url": "http://english.ratopati.com/story/87264/army-should-know-why-the-security-of-the-rashtrapati-bhavan-could-not-be-ensured-oli",
+     "source": "Ratopati",
+     "published": "2026-11-19T06:23:45+00:00",
+     "summary": "Kathmandu. CPN-UML Chairman KP Sharma Oli has said that the Nepali Army itself should know why it could not secure...",
+     "image": ""
+    },
     {
      "title": "Trump and Xi Hold Bilateral Talks at APEC Summit",
      "url": "http://english.ratopati.com/story/87263/trump-xi-hold-bilateral-talks-at-apec-summit",
@@ -124,19 +132,11 @@
      "published": "2026-11-19T05:40:00+00:00",
      "summary": "By Rabi Raj Thapa When you think of espionage, you generally think of secret agents conducting surveillance, sabotaging equipment and engaging in spectacular action. Countries like",
      "image": ""
-    },
-    {
-     "title": "सुनको मूल्य तीन हजार तीन सय रुपैयाँले घट्यो",
-     "url": "https://nepalnews.com/2026/11/19/gold-price-drops-by-rs-3300/",
-     "source": "NepalNews",
-     "published": "2026-11-19T05:39:44+00:00",
-     "summary": "काठमाडौं। नेपाली बजारमा सुनको मूल्यमा गिरावट आएको छ। नेपाल सुनचाँदी व्यवसायी महासंघका अनुसार आज सुनको मूल्यमा प्रतितोला तीन हजार तीन सय रुपैयाँले कमी आएको हो। हिजो प्रतितोला दुई ला",
-     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-19T06:24:21.307703+00:00",
+   "fetched_at": "2026-11-19T06:25:08.333987+00:00",
    "stale": false,
    "items": [
     {
@@ -238,7 +238,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-19T06:24:21.307705+00:00",
+   "fetched_at": "2026-11-19T06:25:08.333992+00:00",
    "stale": false,
    "items": [
     {
@@ -340,9 +340,17 @@
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-19T06:24:21.307707+00:00",
+   "fetched_at": "2026-11-19T06:25:08.333995+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "दाङको लमहीमा भ्रमण बस दुर्घटना, १४ जना घाइते",
+     "url": "https://www.thahakhabar.com/detail/312159",
+     "source": "Thaha Khabar (थाहा खबर)",
+     "published": "2026-11-19T06:24:39+00:00",
+     "summary": "",
+     "image": "https://www.thahakhabar.com/uploads/posts/Accident-1767947277.jpg"
+    },
     {
      "title": "भीमफेदी सुमो दुर्घटना : मृतक र घाइतेको पहिचान खुल्यो",
      "url": "https://baahrakhari.com/detail/507721",
@@ -350,6 +358,14 @@
      "published": "2026-11-19T06:23:55+00:00",
      "summary": "",
      "image": ""
+    },
+    {
+     "title": "राष्ट्रपति भवनको सुरक्षा किन हुन सकेन सेना जानोस् : ओली",
+     "url": "https://www.ratopati.com/story/606227/army-should-know-why-the-security-of-the-rashtrapati-bhavan-could-not-be-ensured-oli",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-19T06:23:51+00:00",
+     "summary": "काठमाडौँ । नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीले गत वर्ष जेनजी आन्दोलनका क्रममा नेपाली सेनाले राष्ट्रपति भवन सुरक्षा गर्न नसकेकोमा सेनाले नै जान्नुपर्ने बताएका छन् । एमाले राष्ट्र",
+     "image": "https://npcdn.ratopati.com/media/news/kp-oli_AAkOsy9ETp.webp"
     },
     {
      "title": "काँग्रेस रामेछापको इतर समूहले मङ्सिर १४ मा जिल्ला अधिवेशन गर्ने",
@@ -365,6 +381,14 @@
      "source": "Baahrakhari (बाह्रखरी)",
      "published": "2026-11-19T06:20:11+00:00",
      "summary": "",
+     "image": ""
+    },
+    {
+     "title": "चार महिनामा ६ हजार २९ सवारीलाई कारबाही, ८९ लाख बढी राजस्व संकलन",
+     "url": "https://nagariknews.nagariknetwork.com/economy/action-taken-against-6-029-vehicles-in-4-months-revenue-collection-of-8-9-million-more-br-39-29.html",
+     "source": "Nagarik (नागरिक)",
+     "published": "2026-11-19T06:19:47+00:00",
+     "summary": "कपिलवस्तुमा चालु आर्थिक वर्षको चार महिनामा ट्राफिक नियम उल्लङ्घन गरेको २ हजार ८५६ सवारी साधनलाई कारबाही गरिएको छ।...",
      "image": ""
     },
     {
@@ -446,30 +470,6 @@
      "published": "2026-11-19T06:10:07+00:00",
      "summary": "काठमाडौँ, मङ्सिर ३ गते । नेपाल कम्युनिष्ट पार्टी (एमाले)का वरिष्ठ नेता विद्यादेवी भण्डारीले गत निर्वाचनमा पार्टीले व्यहोर्नुपरेको हार अस्थायी भएकाले यसबाट सुधार गर्नुपर्ने पाठ सिके",
      "image": "https://gorkhapatraonline.com/storage/media/392146/conversions/CKK_RSS28-original.jpg"
-    },
-    {
-     "title": "दाङमा यात्रुवाहक बस दुर्घटना, १४ जना घाइते",
-     "url": "https://www.ratopati.com/story/606222/passenger-bus-accident-in-dang-14-injured",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-19T06:09:47+00:00",
-     "summary": "बुटवल । बुटवलबाट बाँकेको नेपालगञ्ज जाँदै गरेको यात्रुवाहक बस आज बिहान दाङमा दुर्घटना हुँदा १४ जना घाइते भएका छन् । बाँकेको कोहलपुरका स्थानीय रिजर्भमा बुटवल भ्रमण गरी फर्किने क्रममा",
-     "image": "https://npcdn.ratopati.com/media/news/bus_7mxvbLcgf8.webp"
-    },
-    {
-     "title": "भैंसे सुमो दुर्घटना : मृतक तीनै जनाको पहिचान खुल्यो",
-     "url": "https://www.ratopati.com/story/606221/buffalo-sumo-accident-the-identities-of-all-three-deceased-have-been-revealed",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-19T06:06:42+00:00",
-     "summary": "मकवानपुर । मकवानपुरको भीमफेदी गाउँपालिका–१ भैंसेमा बिहीबार भएको सुमो दुर्घटनामा मृत्यु भएका तीनै जनाको पहिचान खुलेको छ । दुर्घटनामा घाइते भएका अन्य ७ जनाको समेत परिचय खुलेको प्रहरी",
-     "image": "https://npcdn.ratopati.com/media/news/makwanpur-accident_AjmZmrP1J0.webp"
-    },
-    {
-     "title": "विकास–निर्माण थाल्नुअघि भौगर्भिक अध्ययन गर्नुपर्नेमा सभामुखको जोड",
-     "url": "https://nagariknews.nagariknetwork.com/politics/speaker-stresses-need-for-geological-study-before-commencing-development-and-construction-br-74-53.html",
-     "source": "Nagarik (नागरिक)",
-     "published": "2026-11-19T06:06:02+00:00",
-     "summary": "सभामुख डोलप्रसाद अर्यालले विकास पूर्वाधार निर्माणअघि भौगर्भिक अध्ययन र जोखिम मूल्यांकनलाई प्राथमिकतामा राख्नुपर्ने बताएका छन्।...",
-     "image": ""
     }
    ]
   }
