@@ -1,18 +1,10 @@
 {
- "generated_at": "2026-11-19T20:44:58.507421+00:00",
+ "generated_at": "2026-11-19T21:15:31.075438+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-19T20:44:58.507379+00:00",
+   "fetched_at": "2026-11-19T21:15:31.075381+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Party should move forward learning from election rout: UML Senior Leader Bhandari",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yOTAwanpPdW05a0s3cXVndV9WbG9Fb1NBMXpLVjZiZWlfdFpYZHFEZV9xM1VrTFFhU1RIcHNwZVZxdUlsZ1ZORWx2eUhkY1Ex?oc=5",
-     "source": "The Rising Nepal",
-     "published": "2026-11-19T20:28:25+00:00",
-     "summary": "Party should move forward learning from election rout: UML Senior Leader Bhandari&nbsp;&nbsp;The Rising Nepal",
-     "image": ""
-    },
     {
      "title": "We Raise Hope Holds New York Gala In Support Of Healthcare And Education In Nepal",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1dWbjdhZVJPWktDQkdRWXo3eDAxQjk3cE12UldrMV82Z3kwWTUzQ19fZG5nNTBycE1HbVluMHVVR19FLWdBblM2SHVtQlRLUzBkamVMLUg5ckZoYUw4RUdfUWpmRWlfaFVNRUtmdkR6VEo3Z0tjTnhCRG9RamlrdnJIRm1icEJLUjl5YXl6VHBvNVFrT1RfaEhoeHFGOU5zWGJIWG01c1FDRkMtb1pRT19MdDdaa2E3YXc?oc=5",
@@ -132,11 +124,19 @@
      "published": "2026-11-19T15:53:57+00:00",
      "summary": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. Sudurpaschim Royals reac",
      "image": ""
+    },
+    {
+     "title": "Nepal's New Ambassador to India Presents Credentials to President Murmu",
+     "url": "http://english.ratopati.com/story/87370/why-did-india-understand-ambassador-pandeys-credentials-so-quickly",
+     "source": "Ratopati",
+     "published": "2026-11-19T15:49:16+00:00",
+     "summary": "Kathmandu. Nepal's newly appointed Ambassador to India, Dr. Nishchal Nath Pandey, presented his Letter of Credence to Indian President Droupadi...",
+     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-19T20:44:58.507393+00:00",
+   "fetched_at": "2026-11-19T21:15:31.075419+00:00",
    "stale": false,
    "items": [
     {
@@ -238,17 +238,9 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-19T20:44:58.507409+00:00",
+   "fetched_at": "2026-11-19T21:15:31.075424+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Nepal's New Ambassador to India Presents Credentials to President Murmu",
-     "url": "http://english.ratopati.com/story/87370/why-did-india-understand-ambassador-pandeys-credentials-so-quickly",
-     "source": "Ratopati",
-     "published": "2026-11-19T15:49:16+00:00",
-     "summary": "Kathmandu. Nepal's newly appointed Ambassador to India, Dr. Nishchal Nath Pandey, presented his Letter of Credence to Indian President Droupadi...",
-     "image": ""
-    },
     {
      "title": "CPN UML Vows to Return to Previous State, Focuses on Unity and Local Elections",
      "url": "http://english.ratopati.com/story/87367/message-from-uml-gathering-new-momentum-high-morale-and-an-end-to-factionalism",
@@ -336,11 +328,19 @@
      "published": "2026-11-19T12:04:29+00:00",
      "summary": "BEIJING: US President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin sat down for a critical meeting of world powers on Thursday in Shenzen. Hostin",
      "image": ""
+    },
+    {
+     "title": "U.S. Mid-Term Elections: A Sweeping Rejection of Trump",
+     "url": "https://peoplesreview.com.np/2026/11/19/u-s-mid-term-elections-a-sweeping-rejection-of-trump/",
+     "source": "Peoples Review",
+     "published": "2026-11-19T12:00:00+00:00",
+     "summary": "By Shashi P.B.B. Malla As the Editorial Board of The New York Times so succinctly stated, President Donald J. Trump and his Republican Party had spent the past two years trying to ",
+     "image": ""
     }
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-19T20:44:58.507412+00:00",
+   "fetched_at": "2026-11-19T21:15:31.075428+00:00",
    "stale": false,
    "items": [
     {
