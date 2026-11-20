@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T18:09:05.617389+00:00",
+ "generated_at": "2026-11-20T18:09:52.331515+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-20T18:09:05.617359+00:00",
+   "fetched_at": "2026-11-20T18:09:52.331461+00:00",
    "stale": false,
    "items": [
     {
@@ -136,7 +136,7 @@
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-20T18:09:05.617374+00:00",
+   "fetched_at": "2026-11-20T18:09:52.331477+00:00",
    "stale": false,
    "items": [
     {
@@ -204,6 +204,14 @@
      "image": ""
     },
     {
+     "title": "Book Review: 'Khadama' Explores Nepali Migrant Worker Experiences",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdGdnNXlxSlJiNW1rYnZ2bGpxVGx2YlZwSWJCRTg3aGtvZm5JZ0dRU1hmQTg4SUdvcXlEbXM3V0pRV0twOU5FM2owQ1BJWXlfTVdlX0FIQk96Zm5mOWhNWHIybFpReFhCNWk4UzdZd2hoaHNrME40NFpKZmQ1VG1ockNtR2ZJcnZLaFV4OWY4R3c?oc=5",
+     "source": "Ratopati",
+     "published": "2026-11-14T07:47:29+00:00",
+     "summary": "Book Review: 'Khadama' Explores Nepali Migrant Worker Experiences&nbsp;&nbsp;Ratopati",
+     "image": ""
+    },
+    {
      "title": "Five Former NRNA Presidents Meet Speaker Aryal, Invite to Middle East Regional Conference",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLW1jMlFlS05LYWtuOU1ZVHN4UUdqcVVyRlBrdzMtdG55WkJTT3FTSjVmbG56T1hZOVlPRDNTOXNkTXdBUTcxQV9aUGZPczFuNldyeXAtUm1mUVlCLVoxOU5nVlNuN2F1MDFiRFNNWWtWcS1oNW5vRU5JOVJTMjhzR3VaelJOS0t3UTh3SEVCdDI0Qi1CeE5tV1k0NUZfZkpycW9kdDFKd00xYVR1QWxHQk5pTVRwM2Z6dVZMOA?oc=5",
      "source": "Ratopati",
@@ -220,25 +228,17 @@
      "image": ""
     },
     {
-     "title": "Nepalese Culture On Show In Hobart",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NdmlhQUE4azNRZjlPb0lpTm54X09JSDIyTVB1SktWU2UxMXN2cHNNQVNKOEp3M29zVGN1QUNCVDdnVzMtQnpjbkRiMExTdHRqLXMzZW9Qelc2MUIxSVlDeVlqclprSENYbGZGNFBEVHdiMXgwUEtCMk1B?oc=5",
-     "source": "Tasmanian Times",
-     "published": "2026-11-13T00:05:42+00:00",
-     "summary": "Nepalese Culture On Show In Hobart&nbsp;&nbsp;Tasmanian Times",
-     "image": ""
-    },
-    {
-     "title": "NRN Japan's 'Nepal House' Project Faces Controversy Over Land Purchase",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPU2dwQUJ0ek9MNFdZOU9wcld0NWFlWXFpT044STlOZlcyMTZHMGthOURJMWhxZWhwR0prOGxIaXJMYjkya2J6dXBhdzhsLXliZ1BHZGlMSnhFZjM4Y2s5T21DRnZrbzhIZFo3OG9HaDFMTkNvOTdBTnF4b3E2RVdDUE1ISk1uTDdPWEtMNG5mMWdkelZGdFBpR2E4aGtTZ09TOTU2UGk4eE9rM2k5MWU2ZEtaYTYwOFMzZW9MTmdfMUdiNWs4MXczN0RaaHdScHppUV9YOGJNUHZ6V3dUMG03UTJ5MVE4ZzZDdHRiendaemRvc3lxc2ZyZ1BDQnRTckUyZ2Y3ZEUzZw?oc=5",
+     "title": "Europe Emerging as New Hub for Nepali Migrant Workers Amidst Shifting Destinations",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbTUxNE9CcWFFWkttUzBtWXVSNTUwYmcyMk9EbDNKREF2QUpfUngzc2ZHNUo3Z0ZmeUY0bENTNHliZi0xNVdsN2hFSzlEZm9aeld2bG5FbFg3UUluN3ItSVprM1hFZzg5YWV4Um5PY2tWS1l5ZVd6bE1WWWMwUHBIcGw5UXdrckdwcnpUTnVTM3h6OG1jQXNUUG9sNU1ybUtGSE9Ybi1oQ0VXZmlZeFhqR2MwMXJ5QzhjMy1kaVpRak8zdzU1SU5kSVBUUGRmU0tzYk9z?oc=5",
      "source": "Ratopati",
-     "published": "2026-11-12T21:51:15+00:00",
-     "summary": "NRN Japan's 'Nepal House' Project Faces Controversy Over Land Purchase&nbsp;&nbsp;Ratopati",
+     "published": "2026-11-13T04:52:24+00:00",
+     "summary": "Europe Emerging as New Hub for Nepali Migrant Workers Amidst Shifting Destinations&nbsp;&nbsp;Ratopati",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T18:09:05.617377+00:00",
+   "fetched_at": "2026-11-20T18:09:52.331480+00:00",
    "stale": false,
    "items": [
     {
@@ -340,7 +340,7 @@
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-20T18:09:05.617379+00:00",
+   "fetched_at": "2026-11-20T18:09:52.331482+00:00",
    "stale": false,
    "items": [
     {
