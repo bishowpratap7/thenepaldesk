@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T02:51:18.445824+00:00",
+ "generated_at": "2026-11-20T02:51:50.322769+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-20T02:51:18.445789+00:00",
+   "fetched_at": "2026-11-20T02:51:50.322717+00:00",
    "stale": false,
    "items": [
     {
@@ -136,7 +136,7 @@
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-20T02:51:18.445806+00:00",
+   "fetched_at": "2026-11-20T02:51:50.322734+00:00",
    "stale": false,
    "items": [
     {
@@ -228,17 +228,17 @@
      "image": ""
     },
     {
-     "title": "Communist Party MP Barsman Pun Demands Clear Framework for Nepali Diaspora's Voting Rights and Labor Destination Issues",
-     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQZ2ZIZl9yMlJhTEI5T2UzSXNMSjJJbDJpM1pOTUdYdm5fSEhWaDNwYTd0bGtEckZJNzdadUNxOWc3Vm9hdzh0UVEwLW0tVld4MDlSX29vOUotQ0E4cmFrODBmNWxPRnphMTVVTWFEYzZhN0hyQ3pUVjhxbkdKbk52dXJrTC04dEpiTTBsOHV3REhmeU1kdjNaS2JLTkFYYjJ0RFNDUFVUWEN4YjdwMUo0QjZWZE9yR1kyaVVCclhpUlJJaVp5b3d3d0Z1bEZYcEJiaF9wNEtsRV9xVWNTMnRsQjV0NE90R2c2Wm5CREFqSE1nQzFDV1F2dTR0cDhpYTJlWFFuWg?oc=5",
+     "title": "Non-Resident Nepali Campaign: From Emotional Connection to Economic Partnership",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEwzS2tZaEtFRzhFU0hCTV9vLWM0YTFZZkVMY1NfNlBtdFNMT19JX09HVnlaN1FUZ19xV1JVa19SNGc4TzVtZW90ZnpkMC1KNWVSa2NSc0JaYnRJaHZEdHhZLU4yNlBUUlA5MldQTVE0QnlsWE9FMy1WWGpURzAwQW1xMTZzcWdsVzNyQ29ZN2RJWGc3RmpMeVRUcDUzSzFjNC02bmVn?oc=5",
      "source": "Ratopati",
-     "published": "2026-10-13T07:00:00+00:00",
-     "summary": "Communist Party MP Barsman Pun Demands Clear Framework for Nepali Diaspora's Voting Rights and Labor Destination Issues&nbsp;&nbsp;Ratopati",
+     "published": "2026-10-11T07:00:00+00:00",
+     "summary": "Non-Resident Nepali Campaign: From Emotional Connection to Economic Partnership&nbsp;&nbsp;Ratopati",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T02:51:18.445811+00:00",
+   "fetched_at": "2026-11-20T02:51:50.322738+00:00",
    "stale": false,
    "items": [
     {
@@ -340,9 +340,17 @@
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-20T02:51:18.445814+00:00",
+   "fetched_at": "2026-11-20T02:51:50.322741+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "मधेशमा कसको बन्ला सरकार ?",
+     "url": "https://www.thahakhabar.com/detail/312219",
+     "source": "Thaha Khabar (थाहा खबर)",
+     "published": "2026-11-20T02:51:31+00:00",
+     "summary": "",
+     "image": "https://www.thahakhabar.com/uploads/posts/Madhesh-1785468199.jpg"
+    },
     {
      "title": "हरिबोधिनी एकादशी: बागमती नदीमा टाँगियो तोरण (तस्बिरहरू)",
      "url": "https://www.ratopati.com/story/606403/a-toran-was-erected-on-the-bagmati-river-on-haribodhini-ekadashi-photos",
@@ -461,14 +469,6 @@
      "source": "Baahrakhari (बाह्रखरी)",
      "published": "2026-11-20T02:32:00+00:00",
      "summary": "",
-     "image": ""
-    },
-    {
-     "title": "मन्त्रिपरिषद बैठक बस्दै, प्रधानमन्त्रीको भारत भ्रमणबारे छलफल हुने",
-     "url": "https://khabarhub.com/2026/20/1049611/",
-     "source": "Khabarhub (नेपाली)",
-     "published": "2026-11-20T02:31:16+00:00",
-     "summary": "काठमाडौं&#8211; मन्त्रिपरिषद बैठक बस्दै छ । बैठक प्रधानमन्त्री कार्यालय, सिंहदरबारमा आज बिहान ११ बजे बस्न लागेको हो । बैठकमा प्रधानमन्त्री वालेन्द्र शाह (बालेन) को भारत भ्रमणबारे छ",
      "image": ""
     }
    ]
