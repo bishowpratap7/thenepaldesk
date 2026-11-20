@@ -1,10 +1,34 @@
 {
- "generated_at": "2026-11-20T15:05:55.588250+00:00",
+ "generated_at": "2026-11-20T15:36:23.888659+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-20T15:05:55.588220+00:00",
+   "fetched_at": "2026-11-20T15:36:23.888611+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Japanese Fraudsters Found Operating From Luxury Mountain Hotel in Nepal",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIUmlPdzdDTWtVNFh6VVFzeEoyeGYxb1VRbXQ2SGdHeFJ6dmxFX2ZWaDVRdmVpeFlDbGJYdWhZU3VhWEJHQjE2b2pQLXNCUFVBdjFLVw?oc=5",
+     "source": "News On Japan",
+     "published": "2026-11-20T15:35:34+00:00",
+     "summary": "Japanese Fraudsters Found Operating From Luxury Mountain Hotel in Nepal&nbsp;&nbsp;News On Japan",
+     "image": ""
+    },
+    {
+     "title": "विस्तृत शान्ति सम्झौताको २० वर्ष: सङ्क्रमणकालीन न्याय अझै अधुरो",
+     "url": "https://nepalnews.com/2026/11/20/20-years-of-the-comprehensive-peace-agreement-transitional-justice-still-incomplete/",
+     "source": "NepalNews",
+     "published": "2026-11-20T15:28:56+00:00",
+     "summary": "काठमाडौं। राष्ट्रिय मानव अधिकार आयोगले विस्तृत शान्ति सम्झौता भएको २० वर्ष पूरा हुँदा पनि सङ्क्रमणकालीन न्याय प्रक्रियाले पूर्णता पाउन नसकेकोमा गम्भीर चिन्ता व्यक्त गरेको छ। आयोगका",
+     "image": ""
+    },
+    {
+     "title": "Home Ministry Forms Task Force to Combat Foreign Employment Fraud and Exploitation",
+     "url": "http://english.ratopati.com/story/87536/ministry-of-home-affairs-forms-special-task-force-to-control-fraud-in-the-name-of-foreign-employment",
+     "source": "Ratopati",
+     "published": "2026-11-20T15:18:33+00:00",
+     "summary": "Kathmandu. The Home Ministry has formed a special task force to control fraud and labor exploitation in the name of...",
+     "image": ""
+    },
     {
      "title": "New Study Links Climate Change, Habitat Loss to Increased Risk of Zoonotic Diseases from Bats",
      "url": "http://english.ratopati.com/story/87535/extreme-heat-and-deforestation-could-lead-to-disease-spread-from-bats-study",
@@ -108,35 +132,11 @@
      "published": "2026-11-20T14:19:34+00:00",
      "summary": "Kathmandu. The government has transferred and changed the work responsibilities of 32 gazetted first-class joint secretaries or equivalent employees. The responsibilities...",
      "image": ""
-    },
-    {
-     "title": "Supreme Court upholds Pashupati Area Development Trust’s sole ownership of Gaushala Dharamshala",
-     "url": "https://english.onlinekhabar.com/court-upholds-padt-ownership-gaushala-dharamshala.html",
-     "source": "Online Khabar",
-     "published": "2026-11-20T14:17:33+00:00",
-     "summary": "Kathmandu, November 20 The Supreme Court has upheld lower court rulings recognising the Pashupati Area Development Trust (PADT) as the sole owner of the Gaushala Dharamshala in Kat",
-     "image": ""
-    },
-    {
-     "title": "ठोस लाभको अपेक्षा",
-     "url": "https://nepalnews.com/2026/11/20/expectation-of-tangible-benefits/",
-     "source": "NepalNews",
-     "published": "2026-11-20T14:15:06+00:00",
-     "summary": "प्रधानमन्त्री बालेन्द्र शाह (बालेन) भारतीय प्रधानमन्त्री नरेन्द्र मोदीको मैत्रीपूर्ण निमन्त्रणामा दुईदिने राजकीय भ्रमणका लागि आइतबार भारत जाँदैछन्। नयाँ सरकार गठनपछि प्रधानमन्त्री ",
-     "image": ""
-    },
-    {
-     "title": "Election Commission Proposes Local and Provincial Elections",
-     "url": "http://english.ratopati.com/story/87517/discussions-between-the-commission-and-political-parties-inconclusive-questions-raised-over-impartiality",
-     "source": "Ratopati",
-     "published": "2026-11-20T14:15:00+00:00",
-     "summary": "Kathmandu. The Election Commission has proposed to hold local level elections in Baishakh and provincial assembly elections in Mangsir. The...",
-     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-20T15:05:55.588235+00:00",
+   "fetched_at": "2026-11-20T15:36:23.888643+00:00",
    "stale": false,
    "items": [
     {
@@ -238,9 +238,25 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T15:05:55.588238+00:00",
+   "fetched_at": "2026-11-20T15:36:23.888648+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Supreme Court upholds Pashupati Area Development Trust’s sole ownership of Gaushala Dharamshala",
+     "url": "https://english.onlinekhabar.com/court-upholds-padt-ownership-gaushala-dharamshala.html",
+     "source": "Online Khabar",
+     "published": "2026-11-20T14:17:33+00:00",
+     "summary": "Kathmandu, November 20 The Supreme Court has upheld lower court rulings recognising the Pashupati Area Development Trust (PADT) as the sole owner of the Gaushala Dharamshala in Kat",
+     "image": ""
+    },
+    {
+     "title": "Election Commission Proposes Local and Provincial Elections",
+     "url": "http://english.ratopati.com/story/87517/discussions-between-the-commission-and-political-parties-inconclusive-questions-raised-over-impartiality",
+     "source": "Ratopati",
+     "published": "2026-11-20T14:15:00+00:00",
+     "summary": "Kathmandu. The Election Commission has proposed to hold local level elections in Baishakh and provincial assembly elections in Mangsir. The...",
+     "image": ""
+    },
     {
      "title": "Former President Yadav Stresses Local Responsibility for Education Reform",
      "url": "http://english.ratopati.com/story/87524/the-main-responsibility-for-education-reform-should-lie-with-the-local-level-and-community-former-president-yadav",
@@ -320,35 +336,115 @@
      "published": "2026-11-20T12:56:46+00:00",
      "summary": "Kathmandu. The Election Commission has clarified that local level and provincial assembly elections will be held in accordance with the...",
      "image": ""
-    },
-    {
-     "title": "Digital literacy and security are utmost priorities: Minister Dr Timilsina",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ld2I3cmFFR2NzLTVEbUltUHJUakViSm9DUzRRd0tqT0FUOWFqazB2aURnWkJZNV85NlNtZDVfRWxVUHU0WGZUMEZNOFQzN0N3aVNzVlRB?oc=5",
-     "source": "The Rising Nepal",
-     "published": "2026-11-20T12:47:54+00:00",
-     "summary": "Digital literacy and security are utmost priorities: Minister Dr Timilsina&nbsp;&nbsp;The Rising Nepal",
-     "image": ""
-    },
-    {
-     "title": "Prime Minister Balen Shah to Visit India",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS0FQUG5iQjB1Zm9jZW1MbDJ1OF82WUZQRFZnRFRsaVhlbnR3ZEN6U01kYjRuRXVESzlud0RhcWh1ZElyMUlSRklNSExlS1hlbnNZOXpibUU4Q2dOZEhKMUY4Z2taa0g4QURoeVU4X3FMYmh3RjRxcFhqY3V1VG82Q2FYeEpqSms0TDVYM1J0eUlNbU13QXlCaUVlSXNteVJtUHR5NnJaN21OUThXaGQxOG91REs0WVk?oc=5",
-     "source": "Ratopati",
-     "published": "2026-11-20T12:45:51+00:00",
-     "summary": "Prime Minister Balen Shah to Visit India&nbsp;&nbsp;Ratopati",
-     "image": ""
     }
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-20T15:05:55.588241+00:00",
+   "fetched_at": "2026-11-20T15:36:23.888650+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "रोबोट हेर्दाहेर्दै रेकर्ड भएको रास्वपा सांसदहरूको राजनीतिक संवाद विवादमा",
+     "url": "https://dcnepal.com/2026/11/816742/",
+     "source": "DC Nepal (डीसी नेपाल)",
+     "published": "2026-11-20T15:31:08+00:00",
+     "summary": "काठमाडौं। चिनियाँ कम्युनिस्ट पार्टी (सीपीसी) को निमन्त्रणामा ११ दिने चीन भ्रमणमा रहेका सत्तारूढ राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सांसदहरूको अनौपचारिक राजनीतिक संवादसहितको भि",
+     "image": ""
+    },
+    {
+     "title": "तुलसी र दामोदरको विवाह गरी हरिबोधिनी एकादशी मनाइयो",
+     "url": "https://www.ratopati.com/story/606601/haribodhini-ekadashi-celebrated-with-the-wedding-of-tulsi-and-damodar",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-20T15:27:07+00:00",
+     "summary": "काठमाडौँ । औषधीय गुणले युक्त तुलसीको विवाह दामोदरसँग गरी हरिबोधिनी एकादशी पर्व आज देशभर मनाइएको छ । हरिशयनी एकादशीदेखि हरिबोधिनी एकादशीका दिनसम्म चार महिना विष्णुका भक्तले तुलसीको ",
+     "image": "https://rpcdn.ratopati.com/archived-media/haribodhani-ekadashi-16.jpg"
+    },
+    {
+     "title": "मधेसमा सरकार गठन अन्योलमा, समयसीमा थप्न तीन दलको आग्रह",
+     "url": "https://baahrakhari.com/detail/507876",
+     "source": "Baahrakhari (बाह्रखरी)",
+     "published": "2026-11-20T15:21:22+00:00",
+     "summary": "",
+     "image": ""
+    },
+    {
+     "title": "एनपिएल फाइनल : लुम्बिनी उपाधि जोगाउने, सुदूरपश्चिम इतिहास रच्ने दाउमा",
+     "url": "https://www.thahakhabar.com/detail/312275",
+     "source": "Thaha Khabar (थाहा खबर)",
+     "published": "2026-11-20T15:19:07+00:00",
+     "summary": "लगातार तेस्रोपटक फाइनल पुगेको सुदूरपश्चिम यसअघि दुवै संस्करणमा उपविजेतामा सीमित भएको थियो।",
+     "image": "https://www.thahakhabar.com/uploads/posts/Rohit-And-Dipendra-Before-Final-Game-6-1795187939.JPG"
+    },
+    {
+     "title": "वैदेशिक रोजगारीका नाममा हुने ठगी नियन्त्रण गर्न गृह मन्त्रालयले गठन गर्‍यो विशेष कार्यदल",
+     "url": "https://www.ratopati.com/story/606600/ministry-of-home-affairs-forms-special-task-force-to-control-fraud-in-the-name-of-foreign-employment",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-20T15:18:38+00:00",
+     "summary": "काठमाडौँ । वैदेशिक रोजगारी तथा कन्सल्टेन्सीमार्फत विदेश पठाउने नाममा हुने ठगी र श्रम शोषण नियन्त्रण गर्न गृह मन्त्रालयले विशेष कार्यदल गठन गरेको छ । कार्यदलले शुक्रबारदेखि नै काम स",
+     "image": "https://npcdn.ratopati.com/media/news/karyadal_wU7Gs7amCH.webp"
+    },
+    {
+     "title": "दशौं राष्ट्रिय खेलकुद प्रतियोगिताका तयारी ९० प्रतिशत पूरा : मुख्यमन्त्री शाही",
+     "url": "https://www.onlinekhabar.com/2026/11/2062210/preparations-for-10th-national-games-90-percent-complete-chief-minister-shahi",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-20T15:18:05+00:00",
+     "summary": "कर्णाली प्रदेशमा पहिलोपटक आयोजना हुन लागेको दशौँ राष्ट्रिय खेलकुद प्रतियोगिताको तयारी अन्तिम चरणमा पुगेको प्रदेश सरकारले जनाएको छ ।",
+     "image": ""
+    },
+    {
+     "title": "वैदेशिक रोजगारीका नाममा हुने ठगी तथा श्रम शोषण नियन्त्रण गृह मन्त्रालयद्वारा कार्यदल गठन",
+     "url": "https://dcnepal.com/2026/11/816739/",
+     "source": "DC Nepal (डीसी नेपाल)",
+     "published": "2026-11-20T15:17:21+00:00",
+     "summary": "काठमाडौं । वैदेशिक रोजगारी तथा कन्सल्टेन्सीमार्फत विदेश पठाउने क्रममा नेपाली नागरिकमाथि भइरहेको ठगी र श्रम शोषण निर्मूल पार्न तथा त्यस्ता गैरकानुनी गतिविधिमा संलग्न व्यक्ति वा समूह",
+     "image": ""
+    },
+    {
+     "title": "मेडिकल परीक्षण अनियमिततामा कस्तो थियो राजनीतिक-प्रशासनिक कनेक्सन ?",
+     "url": "https://www.onlinekhabar.com/2026/11/2061487/what-was-the-political-administrative-connection-in-the-medical-test-irregularities",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-20T15:09:25+00:00",
+     "summary": "श्रम मन्त्रालयले गठन गरेको समितिमा प्रहरी समेतका संलग्नतामा मलेसिया जाने श्रमिकको स्वास्थ्य परीक्षण गर्ने स्वास्थ्य संस्थाको अनुगमन गरेको थियो । अनुगमनका क्रममा स्वास्थ्य परीक्षण ग",
+     "image": ""
+    },
+    {
+     "title": "‘नेपालको हितको पक्षमा उभिनुलाई भारतविरोधी राष्ट्रवाद भन्न मिल्दैन’",
+     "url": "https://www.onlinekhabar.com/2026/11/2061996/standing-in-favor-of-nepals-interests-cannot-be-called-anti-india-nationalism",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-20T15:08:58+00:00",
+     "summary": "नेपालको भूभाग भारतविरुद्ध कुनै पनि गतिविधिमा प्रयोग हुँदैन भन्ने सुनिश्चितता हामीले दिनुपर्छ। तेस्रो मुलुकले नेपालको भूभाग प्रयोग गरेर भारतविरुद्ध गतिविधि गर्ने अवस्था नहोस्।",
+     "image": ""
+    },
+    {
+     "title": "सर्वोच्चले भन्यो– ‘पशुपति गौशालाको मुद्दा दोहोर्‍याउन आवश्यक छैन, अब कोषकै हक कायम हुन्छ’",
+     "url": "https://www.onlinekhabar.com/2026/11/2062103/supreme-court-says-there-is-no-need-to-repeat-the-pashupati-gaushala-case-now-the-funds-rights-are-upheld",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-20T15:07:40+00:00",
+     "summary": "पशुपति गौशालामा आफू मोही भएको भन्दै मारवाडी सेवा समितिले हक दाबी गरिरहेको थियो । त्यहाँ पशुपति क्षेत्र विकास कोषकै स्वामित्व हुने जिल्ला र उच्च अदालतको आदेशलाई सर्वोच्चले समेत अनुम",
+     "image": ""
+    },
+    {
+     "title": "भारतमा काम गर्ने नेपालीका अपेक्षा– प्रधानमन्त्रीको भ्रमणले सीमाको सास्ती अन्त्य गरोस्",
+     "url": "https://www.onlinekhabar.com/2026/11/2061787/nepalis-working-in-india-hope-that-the-prime-ministers-visit-will-end-the-suffering-at-the-border",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-20T15:05:27+00:00",
+     "summary": "प्रधानमन्त्री बालेन शाहको भारत भ्रमणको पूर्वसन्ध्यामा सीमानाकामा भेटिएका नेपाली कामदारले प्रधानमन्त्रीको भ्रमणबाट आफ्ना दैनिक समस्या सम्बोधन हुने अपेक्षा गरेका छन् ।",
+     "image": ""
+    },
     {
      "title": "कृषि निर्यातमा पटक–पटक भारतको अवरोध, दिल्लीले देला समाधान ?",
      "url": "https://www.onlinekhabar.com/2026/11/2062200/indias-repeated-obstruction-of-agricultural-exports-will-delhi-provide-a-solution",
      "source": "Online Khabar (नेपाली)",
      "published": "2026-11-20T15:03:31+00:00",
      "summary": "पेचिलो प्रश्न फेरि सतहमा आएको छ– भारतले नेपाली उत्पादनमाथि बर्सेनि किन गैरभन्सार अवरोध थोपरिरहन्छ र के यो भ्रमणले त्यसको स्थायी समाधान खोज्न सक्ला ?",
+     "image": ""
+    },
+    {
+     "title": "वीरेन्द्रनगर बजार क्षेत्रमा १०२ सीसीटीभी क्यामरा, चालु एउटा मात्रै",
+     "url": "https://www.onlinekhabar.com/2026/11/2061356/102-cctv-cameras-in-birendranagar-market-area-only-one-operational",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-20T15:03:06+00:00",
+     "summary": "सरकारी बजेटबाट जडान गरिएका १०२ सीसीटीभी क्यामेरामध्ये अहिले एउटा मात्रै चालु छ । यसले सुरक्षा तयारी कागजमा व्यवस्थित देखिएपनि व्यवहारमा चुनौतीपूर्ण रहेको संकेत गर्छ ।",
      "image": ""
     },
     {
@@ -360,115 +456,19 @@
      "image": ""
     },
     {
+     "title": "नेपाललाई फिफा र एएफसीको आश्वासन– एक महिनाभित्र फुक्न सक्छ फुटबल प्रतिबन्ध",
+     "url": "https://www.onlinekhabar.com/2026/11/2062139/fifa-and-afc-assure-nepal-football-ban-may-be-lifted-within-a-month",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-20T15:01:58+00:00",
+     "summary": "खेलकुदमन्त्री सस्मित आफैंले थाइल्यान्डमा फिफा र एएफसी पदाधिकारी भेटेर नेपाली फुटबलमाथिको निलम्बन फुकाउन प्रत्यक्ष पहल गरे, जसका कारण पाँच महिनायताको प्रतिबन्ध हट्ने आश्वासन नेपाली ",
+     "image": ""
+    },
+    {
      "title": "दशौँ राष्ट्रिय खेलकुदका २३ खेल सुर्खेतमा, प्रतियोगिता सात जिल्ला हुने",
      "url": "https://dcnepal.com/2026/11/816736/",
      "source": "DC Nepal (डीसी नेपाल)",
      "published": "2026-11-20T15:01:36+00:00",
      "summary": "काठमाडौं। दशौँ राष्ट्रिय खेलकुद प्रतियोगिताअन्तर्गत ३२ खेल कर्णाली र लुम्बिनी प्रदेशका सात जिल्लामा सञ्चालन हुने भएका छन्। तीमध्ये २३ खेल सुर्खेतमा हुनेछन्। राष्ट्रिय खेलकुद परिषद्",
-     "image": ""
-    },
-    {
-     "title": "‘जनताको आलोचना होइन विश्वास जित्नुहोस्’",
-     "url": "https://nagariknews.nagariknetwork.com/politics/win-people-s-trust-not-criticism-46-11.html",
-     "source": "Nagarik (नागरिक)",
-     "published": "2026-11-20T15:00:54+00:00",
-     "summary": "नेकपा एमालेका महासचिव शंकर पोखरेलले जनप्रतिनिधिहरुलाई जनताको आलोचना होइन विश्वास जित्न निर्देशन दिएका छन् ।...",
-     "image": ""
-    },
-    {
-     "title": "अत्यधिक गर्मी र वन विनाशले चमेराबाट रोग फैलिने सम्भावना:अध्ययन",
-     "url": "https://www.ratopati.com/story/606598/extreme-heat-and-deforestation-could-lead-to-disease-spread-from-bats-study",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-20T14:59:24+00:00",
-     "summary": "सिड्नी । जलवायु परिवर्तन, अत्यधिक गर्मी र प्राकृतिक वासस्थानको विनाशले चमेराबाट मानिसमा सर्न सक्ने घातक रोगको जोखिम बढाउन सक्ने एक नयाँ अध्ययनले देखाएको छ। अस्ट्रेलियाको एडिलेड विश",
-     "image": "https://npcdn.ratopati.com/media/news/fruit_bats-1024x683_ATw02nATpG.jpg"
-    },
-    {
-     "title": "नेपाल टेलिकमलाई सञ्चारमन्त्रीको प्रश्न: ‘टावर छ, नेटवर्क छैन, किन ?’",
-     "url": "https://www.ratopati.com/story/606597/communications-ministers-question-to-nepal-telecom-there-is-a-tower-but-no-network-why",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-20T14:58:02+00:00",
-     "summary": "काठमाडौँ । सूचना तथा सञ्चारमन्त्री डा. विक्रम तिमिल्सिनाले नेपाल टेलिकमको सेवाको गुणस्तरमा सुधार हुन नसकेको गुनासो निरन्तर आइरहेको उल्लेख गर्दै समस्या पहिचान गरी तत्काल समाधान गर्न",
-     "image": "https://npcdn.ratopati.com/media/news/djaVxpLv66.jpg"
-    },
-    {
-     "title": "धरानमा खैरो हेरोइनसहित पाँचजना पक्राउ",
-     "url": "https://baahrakhari.com/detail/507875",
-     "source": "Baahrakhari (बाह्रखरी)",
-     "published": "2026-11-20T14:55:56+00:00",
-     "summary": "",
-     "image": ""
-    },
-    {
-     "title": "दक्षिण अफ्रिकामा तीन महिनामै ५८१ जना महिलाको हत्या",
-     "url": "https://www.ratopati.com/story/606596/581-women-murdered-in-south-africa-in-three-months",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-20T14:55:30+00:00",
-     "summary": "जोहानेसबर्ग । दक्षिण अफ्रिकामा यस वर्षको जुलाईदेखि सेप्टेम्बरसम्मको तीन महिनाको अवधिमा झन्डै ६०० महिलाको हत्या भएको छ । देशको पछिल्लो अपराध तथ्याङ्कले यस्तो भयावह स्थिति देखाएको हो",
-     "image": "https://npcdn.ratopati.com/media/news/1f7166f0-e4c2-11f1-87df-79d8910e0f29jpg_78ThpQbnI3.webp"
-    },
-    {
-     "title": "धरानमा खैरो हेरोइनसहित पाँच जना पक्राउ",
-     "url": "https://www.onlinekhabar.com/2026/11/2062203/five-arrested-with-brown-heroin-in-dharan",
-     "source": "Online Khabar (नेपाली)",
-     "published": "2026-11-20T14:54:34+00:00",
-     "summary": "धरानबाट १२४ ग्रामभन्दा बढी खैरो हेरोइन र विभिन्न प्रकारका लागुऔषधसहित पाँच जना पक्राउ परेका छन् ।",
-     "image": ""
-    },
-    {
-     "title": "रास्वपा सांसदहरूको संवाद बाहिरिएपछि सामाजिक सञ्जाल तात्यो, श्रीराम न्यौपानेले के भने ?",
-     "url": "https://www.ratopati.com/story/606595/social-media-heated-up-after-the-conversation-between-rashtriya-swayamsevak-sangh-rss-mps-was-leaked-what-did-shriram-neupane-say",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-20T14:53:01+00:00",
-     "summary": "काठमाडौँ । चीन भ्रमणमा रहेका राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सांसदहरूको अनौपचारिक संवादको भिडियो बाहिरिएपछि सांसद श्रीराम न्यौपानेले त्यस विषयमा प्रस्टीकरण दिएका छन् । जनआस",
-     "image": "https://npcdn.ratopati.com/media/news/913215381_1131645586111385_1890200203650842996_n_vGJreUPJNl.webp"
-    },
-    {
-     "title": "बालेनलाई स्वागत गर्न आतुर मोदी, एनपीएल फाइनलको टिकट तीन मिनेटमै ‘सोल्ड आउट’",
-     "url": "https://www.thahakhabar.com/detail/312270",
-     "source": "Thaha Khabar (थाहा खबर)",
-     "published": "2026-11-20T14:47:55+00:00",
-     "summary": "",
-     "image": "https://www.thahakhabar.com/uploads/posts/OUYQpSihozU-HD-1795185706.jpg"
-    },
-    {
-     "title": "मध्यपुरमा नेपाल-जापान सांस्कृतिक महोत्सव",
-     "url": "https://www.thahakhabar.com/detail/312273",
-     "source": "Thaha Khabar (थाहा खबर)",
-     "published": "2026-11-20T14:46:11+00:00",
-     "summary": "",
-     "image": "https://www.thahakhabar.com/uploads/posts/nritya--1795185960.jpg"
-    },
-    {
-     "title": "विस्तृत शान्ति सम्झौताको २० वर्ष",
-     "url": "https://nagariknews.nagariknetwork.com/politics/20-years-of-the-comprehensive-peace-agreement-52-29.html",
-     "source": "Nagarik (नागरिक)",
-     "published": "2026-11-20T14:44:45+00:00",
-     "summary": "राष्ट्रिय मानव अधिकार आयोगले विस्तृत शान्ति सम्झौता भएको २० वर्ष पूरा भइसक्दा पनि सङ्क्रमणकालीन न्याय निष्कर्षमा पुग्न नसकेको भन्दै गम्भीर चिन्ता व्यक्त गरेको छ ।...",
-     "image": ""
-    },
-    {
-     "title": "एआई चिटिङ रोक्न कडाइ: दक्षिण कोरियाको राष्ट्रिय परीक्षामा स्मार्ट डिभाइससहित १११ जना समातिए",
-     "url": "https://www.ratopati.com/story/606594/strict-measures-to-stop-ai-cheating-111-people-caught-with-smart-devices-in-south-koreas-national-exam",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-20T14:43:51+00:00",
-     "summary": "सोल । दक्षिण कोरियाको शिक्षा मन्त्रालयले देशव्यापी रूपमा सञ्चालन भएको उच्च महत्वको कलेज प्रवेश परीक्षामा अनधिकृत स्मार्ट डिभाइससहित १११ जना परीक्षार्थी फेला परेको जनाएको छ । कृत्रि",
-     "image": "https://npcdn.ratopati.com/media/news/8192_6AAkweQ9Jb.webp"
-    },
-    {
-     "title": "मध्यपुरथिमिमा नेपाल-जापान सांस्कृतिक महोत्सव",
-     "url": "https://dcnepal.com/2026/11/816729/",
-     "source": "DC Nepal (डीसी नेपाल)",
-     "published": "2026-11-20T14:39:34+00:00",
-     "summary": "भक्तपुर। नेपाल-जापान कूटनीतिक सम्बन्ध स्थापना भएको ७०औँ वार्षिकोत्सवका अवसरमा आज मध्यपुरथिमि नगरपालिकाले आयोजना गरेको नेपाल-जापान सांस्कृतिक महोत्सवमा दुई देशको कला, संस्कृतिको प्र",
-     "image": ""
-    },
-    {
-     "title": "मेडिकल परीक्षण अनियमिततामा कस्तो थियो राजनीतिक-प्रशासनिक कनेक्सन ?",
-     "url": "https://www.onlinekhabar.com/2026/11/2061487/what-was-the-political-administrative-connection-in-the-medical-test-irregularities",
-     "source": "Online Khabar (नेपाली)",
-     "published": "2026-11-20T14:38:25+00:00",
-     "summary": "श्रम मन्त्रालयले गठन गरेको समितिमा प्रहरी समेतका संलग्नतामा मलेसिया जाने श्रमिकको स्वास्थ्य परीक्षण गर्ने स्वास्थ्य संस्थाको अनुगमन गरेको थियो । अनुगमनका क्रममा स्वास्थ्य परीक्षण ग",
      "image": ""
     }
    ]
