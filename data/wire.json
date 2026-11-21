@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T14:32:17.115100+00:00",
+ "generated_at": "2026-11-21T14:32:58.853905+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-21T14:32:17.115067+00:00",
+   "fetched_at": "2026-11-21T14:32:58.853859+00:00",
    "stale": false,
    "items": [
     {
@@ -86,6 +86,14 @@
      "image": ""
     },
     {
+     "title": "Mustang schools shifted to lower areas to evade harsh winter cold",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTWR1a0F5N0hCNm5iTDlLbUJ1NWdIVjIxRWxvSmtkLVdaLUJIQjljRFAtMFBqbUtaR3UteThTaEJtd2plNFJPVEx4QXRzaHpTUVpvUzhnVFM1cVc0MGVPdDRpa21KaGQ2enQ4MkdCeE01VzQ3NDlUM0x4dk9WS1Q4akJSSXh6VUNNS3FiY0t1RE12M1Uzd3ZWa3dRMGZnMVp0TWUzUHNxUjQ?oc=5",
+     "source": "Nepalnews.com",
+     "published": "2026-11-21T13:57:34+00:00",
+     "summary": "Mustang schools shifted to lower areas to evade harsh winter cold&nbsp;&nbsp;Nepalnews.com",
+     "image": ""
+    },
+    {
      "title": "Japanese Deputy Foreign Minister Fujii pays courtesy call on Foreign Minister Khanal",
      "url": "https://english.khabarhub.com/2026/21/576452/",
      "source": "Khabarhub",
@@ -124,29 +132,13 @@
      "published": "2026-11-21T13:40:22+00:00",
      "summary": "काठमाडौं। नेपाल प्रिमियर लिग (एनपीएल) को फाइनल खेल हेर्न कीर्तिपुरस्थित त्रिभुवन विश्वविद्यालय क्रिकेट मैदानमा सिट क्षमताभन्दा बढी दर्शकको उपस्थिति देखिएको छ। दर्शकको अत्यधिक चापका",
      "image": ""
-    },
-    {
-     "title": "NAS-IT Expo 2026 kicks off",
-     "url": "https://peoplesreview.com.np/2026/11/21/nas-it-expo-2026-kicks-off/",
-     "source": "Peoples Review",
-     "published": "2026-11-21T13:36:00+00:00",
-     "summary": "Kathmandu, November 21: The two-day ‘NAS-IT Expo 2026’ has begun in Kathmandu, prioritising the expansion of markets for products and services offered by Nepali technology companie",
-     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-21T14:32:17.115084+00:00",
+   "fetched_at": "2026-11-21T14:32:58.853878+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "गर्भवती कामदारको अधिकारसम्बन्धी अमेरिकी कानुन असंवैधानिक ठहर",
-     "url": "https://www.khasokhas.com/237802",
-     "source": "Khasokhas",
-     "published": "2026-11-21T13:27:28+00:00",
-     "summary": "रोजगारदाताले गर्भवती महिला कामदारलाई कार्यस्थलमा आवश्यक सुविधा उपलब्ध गराउनुपर्ने कानुनलाई अमेरिकाको एक संघीय पुनरावेदन अदालतले असंवैधानिक ठहर गरेको छ। पाँचौँ सर्किट पुनरावेदन अदाल",
-     "image": ""
-    },
     {
      "title": "नर्स अभाव झेलिरहेका अमेरिकी ग्रामीण अस्पताललाई ट्रम्प प्रशासनको नयाँ अध्यागमन प्रस्तावले थप सकस हुने",
      "url": "https://www.khasokhas.com/237799",
@@ -196,49 +188,57 @@
      "image": ""
     },
     {
-     "title": "Foreign Minister Receives 17-Point Suggestions from NRNAs USA",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUMzRGo5eDQ2X0lVYUdfRTlmQnhRWGswMFA4TTM5RmJFd3lTbWtMRXNqZ3ozRjNYM1VsY09FVHFoWERBQXloa3h2czJwYzdVbWRRQW1Ybk9RVmhwalVkOGNzeHU4MVd0cXk2ZEVtcVdzRm9VLVR3MTgtM3ExbEs3YzVKeEwzRG1PMU9GSXljQnFjeFlEeU5oX3g2S01oU1ZtLUNXUlVoa1BkWXZldzJDNWdKT3BFb0NTSm5CV2p3?oc=5",
-     "source": "Ratopati",
-     "published": "2026-11-05T17:31:35+00:00",
-     "summary": "Foreign Minister Receives 17-Point Suggestions from NRNAs USA&nbsp;&nbsp;Ratopati",
+     "title": "संघीय न्यायाधीशद्वारा क्यालिफोर्नियाको ‘मास्क प्रतिबन्ध’ र ‘परिचयपत्र अनिवार्य’ गर्ने कानुनमा स्थायी रोक",
+     "url": "https://www.khasokhas.com/237777",
+     "source": "Khasokhas",
+     "published": "2026-11-20T02:15:44+00:00",
+     "summary": "अमेरिकाको एक संघीय अदालतले आइस लगायतका संघीय सुरक्षा निकायका अधिकारीहरूलाई मास्क लगाउन प्रतिबन्ध लगाउने र परिचयपत्र अनिवार्य गर्ने क्यालिफोर्निया राज्यका दुईवटा कानुन कार्यान्वयनमा",
      "image": ""
     },
     {
-     "title": "Second Convention of Non-Resident Nepali Forum International Committee to be Inaugurated by Bidya Devi Bhandari",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWjJTWjlxQndGdnBONGR3Y0NXYV9oVDEwZ0VKMkx6Qzg5Vm51bEFSUk9iaGYwN3lvYklOOEphRm9UUk1BbEd5R3hMTllITzNGS3htVmtta2U2Z3pOVS1tSTRZNjVuVUplNWlDZXhFWmp1M2NHb1p2aFFBZm5vcmZwaU5BNEZueGZfbWNzLVdRVVlwazVGWkJBYm15NE83c0ZNakEzTmkway00LWFoMXBTRTNpWXdBS1RyZHNPNnVRQjJKclU4SUVFZWMzOVAzYjN2cVpR?oc=5",
+     "title": "Book Review: 'Khadama' Explores Nepali Migrant Worker Experiences",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdGdnNXlxSlJiNW1rYnZ2bGpxVGx2YlZwSWJCRTg3aGtvZm5JZ0dRU1hmQTg4SUdvcXlEbXM3V0pRV0twOU5FM2owQ1BJWXlfTVdlX0FIQk96Zm5mOWhNWHIybFpReFhCNWk4UzdZd2hoaHNrME40NFpKZmQ1VG1ockNtR2ZJcnZLaFV4OWY4R3c?oc=5",
      "source": "Ratopati",
-     "published": "2026-11-04T03:34:24+00:00",
-     "summary": "Second Convention of Non-Resident Nepali Forum International Committee to be Inaugurated by Bidya Devi Bhandari&nbsp;&nbsp;Ratopati",
+     "published": "2026-11-14T07:47:29+00:00",
+     "summary": "Book Review: 'Khadama' Explores Nepali Migrant Worker Experiences&nbsp;&nbsp;Ratopati",
      "image": ""
     },
     {
-     "title": "How Dashain travels with the Nepali diaspora",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1czVhV0drMzhYeTgzNGt3VlVoaVFNUFBWcWZ3Y3FwWEpwTktZOVNqdWhCekRJbWdQV2RxQ2U2UmR4SjRCdzM1NVRkZ281eXhPTG9tZTMzb2RmOXFBUkxVdTBHdXB0SHZBY2RnWjlRZERfZW9URmxZ?oc=5",
-     "source": "OnlineKhabar English News",
-     "published": "2026-10-21T07:00:00+00:00",
-     "summary": "How Dashain travels with the Nepali diaspora&nbsp;&nbsp;OnlineKhabar English News",
+     "title": "Five Former NRNA Presidents Meet Speaker Aryal, Invite to Middle East Regional Conference",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLW1jMlFlS05LYWtuOU1ZVHN4UUdqcVVyRlBrdzMtdG55WkJTT3FTSjVmbG56T1hZOVlPRDNTOXNkTXdBUTcxQV9aUGZPczFuNldyeXAtUm1mUVlCLVoxOU5nVlNuN2F1MDFiRFNNWWtWcS1oNW5vRU5JOVJTMjhzR3VaelJOS0t3UTh3SEVCdDI0Qi1CeE5tV1k0NUZfZkpycW9kdDFKd00xYVR1QWxHQk5pTVRwM2Z6dVZMOA?oc=5",
+     "source": "Ratopati",
+     "published": "2026-11-14T06:42:55+00:00",
+     "summary": "Five Former NRNA Presidents Meet Speaker Aryal, Invite to Middle East Regional Conference&nbsp;&nbsp;Ratopati",
      "image": ""
     },
     {
-     "title": "Communist Party MP Barsman Pun Demands Clear Framework for Nepali Diaspora's Voting Rights and Labor Destination Issues",
-     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQZ2ZIZl9yMlJhTEI5T2UzSXNMSjJJbDJpM1pOTUdYdm5fSEhWaDNwYTd0bGtEckZJNzdadUNxOWc3Vm9hdzh0UVEwLW0tVld4MDlSX29vOUotQ0E4cmFrODBmNWxPRnphMTVVTWFEYzZhN0hyQ3pUVjhxbkdKbk52dXJrTC04dEpiTTBsOHV3REhmeU1kdjNaS2JLTkFYYjJ0RFNDUFVUWEN4YjdwMUo0QjZWZE9yR1kyaVVCclhpUlJJaVp5b3d3d0Z1bEZYcEJiaF9wNEtsRV9xVWNTMnRsQjV0NE90R2c2Wm5CREFqSE1nQzFDV1F2dTR0cDhpYTJlWFFuWg?oc=5",
-     "source": "Ratopati",
-     "published": "2026-10-13T07:00:00+00:00",
-     "summary": "Communist Party MP Barsman Pun Demands Clear Framework for Nepali Diaspora's Voting Rights and Labor Destination Issues&nbsp;&nbsp;Ratopati",
+     "title": "Nepali diaspora, top government priority: Foreign Minister Khanal",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MenlNT3U1UnROM3NnSzVibVZmNkdlWi05QVJTSXM0Mk1xM0VoWFJjdHVkQWdSUzhOd1hFZGlJSXVEMHZKSGZfdjVwZWtSY1dNSm5OYnlUZW4zajV1bmpZZGlFZWE?oc=5",
+     "source": "radionepalonline.com",
+     "published": "2026-11-13T06:18:44+00:00",
+     "summary": "Nepali diaspora, top government priority: Foreign Minister Khanal&nbsp;&nbsp;radionepalonline.com",
      "image": ""
     },
     {
-     "title": "Non-Resident Nepali Campaign: From Emotional Connection to Economic Partnership",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEwzS2tZaEtFRzhFU0hCTV9vLWM0YTFZZkVMY1NfNlBtdFNMT19JX09HVnlaN1FUZ19xV1JVa19SNGc4TzVtZW90ZnpkMC1KNWVSa2NSc0JaYnRJaHZEdHhZLU4yNlBUUlA5MldQTVE0QnlsWE9FMy1WWGpURzAwQW1xMTZzcWdsVzNyQ29ZN2RJWGc3RmpMeVRUcDUzSzFjNC02bmVn?oc=5",
+     "title": "Europe Emerging as New Hub for Nepali Migrant Workers Amidst Shifting Destinations",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbTUxNE9CcWFFWkttUzBtWXVSNTUwYmcyMk9EbDNKREF2QUpfUngzc2ZHNUo3Z0ZmeUY0bENTNHliZi0xNVdsN2hFSzlEZm9aeld2bG5FbFg3UUluN3ItSVprM1hFZzg5YWV4Um5PY2tWS1l5ZVd6bE1WWWMwUHBIcGw5UXdrckdwcnpUTnVTM3h6OG1jQXNUUG9sNU1ybUtGSE9Ybi1oQ0VXZmlZeFhqR2MwMXJ5QzhjMy1kaVpRak8zdzU1SU5kSVBUUGRmU0tzYk9z?oc=5",
      "source": "Ratopati",
-     "published": "2026-10-11T07:00:00+00:00",
-     "summary": "Non-Resident Nepali Campaign: From Emotional Connection to Economic Partnership&nbsp;&nbsp;Ratopati",
+     "published": "2026-11-13T04:52:24+00:00",
+     "summary": "Europe Emerging as New Hub for Nepali Migrant Workers Amidst Shifting Destinations&nbsp;&nbsp;Ratopati",
+     "image": ""
+    },
+    {
+     "title": "Nepalese Culture On Show In Hobart",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NdmlhQUE4azNRZjlPb0lpTm54X09JSDIyTVB1SktWU2UxMXN2cHNNQVNKOEp3M29zVGN1QUNCVDdnVzMtQnpjbkRiMExTdHRqLXMzZW9Qelc2MUIxSVlDeVlqclprSENYbGZGNFBEVHdiMXgwUEtCMk1B?oc=5",
+     "source": "Tasmanian Times",
+     "published": "2026-11-13T00:05:42+00:00",
+     "summary": "Nepalese Culture On Show In Hobart&nbsp;&nbsp;Tasmanian Times",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-21T14:32:17.115087+00:00",
+   "fetched_at": "2026-11-21T14:32:58.853882+00:00",
    "stale": false,
    "items": [
     {
@@ -340,9 +340,25 @@
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-21T14:32:17.115090+00:00",
+   "fetched_at": "2026-11-21T14:32:58.853885+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "प्रधानमन्त्री शाहको स्वागतार्थ झिलिमिली दिल्ली",
+     "url": "https://www.thahakhabar.com/detail/312320",
+     "source": "Thaha Khabar (थाहा खबर)",
+     "published": "2026-11-21T14:32:38+00:00",
+     "summary": "",
+     "image": "https://www.thahakhabar.com/uploads/posts/Nepal-india-1795271539.jpg"
+    },
+    {
+     "title": "कांग्रेसले विगतमा अहिलेभन्दा कठिन परिस्थिति सामना गरेको छ, चुनौतीबाट विचलित हुनुपर्दैन : शशांक कोइराला",
+     "url": "https://dcnepal.com/2026/11/816924/",
+     "source": "DC Nepal (डीसी नेपाल)",
+     "published": "2026-11-21T14:30:15+00:00",
+     "summary": "पोखरा । नेपाली कांग्रेसकाे १५ ओै नियमित महाधिवेशन आयाेजक समितिका संयाेजक डा. शशांक काेइरालाले कांग्रेसले विगतमा अहिलेको भन्दा पनि कठिन राजनीतिक परिस्थितिको सामना गरेर अघि बढेको इति",
+     "image": ""
+    },
     {
      "title": "लागुऔषधसहित विभिन्न स्थानबाट ३७ जना पक्राउ",
      "url": "https://khabarhub.com/2026/21/1050100/",
@@ -448,28 +464,12 @@
      "image": ""
     },
     {
-     "title": "चिचिला ट्रेल रेसको उपाधी नारद र फुर्बु छेकीले जिते",
-     "url": "https://gorkhapatraonline.com/news/229862",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-21T14:18:20+00:00",
-     "summary": "नवीन गुरुङसङ्खुवासभा, मङ्सिर ४ गते । सङ्खुवासभाको चिचिला गाउँपालिकाले आयोजना गरेको चिचिला ट्रेल रेसको उपाधी पुरुष तर्फ नारद राई र महिला तर्फ फुर्बु छेकी शेर्पाले जितेको छ ।शनिबार च",
-     "image": "https://gorkhapatraonline.com/storage/media/392587/conversions/chichila-Trail-Race-(1)-original.jpg"
-    },
-    {
-     "title": "लुम्बिनीविरुद्ध शानदार जित निकाल्दै सुदूरपश्चिमले जित्यो तेस्रो संस्करणको एनपीएलको उपाधि",
-     "url": "https://khabarhub.com/2026/21/1050096/",
-     "source": "Khabarhub (नेपाली)",
-     "published": "2026-11-21T14:18:12+00:00",
-     "summary": "काठमाडौं- लुम्बिनी लायन्सविरुद्ध शानदार जित निकाल्दै सुदूरपश्चिम रोयल्सले तेस्रो संस्करणको नेपाल प्रिमियर लिग एनपीएलको उपाधि जितेको छ । शनिबार सम्पन्न फाइनलमा सुदूरपश्चिमले लुम्बिन",
+     "title": "मुनसीको विस्फोटक शतकमा सुदूरपश्चिम पहिलोपटक च्याम्पियन, फाइनल हेर्न पुगे रविदेखि सुधनसम्म",
+     "url": "https://nagariknews.nagariknetwork.com/sports/sudurpaschim-becomes-champion-for-the-first-time-with-munsi-s-explosive-century-ravi-and-sudhan-reach-the-final-to-watch-24-77.html",
+     "source": "Nagarik (नागरिक)",
+     "published": "2026-11-21T14:19:37+00:00",
+     "summary": "जर्ज मुनसीको कीर्तिमानी शतकसँगै सुदूरपश्चिम रोयल्स नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणको च्याम्पियन बनेको छ।...",
      "image": ""
-    },
-    {
-     "title": "सुदूरपश्चिम रोयल्स एनपीएल च्याम्पियन, मुन्सेले बनाए कीर्तिमानी १२५ रन",
-     "url": "https://www.thahakhabar.com/detail/312319",
-     "source": "Thaha Khabar (थाहा खबर)",
-     "published": "2026-11-21T14:18:04+00:00",
-     "summary": "",
-     "image": "https://www.thahakhabar.com/uploads/posts/sudur-7-1795270591.jpeg"
     }
    ]
   }
