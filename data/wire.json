@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-21T04:20:43.296938+00:00",
+ "generated_at": "2026-11-21T04:51:10.579983+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-21T04:20:43.296891+00:00",
+   "fetched_at": "2026-11-21T04:51:10.579951+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Thapa asks govt to clarify plan for holding provincial, local polls simultaneously",
+     "url": "https://peoplesreview.com.np/2026/11/21/thapa-asks-govt-to-clarify-plan-for-holding-provincial-local-polls-simultaneously/",
+     "source": "Peoples Review",
+     "published": "2026-11-21T04:45:00+00:00",
+     "summary": "Kathmandu, Nov 21: Nepali Congress President Gagan Thapa has said the government must first clarify whether local and provincial assembly elections will be held simultaneously or s",
+     "image": ""
+    },
+    {
+     "title": "Home Minister Sudhan Gurung Warns of Strict Action Against Employees Serving Politicians",
+     "url": "http://english.ratopati.com/story/87563/strict-action-will-be-taken-against-employees-who-harass-leaders-home-minister-gurung",
+     "source": "Ratopati",
+     "published": "2026-11-21T04:43:57+00:00",
+     "summary": "Kathmandu. Home Minister Sudhan Gurung has stated that strict action will be taken against employees who flatter politicians. He said...",
+     "image": ""
+    },
+    {
+     "title": "GANDAKI CONGRESS DELEGATES TO ELECT NEW LEADERSHIP",
+     "url": "http://english.ratopati.com/story/87562/deuba-led-congresss-gandaki-convention-begins-today",
+     "source": "Ratopati",
+     "published": "2026-11-21T04:35:01+00:00",
+     "summary": "Pokhara. The Gandaki Province convention of the Sher Bahadur Deuba faction of Congress, which has been chanting for a regular...",
+     "image": ""
+    },
+    {
+     "title": "‘एन्फा निलम्बन फुकुवाको प्रक्रिया अघि बढ्यो’",
+     "url": "https://nepalnews.com/2026/11/21/the-process-of-lifting-anfa-suspension-has-moved-forward/",
+     "source": "NepalNews",
+     "published": "2026-11-21T04:31:05+00:00",
+     "summary": "काठमाडौँ। शिक्षा तथा खेलकुदमन्त्री सस्मित पोखरेलले नेपाली फुटबलमाथि अन्तरराष्ट्रिय फुटबल महासङ्घ (फिफा)ले लगाएको निलम्बन फुकुवाको प्रक्रिया अघि बढेको बताएका छन्। थाइल्यान्डमा फिफा ",
+     "image": ""
+    },
+    {
+     "title": "Chiraito Price Drop Worries Bhojpur Farmers and Traders",
+     "url": "http://english.ratopati.com/story/87561/farmers-worried-after-fall-in-chiraito-prices",
+     "source": "Ratopati",
+     "published": "2026-11-21T04:20:38+00:00",
+     "summary": "Bhojpur. Farmers and traders are worried due to the fall in the price of Chiraito in Bhojpur. Farmers are concerned...",
+     "image": ""
+    },
     {
      "title": "Peru Hit by 6.7 Magnitude Earthquake",
      "url": "http://english.ratopati.com/story/87560/powerful-earthquake-hits-central-peru-damage-details-being-collected",
@@ -92,51 +132,11 @@
      "published": "2026-11-21T03:49:59+00:00",
      "summary": "KATHMANDU: No significant weather system is currently influencing Nepal, according to the Department of Hydrology and Meteorology. The Department has forecast generally clear weath",
      "image": ""
-    },
-    {
-     "title": "Over 8,000 tourists enter Mustang through Thorong La Pass",
-     "url": "https://peoplesreview.com.np/2026/11/21/over-8000-tourists-enter-mustang-through-thorong-la-pass/",
-     "source": "Peoples Review",
-     "published": "2026-11-21T03:45:00+00:00",
-     "summary": "Mustang, Nov 19: Mustang received 8,064 domestic and international tourists through Thorong La Pass in the first four months of the current fiscal year, according to the District P",
-     "image": ""
-    },
-    {
-     "title": "24 Arrested for Gambling in Mhaipi, Kathmandu",
-     "url": "http://english.ratopati.com/story/87557/24-people-arrested-for-gambling-in-mhaipi-kathmandu-over-9-lakh-rupees-in-cash-seized",
-     "source": "Ratopati",
-     "published": "2026-11-21T03:43:05+00:00",
-     "summary": "Kathmandu. Police have arrested 24 people from Mhaipi, Kathmandu, while they were gambling. A team dispatched from the District Police...",
-     "image": ""
-    },
-    {
-     "title": "Mother vows not to return home until justice is served",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55bGp2NHRtYlVqZ2hOSm52MU9uSlpEN3lWX2ZBNUVkSXpKb0hXQkJRWmNMZWF0UEZSQmZTOUFNOXBKN1puSDJ5ZlpmOVhKTUVY?oc=5",
-     "source": "The Rising Nepal",
-     "published": "2026-11-21T03:41:53+00:00",
-     "summary": "Mother vows not to return home until justice is served&nbsp;&nbsp;The Rising Nepal",
-     "image": ""
-    },
-    {
-     "title": "Indian state minister to receive Shah in Delhi",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQby1oa0g5WVhvQXZGYWpQc01xRWsyQWpJekdGQUlSeVlKWW5DRzliazZ1RXFtWXNuZ2Z0MUd0OHotdkpCdm8xSlNrSFRyWTRJTFZkWl95bW5xWF9DemNkUU9tM2l1bGh4VkRZWWRVSTlJSWM4b3kzZHlZNHFaTzFYQzhUQjc0QUNKdTJhbzZWSlVkeTA?oc=5",
-     "source": "Nepalnews.com",
-     "published": "2026-11-21T03:41:47+00:00",
-     "summary": "Indian state minister to receive Shah in Delhi&nbsp;&nbsp;Nepalnews.com",
-     "image": ""
-    },
-    {
-     "title": "Rupandehi and Dolakha Discuss Industrial and Commercial Partnership Expansion",
-     "url": "http://english.ratopati.com/story/87556/discussion-on-business-partnership-between-rupandehi-and-dolakha",
-     "source": "Ratopati",
-     "published": "2026-11-21T03:39:23+00:00",
-     "summary": "Butwal. Discussions were held on the possibility of expanding industrial and commercial partnerships between Rupandehi and Dolakha.In the discussion between...",
-     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-21T04:20:43.296907+00:00",
+   "fetched_at": "2026-11-21T04:51:10.579967+00:00",
    "stale": false,
    "items": [
     {
@@ -196,30 +196,6 @@
      "image": ""
     },
     {
-     "title": "Book Review: 'Khadama' Explores Nepali Migrant Worker Experiences",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdGdnNXlxSlJiNW1rYnZ2bGpxVGx2YlZwSWJCRTg3aGtvZm5JZ0dRU1hmQTg4SUdvcXlEbXM3V0pRV0twOU5FM2owQ1BJWXlfTVdlX0FIQk96Zm5mOWhNWHIybFpReFhCNWk4UzdZd2hoaHNrME40NFpKZmQ1VG1ockNtR2ZJcnZLaFV4OWY4R3c?oc=5",
-     "source": "Ratopati",
-     "published": "2026-11-14T07:47:29+00:00",
-     "summary": "Book Review: 'Khadama' Explores Nepali Migrant Worker Experiences&nbsp;&nbsp;Ratopati",
-     "image": ""
-    },
-    {
-     "title": "Europe Emerging as New Hub for Nepali Migrant Workers Amidst Shifting Destinations",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbTUxNE9CcWFFWkttUzBtWXVSNTUwYmcyMk9EbDNKREF2QUpfUngzc2ZHNUo3Z0ZmeUY0bENTNHliZi0xNVdsN2hFSzlEZm9aeld2bG5FbFg3UUluN3ItSVprM1hFZzg5YWV4Um5PY2tWS1l5ZVd6bE1WWWMwUHBIcGw5UXdrckdwcnpUTnVTM3h6OG1jQXNUUG9sNU1ybUtGSE9Ybi1oQ0VXZmlZeFhqR2MwMXJ5QzhjMy1kaVpRak8zdzU1SU5kSVBUUGRmU0tzYk9z?oc=5",
-     "source": "Ratopati",
-     "published": "2026-11-13T04:52:24+00:00",
-     "summary": "Europe Emerging as New Hub for Nepali Migrant Workers Amidst Shifting Destinations&nbsp;&nbsp;Ratopati",
-     "image": ""
-    },
-    {
-     "title": "Nepali Foreign Employment: Dreams, Realities, and Tragic Returns",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbDZ0bnh6UTAyS05BSGt1Tk5Yd2pNRk9rYVljcUZ4QXFWamhUOGFkS19tZ0Z1Y2FCQWw2NndBRUZpb0NMbzNxa3I4U2Vab1ZJRGJhRDdONDkxcTFOM0VBVlY3dURjY1paX0h6QTdIV0xkanFJS0M0ZE9KVFhQaGFtRWZIcUhHYi16ZWdSTg?oc=5",
-     "source": "Ratopati",
-     "published": "2026-11-07T07:22:16+00:00",
-     "summary": "Nepali Foreign Employment: Dreams, Realities, and Tragic Returns&nbsp;&nbsp;Ratopati",
-     "image": ""
-    },
-    {
      "title": "Foreign Minister Receives 17-Point Suggestions from NRNAs USA",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUMzRGo5eDQ2X0lVYUdfRTlmQnhRWGswMFA4TTM5RmJFd3lTbWtMRXNqZ3ozRjNYM1VsY09FVHFoWERBQXloa3h2czJwYzdVbWRRQW1Ybk9RVmhwalVkOGNzeHU4MVd0cXk2ZEVtcVdzRm9VLVR3MTgtM3ExbEs3YzVKeEwzRG1PMU9GSXljQnFjeFlEeU5oX3g2S01oU1ZtLUNXUlVoa1BkWXZldzJDNWdKT3BFb0NTSm5CV2p3?oc=5",
      "source": "Ratopati",
@@ -234,13 +210,45 @@
      "published": "2026-11-04T03:34:24+00:00",
      "summary": "Second Convention of Non-Resident Nepali Forum International Committee to be Inaugurated by Bidya Devi Bhandari&nbsp;&nbsp;Ratopati",
      "image": ""
+    },
+    {
+     "title": "How Dashain travels with the Nepali diaspora",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1czVhV0drMzhYeTgzNGt3VlVoaVFNUFBWcWZ3Y3FwWEpwTktZOVNqdWhCekRJbWdQV2RxQ2U2UmR4SjRCdzM1NVRkZ281eXhPTG9tZTMzb2RmOXFBUkxVdTBHdXB0SHZBY2RnWjlRZERfZW9URmxZ?oc=5",
+     "source": "OnlineKhabar English News",
+     "published": "2026-10-21T07:00:00+00:00",
+     "summary": "How Dashain travels with the Nepali diaspora&nbsp;&nbsp;OnlineKhabar English News",
+     "image": ""
+    },
+    {
+     "title": "Communist Party MP Barsman Pun Demands Clear Framework for Nepali Diaspora's Voting Rights and Labor Destination Issues",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQZ2ZIZl9yMlJhTEI5T2UzSXNMSjJJbDJpM1pOTUdYdm5fSEhWaDNwYTd0bGtEckZJNzdadUNxOWc3Vm9hdzh0UVEwLW0tVld4MDlSX29vOUotQ0E4cmFrODBmNWxPRnphMTVVTWFEYzZhN0hyQ3pUVjhxbkdKbk52dXJrTC04dEpiTTBsOHV3REhmeU1kdjNaS2JLTkFYYjJ0RFNDUFVUWEN4YjdwMUo0QjZWZE9yR1kyaVVCclhpUlJJaVp5b3d3d0Z1bEZYcEJiaF9wNEtsRV9xVWNTMnRsQjV0NE90R2c2Wm5CREFqSE1nQzFDV1F2dTR0cDhpYTJlWFFuWg?oc=5",
+     "source": "Ratopati",
+     "published": "2026-10-13T07:00:00+00:00",
+     "summary": "Communist Party MP Barsman Pun Demands Clear Framework for Nepali Diaspora's Voting Rights and Labor Destination Issues&nbsp;&nbsp;Ratopati",
+     "image": ""
+    },
+    {
+     "title": "Non-Resident Nepali Campaign: From Emotional Connection to Economic Partnership",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEwzS2tZaEtFRzhFU0hCTV9vLWM0YTFZZkVMY1NfNlBtdFNMT19JX09HVnlaN1FUZ19xV1JVa19SNGc4TzVtZW90ZnpkMC1KNWVSa2NSc0JaYnRJaHZEdHhZLU4yNlBUUlA5MldQTVE0QnlsWE9FMy1WWGpURzAwQW1xMTZzcWdsVzNyQ29ZN2RJWGc3RmpMeVRUcDUzSzFjNC02bmVn?oc=5",
+     "source": "Ratopati",
+     "published": "2026-10-11T07:00:00+00:00",
+     "summary": "Non-Resident Nepali Campaign: From Emotional Connection to Economic Partnership&nbsp;&nbsp;Ratopati",
+     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-21T04:20:43.296911+00:00",
+   "fetched_at": "2026-11-21T04:51:10.579971+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Indian state minister to receive Shah in Delhi",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQby1oa0g5WVhvQXZGYWpQc01xRWsyQWpJekdGQUlSeVlKWW5DRzliazZ1RXFtWXNuZ2Z0MUd0OHotdkpCdm8xSlNrSFRyWTRJTFZkWl95bW5xWF9DemNkUU9tM2l1bGh4VkRZWWRVSTlJSWM4b3kzZHlZNHFaTzFYQzhUQjc0QUNKdTJhbzZWSlVkeTA?oc=5",
+     "source": "Nepalnews.com",
+     "published": "2026-11-21T03:41:47+00:00",
+     "summary": "Indian state minister to receive Shah in Delhi&nbsp;&nbsp;Nepalnews.com",
+     "image": ""
+    },
     {
      "title": "Balen’s Delhi test",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tUTI5eEdaaFFhRjJ5TER6ZzI5bWNDWVFyY1VrYkhTU1hrdVRhVTlyeXRzQ2NSaGpnMEppUk5OZ1NjbTN5ajkwNVBIR3Bmd1l0QWQyMS1HaHhFSlNXbGhETW5jdGVRQURyWDVWODB3?oc=5",
@@ -306,6 +314,14 @@
      "image": ""
     },
     {
+     "title": "From Islands to the Himalayas: UN Resident Coordinators Bring Urgency to Antalya",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWFSNl9mTlI1eWxDUzhYWW14clNmVUNUQnNweGktU1pFT19UOWRfNEw1eGMwZjVnS2pTXzBiN0JrSkxBTEZkM1hrNHc4bmpBd0Z0UUhsRzZ3U21VekRWZXZ3QlFscFNpYVdJVWVtQ1E4d2dvalg2YzVCQXpTalhuQllfZXRpZlRSamZrdXM0bEZNbFlhT1BYLW5PS1pOOENPNVE?oc=5",
+     "source": "United Nations Sustainable Development Group",
+     "published": "2026-11-21T01:57:05+00:00",
+     "summary": "From Islands to the Himalayas: UN Resident Coordinators Bring Urgency to Antalya&nbsp;&nbsp;United Nations Sustainable Development Group",
+     "image": ""
+    },
+    {
      "title": "PM Shah embarking on 2-day visit to India tomorrow",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4TkVvVk9kaG5sM292MWI0dVhsMk53SHYyR092NTJIVXRvWURoRm1DVkRQNFJEa3U2dDNOX3Z0NlhpdnNiVFVlNTFDZTd3azQz?oc=5",
      "source": "The Rising Nepal",
@@ -320,29 +336,117 @@
      "published": "2026-11-21T01:40:45+00:00",
      "summary": "Nepal's investment reforms yet to restore business confidence&nbsp;&nbsp;The Kathmandu Post",
      "image": ""
-    },
-    {
-     "title": "Pressure on Nepal's Prime Minister Balen Shah to raise border issues during first India visit",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdTRRTnZ5WDl1MmVQTWI5OHhfSno2ZjU3M2FKdWROLXRReEFxZHdyYUFjdEl1SFp6aEhrai1SNXk4ME9uME5lMXVLX3kwRFhvUVJnMjhNTEJHZ0kyNWtIbXdRelc0VkY2cS10bE5oNUIycEJUT0V0Mkh2T0JFWlhUd1RDekVlakxzX2ZKQzNRaUFVRmF0SFJyWXZTUXA1VlE1QWFJbG8tMjEtek1BTmJaeTdvek80LTVlX0FkamdCVnpNdzkyVENpcHd5M3hTWjVOTktyZ1djMUd3NDlqaUtJ0gHkAUFVX3lxTE5xeHB6REVkc29QSThaakJLYmFTYlR0ZFR2ZFBwZWw3WGFBc0lrNUlmWTJqd18wSDB3NTg2Wk9SVXZKRjFBTHJSNTF2WHQ3R0tGUTBJU2JkS1FKTF8xaWVFaklXRFlZTGdkRDdCVEhrd21oMWRhWG9PNF9adG9XTi12aEl6VGpOQWxFcTNua0pEb1BxQmE0RF9xUm9GTHRKNTRvcU9OMy1xcmx4bk9meTFGenZuYnpZaDNSTVN2czlWZDBTVEpLTzRENjdVbElFb1VBUGJ0ZmtFMnU1dElJQmhvYll1Ug?oc=5",
-     "source": "Telegraph India",
-     "published": "2026-11-21T01:29:31+00:00",
-     "summary": "Pressure on Nepal's Prime Minister Balen Shah to raise border issues during first India visit&nbsp;&nbsp;Telegraph India",
-     "image": ""
-    },
-    {
-     "title": "Janakpur begins preparations for Vivah Panchami",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQQnhta1V5YzFWb0JBM2Y2T2h4VVNKU05GLVktU3FNMEFCUDRHLUNCZFJ5TGFkb2N1aWVtcy1oT0xKMnZ0YzJ3SUh2b09YczRf?oc=5",
-     "source": "The Rising Nepal",
-     "published": "2026-11-21T01:26:51+00:00",
-     "summary": "Janakpur begins preparations for Vivah Panchami&nbsp;&nbsp;The Rising Nepal",
-     "image": ""
     }
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-21T04:20:43.296914+00:00",
+   "fetched_at": "2026-11-21T04:51:10.579974+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "नेताको चाकडी गर्ने कर्मचारीमाथि कडा कारबाही हुन्छ : गृहमन्त्री गुरुङ",
+     "url": "https://www.ratopati.com/story/606642/strict-action-will-be-taken-against-employees-who-harass-leaders-home-minister-gurung",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-21T04:43:57+00:00",
+     "summary": "काठमाडौँ । गृहमन्त्री सुधन गुरुङले नेताको चाकडी गर्ने कर्मचारीमाथि कडा कारबाही हुने बताएका छन् । सामाजिक सञ्जालमार्फत उनले भनेका छन्– 'हामी सरकारमा आएदेखि नै एउटा कुरा स्पष्ट रूपमा",
+     "image": "https://npcdn.ratopati.com/media/news/sudhan-gurung_wkOiDLmZn4.jpg"
+    },
+    {
+     "title": "कोप–३१ : हिमाल जोगाउन अग्रसरता",
+     "url": "https://gorkhapatraonline.com/news/229784",
+     "source": "Gorkhapatra (गोरखापत्र)",
+     "published": "2026-11-21T04:43:14+00:00",
+     "summary": "हिमाल केवल हिमाली मुलुकको मात्र होइन, साझा पृथ्वीलाई थेग्ने पारिस्थितिक प्रणालीको प्रमुख आधार हो भनेर कोप सम्मेलनमार्फत विश्वले स्वीकार गर्ने वातावरण बन्यो । टर्किएको अन्ताल्यामा स",
+     "image": "https://gorkhapatraonline.com/storage/media/392449/conversions/mantri-chaudhary-original.jpg"
+    },
+    {
+     "title": "संक्रमणको उपचारमा प्रयोग गरिने औषधिले नै काम गर्न छाडे के होला?",
+     "url": "https://www.setopati.com/opinion/403041",
+     "source": "Setopati (सेतोपाटी)",
+     "published": "2026-11-21T04:42:09+00:00",
+     "summary": "आफ्नो बिरामी बच्चाको उपचार खोजिरहेकी आमा, पशुपन्छीलाई रोगबाट जोगाउन चाहने किसान वा नजिकैको औषधि पसलबाट औषधि किन्ने बिरामीले जानाजानी गलत गरिरहेका हुन्छन् वा गैरजिम्मेवार नै हुन् भन",
+     "image": ""
+    },
+    {
+     "title": "एन्फा निलम्बन फुकुवाको प्रक्रिया अघि बढ्दै, फिफा अध्यक्षलाई नेपाल भ्रमणको निम्तो",
+     "url": "https://www.setopati.com/sports/football/403054",
+     "source": "Setopati (सेतोपाटी)",
+     "published": "2026-11-21T04:41:31+00:00",
+     "summary": "&#039;अब फिफाले नै एन्फा निलम्बन फुकुवाको प्रक्रिया अगाडि बढाउँछ। तहगत निर्वाचनको हकमा पनि डिसेम्बरसम्ममा कार्ययोजनाको प्रस्ताव लिएर आउने भन्नुभएको छ,&#039; उनले पत्रकार सम्मेलनमा ",
+     "image": ""
+    },
+    {
+     "title": "शान्ति सम्झौताको पूर्ण कार्यान्वयनमा दाहालको आग्रह",
+     "url": "https://gorkhapatraonline.com/news/229783",
+     "source": "Gorkhapatra (गोरखापत्र)",
+     "published": "2026-11-21T04:40:58+00:00",
+     "summary": "काठमाडौँ, मङ्सिर ५ गते । नेपाली कम्युनिष्ट पार्टी (नेकपा) का संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’ ले विस्तृत शान्ति सम्झौताका बाँकी कामहरू अविलम्ब पूरा गर्न सरकार, राजनीतिक दल र सरोकारव",
+     "image": "https://gorkhapatraonline.com/storage/media/392447/conversions/915971288_2115922809038861_2908304224225110313_n-original.jpg"
+    },
+    {
+     "title": "कृष्णभिरमा सुरुङ वा पर्खाल निर्माणको सम्भाव्यता अध्ययन सुरु",
+     "url": "https://gorkhapatraonline.com/news/229782",
+     "source": "Gorkhapatra (गोरखापत्र)",
+     "published": "2026-11-21T04:38:13+00:00",
+     "summary": "शालिग्राम नेपाल चितवन, मङ्सिर ५ गते । पृथ्वी राजमार्ग अन्तर्गत मुग्लिङदेखि मलेखुसम्मको सडक विस्तारको काम पुनः सुरु हुने भएको छ । बर्सात सुरु भएपछि रोकिएको सडक विस्तारको काम केही दि",
+     "image": "https://gorkhapatraonline.com/storage/media/392446/conversions/Untitled-1-original.jpg"
+    },
+    {
+     "title": "मणिपुरमा विषाक्त मदिरा सेवनबाट कम्तीमा ११ जनाको मृत्यु, १५० भन्दा बढी अस्पताल भर्ना",
+     "url": "https://dcnepal.com/2026/11/816797/",
+     "source": "DC Nepal (डीसी नेपाल)",
+     "published": "2026-11-21T04:37:44+00:00",
+     "summary": "काठमाडौं । मणिपुरको चन्देल जिल्लामा बितेका तीन दिनमा कथित रूपमा विषाक्त मदिरा सेवन गर्दा कम्तीमा ११ जनाको मृत्यु भएको छ। त्यस्तै, १५० भन्दा बढी व्यक्तिहरूको इम्फालका विभिन्न अस्पता",
+     "image": ""
+    },
+    {
+     "title": "दनुवार समुदायले मनाए बड्की एकादशी",
+     "url": "https://gorkhapatraonline.com/news/229781",
+     "source": "Gorkhapatra (गोरखापत्र)",
+     "published": "2026-11-21T04:35:58+00:00",
+     "summary": "सिन्धुली समाचारदातासिन्धुलीमाढी, मङ्सिर ५ गते । सिन्धुलीको कमलाखुँज क्षेत्रमा मुख्य बसोबास रहेको दनुवार समुदायले आफ्नो प्रमुख सांस्कृतिक पर्व बड्की एकादशी शुक्रबार धुमधामसँग मनाएको",
+     "image": "https://gorkhapatraonline.com/storage/media/392445/conversions/Untitled-1-original.jpg"
+    },
+    {
+     "title": "देउवा पक्षीय कांग्रेसको गण्डकी अधिवेशन आजदेखि",
+     "url": "https://www.ratopati.com/story/606641/deuba-led-congresss-gandaki-convention-begins-today",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-21T04:35:08+00:00",
+     "summary": "पोखरा । नियमित महाधिवेशनको रटानमा रहेको शेरबहादुर देउवा पक्षीय कांग्रेसको गण्डकी प्रदेश अधिवेशन आजदेखि सुरु हुँदैछ । निवर्तमान सभापति देउवाले उद्घाटन गर्ने अधिवेशन भोलिसम्म चल्नेछ ",
+     "image": "https://npcdn.ratopati.com/media/news/deuba-congress-gandaki_3dYR7Bl4sY.webp"
+    },
+    {
+     "title": "सुनसरीमा दुई छुट्टाछुट्टै दुर्घटना : एक जनाको मृत्यु, चार घाइते",
+     "url": "https://khabarhub.com/2026/21/1049990/",
+     "source": "Khabarhub (नेपाली)",
+     "published": "2026-11-21T04:35:04+00:00",
+     "summary": "सुनसरी&#8211; सुनसरीमा गएराति र आज बिहान भएका दुई छुट्टाछुट्टै सवारी दुर्घटनामा एक जनाको मृत्यु भएको छ भने चार जना घाइते भएका छन् । जिल्ला प्रहरी कार्यालय सुनसरीका अनुसार कोशी गाउँ",
+     "image": ""
+    },
+    {
+     "title": "मध्य पेरुमा ६.७ म्याग्निच्युडको शक्तिशाली भूकम्प",
+     "url": "https://www.thahakhabar.com/detail/312289",
+     "source": "Thaha Khabar (थाहा खबर)",
+     "published": "2026-11-21T04:30:01+00:00",
+     "summary": "",
+     "image": "https://www.thahakhabar.com/uploads/posts/peru-1795235373.jpg"
+    },
+    {
+     "title": "परोपकार  [नाटक]",
+     "url": "https://gorkhapatraonline.com/news/229779",
+     "source": "Gorkhapatra (गोरखापत्र)",
+     "published": "2026-11-21T04:22:59+00:00",
+     "summary": "समयावधि विसं १९८८ । कान्तिपुरस्थित रानीपोखरी गम्भीर र पीडित मुद्रामा आँखाभरि आँसु भरिएकी अनुभूत हुन्छिन् । कान्तिपुरका सुप्रसिद्ध सहरीक्षेत्रका असन, इन्द्रचोक, हनुमानढोका, वटु, केल",
+     "image": "https://gorkhapatraonline.com/storage/media/392442/conversions/433-original.jpg"
+    },
+    {
+     "title": "चिराइतोको मूल्य घटेपछि किसान चिन्तित",
+     "url": "https://www.ratopati.com/story/606640/farmers-worried-after-fall-in-chiraito-prices",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-21T04:20:38+00:00",
+     "summary": "भोजपुर । भोजपुरमा चिराइतोको मूल्य घटेपछि किसान तथा व्यवसायी चिन्तित बनेका छन् । गत वर्षको तुलनामा यस वर्ष चिराइतोको मूल्यमा गिरावट आएपछि किसान चिन्तामा परेका हुन् । टेम्केमैयुङ गाउ",
+     "image": "https://npcdn.ratopati.com/media/news/reVkUut8py.jpg"
+    },
     {
      "title": "मध्य पेरुमा शक्तिशाली भूकम्प, क्षतिको विवरण सङ्कलन हुँदै",
      "url": "https://www.ratopati.com/story/606639/powerful-earthquake-hits-central-peru-damage-details-being-collected",
@@ -360,116 +464,12 @@
      "image": "https://gorkhapatraonline.com/storage/media/392435/conversions/6-original.jpg"
     },
     {
-     "title": "जीवाश्म इन्धनसम्बन्धी विवादले कोप–३१ जलवायु सम्मेलन लम्बियो",
-     "url": "https://baahrakhari.com/detail/507898",
-     "source": "Baahrakhari (बाह्रखरी)",
-     "published": "2026-11-21T04:12:17+00:00",
-     "summary": "",
-     "image": ""
-    },
-    {
-     "title": "सुरुङ्गाको ८.५ किलोमिटर सडक कालोपत्र अन्तिम चरणमा",
-     "url": "https://www.onlinekhabar.com/2026/11/2062271/blacktopping-of-8-5-km-of-surunga-road-in-final-stages",
+     "title": "बलेका भवन, बाँकी प्रश्न र अघि बढ्नुपर्ने समय",
+     "url": "https://www.onlinekhabar.com/2026/11/2062120/burnt-buildings-remaining-questions-and-time-to-move-forward",
      "source": "Online Khabar (नेपाली)",
-     "published": "2026-11-21T04:11:47+00:00",
-     "summary": "५ मंसिर, सप्तरी । सप्तरीको सुरुङ्गा नगरपालिका–७ कदमहा चोकदेखि चकदह, प्रमाणपुर हुँदै वडा नम्बर १० को पटेर्वा चोकसम्म जोड्ने ग्रामीण सडक कालोपत्रको काम अन्तिम चरणमा पुगेको छ । लामो स",
+     "published": "2026-11-21T04:15:07+00:00",
+     "summary": "पुस्ता बदलिन्छन्, अपेक्षा र सोच्ने तरिका बदलिन्छ । सूचना र प्रविधि पहुँचले नयाँ पुस्तालाई संसारसँग जोडेको छ । उनीहरू अब अवसर, पारदर्शिता र सम्मानका विषयमा पहिलेभन्दा फरक अपेक्षा रा",
      "image": ""
-    },
-    {
-     "title": "चिराइतोको बजार मूल्य घटेपछि किसान निराश",
-     "url": "https://gorkhapatraonline.com/news/229778",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-21T04:11:05+00:00",
-     "summary": "भोजपुर, मङ्सिर ५ गते । भोजपुरमा चिराइतोको मूल्य घटेपछि किसान तथा व्यवसायी चिन्तित बनेका छन् । गत वर्षको तुलनामा यस वर्ष चिराइतोको मूल्यमा गिरावट आएपछि किसान चिन्तामा परेका हुन् ।टे",
-     "image": "https://gorkhapatraonline.com/storage/media/392439/conversions/IMG-134-original.jpg"
-    },
-    {
-     "title": "यात्रा जारी छ (कविता)",
-     "url": "https://gorkhapatraonline.com/news/229777",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-21T04:05:37+00:00",
-     "summary": "बिसौनी हजार छन् सडकभरि हरेक बिसौनी, हरेकको गन्तव्य होइनहिजो मेरो गन्तव्य यही थियो होला आज मेरो गन्तव्य फरक छयात्रा उस्तै छ तर गति फरक छमिति एउटै छ पात्रोमा हरेक यात्रीको तर हरेक या",
-     "image": "https://gorkhapatraonline.com/storage/media/392438/conversions/5443-original.jpg"
-    },
-    {
-     "title": "कात्तिक नाचमा आज बराह अवतार प्रदर्शन गरिँदै",
-     "url": "https://www.ujyaaloonline.com/detail/133702",
-     "source": "Ujyaalo (उज्यालो)",
-     "published": "2026-11-21T04:03:00+00:00",
-     "summary": "मंगलबजारको कात्तिक डबलीमा शुरु भएको नाचको प्रमुख आकर्षण भने भोलि नृसिंह नाच देखाइनेछ । कात्तिक नाचको सबैभन्दा आकर्षण र धेरै रुचाइएको र मध्यरातमा देखाइने नृसिंह नाच हेर्न हरेक वर्ष ",
-     "image": "https://www.ujyaaloonline.com/uploads/posts/Baraha-Awatar-1795233727.JPG"
-    },
-    {
-     "title": "८३ वर्षको उमेरमा पनि कालीगण्डकी स्नान गर्ने उत्साह",
-     "url": "https://gorkhapatraonline.com/news/229776",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-21T04:01:50+00:00",
-     "summary": "तिलाचन पाण्डेगुल्मी, मङ्सिर ५ गते । उमेरले ८३ वर्षीय वृद्ध, त्यसैमाथि दीर्घ रोगी, सत्यवती गाउँपालिका वडा नं.–१ अस्लेवाका शालीग्राम पाण्डे । स्थायी घर अस्लेवा भए पनि उहाँ अहिले तानस",
-     "image": "https://gorkhapatraonline.com/storage/media/392437/conversions/ridi-snan-shaligram-pandey-original.jpg"
-    },
-    {
-     "title": "‘एन्फा निलम्बन फुकुवाको प्रक्रिया अघि बढ्यो’",
-     "url": "https://www.ratopati.com/story/606638/the-process-of-lifting-anfa-suspension-has-moved-forward",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-21T04:01:04+00:00",
-     "summary": "काठमाडौँ । शिक्षा तथा खेलकुदमन्त्री सस्मित पोखरेलले नेपाली फुटबलमाथि अन्तरराष्ट्रिय फुटबल महासङ्घ (फिफा)ले लगाएको निलम्बन फुकुवाको प्रक्रिया अघि बढेको बताएका छन् । थाइल्यान्डमा फिफ",
-     "image": "https://npcdn.ratopati.com/media/news/sasmit-pokharel_dYlWTs4BPH.webp"
-    },
-    {
-     "title": "किनारामा परेको चट्टान (कविता)",
-     "url": "https://gorkhapatraonline.com/news/229775",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-21T04:00:36+00:00",
-     "summary": "म किनारामा उभिएको ढुङ्गोकहाँ सक्छु र तिमी झैँ कलकल बग्न ?कहाँ सक्छु शीतलता छर्न ?कहाँ सक्छु र प्यासीको प्यास मेट्न ? तिमी बाँडिन्छौ नहर, कुलो र खेतका गराहरूमाबनाउँछौ हरियाली र जित्",
-     "image": "https://gorkhapatraonline.com/storage/media/392436/conversions/poem-original.jpg"
-    },
-    {
-     "title": "चिराइतोको मूल्य घटेपछि किसान चिन्तित",
-     "url": "https://khabarhub.com/2026/21/1049986/",
-     "source": "Khabarhub (नेपाली)",
-     "published": "2026-11-21T03:59:38+00:00",
-     "summary": "भोजपुर– भोजपुरमा चिराइतोको मूल्य घटेपछि किसान तथा व्यवसायी चिन्तित बनेका छन् । गत वर्षको तुलनामा यस वर्ष चिराइतोको मूल्यमा गिरावट आएपछि किसान चिन्तामा परेका हुन् । टेम्केमैयुङ गाउँ",
-     "image": ""
-    },
-    {
-     "title": "सामाजिक यथार्थको आख्यानीकरण",
-     "url": "https://nagariknews.nagariknetwork.com/arts/narrative-of-social-reality-br-10-38.html",
-     "source": "Nagarik (नागरिक)",
-     "published": "2026-11-21T03:58:23+00:00",
-     "summary": "समाजमा बस्ने हरेक मान्छेले समाजलाई देखेको, चिनेको र बुझेको हुन्छ। त्यही समाजमा बस्ने एउटा समाजशास्त्रीले त्यो समाजलाई अझ राम्रोसँग देखेको, चिनेको र बुझेको हुन्छ किनभने समाजशास्त्री",
-     "image": ""
-    },
-    {
-     "title": "युरोपका २५ भन्दा बढी देशमा जेनजीको प्रदर्शन : किन सडकमा उत्रिए युवा र श्रमिक ?",
-     "url": "https://www.ratopati.com/story/606637/genji-protests-in-more-than-25-european-countries-why-did-youth-and-workers-take-to-the-streets",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-21T03:54:42+00:00",
-     "summary": "युरोपका २५ भन्दा बढी देशमा शुक्रबार हजारौँ युवा तथा श्रमिक सडकमा उत्रिएका छन् । अन्तर्राष्ट्रिय रूपमा समन्वय गरिएको युवा नेतृत्वको आन्दोलनअन्तर्गत उनीहरूले बढ्दो महँगी, शिक्षा क्षे",
-     "image": "https://npcdn.ratopati.com/media/news/ppp_tunpeRCGs1.webp"
-    },
-    {
-     "title": "अस्वीकृति र अपमान चिर्दै बलिउडमा उदाएकी विद्या",
-     "url": "https://khabarhub.com/2026/21/1049777/",
-     "source": "Khabarhub (नेपाली)",
-     "published": "2026-11-21T03:54:08+00:00",
-     "summary": "बलिउडमा कुनै समय यस्तो थियो, जहाँ अभिनेत्रीको अभिनय क्षमताभन्दा उनको रूपरङ्ग र परम्परागत ‘हिरोइन’ छविलाई बढी महत्त्व दिइन्थ्यो । पर्दामा कस्तो देखिन्छिन् भन्ने आधारमा अभिनेत्रीको भ",
-     "image": ""
-    },
-    {
-     "title": "एनएफएलमा तीन टिमका लागि २० वटा प्रस्ताव",
-     "url": "https://www.onlinekhabar.com/2026/11/2062268/20-offers-for-three-nfl-teams",
-     "source": "Online Khabar (नेपाली)",
-     "published": "2026-11-21T03:52:56+00:00",
-     "summary": "काठमाडौं। नेपाल फुटबल लिग (एनएफएल) मा तीन नयाँ टोली थप्न आह्वान गरिएको बोलपत्रमा २० वटा प्रस्ताव परेको छ। त्यसमध्ये छनौट हुने तीन टिमले मात्रै लिग खेल्न पाउनेछन्। एनएफएलका कमिश्नर ",
-     "image": ""
-    },
-    {
-     "title": "भ्रमको चिरफार, यथार्थको उजागर",
-     "url": "https://gorkhapatraonline.com/news/229773",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-21T03:52:21+00:00",
-     "summary": "आत्मसत्यको सच्चा निरीक्षण र विकास, दुई प्रकाशबिना कोही लेखक व्यक्तित्व धारण गर्न सक्तैन ।नेपाली साहित्यका विराट् प्रतिभा महाकवि लक्ष्मीप्रसाद देवकोटाको भनाइ स्मरण गर्दै महाकाव्यकार",
-     "image": "https://gorkhapatraonline.com/storage/media/392434/conversions/456-original.jpg"
     }
    ]
   }
