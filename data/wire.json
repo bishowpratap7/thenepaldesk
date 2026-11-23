@@ -1,24 +1,112 @@
 {
- "generated_at": "2026-11-23T01:40:00.124148+00:00",
+ "generated_at": "2026-11-23T02:10:26.876089+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-23T01:40:00.124116+00:00",
+   "fetched_at": "2026-11-23T02:10:26.876055+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Patan Health Science Academy Announces Vacancies for Associate Professor and Assistant Professor",
-     "url": "http://english.ratopati.com/story/87826/patan-institute-of-health-sciences-seeks-associate-professors-and-associate-professors-in-various-disciplines",
+     "title": "Tourist arrivals surge in Annapurna Conservation Area during peak trekking season",
+     "url": "https://english.khabarhub.com/2026/23/576651/",
+     "source": "Khabarhub",
+     "published": "2026-11-23T02:06:52+00:00",
+     "summary": "POKHARA: Tourist arrivals in the Annapurna Conservation Area have increased significantly, with 123,714 foreign visitors entering the region between Saun (mid-July to mid-August) a",
+     "image": ""
+    },
+    {
+     "title": "अपी हिमाल: जहाँ प्रकृति बोल्छ",
+     "url": "https://nepalnews.com/2026/11/23/api-himal-where-nature-speaks/",
+     "source": "NepalNews",
+     "published": "2026-11-23T02:05:37+00:00",
+     "summary": "बझाङ । चारैतिर चाँदीझैँ टल्किएका हिमाल, बीचमा फैलिएको विशाल पाटन । हिमालको फेदबाट निस्किएका जलधारा र मनमोहक ताल । प्रकृतिका यी अनुपम छटाले दार्चुलास्थित अपी हिमाल आधार शिविर क्षेत्",
+     "image": ""
+    },
+    {
+     "title": "'Koffee With Karan' Accused of Being Scripted After Leaked Photo",
+     "url": "http://english.ratopati.com/story/87828/allegations-that-koffee-with-karan-is-scripted",
      "source": "Ratopati",
-     "published": "2026-11-23T01:37:18+00:00",
-     "summary": "Lalitpur. The Registrar's Office of Patan Health Science Academy located in Lagankhel, Lalitpur has called for applications for the posts...",
+     "published": "2026-11-23T02:03:19+00:00",
+     "summary": "Mumbai. Allegations that director Karan Johar's popular chat show 'Koffee With Karan' is scripted are surfacing on social media.Users have...",
+     "image": ""
+    },
+    {
+     "title": "Prime Minister Balen to meet Modi today, key agreements expected",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUN6T0lMb04ySlItejhkR0FCZTBSUXc2blRkMDFSQTdtdk5rN1hDM29nbWhaTS1xM1ZqNnpiNjZhUlZQaEk3bU1Lb0F3VUd3OGlmZXFQNlJpTkZjNGFyV21TSUV3RDNXQWR0OG56NDhkZHFNazE3OE9nRkx4RHVKMU1yRjlRNUdMOW9DREloTWFoT1FLaF9LUkRSMEJrd3JRbWZXX2xsSlc?oc=5",
+     "source": "Nepalnews.com",
+     "published": "2026-11-23T01:57:45+00:00",
+     "summary": "Prime Minister Balen to meet Modi today, key agreements expected&nbsp;&nbsp;Nepalnews.com",
+     "image": ""
+    },
+    {
+     "title": "हिमाली क्षेत्रमा हल्का वर्षा र हिमपातको सम्भावना",
+     "url": "https://nepalnews.com/2026/11/23/light-rain-and-snowfall-likely-in-the-mountainous-areas/",
+     "source": "NepalNews",
+     "published": "2026-11-23T01:53:11+00:00",
+     "summary": "काठमाडौं। मौसम पूर्वानुमान महाशाखाले देशका केही हिमाली तथा पहाडी क्षेत्रमा आज आंशिक बदली रहने जनाएको छ। महाशाखाका अनुसार कोशी र गण्डकी प्रदेशका हिमाली भू-भागका एक-दुई स्थानमा हल्का",
+     "image": ""
+    },
+    {
+     "title": "तीन महिनामा सवा चार अर्ब वैदेशिक लगानी भित्रियो",
+     "url": "https://nepalnews.com/2026/11/23/foreign-investment-inflows-reach-4-5-billion-in-three-months/",
+     "source": "NepalNews",
+     "published": "2026-11-23T01:51:22+00:00",
+     "summary": "काठमाडौँ। चालु आर्थिक वर्ष २०८३/८४ को पहिलो तीन महिनामा नेपालमा चार अर्ब २५ करोड रुपियाँ प्रत्यक्ष वैदेशिक लगानी भित्रिएको छ। गत आर्थिक वर्षको सोही अवधिमा एक अर्ब ७४ करोड रुपियाँ म",
+     "image": ""
+    },
+    {
+     "title": "Nepal police open organised-crime probe into 21.75kg gold seizure",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTGpQNlNDeTdLSGJTcV8xYlVIZmQ0dHZOQlZyUUNTdEJxN3ZMTW13U2xpNGdGX2lMRWZYaFZwdXlNTnFUd0J0QXRLbi1PSUhOZ1NrUkFLV0ZrZm5laVJhX3cxSUlBMzZZbnoxOHM2LUZ2ZUZtb2xsWmZZOXJfcGxJV19OLVJHSmJ0TjlSeGc1czF2ckt1bEE?oc=5",
+     "source": "Asia News Network",
+     "published": "2026-11-23T01:48:54+00:00",
+     "summary": "Nepal police open organised-crime probe into 21.75kg gold seizure&nbsp;&nbsp;Asia News Network",
+     "image": ""
+    },
+    {
+     "title": "यस्तो छ आजका लागि विदेशी मुद्राको विनिमय दर",
+     "url": "https://nepalnews.com/2026/11/23/this-is-the-foreign-currency-exchange-rate-for-today/",
+     "source": "NepalNews",
+     "published": "2026-11-23T01:48:28+00:00",
+     "summary": "काठमाडौँ। नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १४७ रुपैयाँ ९८ पैसा र बिक्रीदर १४८ रुपैयाँ ५८ पै",
+     "image": ""
+    },
+    {
+     "title": "Democrats Plan to End Iran War by December, Risking Government Shutdown",
+     "url": "http://english.ratopati.com/story/87827/can-the-congress-that-stopped-the-vietnam-war-end-the-iran-war",
+     "source": "Ratopati",
+     "published": "2026-11-23T01:47:11+00:00",
+     "summary": "Washington DC. Democrats are strategizing to force US President Donald Trump to end the war against Iran by December. However,...",
+     "image": ""
+    },
+    {
+     "title": "What happens to passengers’ belongings after road accidents in Nepal?",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2R0SzkyYndLWmRxZ3Ftc0dobVE3dUFUTVlVc3VFRWhGcXdRZGdMc1lCNGttbUNRTFpwN05Sd2tKU0h5WDF4MENQaXJMcGZHRVdHeE9scFVFRW1GWmRXa0VnUWhYaTlOSnp1ekl5WGtaTWRUNXUwVm1zcUxHOUpkVEVickIxeDd0UGpycGJ4aWNKRV9MTktnQg?oc=5",
+     "source": "Asia News Network",
+     "published": "2026-11-23T01:46:04+00:00",
+     "summary": "What happens to passengers’ belongings after road accidents in Nepal?&nbsp;&nbsp;Asia News Network",
+     "image": ""
+    },
+    {
+     "title": "Real estate market improves",
+     "url": "https://peoplesreview.com.np/2026/11/23/real-estate-market-improves/",
+     "source": "Peoples Review",
+     "published": "2026-11-23T01:42:21+00:00",
+     "summary": "Kathmandu, November 23: At a time when the national economy has been unable to gain momentum at the expected pace, the real estate sector has begun showing signs of improvement. A ",
      "image": ""
     },
     {
      "title": "Nepal mark milestone 100th ODI with six-wicket victory over UAE",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLekZydjdkQXJSNmFhNHY0ZXd5MnlvYkNLcVRyYlpTTVJZVHpyXzR2eDg3YWx0UFRmZUhoSGpDSWpQM05OY2NDZHZ1a0JsbDFz?oc=5",
      "source": "The Rising Nepal",
-     "published": "2026-11-23T01:33:17+00:00",
+     "published": "2026-11-23T01:37:48+00:00",
      "summary": "Nepal mark milestone 100th ODI with six-wicket victory over UAE&nbsp;&nbsp;The Rising Nepal",
+     "image": ""
+    },
+    {
+     "title": "Patan Health Science Academy Announces Vacancies for Associate Professor and Assistant Professor",
+     "url": "http://english.ratopati.com/story/87826/patan-institute-of-health-sciences-seeks-associate-professors-and-associate-professors-in-various-disciplines",
+     "source": "Ratopati",
+     "published": "2026-11-23T01:37:18+00:00",
+     "summary": "Lalitpur. The Registrar's Office of Patan Health Science Academy located in Lagankhel, Lalitpur has called for applications for the posts...",
      "image": ""
     },
     {
@@ -44,99 +132,11 @@
      "published": "2026-11-23T01:19:17+00:00",
      "summary": "Strong El Nino may bring heavy snow, rain to Himalayas, raise flood risk in Nepal&nbsp;&nbsp;India Today",
      "image": ""
-    },
-    {
-     "title": "88 days on, families of missing Nepal disaster victims still await DNA results, death certificates",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNkhGa0FrekFzWUtOMkdORUNrRXJRdGw2anRZenVuMXYyUk1JbVFTTTBHSkhKOUcxR0hwZVZwSEJGbGpGRDhUMnhHaDFPTExqV0RoM0Uwb3ZRZjhVQnFZSWtlX0JWYlNwYnFGU1BaemFGQXVQMnBRVGV5dVpyTVJwSGxUeW9IejNmLUQxOXpFM2EyZjNwUWFFRzZZQU9ocWxPYkJERmJOZ3NRX0RUSzRJYnBFNlBxZXBsMVd3MjkxUUlybVp4ZEVfN1NBTkdEd0g5RlpSX1R1cnZaUQ?oc=5",
-     "source": "The Vibes",
-     "published": "2026-11-23T01:17:00+00:00",
-     "summary": "88 days on, families of missing Nepal disaster victims still await DNA results, death certificates&nbsp;&nbsp;The Vibes",
-     "image": ""
-    },
-    {
-     "title": "साउदीको सपनामाथि हुथीको हमला",
-     "url": "https://nepalnews.com/2026/11/23/houthi-attack-on-saudi-dream/",
-     "source": "NepalNews",
-     "published": "2026-11-23T01:15:27+00:00",
-     "summary": "साउदी अरबको राजधानी रियादमा निर्माणाधीन गगनचुम्बी भवनहरू, विशाल वित्तीय केन्द्र, आधुनिक विमानस्थल र भविष्यको सहर बनाउने महत्वाकांक्षी योजनाले एउटा नयाँ मध्यपूर्वको तस्बिर प्रस्तुत ",
-     "image": ""
-    },
-    {
-     "title": "Nepal cannot celebrate wildlife while exploiting elephants",
-     "url": "https://english.onlinekhabar.com/cant-celebrate-wildlife-elephants-torture.html",
-     "source": "Online Khabar",
-     "published": "2026-11-23T01:15:00+00:00",
-     "summary": "For more than two decades, the Chitwan Elephant Festival in Sauraha has been promoted as a celebration of tourism, culture and Nepal&#8217;s relationship with wildlife. Held annual",
-     "image": ""
-    },
-    {
-     "title": "Tribhuvan University Management Faculty Announces MBS and MPA Entrance Exam Schedule for 2083",
-     "url": "http://english.ratopati.com/story/87822/tribhuvan-university-opens-applications-for-mbs-and-mpa-admissions",
-     "source": "Ratopati",
-     "published": "2026-11-23T01:14:15+00:00",
-     "summary": "Kathmandu. The Office of the Dean, Management Faculty, Tribhuvan University has published the work schedule for the entrance examination-2083 for...",
-     "image": ""
-    },
-    {
-     "title": "Chitwan to host ‘Build Nepal Expo’ from December 11",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKV2x6dnBiYTZOQXNyOGF4VGUwS2dQRnVQcmpHMFRsZW1paG1CZFE3eHhJcXY2N2FlS3RNU1dWdHJ3LUxISkpDUFRFNDVwdGJI?oc=5",
-     "source": "The Rising Nepal",
-     "published": "2026-11-23T01:13:01+00:00",
-     "summary": "Chitwan to host ‘Build Nepal Expo’ from December 11&nbsp;&nbsp;The Rising Nepal",
-     "image": ""
-    },
-    {
-     "title": "Gandaki Parikrama Festival begins today to promote Devghatdham",
-     "url": "https://english.khabarhub.com/2026/23/576647/",
-     "source": "Khabarhub",
-     "published": "2026-11-23T01:03:29+00:00",
-     "summary": "DAMAULI: The Gandaki Parikrama Festival begins today with the aim of promoting Devghatdham, one of Nepal&#8217;s prominent religious and pilgrimage destinations, and highlighting i",
-     "image": ""
-    },
-    {
-     "title": "Asian Markets Brace for Volatility Amid AI Growth Concerns",
-     "url": "http://english.ratopati.com/story/87821/south-korean-stock-market-plunges-as-doubts-grow-over-sustainability-of-ai-boom",
-     "source": "Ratopati",
-     "published": "2026-11-23T01:02:06+00:00",
-     "summary": "Seoul. As concerns grow about the sustainability of the rapid growth in the Artificial Intelligence (AI) sector, Asian markets are...",
-     "image": ""
-    },
-    {
-     "title": "नयाँदिल्लीमा आज प्रधानमन्त्री शाह र मोदीबीच औपचारिक भेटवार्ता",
-     "url": "https://nepalnews.com/2026/11/23/formal-meeting-between-prime-minister-shah-and-modi-in-new-delhi-today/",
-     "source": "NepalNews",
-     "published": "2026-11-23T01:00:50+00:00",
-     "summary": "काठमाडौं। भारतको दुईदिने राजकीय भ्रमणमा रहेका प्रधानमन्त्री बालेन्द्र शाहले आज नयाँदिल्लीमा भारतीय प्रधानमन्त्री नरेन्द्र मोदीसँग औपचारिक भेटवार्ता गर्दैछन्। बिहान ११ बजे हैदराबाद ",
-     "image": ""
-    },
-    {
-     "title": "Families burdened by delays in Nepal flood DNA results, death certificates",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObUd0X1B6NzVnZ0NsNG1uRkpZSkhGNTA0eFkza0trNUN5OENkMlZ2UkFRdG9xUVFYcmVTNDR6TFByNTFVb0VtMmk4T3RoSmhiVGMyS0hPN3Izb1BCR21CcThXZWgydGlIRm80QUIwTW1MUlRSTnB3MDhvOHVrb2dWUFFIbDNpTmJhdWVxaG1vTUh4X25kSEhJNGd6b1dqcC0za2lTRW8xeHpyTnlhS281SXlSandSNWluMkHSAb8BQVVfeXFMTjMxNFpKVjBLY2wzNGdsTV9Ra3BrTExkUVF5ckxBSDNzbW81c1BWenlhYnV1THpuQ2pkT2dpM2JkR2E4cVhkN09xTnF4VFpDMU52NlNCZEsycXRSa3d6WVF1d2xDZThVUDhiQmwyUFpfRGlyVkU5ZU4xWWtmeFphNjE5WDBrTEpPc042cy1xZXhmdlpJNFRFQUJCWW5zTE0wekd6aGJpbzh0UlE0YVg0U0E2UXZaWFdTODJsa2RtTVE?oc=5",
-     "source": "NST Online",
-     "published": "2026-11-23T01:00:44+00:00",
-     "summary": "Families burdened by delays in Nepal flood DNA results, death certificates&nbsp;&nbsp;NST Online",
-     "image": ""
-    },
-    {
-     "title": "As headlines fade, Nepal’s flood survivors are still rebuilding",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdGkzbC0waEVSbGMtQmpUQjdadzVkWVJzZ3dfYWdmY3R3QzFTVjYxeHd1MjhCQ3lqM293SGNqbFJSUnNYYktZMUxkOW44WEZDcEM1TmppcWU3bFc1WFhKZ05fVURERW4ydVE1ZjJIbTYySHhQZFNRWE5kN1NLaFNSb3MxaU8zZHNNNWpSb1lpcDdoNi02RmdHUFhLaFFBQ3ViUlc5QTAtbl92UUJHZU9CQ2lfbjRDV2N2ZjNJU2hZeGg?oc=5",
-     "source": "Free Malaysia Today",
-     "published": "2026-11-23T01:00:00+00:00",
-     "summary": "As headlines fade, Nepal’s flood survivors are still rebuilding&nbsp;&nbsp;Free Malaysia Today",
-     "image": ""
-    },
-    {
-     "title": "काठमाडौँ उपत्यकामा घट्यो न्यूनतम तापक्रम, बढ्यो चिसो",
-     "url": "https://nepalnews.com/2026/11/23/minimum-temperature-drops-in-kathmandu-valley-colder-weather-prevails/",
-     "source": "NepalNews",
-     "published": "2026-11-23T00:59:22+00:00",
-     "summary": "काठमाडौं। काठमाडौँ उपत्यकाको न्यूनतम तापक्रममा गिरावट आएको छ। मौसम पूर्वानुमान महाशाखाका अनुसार सोमबार बिहान ५:४५ बजे गरिएको मापनमा उपत्यकाको न्यूनतम तापक्रम ८.१ डिग्री सेल्सियसमा ",
-     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-23T01:40:00.124131+00:00",
+   "fetched_at": "2026-11-23T02:10:26.876071+00:00",
    "stale": false,
    "items": [
     {
@@ -213,10 +213,10 @@
     },
     {
      "title": "Non-Resident Nepali Association Portugal Opens Office in Lisbon",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMWFxbGVYY3IzMVNRVGtVaDBhTWFES3dnN0h3Qy11eVdIZE5nUjZ4VjRrTUxWcGdWSVdwSjJ2ajFXTU9CVDliRmZiVVlqXzlVbW91TVVlUTJLcVo3V0VSM0RUVkxTeDJhd3JFSC1HWUQ1em1mYjFjZVEyM1BDOERmWTNNX0FjMVBHS2R4QjlIelBrM0dWLWNBcXoxQTE?oc=5",
-     "source": "Ratopati",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQUdIVm1Kc1h6b1RmQ1VhQXd5TmZBek8tYWRWeG9FT2FLTkJnWS1IMmRXTmtSeFdoQXhiOEpJeFVXSkVxa3c5RW1YV1U4U1BPa09JcGtPUUdiamNXQWpZMmdxTkRjS19PX3ZNVFVYTGx3OWNKWDFQRzBncW9iR0I1UldkMDJBUWZqM0ZrN3RpMUpmWFkyMHhhakc0WUxScGlpYVZzQlJWYmlQV1Foc1U1eEtrQUZPVl9rWUNQZU5xNA?oc=5",
+     "source": "Hamro Patro",
      "published": "2026-10-07T07:00:00+00:00",
-     "summary": "Non-Resident Nepali Association Portugal Opens Office in Lisbon&nbsp;&nbsp;Ratopati",
+     "summary": "Non-Resident Nepali Association Portugal Opens Office in Lisbon&nbsp;&nbsp;Hamro Patro",
      "image": ""
     },
     {
@@ -238,9 +238,25 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-23T01:40:00.124135+00:00",
+   "fetched_at": "2026-11-23T02:10:26.876077+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Nepal cannot celebrate wildlife while exploiting elephants",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMEJpX0YzeFRIYUxfZ3FlaWJmMzlycUdwOEo4aDNfVFY1SGZvT05iV2hPUUEwclE2S1FNWl9FOUJfZUVBbVFSQ2YzM3dmYlFlLXdydzRpTEx3TGtiZGFEODByY0hYeW1OQnJGLWRBQnY0dzc2eUFOX0lsalljOEg5QS14czR6UQ?oc=5",
+     "source": "OnlineKhabar English News",
+     "published": "2026-11-23T01:15:00+00:00",
+     "summary": "Nepal cannot celebrate wildlife while exploiting elephants&nbsp;&nbsp;OnlineKhabar English News",
+     "image": ""
+    },
+    {
+     "title": "Chitwan to host ‘Build Nepal Expo’ from December 11",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKV2x6dnBiYTZOQXNyOGF4VGUwS2dQRnVQcmpHMFRsZW1paG1CZFE3eHhJcXY2N2FlS3RNU1dWdHJ3LUxISkpDUFRFNDVwdGJI?oc=5",
+     "source": "The Rising Nepal",
+     "published": "2026-11-23T01:12:47+00:00",
+     "summary": "Chitwan to host ‘Build Nepal Expo’ from December 11&nbsp;&nbsp;The Rising Nepal",
+     "image": ""
+    },
     {
      "title": "Prime Minister Balen Shah Arrives in India for 25-Hour Visit",
      "url": "http://english.ratopati.com/story/87820/new-leadership-new-diplomacy-why-is-prime-minister-balens-visit-to-india-important",
@@ -258,19 +274,19 @@
      "image": ""
     },
     {
+     "title": "PM Shah, Dr. Jaishankar discuss trade, connectivity and cooperation",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUYV9WVFVEWjB6amI3cGRCM25oZGFqYjlsU2gzbm5nWFdfZ1RfNG8yb21VbmxYdU1EQUJjNXhkVURZeUxEQ2wxWk5SVHpXeVBk?oc=5",
+     "source": "The Rising Nepal",
+     "published": "2026-11-23T00:19:22+00:00",
+     "summary": "PM Shah, Dr. Jaishankar discuss trade, connectivity and cooperation&nbsp;&nbsp;The Rising Nepal",
+     "image": ""
+    },
+    {
      "title": "Will Nepal resume Gorkha recruitment under India’s revised Agnipath scheme?",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yYjE3T2R4VnpPSXAtS0ZPYVl6b2hiSThoZG4tY0tJUV90MHBFQWh4YjRsbnlsTlJpa1JVcHkxQTdQR2pPSldldUk5Nk52NmNiUmdEVFRpVkdiZWlBMVc5VXBVZ2Q2cVFGNW5PUWRZaURQV19sUS14RUYtdS01aFk?oc=5",
      "source": "OnlineKhabar English News",
      "published": "2026-11-23T00:15:00+00:00",
      "summary": "Will Nepal resume Gorkha recruitment under India’s revised Agnipath scheme?&nbsp;&nbsp;OnlineKhabar English News",
-     "image": ""
-    },
-    {
-     "title": "PM Shah, Dr. Jaishankar discuss trade, connectivity and cooperation",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUYV9WVFVEWjB6amI3cGRCM25oZGFqYjlsU2gzbm5nWFdfZ1RfNG8yb21VbmxYdU1EQUJjNXhkVURZeUxEQ2wxWk5SVHpXeVBk?oc=5",
-     "source": "The Rising Nepal",
-     "published": "2026-11-23T00:11:38+00:00",
-     "summary": "PM Shah, Dr. Jaishankar discuss trade, connectivity and cooperation&nbsp;&nbsp;The Rising Nepal",
      "image": ""
     },
     {
@@ -320,156 +336,140 @@
      "published": "2026-11-22T16:33:17+00:00",
      "summary": "New Delhi. Prime Minister Balen Shah of Nepal, who arrived in New Delhi on Sunday for a visit to India,...",
      "image": ""
-    },
-    {
-     "title": "Prime Minister Balen Shah Visits India, Meets Foreign Minister S. Jaishankar",
-     "url": "http://english.ratopati.com/story/87805/10-news-at-10",
-     "source": "Ratopati",
-     "published": "2026-11-22T16:15:00+00:00",
-     "summary": "Kathmandu. Today is Sunday, Mangsir 6, 2083 BS. We are here with the main events of the day and 10...",
-     "image": ""
-    },
-    {
-     "title": "Nepal News Evening Briefing | Sunday, November 22, 2026",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGJ5bWJvVmxxcEdUS2YzVkN5Z2ROOTZrZVY3YW94UVZxeHdYM3Jhb19iRHhicjVWTHJQVDhOQ0FKemszM3pkcUZDVzNEb1JIMTdDQ2hlZWR4X3M3TkQ2dTdLZGxMeXNPZ3hMckZuOWVJSnFGTjZfdG9JUF9Xalk4Nk9jaTRBczhaVFBFRkk5cS0xSk5rbkUybFVR?oc=5",
-     "source": "Nepalnews.com",
-     "published": "2026-11-22T15:33:37+00:00",
-     "summary": "Nepal News Evening Briefing | Sunday, November 22, 2026&nbsp;&nbsp;Nepalnews.com",
-     "image": ""
     }
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-23T01:40:00.124138+00:00",
+   "fetched_at": "2026-11-23T02:10:26.876079+00:00",
    "stale": false,
    "items": [
     {
-     "title": "पाटन स्वास्थ्य विज्ञान प्रतिष्ठानले माग्यो विभिन्न विधामा सहप्राध्यापक र उपप्राध्यापक",
-     "url": "https://www.ratopati.com/story/606989/patan-institute-of-health-sciences-seeks-associate-professors-and-associate-professors-in-various-disciplines",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-23T01:37:23+00:00",
-     "summary": "ललितपुर । ललितपुरको लगनखेलस्थित पाटन स्वास्थ्य विज्ञान प्रतिष्ठान रजिस्ट्रारको कार्यालयले विभिन्न संकायमा सहप्राध्यापक र उपप्राध्यापक पदहरूका लागि दरखास्त आह्वान गरेको छ। प्रतिष्ठा",
-     "image": "https://npcdn.ratopati.com/media/news/patan-hospital_4g3LGu9cQG.jpg"
-    },
-    {
-     "title": "नदीमा छाडियो भुरा माछा",
-     "url": "https://gorkhapatraonline.com/news/230024",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-23T01:36:27+00:00",
-     "summary": "रुपन्देही समाचारदातारुपन्देही, मङ्सिर ७ गते । विभिन्न प्राकृतिक प्रकोप, दोहन र प्रदूषणका कारण खोलानालामा माछाको सङ्ख्या घट्दै गएपछि रुपन्देहीका खोलानालामा माछाका भुरा छोडिएको छ । व",
-     "image": "https://gorkhapatraonline.com/storage/media/392845/conversions/nadima-ahha-chhodiyo-original.jpg"
-    },
-    {
-     "title": "नेपाल-भारत व्यापार मञ्च सम्पन्न: लगानी र आर्थिक सहकार्य विस्तारमा विशेष जोड",
-     "url": "https://dcnepal.com/2026/11/817286/",
-     "source": "DC Nepal (डीसी नेपाल)",
-     "published": "2026-11-23T01:31:14+00:00",
-     "summary": "नयाँदिल्ली। नयाँदिल्लीमा आयोजित &#8216;नेपाल-भारत व्यापार मञ्च&#8217; भव्य रूपमा सम्पन्न भएको छ। दुवै देशका उद्योगी, व्यवसायी तथा उच्च अधिकारीहरूको उपस्थिति रहेको यस कार्यक्रममा ने",
-     "image": ""
-    },
-    {
-     "title": "सप्तरी मालपोत कार्यालय परिसरका अवैध संरचना डोजर लगाएर हटाइयो",
-     "url": "https://www.onlinekhabar.com/2026/11/2063520/illegal-structures-in-saptari-land-revenue-office-premises-removed-using-bulldozers",
-     "source": "Online Khabar (नेपाली)",
-     "published": "2026-11-23T01:30:53+00:00",
-     "summary": "७ मंसिर, सप्तरी । भूमि प्रशासन कार्यालय (मालपोत) राजविराजको हाताभित्र अतिक्रमण गरी लेखापढी व्यवसायीले निर्माण गरेका घर तथा अन्य संरचना हटाइएको छ। ‎ ‎सप्तरीका प्रमुख जिल्ला अधिकारी ",
-     "image": ""
-    },
-    {
-     "title": "अमेरिकी डलरको भाउ स्थिर रहँदा घट्यो युरो र अस्ट्रेलियन डलरको मूल्य",
-     "url": "https://www.setopati.com/kinmel/banking/403160",
-     "source": "Setopati (सेतोपाटी)",
-     "published": "2026-11-23T01:28:03+00:00",
-     "summary": "क्यानेडियन डलर एकको खरिददर १०३ रुपैयाँ १८ पैसा र बिक्रीदर १०३ रुपैयाँ ५९ पैसा, सिङ्गापुर डलर एकको खरिददर ११४ रुपैयाँ ७१ पैसा र बिक्रीदर ११५ रुपैयाँ १७ पैसा तोकिएको छ।",
-     "image": ""
-    },
-    {
-     "title": "जेरुसेलममा सैन्य भर्तीको विरोधमा प्रदर्शन, सुरक्षाकर्मीसँग झडप",
-     "url": "https://khabarhub.com/2026/23/1050504/",
-     "source": "Khabarhub (नेपाली)",
-     "published": "2026-11-23T01:27:27+00:00",
-     "summary": "जेरुसेलम&#8211; इजरायलको जेरुसेलममा अनिवार्य सैन्य सेवामा सहभागी नभएका धार्मिक विद्यालयका विद्यार्थी पक्राउ परेपछि त्यसको विरोधमा प्रदर्शन भएको छ । प्रदर्शनका क्रममा अति-अर्थोडक्स ",
-     "image": ""
-    },
-    {
-     "title": "अपी हिमालः जहाँ प्रकृति बोल्छ",
-     "url": "https://www.ratopati.com/story/606988/api-himal-where-nature-speaks",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-23T01:26:42+00:00",
-     "summary": "बझाङ । चारैतिर चाँदीझैँ टल्किएका हिमाल, बीचमा फैलिएको विशाल पाटन, हिमालको फेदबाट निस्किएका जलधारा र मनमोहक ताल। प्रकृतिका यी अनुपम छटाले दार्चुलास्थित अपी हिमाल आधार शिविर क्षेत्रल",
-     "image": "https://npcdn.ratopati.com/media/news/api-himal_OgBFAJwZyb.webp"
-    },
-    {
-     "title": "प्रधानमन्त्री शाह र भारतीय समकक्षी मोदीबीच भेटवार्ता हुँदै",
-     "url": "https://www.ujyaaloonline.com/detail/133760",
-     "source": "Ujyaalo (उज्यालो)",
-     "published": "2026-11-23T01:26:23+00:00",
-     "summary": "दुई देशका प्रधानमन्त्रीले आज जनकपुर–अयोध्या रेल सेवा, भैरहवा–सुनौली एकीकृत जाँच चौकी, दार्चुलामा महाकाली पुल र काभ्रेमा निर्मित नेपाल प्रहरी एकेडेमीको संयुक्त रुपमा उदघाटन गर्ने तय",
-     "image": "https://www.ujyaaloonline.com/uploads/posts/balen-modi-1795397156.jpg"
-    },
-    {
-     "title": "गुल्मी अस्पतालको नवनिर्मित भवनबाट मंसिर अन्तिम सातादेखि सेवा दिने तयारी",
-     "url": "https://www.onlinekhabar.com/2026/11/2063517/preparations-to-provide-services-from-the-newly-constructed-building-of-gulmi-hospital-from-the-last-week-of-november",
-     "source": "Online Khabar (नेपाली)",
-     "published": "2026-11-23T01:24:51+00:00",
-     "summary": "२५ करोड ९५ लाख रुपैयाँभन्दा बढी लागतमा निर्माण भएको भवनमा ओपीडी, आकस्मिक, प्रसूति, शल्यक्रिया, आईसीयू तथा विशेषज्ञ उपचार सेवाका संरचना छन्।",
-     "image": ""
-    },
-    {
-     "title": "गण्डकी परिक्रमा महोत्सव आजदेखि",
-     "url": "https://khabarhub.com/2026/23/1050499/",
-     "source": "Khabarhub (नेपाली)",
-     "published": "2026-11-23T01:22:37+00:00",
-     "summary": "दमौली&#8211; प्रसिद्ध धार्मिकस्थल देवघाटधामको प्रचारप्रसार गर्ने उद्देश्यका साथ आजदेखि गण्डकी परिक्रमा महोत्सव आयोजना गरिएको छ । त्यस क्षेत्रको धार्मिक महत्व र भौतिक विकासलाई संवद्",
-     "image": ""
-    },
-    {
-     "title": "देवघाटधामको प्रचारप्रसार र सांस्कृतिक जगेर्नाका लागि आजदेखि ‘गण्डकी परिक्रमा महोत्सव’ सुरु",
-     "url": "https://dcnepal.com/2026/11/817283/",
-     "source": "DC Nepal (डीसी नेपाल)",
-     "published": "2026-11-23T01:20:23+00:00",
-     "summary": "दमौली (तनहुँ)। प्रसिद्ध धार्मिकस्थल देवघाटधामको प्रचारप्रसार गर्ने तथा त्यहाँको धार्मिक महत्व र भौतिक विकासलाई संवद्र्धन गर्ने उद्देश्यले आजदेखि &#8216;गण्डकी परिक्रमा महोत्सव&#821",
-     "image": ""
-    },
-    {
-     "title": "मध्यपश्चिम विश्वविद्यालयले खुलायो डिन र निर्देशक पदमा दरखास्त",
-     "url": "https://www.ratopati.com/story/606987/midwest-university-opens-applications-for-dean-and-director-positions",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-23T01:19:49+00:00",
-     "summary": "सुर्खेत । सुर्खेतको वीरेन्द्रनगरस्थित मध्यपश्चिम विश्वविद्यालयले विभिन्न सात वटा ग्राजुएट स्कुलका डिन तथा दुई वटा निर्देशनालयका कार्यकारी निर्देशक पदहरूमा खुला प्रतिस्पर्धाबाट पदपू",
-     "image": "https://npcdn.ratopati.com/media/news/madhyapaschim-university_2ASvaK0HX7.webp"
-    },
-    {
-     "title": "विदेशबाट फर्किएर ८० लाख लगानीमा पशुपन्छीपालन",
-     "url": "https://www.thahakhabar.com/detail/312382",
-     "source": "Thaha Khabar (थाहा खबर)",
-     "published": "2026-11-23T01:18:57+00:00",
+     "title": "ठूलामा भएन विदेशी लगानी आकर्षण, साना उद्योगमै ९८.८ प्रतिशत",
+     "url": "https://baahrakhari.com/detail/508024",
+     "source": "Baahrakhari (बाह्रखरी)",
+     "published": "2026-11-23T02:10:00+00:00",
      "summary": "",
-     "image": "https://www.thahakhabar.com/uploads/posts/PASU-PALAN-1795396728.jpg"
-    },
-    {
-     "title": "नागढुङ्गा–सिस्नेखोला सुरुङमार्गका लागि ‘एन ट्याग’ कुमारी बैंकमा उपलब्ध",
-     "url": "https://khabarhub.com/2026/23/1050494/",
-     "source": "Khabarhub (नेपाली)",
-     "published": "2026-11-23T01:16:00+00:00",
-     "summary": "काठमाडौं- कुमारी बैंक लिमिटेडले नागढुङ्गा–सिस्नेखोला सुरुङमार्ग प्रयोग गर्ने सवारीसाधनका लागि ‘एन ट्याग’को बिक्री तथा वितरण सेवा आफ्ना शाखाहरूमार्फत उपलब्ध गराएको छ । ‘एन ट्याग’ एक",
      "image": ""
     },
     {
-     "title": "एमबीएस र एमपीए भर्नाका लागि त्रिविले खुलायो आवेदन",
-     "url": "https://www.ratopati.com/story/606986/tribhuvan-university-opens-applications-for-mbs-and-mpa-admissions",
+     "title": "१२० वर्ष अघिको गोर्खापत्र",
+     "url": "https://gorkhapatraonline.com/news/230033",
+     "source": "Gorkhapatra (गोरखापत्र)",
+     "published": "2026-11-23T02:05:11+00:00",
+     "summary": "",
+     "image": "https://gorkhapatraonline.com/storage/media/392855/conversions/2344-original.jpg"
+    },
+    {
+     "title": "‘कफी विद करण’ स्क्रिप्टेड भएको आरोप",
+     "url": "https://www.ratopati.com/story/606991/allegations-that-koffee-with-karan-is-scripted",
      "source": "Ratopati (नेपाली)",
-     "published": "2026-11-23T01:14:15+00:00",
-     "summary": "काठमाडौँ । त्रिभुवन विश्वविद्यालय, व्यवस्थापन संकाय डिनको कार्यालयरले सेमेस्टर प्रणालीमा आधारित ‘मास्टर अफ बिजनेस स्टडिज’ (एमबीएस) तथा ‘मास्टर अफ पब्लिक एडमिनिस्ट्रेशन’ (एमपीए) कार",
-     "image": "https://npcdn.ratopati.com/media/news/tribhuvan-university-art-image_k1rnW6unKw.jpg"
+     "published": "2026-11-23T02:03:19+00:00",
+     "summary": "मुम्बई । चलचित्र निर्देशक करण जोहरको चर्चित च्याट शो ‘कफी विद करण’ स्क्रिप्टेड भएको आरोप सामाजिक सञ्जालमा उठिरहेको छ। शोको छैटौँ भागमा अतिथि बनेकी अभिनेत्री शनाया कपूर मेकअप कक्षमा",
+     "image": "https://npcdn.ratopati.com/media/news/shanaya-kapoor-kwk-script_Mx2XuF4kB9.webp"
     },
     {
-     "title": "प्रधानमन्त्री बालेनसँग आज मोदीको भेटवार्ता, आजै स्वदेश फर्कने",
-     "url": "https://www.setopati.com/politics/403159",
-     "source": "Setopati (सेतोपाटी)",
-     "published": "2026-11-23T01:12:13+00:00",
-     "summary": "द्विपक्षीय वार्तापछि प्रधानमन्त्री बालेन र मोदीले विभिन्न परियोजनाको भर्चुअल उद्घाटन गर्नेछन्।",
+     "title": "कतार र जर्मनीद्वारा इरानसँग हुथी विद्रोहीको समर्थन बन्द गर्न माग",
+     "url": "https://dcnepal.com/2026/11/817305/",
+     "source": "DC Nepal (डीसी नेपाल)",
+     "published": "2026-11-23T02:02:03+00:00",
+     "summary": "काठमाडौं । कतार र जर्मनीले इरानलाई आणविक अप्रसार सन्धिको पालना गर्न अपिल गरेका छन्। साथै, अन्तर्राष्ट्रिय आणविक ऊर्जा एजेन्सीसँग भएको सुरक्षा सम्झौताको पालना गर्नसमेत आग्रह गरेका छ",
      "image": ""
+    },
+    {
+     "title": "असल छिमेकी प्रगतिका साझेदार : अध्यक्ष श्रेष्ठ",
+     "url": "https://baahrakhari.com/detail/508033",
+     "source": "Baahrakhari (बाह्रखरी)",
+     "published": "2026-11-23T02:00:52+00:00",
+     "summary": "",
+     "image": ""
+    },
+    {
+     "title": "एकद्वार प्रणालीमा जोडिएनन् सबै निकाय",
+     "url": "https://gorkhapatraonline.com/news/230032",
+     "source": "Gorkhapatra (गोरखापत्र)",
+     "published": "2026-11-23T02:00:28+00:00",
+     "summary": "नवराज कट्टेलविराटनगर, मङ्सिर ७ गते । भन्सार विभागले कार्यान्वयनमा ल्याएको नेपाल राष्ट्रिय एकद्वार प्रणाली (नेपाल नेसनल सिङ्गल वोइन्डोज सिस्टम–एनएसडब्ल्यु) मा जोडिनुपर्ने भनिएका सबै",
+     "image": "https://gorkhapatraonline.com/storage/media/392854/conversions/Bhansar-Bibhag-original.jpg"
+    },
+    {
+     "title": "मोदीसँग वार्तादेखि राष्ट्रपतिसँग शिष्टाचार भेटसम्म, यस्तो छ बालेनको आजको कार्यतालिका",
+     "url": "https://khabarhub.com/2026/23/1050505/",
+     "source": "Khabarhub (नेपाली)",
+     "published": "2026-11-23T01:55:59+00:00",
+     "summary": "काठमाडौं&#8211; भारतको दुईदिने राजकीय भ्रमणमा रहेका प्रधानमन्त्री वालेन्द्र शाह (बालेन) आज विभिन्न उच्चस्तरीय भेटवार्ता तथा औपचारिक कार्यक्रममा सहभागी हुँदैछन् । भ्रमणको दोस्रो तथा",
+     "image": ""
+    },
+    {
+     "title": "फरार व्यवसायीको खाता रोक्का गरिने",
+     "url": "https://gorkhapatraonline.com/news/230031",
+     "source": "Gorkhapatra (गोरखापत्र)",
+     "published": "2026-11-23T01:55:28+00:00",
+     "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, मङ्सिर ७ गते । वैदेशिक रोजगारसम्बन्धी मुद्दामा पक्राउ पुर्जी जारी भई सम्पर्कमा नआएका व्यक्तिको बैङ्क खाता रोक्का गरिने भएको छ । वैदेशिक रोजगार विभागले",
+     "image": "https://gorkhapatraonline.com/storage/media/392853/conversions/ramji-original.jpg"
+    },
+    {
+     "title": "ट्राफिक नियम उल्लंघन गर्ने ५६६ सवारीसाधन कारबाही",
+     "url": "https://dcnepal.com/2026/11/817303/",
+     "source": "DC Nepal (डीसी नेपाल)",
+     "published": "2026-11-23T01:51:59+00:00",
+     "summary": "काठमाडाैं। काठमाडौं उपत्यकामा ट्राफिक नियम उल्लङ्घन गर्ने ५६६ वटा सवारीसाधनलाई प्रहरीले कारबाही गरेको छ। काठमाडौं उपत्यका ट्राफिक प्रहरी कार्यालयले दिएको जानकारी अनुसार, मङ्सिर ७ ग",
+     "image": ""
+    },
+    {
+     "title": "कोरियामा ६ वर्ष बिताएर फर्केपछि ८० लाख लगानीमा गरेका छन् पशुपन्छी पालन",
+     "url": "https://www.setopati.com/social/403163",
+     "source": "Setopati (सेतोपाटी)",
+     "published": "2026-11-23T01:51:38+00:00",
+     "summary": "बाख्रापालनबाट सुरू भएको व्यवसायमा अहिले स्थानीय जातका कुखुरा, कालिज, मौरीपालन र फलफूल खेतीसमेत थपिएको छ।",
+     "image": ""
+    },
+    {
+     "title": "गालीमा रमाएको राजनीति",
+     "url": "https://nagariknews.nagariknetwork.com/opinion/politics-that-delights-in-insults-br-21-32.html",
+     "source": "Nagarik (नागरिक)",
+     "published": "2026-11-23T01:51:09+00:00",
+     "summary": "सामूहिक विचारलाई मनन गर्ने हिम्मत भएको सोचले नै दूरगामी परिवर्तनको खाका कोर्न सक्छ।",
+     "image": ""
+    },
+    {
+     "title": "प्रधानमन्त्री शाह र भारतीय समकक्षी मोदीबिच आज भेटवार्ता हुँदै",
+     "url": "https://gorkhapatraonline.com/news/230030",
+     "source": "Gorkhapatra (गोरखापत्र)",
+     "published": "2026-11-23T01:50:26+00:00",
+     "summary": "नयाँ दिल्ली (भारत), मङ्सिर ७ गते । भारतको दुईदिने राजकीय भ्रमणमा रहनुभएका प्रधानमन्त्री वालेन्द्र शाह र भारतीय प्रधानमन्त्री नरेन्द्र मोदीबिच आज भेटवार्ता हुनेभएको छ । नयाँ दिल्लीस",
+     "image": "https://gorkhapatraonline.com/storage/media/392852/conversions/balen-modi-original.jpg"
+    },
+    {
+     "title": "अलैँचीले आत्मनिर्भर",
+     "url": "https://gorkhapatraonline.com/news/230029",
+     "source": "Gorkhapatra (गोरखापत्र)",
+     "published": "2026-11-23T01:48:02+00:00",
+     "summary": "प्रकाश नेपालइलाम, मङ्सिर ७ गते । विदेश जाने उमेर र अवसर दुवै हुँदा पनि इलाम सोयाङका महेशचन्द्र सापकोटाले विदेशको बाटो रोज्नुभएन । उहाँले गाउँमै बाँझो रहेको जमिनलाई हराभरा बनाउने र.",
+     "image": "https://gorkhapatraonline.com/storage/media/392851/conversions/bikri-ka-lagi-tyari-biruwa-mahesh-original.jpg"
+    },
+    {
+     "title": "भियतनाम युद्ध रोकेको कङ्ग्रेसले इरान युद्ध अन्त्य गर्न सक्ला ?",
+     "url": "https://www.ratopati.com/story/606990/can-the-congress-that-stopped-the-vietnam-war-end-the-iran-war",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-23T01:47:16+00:00",
+     "summary": "वासिङ्टन डिसी । अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पलाई आगामी डिसेम्बर महिनामै इरानविरुद्धको युद्ध अन्त्य गर्न बाध्य पार्ने रणनीतिमा डेमोक्र्याटहरू लागेका छन्। यद्यपि उनीहरूको यो कदमक",
+     "image": "https://npcdn.ratopati.com/media/news/trump-iran-war_MVgLB3VPXz.webp"
+    },
+    {
+     "title": "एनआरएनएले काठमाडौंमा 'दोस्रो पुस्ता विश्व सम्मेलन' आयोजना गर्ने",
+     "url": "https://nagariknews.nagariknetwork.com/diaspora/nrna-to-organize-second-generation-world-conference-in-kathmandu-65-26.html",
+     "source": "Nagarik (नागरिक)",
+     "published": "2026-11-23T01:47:03+00:00",
+     "summary": "गैरआवासीय नेपाली सङ्घ (एनआरएनए) ले आगामी सन् २०२७ जनवरी २ देखि ७ तारिख (पुस १८ देखि २३, २०८३) सम्म काठमाडौं र धुलिखेलमा ‘प्रथम एनआरएनए दोस्रो पुस्ता विश्व सम्मेलन २०२७’ आयोजना गर्न",
+     "image": ""
+    },
+    {
+     "title": "काठमाडौं उपत्यकामा २४ घण्टामा ५६६ सवारीसाधनमाथि कारबाही",
+     "url": "https://nepalsamaya.com/detail/147974",
+     "source": "Nepal Samaya (नेपाल समय)",
+     "published": "2026-11-23T01:46:19+00:00",
+     "summary": "",
+     "image": "https://nepalsamaya.com/uploads/posts/traffic_cheking1680436491.jpg"
     }
    ]
   }
