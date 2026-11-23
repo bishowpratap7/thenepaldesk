@@ -1,10 +1,130 @@
 {
- "generated_at": "2026-11-23T10:06:13.095483+00:00",
+ "generated_at": "2026-11-23T10:36:43.044194+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-23T10:06:13.095456+00:00",
+   "fetched_at": "2026-11-23T10:36:43.044166+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "नेप्से परिसूचक झिनो अङ्कले बढ्यो",
+     "url": "https://nepalnews.com/2026/11/23/nepse-index-rises-marginally/",
+     "source": "NepalNews",
+     "published": "2026-11-23T10:35:08+00:00",
+     "summary": "काठमाडौँ। धितोपत्र बजारमा सेयर कारोबार मापक नेप्से परिसूचक आज २.२६ अङ्कले बढेको छ। नेपाल स्टक एक्सचेञ्जका अनुसार नेप्से परिसूचक २.२६ अङ्कले बढेर २ हजार ६२३.५६ विन्दुमा पुगेको छ। ठू",
+     "image": ""
+    },
+    {
+     "title": "India agrees to provide Bhairahawa air entry route, ending Nepal’s decade-long wait",
+     "url": "https://english.onlinekhabar.com/india-agrees-air-entry-route.html",
+     "source": "Online Khabar",
+     "published": "2026-11-23T10:34:51+00:00",
+     "summary": "New Delhi, November 23 India has agreed to make the Bhairahawa air entry route available to Nepal, marking a significant breakthrough in the country’s more than decade-long efforts",
+     "image": ""
+    },
+    {
+     "title": "Special Court Summons Former PM Madhav Nepal, Minendra Rijal, 91 Others in Corruption Case",
+     "url": "http://english.ratopati.com/story/87927/summons-issued-for-93-people-including-former-prime-minister-nepal-in-corruption-case",
+     "source": "Ratopati",
+     "published": "2026-11-23T10:34:50+00:00",
+     "summary": "Kathmandu. The Special Court has issued summons for former Prime Minister Madhav Kumar Nepal, former minister Minendra Rijal, and 91...",
+     "image": ""
+    },
+    {
+     "title": "A warmer embrace in Delhi, but old questions remain",
+     "url": "https://english.onlinekhabar.com/modi-praises-balen-but-key-bilateral-issues-remain-unresolved.html",
+     "source": "Online Khabar",
+     "published": "2026-11-23T10:26:41+00:00",
+     "summary": "Kathmandu, November 23 Indian Prime Minister Narendra Modi praised Balendra Shah, referring to him as the world&#8217;s youngest prime minister and recalling having heard him speak",
+     "image": ""
+    },
+    {
+     "title": "India announces $1.62 billion package for Nepal as Modi meets visiting PM Balen Shah",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWkd0ZzZvaUNZRk5DYVlXaVFUczFMQjdpTE5VUGo4UGtUSVNJWHY2OGR1cmR1OTVOMEtMYXVOZjY4YXpEZnd4TXlHNHktQXNWWktUWDZsa2dwVlR0WldaRndMUXhQOGNvTlNPN0d6b3RtZ2k5WnhKbF8zeXdiejhUWnNxUEVWNG01TVNMcGUxdG9CSnJxYXhpSVYteHBmeThEcWlsamJsMzJ6R3dSanJDRVYwdGFnX1pv?oc=5",
+     "source": "Connected to India",
+     "published": "2026-11-23T10:24:20+00:00",
+     "summary": "India announces $1.62 billion package for Nepal as Modi meets visiting PM Balen Shah&nbsp;&nbsp;Connected to India",
+     "image": ""
+    },
+    {
+     "title": "“I see Nepal’s future in young Prime Minister Shah”, says Indian PM Modi",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSkFqbUVDVlNBX1RDeUhwOEpBalpOanMtOUNjQW9SX0pmY0paYnI5U2Q0UDRWV1RlTElRQkdONTNNMDFrMTUwWkNCZWRWb0tGZDR3elRpOU1FSGRXdm9ybTBMc3dLS1BzSGJmR1dBX3hNS0RtYllSVnkyNldzdk1aV0h5M0x2cUVNZUVCZ21ueVd6SUFTdWxJQmQ4WFlyZ08yS2lJWm5ZTzJ0X2pKMUpoZg?oc=5",
+     "source": "Nepalnews.com",
+     "published": "2026-11-23T10:23:16+00:00",
+     "summary": "“I see Nepal’s future in young Prime Minister Shah”, says Indian PM Modi&nbsp;&nbsp;Nepalnews.com",
+     "image": ""
+    },
+    {
+     "title": "PM Shah pays courtesy call on Indian President Murmu",
+     "url": "https://english.khabarhub.com/2026/23/576750/",
+     "source": "Khabarhub",
+     "published": "2026-11-23T10:18:51+00:00",
+     "summary": "NEW DELHI: Prime Minister (PM) Balendra Shah, who is on a state visit to India, paid a courtesy call on Indian President Droupadi Murmu at Rastrapati Bhavan in New Delhi on Monday.",
+     "image": ""
+    },
+    {
+     "title": "What major decisions were taken during PM Modi's meeting with Nepal PM Balen Shah? | Balen Shah is on a two-day visit to Delhi | Inshorts",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTBVcEh6RFF3dDZNckwydGFsNE16aVVwWnhNVHotb1NEd0ktSFQxeVFtT3ZSci1kU2Z3U25WYWJaTVVETFRiSERPYk1rNXh4Q2RTX0NhZVJ3ZHBreGFhQ3pmMUp0bkJjcUltb0x6Q1BBNGNCblRvNXU0X0puNHdTTWdMQXdPWWFjUXRYSjdLX3ZUYlZjRzdacXk0WUhpOTlYUnNJSVY1ZjY0OWdLLW5OT2lUNHDSAboBQVVfeXFMUERQdmo2WHVYVjhMUFJmZWlhd0xRQ2tOOU9ON3E0SHE3d3l2NVQ4V0RFUjd6RWwzOGFSZE5kV3NuM0ZyWTBVendQcDFob19CZlNQYlNWemJIZXphYjZSbXNlMHc3X1oxZk5XWnVPMUc4ZHR2LWJhbFJaZjk0SVpkVDB5ZVNtVmxYSU9uT0doSjNLUk8zSkxLSEdJR0RtX1BxSzFZZFh3VjVnQ29wZG1yVms3T1hPZ29xcDF3?oc=5",
+     "source": "Inshorts",
+     "published": "2026-11-23T10:18:41+00:00",
+     "summary": "What major decisions were taken during PM Modi's meeting with Nepal PM Balen Shah? | Balen Shah is on a two-day visit to Delhi | Inshorts&nbsp;&nbsp;Inshorts",
+     "image": ""
+    },
+    {
+     "title": "युवाको भविष्यतर्फ कूटनीतिक पहल",
+     "url": "https://nepalnews.com/2026/11/23/diplomatic-initiative-towards-the-future-of-youth/",
+     "source": "NepalNews",
+     "published": "2026-11-23T10:15:30+00:00",
+     "summary": "काठमाडौं। विदेशमा पढ्ने सपना देखेको विद्यार्थी, आफ्नै देशमा उद्यम सुरु गर्न चाहने युवा, प्रविधिको क्षेत्रमा नयाँ काम गर्न खोजिरहेको जनशक्ति, कृषि उत्पादन बढाएर बजार खोजिरहेको किसान",
+     "image": ""
+    },
+    {
+     "title": "Indian PM Modi unveils development package for Nepal",
+     "url": "https://english.khabarhub.com/2026/23/576747/",
+     "source": "Khabarhub",
+     "published": "2026-11-23T10:12:42+00:00",
+     "summary": "NEW DELHI: Indian Prime Minister (PM) Narendra Modi has announced a development cooperation package worth NPR 240 billion to support Nepal’s reconstruction and long-term developmen",
+     "image": ""
+    },
+    {
+     "title": "India pledges €1.4bn to help Nepal rebuild after deadly glacier flood",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2dhVGJrVmEwR2h2VkctcDg2VnlnTm51Y3l5YXVhekJ3UnR4TTBfa1BMalFfZ2R1NE5GN1Jvc19xWnl4V1ZnUFFkZjAtLVdlVTlDWU5DTFVIa3NSa1J0ZUdaZ1BpMDJpa0x3STJ6eExSdmNTT2k3RTFUQ1VjbHI2VlFLVVA1M3gtcklyT21fMjBBWEt1TWEzQ0ZmaWhUQXFmbE9FUkFB?oc=5",
+     "source": "Euronews.com",
+     "published": "2026-11-23T10:06:44+00:00",
+     "summary": "India pledges €1.4bn to help Nepal rebuild after deadly glacier flood&nbsp;&nbsp;Euronews.com",
+     "image": ""
+    },
+    {
+     "title": "Sports Infrastructure Development and Stadium Construction Discussed",
+     "url": "http://english.ratopati.com/story/87926/homework-to-build-stadium-to-play-home-and-away-intensifies-minister-pokharel-in-discussion",
+     "source": "Ratopati",
+     "published": "2026-11-23T10:06:23+00:00",
+     "summary": "Kathmandu. A discussion was held under the chairmanship of Education and Sports Minister Sasmita Pokharel on sports infrastructure development, stadium...",
+     "image": ""
+    },
+    {
+     "title": "India Announces $1.62bn Reconstruction Package for Nepal After Deadly Floods",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTFk1SWd0Zk1ZRlcwRjFid2MtV0gtMjNvejhXYy1tODl5Vi04TnJVRFZyLWF0a09pYXQ2aUU5a2FuQmFMQS1qdy0zMkxLa1Z2TVE5REJvNHdMS3k5Y2Q5SENwSWk3T0kxM04yZ0RvZE1WNTZBelZqd3JkNFJxbGRsek90RE1oZw?oc=5",
+     "source": "The Diplomatic Insight",
+     "published": "2026-11-23T10:03:49+00:00",
+     "summary": "India Announces $1.62bn Reconstruction Package for Nepal After Deadly Floods&nbsp;&nbsp;The Diplomatic Insight",
+     "image": ""
+    },
+    {
+     "title": "IIT heads to Nepal: India to set up offshore campus, startup hub",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVFZpQnJTOHg3eUtwYVBBQk9BdVl4V1p1U0JvNngxbHgxd1NqLTJnODVPcHU4MVROc2RZMFVLZGpuek00cDZMOXZDN1duamE4cHkwUG1rakxYN0xlWllZM05UMWhMWVlSS2Jnd2RUUUdxN3dTN1ZlUkJwQ2Nyd2IxUTN1UTh2QzZXTHBBcGpwVk9rWTBrTzlpMGh3bWwzekltbFl6ZlQ0MndtLS1tRUpnMHVLRWxnRXZjZkxHVmtSZmNNOExmMWZvTdIBzgFBVV95cUxNTzRHd3lIc3VYVjVadUdtNDBlQW5rX0FuWXM1SDNUNENzMk9jVnVRZUlzNFQ5YXFzMU1PY0Z2TmlSZ0hpRld5cG5iTUFqN3RUSjZlVFRnNzdaLUs3NXJXVUVRUGoxMS0wWHAyZkl6VzQtUWgwM3JCUnF6VEhWMXVpLXNpM1VWMzZLYmYtV1ZGUU1aenZKLWpjT0NEUERESF9iQmNBUkdRMTB2U2RhX1FRRUxKdUplem1tR2pVcXZSaE5pNWFHYmtXRGxnMlF6Zw?oc=5",
+     "source": "India Today",
+     "published": "2026-11-23T10:03:42+00:00",
+     "summary": "IIT heads to Nepal: India to set up offshore campus, startup hub&nbsp;&nbsp;India Today",
+     "image": ""
+    },
+    {
+     "title": "Nepal v Scotland, Bangladesh & Ireland (in England) 2027",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1d6QWdULTU3M2FHR1lEbkxvOU5EUUVOVWozMjNsVjhBVUVHVDZ6aU8xU1NRY25WRWRQWVoxTERXZ0JxbzMzTF9WQ3JNajhuUG5YUDVtaG55Ul9xRTlyZklWMENaVTFYX2M2SDdKOGtIdVByNDhaWjFUWDh1R2tKQWJNT3FWSjJneDlOeA?oc=5",
+     "source": "Yahoo Sports",
+     "published": "2026-11-23T10:02:15+00:00",
+     "summary": "Nepal v Scotland, Bangladesh & Ireland (in England) 2027&nbsp;&nbsp;Yahoo Sports",
+     "image": ""
+    },
     {
      "title": "नेपाल-भारत सम्बन्धलाई विकास साझेदारीमा रूपान्तरण गर्नुपर्ने प्रधानमन्त्री शाहको जोड",
      "url": "https://nepalnews.com/2026/11/23/prime-minister-shah-stresses-the-need-to-transform-nepal-india-relations-into-a-development-partnership/",
@@ -12,131 +132,11 @@
      "published": "2026-11-23T09:54:22+00:00",
      "summary": "नयाँदिल्ली। प्रधानमन्त्री वालेन्द्र शाहले नेपाल र भारतबीचको ऐतिहासिक, सांस्कृतिक तथा सभ्यतागत सम्बन्धलाई आपसी विश्वास, सहकार्य र साझा समृद्धिका माध्यमबाट नयाँ युगको आवश्यकताअनुरूप ",
      "image": ""
-    },
-    {
-     "title": "India announces development package of 24,000 crore Nepalese Rupees for Nepal’s development",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdzktZjlaVlo0eU90eko5R2VibHpFaU5sMXotYzFDdW1OZEdTQXoxamRPV1dfNXFDX3JKTGxFMDNIeEdIQVZ6ZnFpX0JoZmE0MTRCTVd2NTc0c2J2MjJnc3NJVlZ1VGZBVGVwempzVkRnM1RKcW1Gdm5XRXR0SEZqRnZsa2JWNllsbFJhdy14TVJZTFIzSmRtbkQzRGM1OG1DUkNDYlRBVUtGcFhiS1ZjaFU0ZEZZaDZtRkctM1RnTFhXenhlLURLN3Z0RUhLbjk1WDhZY2RPSlNMNkxpdGt0UnJR0gHoAUFVX3lxTE9ZTVVXUER4eEtLcXpwQ3hYeEFKa3ZVMGNYRDlremVlTUk1MEFvejBBVkd0Q1FPUU5oOEFzemxRc21UNHctd0FGQ2c5RzVaM1NLYjlNdUpWSl9mSW1rMTZDRDhVYnRZX1VCZ2VnSlo1dkRlS0g1RlJka1Z5a0VoM1RpMzdXOWdWVFZBNkY0QlI0QXdHbFhqcU1iTElCTU1sbWZQODJpOHdGWmZIZU1ZSk1iNnN1Z0t1eHIxODFRUTljU1J3cmVYenctREkxUnM1M1BBdjBpcC1oMTJ2ZFlTM2ROWHczaFpweXU?oc=5",
-     "source": "The Hindu",
-     "published": "2026-11-23T09:54:21+00:00",
-     "summary": "India announces development package of 24,000 crore Nepalese Rupees for Nepal’s development&nbsp;&nbsp;The Hindu",
-     "image": ""
-    },
-    {
-     "title": "India To Give $1.6b Aid Package To Flood-Hit Nepal",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdVBXeXQ5Tkc2NWY5OGM2YnF6eGluSFJ1dkpyUURacjB2cWtES0wzNUhyZ29wbFNUZTlUY0RBUW1uTUZ6Q3lFSUVqc1ZNYTZMTERJRFJnakRZMlAyRE5iS09MUkxBSHRISzM1YWZORThCTTk0cGktWjRaVXh5emdYM1ZYc1pjTnZQVjNZX1RqSWtGUQ?oc=5",
-     "source": "Channels Television",
-     "published": "2026-11-23T09:53:35+00:00",
-     "summary": "India To Give $1.6b Aid Package To Flood-Hit Nepal&nbsp;&nbsp;Channels Television",
-     "image": ""
-    },
-    {
-     "title": "Balen’s Delhi visit puts economic ties on a new track, but old disputes remain",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS1lHVFlTYU8tZU1FUUhlejVDRDd4T19SQjhmVTNoNjdfaUJkQUlJWmc4NVlnb29Xdlk2UzNZOHFhOTdUcUYxSWFFcUR2MENGcW5mWDc5SWJnX2hPZk1QX2tDYzJPY0MzWDU2M1FIWExjTDJ4Undremg0clFNX3ByN1RmVFFPdzNEeWFoZmR4cUJVbEl6LWtubGJDeEstVEt2ekZMcGtuRTVnRmZ1cnlLb0Ixc3FYQUw0VFhuQg?oc=5",
-     "source": "Nepalnews.com",
-     "published": "2026-11-23T09:53:26+00:00",
-     "summary": "Balen’s Delhi visit puts economic ties on a new track, but old disputes remain&nbsp;&nbsp;Nepalnews.com",
-     "image": ""
-    },
-    {
-     "title": "India Announces NPR 24,000 Crore Package for Nepal’s Reconstruction After August Floods",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZm1QWWRlZE4yQjVpNWV1OWNCSzY5MzctSWdhRWZqbzBZWllQUXBsRHAzR212ZkE1MWNCMUQ3eGNBMFpZVTFyMGl2OVhSUC1KTHhnN3RPa05ESEdheV85S1VTZktRMmFuODRlUWR5SU9CRU1KMDdCYkNNWHhCY3hBSg?oc=5",
-     "source": "The Wave Andaman",
-     "published": "2026-11-23T09:48:42+00:00",
-     "summary": "India Announces NPR 24,000 Crore Package for Nepal’s Reconstruction After August Floods&nbsp;&nbsp;The Wave Andaman",
-     "image": ""
-    },
-    {
-     "title": "India announces US$1.62 billion aid package to help Nepal rebuild after devastating floods",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcHhvaG1VUWtnTkstUGJ0bXBYZFk2YV9BUmZYektUem4xaGxBMWlDY1NCcnI4T3ZJRkI5OW1yc3Z5SVhPeWczWTMxam8wNFlCZTJmRzg3ZThDWEVhQ3MtR2djUnotMlJrQ3FCNXc3MF9NNDdzakRMbVhKYXFQSE5wdWhQUFN0TlhnTmhEZ2EwT1AwbXlpQUtHTlhPSVpOSmVVaXFad053bUN5cE9nMWJFa3ZFYw?oc=5",
-     "source": "The Sun Malaysia",
-     "published": "2026-11-23T09:47:55+00:00",
-     "summary": "India announces US$1.62 billion aid package to help Nepal rebuild after devastating floods&nbsp;&nbsp;The Sun Malaysia",
-     "image": ""
-    },
-    {
-     "title": "Nepal PM Balendra Shah praises India's disaster response",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNck9qOUVycEthZFFKaXNZeEFWb0VTRUczdXZSUTlmZU0wYjdmUUktVkc1T0d2SlFacHBKYUJlMEkxQWZEamFFY3BQdnJXcF9OdFBGY0FhdGY2QnBoZzJTZ0c3Z3Z4a2lUZkpCUXdnd3NoSzBoMmNOM3dwc0VneDM1YXFvNVRsaFlRUkpOMmxCWnExcllIUVJXOWFyY3FjMVNDZFJocmplc20xZw?oc=5",
-     "source": "Awaz The Voice",
-     "published": "2026-11-23T09:47:34+00:00",
-     "summary": "Nepal PM Balendra Shah praises India's disaster response&nbsp;&nbsp;Awaz The Voice",
-     "image": ""
-    },
-    {
-     "title": "PM Balen calls for Nepal-India partnership to deliver prosperity, says trust should be as high as Himalayas",
-     "url": "https://english.onlinekhabar.com/balen-nepal-india-partnership-blossom.html",
-     "source": "Online Khabar",
-     "published": "2026-11-23T09:41:25+00:00",
-     "summary": "Kathmandu, November 23 Prime Minister Balen Shah has called for Nepal and India to turn their longstanding ties into a transformative development partnership based on mutual trust,",
-     "image": ""
-    },
-    {
-     "title": "India-Nepal ties: Eight MoUs signed, Janakpur- Ayodhya train flagged off among other projects in first bilateral meet",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSEZFczZHT0Nydkd2QUxYTWNEWGtrVEFXOWdmckdYZDBmWEl0R3M1cTlhMFZRSXdNeEZjMGJVVE9GSldpakhPTmQ2OXFoUFlqVFNzOFkzR1ZCcG1CaFhwLXpHNUUzTHVaaWhtUk5nMGtRVGw4RzlhSE55ZlZKQnhudEUzcTRLSGJDenhESm9CUUpFSE1vaUZ2M2ZJVGxkU09KTXhTZHBNZUpQdFRJSUI1UjJwVlBId2xVSEMwWDI0enBPaEE4Z3VwcUlWWVZjT25UcF8zSWg2ZWw5czZ5cXJJUF95WDJERDIxanVTLUt30gH7AUFVX3lxTE1OcWNYRlZNSzhPcm5IQ0FQa18zSjRhd3hKMld3d3ZXcXlxUV90X3pOcW9UaHlxT1UwTE9ibzZEU2FrcVlWbm82UHRUeU9IXzd2eV9kb3hDTVV0UUZpSG9JdHE2RkptMEJKdmhZU2dWT0lMdXVlSUx4WWszUjdaZ2Z6eWZGZks4bV9LU05ueTNlNDFRTHNieXJnWmtzTHYyWksyY1pCOXFxRmx4NDRJN3RnVGJvd3A0SGhJN2NCWUpWM1h2Q0NVM1hrd1d5YUNrU3R0UG5YWWFEQ1ZMdWU1NGZ2cFRxSXRUSFdHaXEyZThrd0Fnb25lRDQxSVNZ?oc=5",
-     "source": "Deccan Herald",
-     "published": "2026-11-23T09:39:48+00:00",
-     "summary": "India-Nepal ties: Eight MoUs signed, Janakpur- Ayodhya train flagged off among other projects in first bilateral meet&nbsp;&nbsp;Deccan Herald",
-     "image": ""
-    },
-    {
-     "title": "'Dependable': India, Nepal sign eight MoUs for research, reforms; announces IIT offshore campus as Balen Shah wraps up visit",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSVFNZFI0RndDaUNPZnFveTAyU2trRUYyTFBYY2hieWNuUjBqeHZZYmpXMUhOa3JrVjFueVAyNE4yVEdjVTdFazVSUVRTWVV6Rk5vRXh1dWhXT2EyclBvRzdOaXh3MXNaZnE5SDhKWWxfZk1TWjVVRzJMZnlkbUJEeHZUUE5NNVJ0YWExUHBzdThta3ZabndqYm1wLUpCQ1FkbE5tSk1STlRTWjQ1a0Z4aXk4VDdiLXF5NjJsUE1KWWlfQm0zMDd6bEgyUVY1YkZlT0pTMDVDc1BMbDJQSGhyNDZ3blc3UWFCaVNEZW9tTU5QcDUtak9FYUkzNljSAYICQVVfeXFMTjF2U01JdTdWY1J0V0JzbHNvcDJSSG9yajEtSzNHZ1BINjlIV29qeHZnVzRhRWZaNnNzNG5feW50cFMwemtfekhfVFhKXzktWVE4NmRFX3oxUlJMX1ZkQUt1ZmF6TUQ1SFl2VERIMEd6Y2ZrbVp0ejZQVFd5bmJXT19jdWswa3NQNUdZWXZLalEzZ2R3WE1WTGxWT0xnV081TmV0cW9YaUo0VFRzTkdKODlNUE5va2JHb0s2RkFhLXlsV2Q1NDlpaUpZVTZUUlNKY2szdDJJNHVRcGpWWjlkenVIY19wUk12VkFLY2VGSl93VUtCWnZhVWdPVVEzWGtVZ1RR?oc=5",
-     "source": "The Week",
-     "published": "2026-11-23T09:39:26+00:00",
-     "summary": "'Dependable': India, Nepal sign eight MoUs for research, reforms; announces IIT offshore campus as Balen Shah wraps up visit&nbsp;&nbsp;The Week",
-     "image": ""
-    },
-    {
-     "title": "Minister Sita Badi Meets Raute Community Members in Kathmandu",
-     "url": "http://english.ratopati.com/story/87924/womens-minister-badi-holds-dialogue-with-raute-community",
-     "source": "Ratopati",
-     "published": "2026-11-23T09:39:03+00:00",
-     "summary": "Kathmandu. Minister for Women, Children, Gender and Social Security Sita Badi has met with members of the Raute community who...",
-     "image": ""
-    },
-    {
-     "title": "Prime Ministers of Nepal and India jointly flag-off Janakpurdham–Ayodhya Railway Service",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa0M3ZzhOQVVqeXpwcGZ2Z2dKWE1Jb0UxUGxCaEJsWmZhV2xycHdzb1hzYUtXVFdQODBKUV9HVWduQ3M1VnZLTy1SQWFfQl9MWUdTb1cxZ05FV1FOMmo4YnFGaUMzZG9ScHN4LUFfYzJCZWpwbnRDRUxEV3dPSWlnaXNvVW96bGlrMFdmWnQ1X19ESlBnb1ZzeU1KMnVITmMzOUhKWDhpSElGSTlCU1VYTzJKazE1dFNVRk05czU2cUMtaDJhaGF1SnAwbw?oc=5",
-     "source": "Nepalnews.com",
-     "published": "2026-11-23T09:33:35+00:00",
-     "summary": "Prime Ministers of Nepal and India jointly flag-off Janakpurdham–Ayodhya Railway Service&nbsp;&nbsp;Nepalnews.com",
-     "image": ""
-    },
-    {
-     "title": "Balen’s visit: Nepal and India launch six projects",
-     "url": "https://peoplesreview.com.np/2026/11/23/balens-visit-nepal-and-india-launch-six-projects/",
-     "source": "Peoples Review",
-     "published": "2026-11-23T09:33:30+00:00",
-     "summary": "Kathmandu, Nov 23: A total of six projects were inaugurated, handed over or had their foundation stones laid during Prime Minister Balendra (Balen) Shah’s visit to India. The proje",
-     "image": ""
-    },
-    {
-     "title": "India announces a $1.6 billion aid package for Nepal’s flood recovery",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTDE5TTZUN3pmN2ZvRlRxemd5cG9pMnc2Y3VfaU12MjUwVXk0VUtfeUhPUjg1WGJGZG43WDg3UE80d0ItV1JfaTJZWVU5M0VhdnQ1UFMzNVVHQS1lVTlkVmxucmRHZlBxTThGVVY3dVFYOTdqeDU4OWd4dF9TQ2dXRDhzWFhtSHVlLXpZaTF3SnhyRkxaQ2Y5TVJlbEFPa0Q1OC0tc1RZNXdKendqN1czUDNqUWtjUWNTSVE?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-23T09:33:15+00:00",
-     "summary": "India announces a $1.6 billion aid package for Nepal’s flood recovery&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "मोदीलाई नेपाल भ्रमणको निम्तो",
-     "url": "https://nepalnews.com/2026/11/23/invitation-to-modi-to-visit-nepal/",
-     "source": "NepalNews",
-     "published": "2026-11-23T09:31:58+00:00",
-     "summary": "काठमाडौं। प्रधानमन्त्री बालेन्द्र शाहले भारतीय प्रधानमन्त्री नरेन्द्र मोदीलाई नेपाल भ्रमणका लागि औपचारिक निमन्त्रणा दिएका छन्। दुईदिने भारत भ्रमणमा रहेका प्रधानमन्त्री शाहले सोमबार",
-     "image": ""
-    },
-    {
-     "title": "Industry Minister Deepak Kumar Shah Calls for Program to Promote Construction Mineral Export",
-     "url": "http://english.ratopati.com/story/87923/if-koshi-sand-cannot-be-utilized-within-10-years-it-will-become-a-burden-for-the-country-industry-minister-sah",
-     "source": "Ratopati",
-     "published": "2026-11-23T09:29:06+00:00",
-     "summary": "Kathmandu. Minister for Industry, Commerce and Supplies Deepak Kumar Shah has stated that the government should immediately bring a program...",
-     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-23T10:06:13.095470+00:00",
+   "fetched_at": "2026-11-23T10:36:43.044182+00:00",
    "stale": false,
    "items": [
     {
@@ -188,11 +188,35 @@
      "image": ""
     },
     {
+     "title": "Second Convention of Non-Resident Nepali Forum International Committee to be Inaugurated by Bidya Devi Bhandari",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWjJTWjlxQndGdnBONGR3Y0NXYV9oVDEwZ0VKMkx6Qzg5Vm51bEFSUk9iaGYwN3lvYklOOEphRm9UUk1BbEd5R3hMTllITzNGS3htVmtta2U2Z3pOVS1tSTRZNjVuVUplNWlDZXhFWmp1M2NHb1p2aFFBZm5vcmZwaU5BNEZueGZfbWNzLVdRVVlwazVGWkJBYm15NE83c0ZNakEzTmkway00LWFoMXBTRTNpWXdBS1RyZHNPNnVRQjJKclU4SUVFZWMzOVAzYjN2cVpR?oc=5",
+     "source": "Ratopati",
+     "published": "2026-11-04T03:34:24+00:00",
+     "summary": "Second Convention of Non-Resident Nepali Forum International Committee to be Inaugurated by Bidya Devi Bhandari&nbsp;&nbsp;Ratopati",
+     "image": ""
+    },
+    {
      "title": "How Dashain travels with the Nepali diaspora",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1czVhV0drMzhYeTgzNGt3VlVoaVFNUFBWcWZ3Y3FwWEpwTktZOVNqdWhCekRJbWdQV2RxQ2U2UmR4SjRCdzM1NVRkZ281eXhPTG9tZTMzb2RmOXFBUkxVdTBHdXB0SHZBY2RnWjlRZERfZW9URmxZ?oc=5",
      "source": "OnlineKhabar English News",
      "published": "2026-10-21T07:00:00+00:00",
      "summary": "How Dashain travels with the Nepali diaspora&nbsp;&nbsp;OnlineKhabar English News",
+     "image": ""
+    },
+    {
+     "title": "Non-Resident Nepali Campaign: From Emotional Connection to Economic Partnership",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEwzS2tZaEtFRzhFU0hCTV9vLWM0YTFZZkVMY1NfNlBtdFNMT19JX09HVnlaN1FUZ19xV1JVa19SNGc4TzVtZW90ZnpkMC1KNWVSa2NSc0JaYnRJaHZEdHhZLU4yNlBUUlA5MldQTVE0QnlsWE9FMy1WWGpURzAwQW1xMTZzcWdsVzNyQ29ZN2RJWGc3RmpMeVRUcDUzSzFjNC02bmVn?oc=5",
+     "source": "Ratopati",
+     "published": "2026-10-11T07:00:00+00:00",
+     "summary": "Non-Resident Nepali Campaign: From Emotional Connection to Economic Partnership&nbsp;&nbsp;Ratopati",
+     "image": ""
+    },
+    {
+     "title": "Non-Resident Nepali Association Portugal Opens Office in Lisbon",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQUdIVm1Kc1h6b1RmQ1VhQXd5TmZBek8tYWRWeG9FT2FLTkJnWS1IMmRXTmtSeFdoQXhiOEpJeFVXSkVxa3c5RW1YV1U4U1BPa09JcGtPUUdiamNXQWpZMmdxTkRjS19PX3ZNVFVYTGx3OWNKWDFQRzBncW9iR0I1UldkMDJBUWZqM0ZrN3RpMUpmWFkyMHhhakc0WUxScGlpYVZzQlJWYmlQV1Foc1U1eEtrQUZPVl9rWUNQZU5xNA?oc=5",
+     "source": "Hamro Patro",
+     "published": "2026-10-07T07:00:00+00:00",
+     "summary": "Non-Resident Nepali Association Portugal Opens Office in Lisbon&nbsp;&nbsp;Hamro Patro",
      "image": ""
     },
     {
@@ -204,41 +228,17 @@
      "image": ""
     },
     {
-     "title": "Foreign Minister Khanal Interacts with Nepali Diaspora in New York",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdU9HeWh3d3lEVjRRZUc0Rk4teEZ5c0Z5M29yXzhIUzdrT1JUX3Jnb09sdWEzTWJWeXpqTlBCSDAwdlRsbk1HZkV6bFdnRmlSUHhyTGZHRFowUm55Q1pPWGdOX2Z4RU1ZUTFtVXdpOXhidU85RHlnTGVPdEJUZlZidWhNUG1adExDb08tSUlkaU1XX1JSbVF4UWxlUlp6eTZOV003b3FYZXZCUDZCZ21aU0lVaGZsd20zbm5nTDB3S0c?oc=5",
+     "title": "NRN Asia-Pacific Deputy Coordinator Rakesh Prasad Mahato States Nepalis Abroad are Economically Empowered",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcFFNSTRDbHdhLUVTRWhsM3FHM0VORTFaZldyWTkzbEpiRXluOEpfNzU2V19mMkc2YWRmNk5rWnRKR2E5ZE0ySjJITW9STGRBczlqVzA5bURvMklrTUlFUk95RmZoWGh3Y2hJZ3Z5SDBnYnZqRV9hZEdKZVBTSldiemxOTWt6SDA4UFY4T1QxWkRQMG1FTkVzT0hjN3JZZmtVZ1Bvejk2RHlUNEN1V3p1VldFZWMzeHlvMlU3SWh0MGthWVJWY0dZ?oc=5",
      "source": "Ratopati",
-     "published": "2026-09-26T11:08:44+00:00",
-     "summary": "Foreign Minister Khanal Interacts with Nepali Diaspora in New York&nbsp;&nbsp;Ratopati",
-     "image": ""
-    },
-    {
-     "title": "'Nepali Diaspora, a crucial pillar of Nepal's development journey'",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRaG5CSGdWZnZyeFEyLWNaQXRMSENwZGtjb19ORlFCeV9XOEljYVdjLW5SVUIzRXBXak03Z1pJU3lhLUVodnBndjRrb08zVUJ2?oc=5",
-     "source": "The Rising Nepal",
-     "published": "2026-09-26T10:31:06+00:00",
-     "summary": "'Nepali Diaspora, a crucial pillar of Nepal's development journey'&nbsp;&nbsp;The Rising Nepal",
-     "image": ""
-    },
-    {
-     "title": "How Nepali diaspora is responding to flood disaster and how Australians can help in relief effort",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOEp0NWdCeWpsZWRIZXREUVVBdzBTck5SaFRyTmcwcU9vMGd0V1d3ZU80djdmem9BOGx1Q203bzFvTDYwRzVvWVFvX0hhdjltdktXN3E2LTlrRXl6ZzFTLURKbFpFU3U3dWxvTmU4SDAydjZTb0g4S0pvUFdKbDE5WmtVZWFmR2hsQjJIX2toQlVyR2h1eWVvdWlOMzRlcEpsOTNWX2hJaVB1eTVWTWxGSjc1VQ?oc=5",
-     "source": "The Guardian",
-     "published": "2026-08-28T07:00:00+00:00",
-     "summary": "How Nepali diaspora is responding to flood disaster and how Australians can help in relief effort&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "Australia's Nepali diaspora wait for news of loved ones",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQkFldWxoRkdteXU5XzZ2THZQTC1ITlNTZC15cjhzNTB5RnM5STNWS09zT1VQR3R0RC14ei1tb1k3UUR4a3hNLXFMbllCd2xyZU03WDViSFNfcnNSdG9vS2hfYWcyelIyY0RPUDJVOXp4Q2FHdmVZU1FVOEFDU1hwTVhmTTVvSFlwTkt6bE80cUQ0YXlHSklrWmdUVkljSXBvVk5NRFVveUdNQUMyYTdRLWNhUDV3TzBseEpFM0d4OXRUVi1JWk1fMQ?oc=5",
-     "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-     "published": "2026-08-27T07:00:00+00:00",
-     "summary": "Australia's Nepali diaspora wait for news of loved ones&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting Corporation",
+     "published": "2026-10-02T06:26:21+00:00",
+     "summary": "NRN Asia-Pacific Deputy Coordinator Rakesh Prasad Mahato States Nepalis Abroad are Economically Empowered&nbsp;&nbsp;Ratopati",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-23T10:06:13.095473+00:00",
+   "fetched_at": "2026-11-23T10:36:43.044185+00:00",
    "stale": false,
    "items": [
     {
@@ -247,6 +247,54 @@
      "source": "www.daily-sun.com",
      "published": "2026-11-23T09:57:22+00:00",
      "summary": "India extends development assistance to Nepal for flood reconstruction&nbsp;&nbsp;www.daily-sun.com",
+     "image": ""
+    },
+    {
+     "title": "PM Balen calls for Nepal-India partnership to deliver prosperity, says trust should be as high as Himalayas",
+     "url": "https://english.onlinekhabar.com/balen-nepal-india-partnership-blossom.html",
+     "source": "Online Khabar",
+     "published": "2026-11-23T09:41:25+00:00",
+     "summary": "Kathmandu, November 23 Prime Minister Balen Shah has called for Nepal and India to turn their longstanding ties into a transformative development partnership based on mutual trust,",
+     "image": ""
+    },
+    {
+     "title": "'Dependable': India, Nepal sign eight MoUs for research, reforms; announces IIT offshore campus as Balen Shah wraps up visit",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSVFNZFI0RndDaUNPZnFveTAyU2trRUYyTFBYY2hieWNuUjBqeHZZYmpXMUhOa3JrVjFueVAyNE4yVEdjVTdFazVSUVRTWVV6Rk5vRXh1dWhXT2EyclBvRzdOaXh3MXNaZnE5SDhKWWxfZk1TWjVVRzJMZnlkbUJEeHZUUE5NNVJ0YWExUHBzdThta3ZabndqYm1wLUpCQ1FkbE5tSk1STlRTWjQ1a0Z4aXk4VDdiLXF5NjJsUE1KWWlfQm0zMDd6bEgyUVY1YkZlT0pTMDVDc1BMbDJQSGhyNDZ3blc3UWFCaVNEZW9tTU5QcDUtak9FYUkzNljSAYICQVVfeXFMTjF2U01JdTdWY1J0V0JzbHNvcDJSSG9yajEtSzNHZ1BINjlIV29qeHZnVzRhRWZaNnNzNG5feW50cFMwemtfekhfVFhKXzktWVE4NmRFX3oxUlJMX1ZkQUt1ZmF6TUQ1SFl2VERIMEd6Y2ZrbVp0ejZQVFd5bmJXT19jdWswa3NQNUdZWXZLalEzZ2R3WE1WTGxWT0xnV081TmV0cW9YaUo0VFRzTkdKODlNUE5va2JHb0s2RkFhLXlsV2Q1NDlpaUpZVTZUUlNKY2szdDJJNHVRcGpWWjlkenVIY19wUk12VkFLY2VGSl93VUtCWnZhVWdPVVEzWGtVZ1RR?oc=5",
+     "source": "The Week",
+     "published": "2026-11-23T09:39:26+00:00",
+     "summary": "'Dependable': India, Nepal sign eight MoUs for research, reforms; announces IIT offshore campus as Balen Shah wraps up visit&nbsp;&nbsp;The Week",
+     "image": ""
+    },
+    {
+     "title": "Minister Sita Badi Meets Raute Community Members in Kathmandu",
+     "url": "http://english.ratopati.com/story/87924/womens-minister-badi-holds-dialogue-with-raute-community",
+     "source": "Ratopati",
+     "published": "2026-11-23T09:39:03+00:00",
+     "summary": "Kathmandu. Minister for Women, Children, Gender and Social Security Sita Badi has met with members of the Raute community who...",
+     "image": ""
+    },
+    {
+     "title": "Prime Ministers of Nepal and India jointly flag-off Janakpurdham–Ayodhya Railway Service",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa0M3ZzhOQVVqeXpwcGZ2Z2dKWE1Jb0UxUGxCaEJsWmZhV2xycHdzb1hzYUtXVFdQODBKUV9HVWduQ3M1VnZLTy1SQWFfQl9MWUdTb1cxZ05FV1FOMmo4YnFGaUMzZG9ScHN4LUFfYzJCZWpwbnRDRUxEV3dPSWlnaXNvVW96bGlrMFdmWnQ1X19ESlBnb1ZzeU1KMnVITmMzOUhKWDhpSElGSTlCU1VYTzJKazE1dFNVRk05czU2cUMtaDJhaGF1SnAwbw?oc=5",
+     "source": "Nepalnews.com",
+     "published": "2026-11-23T09:33:35+00:00",
+     "summary": "Prime Ministers of Nepal and India jointly flag-off Janakpurdham–Ayodhya Railway Service&nbsp;&nbsp;Nepalnews.com",
+     "image": ""
+    },
+    {
+     "title": "Balen’s visit: Nepal and India launch six projects",
+     "url": "https://peoplesreview.com.np/2026/11/23/balens-visit-nepal-and-india-launch-six-projects/",
+     "source": "Peoples Review",
+     "published": "2026-11-23T09:33:30+00:00",
+     "summary": "Kathmandu, Nov 23: A total of six projects were inaugurated, handed over or had their foundation stones laid during Prime Minister Balendra (Balen) Shah’s visit to India. The proje",
+     "image": ""
+    },
+    {
+     "title": "Industry Minister Deepak Kumar Shah Calls for Program to Promote Construction Mineral Export",
+     "url": "http://english.ratopati.com/story/87923/if-koshi-sand-cannot-be-utilized-within-10-years-it-will-become-a-burden-for-the-country-industry-minister-sah",
+     "source": "Ratopati",
+     "published": "2026-11-23T09:29:06+00:00",
+     "summary": "Kathmandu. Minister for Industry, Commerce and Supplies Deepak Kumar Shah has stated that the government should immediately bring a program...",
      "image": ""
     },
     {
@@ -288,188 +336,140 @@
      "published": "2026-11-23T09:23:20+00:00",
      "summary": "Acting Prime Minister Birajbhakta Shrestha has urged local levels across the country to learn from the environmental crisis Kathmandu is...",
      "image": ""
-    },
-    {
-     "title": "PM Balen’s India visit sees launch, handover of six projects",
-     "url": "https://english.onlinekhabar.com/balens-india-visit-modi-project.html",
-     "source": "Online Khabar",
-     "published": "2026-11-23T09:22:53+00:00",
-     "summary": "Kathmandu, November 23 A total of six projects were inaugurated, handed over or launched during Prime Minister Balendra Shah&#8217;s visit to India. The projects were unveiled foll",
-     "image": ""
-    },
-    {
-     "title": "Nepal-India relations should be transformed into a development partnership: PM Balen",
-     "url": "https://english.onlinekhabar.com/nepal-india-relations-pm-balen.html",
-     "source": "Online Khabar",
-     "published": "2026-11-23T09:21:14+00:00",
-     "summary": "Kathmandu, November 23 Prime Minister Balendra Shah (Balen) has expressed the wish that trust between Nepal and India be as tall as the Himalayas and that their cooperation flow li",
-     "image": ""
-    },
-    {
-     "title": "Lawmakers Propose Stricter Penalties for Violating Victim Privacy in Human Trafficking Bill",
-     "url": "http://english.ratopati.com/story/87917/mps-propose-a-fine-of-rs-100000-and-one-year-in-prison-for-violating-the-privacy-of-human-trafficking-victims",
-     "source": "Ratopati",
-     "published": "2026-11-23T09:17:26+00:00",
-     "summary": "Kathmandu. Lawmakers have proposed a fine of up to one hundred thousand rupees for those who violate the privacy of...",
-     "image": ""
-    },
-    {
-     "title": "Balen Shah calls for people-centred Nepal-India partnership",
-     "url": "https://english.khabarhub.com/2026/23/576735/",
-     "source": "Khabarhub",
-     "published": "2026-11-23T09:15:34+00:00",
-     "summary": "KATHMANDU: Prime Minister (PM) Balendra Shah (Balen) has stressed that the benefits of agreements reached and development projects initiated between Nepal and India must translate ",
-     "image": ""
-    },
-    {
-     "title": "North Korean Leader Kim Jong Un Vows to Expand Foreign Relations Based on Sovereignty and Security",
-     "url": "http://english.ratopati.com/story/87915/kim-insists-on-sovereignty-after-failing-to-meet-with-trump",
-     "source": "Ratopati",
-     "published": "2026-11-23T09:12:26+00:00",
-     "summary": "Washington DC. A few days after not being able to meet with US President Donald Trump, North Korean leader Kim...",
-     "image": ""
-    },
-    {
-     "title": "Minister Timilsina Suggests Reconsidering Foreign Investment in Film Sector",
-     "url": "http://english.ratopati.com/story/87913/foreign-investment-in-the-film-industry-should-be-reconsidered-communications-minister-timilsina",
-     "source": "Ratopati",
-     "published": "2026-11-23T09:09:34+00:00",
-     "summary": "Kathmandu. Minister for Communications and Information Dr. Bikram Timilsina has stated that it is necessary to reconsider the possibility of...",
-     "image": ""
     }
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-23T10:06:13.095475+00:00",
+   "fetched_at": "2026-11-23T10:36:43.044186+00:00",
    "stale": false,
    "items": [
     {
-     "title": "भन्सार अधिकृत र कार्यालय सहयोगीविरुद्ध भ्रष्टाचार मुद्दा दायर",
-     "url": "https://gorkhapatraonline.com/news/230107",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-23T10:04:20+00:00",
-     "summary": "काठमाडौँ, मङ्सिर ७ गते । अख्तियार दुरुपयोग अनुसन्धान आयोगले त्रिभुवन विमानस्थल भन्सार कार्यालयअन्तर्गत वैदेशिक हुलाक शाखा, डिल्लीबजारमा कार्यरत भन्सार अधिकृत ईन्द्र न्यौपाने र कार्",
-     "image": "https://gorkhapatraonline.com/storage/media/392979/conversions/Akhtiyar-Building-original.jpg"
+     "title": "नेपालमा राष्ट्रिय क्रिकेट एकेडेमी स्थापना गर्न भारतले सहयोग गर्ने",
+     "url": "https://khabarhub.com/2026/23/1050781/",
+     "source": "Khabarhub (नेपाली)",
+     "published": "2026-11-23T10:36:29+00:00",
+     "summary": "काठमाडौँ &#8211; प्रधानमन्त्री बालेन्द्र शाहको भारत भ्रमणका क्रममा नेपालमा राष्ट्रिय क्रिकेट प्रशिक्षण एकेडेमी स्थापना तथा खेलकुद पूर्वाधार विकासका लागि भारतले सहयोग गर्ने सहमति भए",
+     "image": ""
     },
     {
-     "title": "नेप्से दुई अंकले बढ्दा तीन अर्बमाथिको कारोबार",
-     "url": "https://baahrakhari.com/detail/508090",
+     "title": "काठमाडौं–भैरहवा–लखनउ हवाई रुट अब दुवैतर्फ सञ्चालन हुने",
+     "url": "https://baahrakhari.com/detail/508096",
      "source": "Baahrakhari (बाह्रखरी)",
-     "published": "2026-11-23T10:03:00+00:00",
-     "summary": "कारोबारमा भने ग्लोबल आइएमई बैंक अगाडि रह्यो । लगानीकर्ताले यो कम्पनीको १५ करोड रुपैयाँबराबरको सेयर कारोबार गरेका हुन् ।",
+     "published": "2026-11-23T10:36:14+00:00",
+     "summary": "",
      "image": ""
     },
     {
-     "title": "चलचित्रमार्फत नेपालको पर्यटन प्रवर्द्धन गर्ने योजना: मन्त्री तिमिल्सिना",
-     "url": "https://gorkhapatraonline.com/news/230106",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-23T10:02:35+00:00",
-     "summary": "काठमाडौँ, मङ्सिर ७ गते । सूचना तथा सञ्चारमन्त्री डा विक्रम तिमिल्सिनाले चलचित्र क्षेत्रको बदलिँदो स्वरूप र नवीन प्रविधिबीच उद्योगका रूपमा विकास भइरहेको अवस्थालाई सम्बोधन गर्नेगरी च",
-     "image": "https://gorkhapatraonline.com/storage/media/392978/conversions/RSS_KTM_0453copyf-original.jpg"
-    },
-    {
-     "title": "प्रधानमन्त्री शाह र भारतीय समकक्षी मोदीबीच नयाँ दिल्लीमा उच्चस्तरीय द्विपक्षीय वार्ता सम्पन्न",
-     "url": "https://dcnepal.com/2026/11/817496/",
-     "source": "DC Nepal (डीसी नेपाल)",
-     "published": "2026-11-23T10:01:20+00:00",
-     "summary": "काठमाडौं । भारतको औपचारिक भ्रमणमा रहनुभएका सम्माननीय प्रधानमन्त्री वालेन्द्र शाहज्यू र भारतका प्रधानमन्त्री महामहिम नरेन्द्र मोदीज्यूबीच आज नयाँ दिल्लीमा उच्चस्तरीय द्विपक्षीय वार्",
+     "title": "नेप्से झिनो अंकले बढ्यो, कारोबार साढे ३ अर्बमाथि",
+     "url": "https://khabarhub.com/2026/23/1050782/",
+     "source": "Khabarhub (नेपाली)",
+     "published": "2026-11-23T10:35:23+00:00",
+     "summary": "काठमाडौँ-&#160;साताको कारोबारको पहिलो दिन आइतबार सेयर बजारमा सामान्य सुधार देखिएको छ। नेपाल स्टक एक्सचेञ्ज (नेप्से) परिसूचक २.२६ अङ्कले बढेर २ हजार ६२३.५६ विन्दुमा पुगेको छ। नेप्से",
      "image": ""
     },
     {
-     "title": "रेलदेखि जलविद्युतसम्म भारतसँग नेपालको सहकार्य विस्तार",
-     "url": "https://www.imagekhabar.com/news/564109/",
-     "source": "Image Khabar (इमेज खबर)",
-     "published": "2026-11-23T10:00:54+00:00",
-     "summary": "काठमाडौं । जनकपुर–अयोध्या रेल सेवा सञ्चालनदेखि पेट्रोलियम पूर्वाधार हस्तान्तरणसम्मका परियोजना अघि बढे नेपाल र भारतबीच ऊर्जा, यातायात, प्रविधि र पूर्वाधार विकासलाई केन्द्रमा राखेर स",
-     "image": ""
-    },
-    {
-     "title": "आदित्यनाथले भने : रेल सेवाले दुई धार्मिक स्थललाई जोड्यो",
-     "url": "https://www.ratopati.com/story/607089/adityanath-said-the-train-service-connected-two-religious-places",
+     "title": "भ्रष्टाचार प्रकरणमा पूर्वप्रधानमन्त्री नेपालसहित ९३ जनाको नाममा म्याद जारी",
+     "url": "https://www.ratopati.com/story/607094/summons-issued-for-93-people-including-former-prime-minister-nepal-in-corruption-case",
      "source": "Ratopati (नेपाली)",
-     "published": "2026-11-23T09:58:07+00:00",
-     "summary": "काठमाडौँ । उत्तरप्रदेशका मुख्यमन्त्री योगी आदित्यनाथले भारतीय रेलमार्फत दुई महत्त्वपूर्ण धार्मिक स्थललाई जोड्ने काम भएको बताएका छन् । भारत भ्रमणमा रहेका प्रधानमन्त्री वालेन्द्र शाह",
-     "image": "https://npcdn.ratopati.com/media/news/yogi-adityanath_IVbkC9o8ZA.webp"
+     "published": "2026-11-23T10:35:00+00:00",
+     "summary": "काठमाडौँ । विराटनगर उपमहानगरपालिकाको सार्वजनिक जग्गा सट्टापट्टा सम्बन्धी भ्रष्टाचार मुद्दामा विशेष अदालतले पूर्वप्रधानमन्त्री माधवकुमार नेपाल, पूर्वमन्त्री मिनेन्द्र रिजालसहित ९३ ज",
+     "image": "https://npcdn.ratopati.com/media/news/jagga-madhav-minendra_ZNH0gd55e2.webp"
     },
     {
-     "title": "लिबियाको नौसैनिक अड्डामै युक्रेनको प्रहार, रुसी युद्धपोत निशानामा",
-     "url": "https://www.thahakhabar.com/detail/312420",
+     "title": "अर्थसँग जोडिएका कानुन खारेज गरिँदै, कुन कुन परे?",
+     "url": "https://www.thahakhabar.com/detail/312424",
      "source": "Thaha Khabar (थाहा खबर)",
-     "published": "2026-11-23T09:56:37+00:00",
-     "summary": "",
-     "image": "https://www.thahakhabar.com/uploads/posts/russia-blast-1793686816.jpg"
+     "published": "2026-11-23T10:34:47+00:00",
+     "summary": "व्यवसायको लागत बढाउने, कार्यान्वयनमा गलत प्रयोग हुन सक्ने तथा अनावश्यक नियन्त्रणमुखी र वर्तमान सन्दर्भमा असान्दर्भिक देखिएका कानुनको खारेजी तथा संशोधन अघि बढाइएको छ।",
+     "image": "https://www.thahakhabar.com/uploads/posts/GD_KTM_RSS_07__DG_1521(2)-1795430080.jpeg"
     },
     {
-     "title": "निजामती सेवामा गुमेको विश्वास फर्काउने जिम्मेवारी नवप्रवेशीमा छः मन्त्री रावल",
-     "url": "https://dcnepal.com/2026/11/817493/",
+     "title": "गुडिरहेको जिपको ढोकाबाट खसेर एक जनाको मृत्यु",
+     "url": "https://dcnepal.com/2026/11/817503/",
      "source": "DC Nepal (डीसी नेपाल)",
-     "published": "2026-11-23T09:54:02+00:00",
-     "summary": "ललितपुर। भूमि व्यवस्था, सहकारी, सङ्घीय मामिला तथा सामान्य प्रशासनमन्त्री प्रतिभा रावलले सरकारले निजामती सेवाप्रतिको जनविश्वास पुनःस्थापित गर्न प्रशासनिक सुधार, पारदर्शिता र जवाफदेह",
+     "published": "2026-11-23T10:34:27+00:00",
+     "summary": "काठमाडौं। सिन्धुलीमा गुडिरहेको जिपको ढोकाबाट खसेर ५८ वर्षीय मानध्वज योञ्जनको मृत्यु भएको छ। मृत्यु हुनेमा सिन्धुलीको घ्याङलेख गाउँपालिका–४ बन्दीपुरका बासिन्दा योञ्जन रहेका छन्। प्र",
      "image": ""
     },
     {
-     "title": "यमनमा फेरि रक्तपात, साउदी आक्रमणमा दर्जनौँ हताहत",
-     "url": "https://www.thahakhabar.com/detail/312419",
-     "source": "Thaha Khabar (थाहा खबर)",
-     "published": "2026-11-23T09:52:50+00:00",
-     "summary": "",
-     "image": "https://www.thahakhabar.com/uploads/posts/saudi-yamanies-1766807935.jpg"
-    },
-    {
-     "title": "निजामती सेवाप्रतिको जनविश्वास फर्काउन प्रशासनिक सुधारमा जोड : मन्त्री रावल",
-     "url": "https://khabarhub.com/2026/23/1050765/",
-     "source": "Khabarhub (नेपाली)",
-     "published": "2026-11-23T09:52:48+00:00",
-     "summary": "ललितपुर-&#160;भूमि व्यवस्था, सहकारी, सङ्घीय मामिला तथा सामान्य प्रशासनमन्त्री प्रतिभा रावलले निजामती सेवाप्रतिको नागरिकको गुमेको विश्वास पुनःस्थापित गर्न प्रशासनिक सुधार, पारदर्शित",
-     "image": ""
-    },
-    {
-     "title": "भारतीय प्रधानमन्त्री माेदीलाई नेपाल भ्रमणकाे निम्ताे",
-     "url": "https://www.ujyaaloonline.com/detail/133780",
-     "source": "Ujyaalo (उज्यालो)",
-     "published": "2026-11-23T09:51:42+00:00",
-     "summary": "प्रधानमन्त्री शाहले भारतका नागरिकलाई पनि नेपालकाे भ्रमण गर्न आग्रह गर्नुभएकाे छ ।",
-     "image": "https://www.ujyaaloonline.com/uploads/posts/balen-modi-3-1795427342.jpg"
-    },
-    {
-     "title": "प्रधानमन्त्री बालेनले मोदीसँगको संयुक्त मिडिया ब्रिफिङमा के भने ? (पूर्णपाठ)",
-     "url": "https://baahrakhari.com/detail/508089",
-     "source": "Baahrakhari (बाह्रखरी)",
-     "published": "2026-11-23T09:51:00+00:00",
-     "summary": "",
-     "image": ""
-    },
-    {
-     "title": "निजामतीमा गुमेको विश्वास फर्काउने जिम्मेवारी नवप्रवेशीमा छः मन्त्री रावल",
-     "url": "https://gorkhapatraonline.com/news/230105",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-23T09:50:55+00:00",
-     "summary": "ललितपुर, मङ्सिर ७ गते । भूमि व्यवस्था, सहकारी, सङ्घीय मामिला तथा सामान्य प्रशासनमन्त्री प्रतिभा रावलले सरकारले निजामती सेवाप्रतिको जनविश्वास पुनःस्थापित गर्न प्रशासनिक सुधार, पारद.",
-     "image": "https://gorkhapatraonline.com/storage/media/392977/conversions/1795421114854-(1)-original.jpg"
-    },
-    {
-     "title": "लिबियामा रुसी युद्धपोतमा आक्रमण गरेको युक्रेनको पुष्टि",
-     "url": "https://www.onlinekhabar.com/2026/11/2063862/ukraine-confirms-attack-on-russian-warship-in-libya",
+     "title": "अनन्या बिड्ला को हुन् ? व्यवसायदेखि बलिउडसम्म चर्चा",
+     "url": "https://www.onlinekhabar.com/2026/11/2063887/who-is-ananya-birla-from-business-to-bollywood-the-talk-of-the-town",
      "source": "Online Khabar (नेपाली)",
-     "published": "2026-11-23T09:50:20+00:00",
-     "summary": "युक्रेनी राष्ट्रपति भोलोदिमर जेलेन्स्कीले लिबियाको बेनगाजीस्थित नौसैनिक अड्डामा रहेको रुसी युद्धपोतमा समुद्री ड्रोनबाट आक्रमण गरेको पुष्टि गरेका छन्।",
+     "published": "2026-11-23T10:34:24+00:00",
+     "summary": "व्यवसाय, संगीत, फिल्म र सामाजिक सञ्जालमा सक्रिय अनन्या बिड्ला अहिले चर्चामा छिन् । भारतका चर्चित उद्योगपति कुमार मंगलम बिड्लाकी छोरी अनन्या बिड्ला बिड्ला परिवारको ६ पुस्ताको इतिहास",
      "image": ""
     },
     {
-     "title": "काठमाडौंमा सेल ब्रोडकास्ट प्रणालीको परीक्षण हुँदै, नआत्तिन आग्रह",
-     "url": "https://baahrakhari.com/detail/508088",
+     "title": "भारतीय राष्ट्रपति मुर्मूसँग प्रधानमन्त्री शाहको शिष्टाचार भेटवार्ता",
+     "url": "https://www.setopati.com/politics/403211",
+     "source": "Setopati (सेतोपाटी)",
+     "published": "2026-11-23T10:33:44+00:00",
+     "summary": "भारतको दुई दिने राजकीय भ्रमणमा रहेका प्रधानमन्त्री बालेन्द्र शाहले भारतीय राष्ट्रपति द्रौपदी मुर्मूसँग शिष्टाचार भेटवार्ता गरेका छन्।",
+     "image": ""
+    },
+    {
+     "title": "प्रधानमन्त्री बालेन र भारतीय राष्ट्रपति मुर्मूबीच शिष्टाचार भेट",
+     "url": "https://baahrakhari.com/detail/508095",
      "source": "Baahrakhari (बाह्रखरी)",
-     "published": "2026-11-23T09:49:35+00:00",
+     "published": "2026-11-23T10:32:10+00:00",
      "summary": "",
      "image": ""
     },
     {
-     "title": "नेपालले पाएन हवाई रुट",
-     "url": "https://khabarhub.com/2026/23/1050762/",
+     "title": "इन्डोनेसियाको क्यान्डी कारखानामा आगलागी : ३४ श्रमिक अझै बेपत्ता",
+     "url": "https://khabarhub.com/2026/23/1050778/",
      "source": "Khabarhub (नेपाली)",
-     "published": "2026-11-23T09:47:12+00:00",
-     "summary": "काठमाडौं- भारतबाट थप हवाई रुट प्राप्त गर्ने नेपालको अपेक्षा प्रधानमन्त्री वालेन्द्र शाहको पछिल्लो भारत भ्रमणबाट सफल हुन सकेन । प्रधानमन्त्री शाहको भारत भ्रमणका क्रममा अवतरण हुने अन",
+     "published": "2026-11-23T10:30:39+00:00",
+     "summary": "जकार्ता-&#160;इन्डोनेसियाको राजधानी जकार्तानजिकै रहेको एक क्यान्डी कारखानामा भएको भीषण आगलागीपछि बेपत्ता भएका ३४ श्रमिकको खोजीका लागि ५०० भन्दा बढी उद्धारकर्मी परिचालन गरिएको छ। बा",
      "image": ""
+    },
+    {
+     "title": "खाद्य सुरक्षाका लागि स्थानीय उत्पादनमा जोड दिनुपर्छ : होगन",
+     "url": "https://khabarhub.com/2026/23/1050775/",
+     "source": "Khabarhub (नेपाली)",
+     "published": "2026-11-23T10:29:09+00:00",
+     "summary": "नयाँ दिल्ली- द्वन्द्व, आपूर्ति शृङ्खलामा अवरोध र कृषि सामग्रीको बढ्दो मूल्यले खाद्य सुरक्षामा चुनौती थपिरहेका बेला स्थानीय उत्पादन र कृषि क्षेत्रको उत्थानशीलता बलियो बनाउनुपर्ने सं",
+     "image": ""
+    },
+    {
+     "title": "संयुक्त पत्रकार सम्मेलनमा प्रधानमन्त्री शाहकाे सम्बाेधन (पूर्णपाठ)",
+     "url": "https://www.ujyaaloonline.com/detail/133782",
+     "source": "Ujyaalo (उज्यालो)",
+     "published": "2026-11-23T10:27:53+00:00",
+     "summary": "प्रधानमन्त्री शाहले नेपाल र भारतबीचको सम्बन्ध हिमालझैँ अटल र महासागरझैँ विशाल रहेको बताउनुभयाे ।",
+     "image": "https://www.ujyaaloonline.com/uploads/posts/balen-modi-2-1795429628.jpg"
+    },
+    {
+     "title": "भैरहवाबाट हवाई रुट दिन भारत सहमत, नेपालको दशक लामो प्रयासमा ब्रेक थ्रु",
+     "url": "https://www.onlinekhabar.com/2026/11/2063884/india-agrees-to-provide-air-route-from-bhairahawa-a-breakthrough-in-nepals-decade-long-efforts",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-23T10:27:48+00:00",
+     "summary": "७ मंसिर, नयाँदिल्ली । प्रधानमन्त्री बालेन्द्र शाहको दुई दिने भारत भ्रमणका क्रममा नेपाल र भारतबीच अन्तर्राष्ट्रिय उडानका लागि थप हवाई प्रवेशमार्ग उपलब्ध गराउने विषयमा सहमति भएको छ ।",
+     "image": ""
+    },
+    {
+     "title": "इरानमा ८१ हजार प्रदर्शनकारी मारिएको ट्रम्पको दाबी",
+     "url": "https://baahrakhari.com/detail/508094",
+     "source": "Baahrakhari (बाह्रखरी)",
+     "published": "2026-11-23T10:27:32+00:00",
+     "summary": "",
+     "image": ""
+    },
+    {
+     "title": "प्रधानमन्त्री बालेनको भारत भ्रमण मधेसीका लागि गौरवको विषय हो : सीके राउत",
+     "url": "https://www.ratopati.com/story/607093/prime-minister-balens-visit-to-india-is-a-matter-of-pride-for-madhesis-ck-raut",
+     "source": "Ratopati (नेपाली)",
+     "published": "2026-11-23T10:26:17+00:00",
+     "summary": "काठमाडौँ । प्रधानमन्त्री वालेन्द्र शाह (बालेन)को भारत भ्रमण र भारतीय प्रधानमन्त्री नरेन्द्र मोदीसँगको भेटवार्तालाई जनमत पार्टीका अध्यक्ष डा. सीके राउतले प्रशंसा गरेका छन् । उनले प्",
+     "image": "https://npcdn.ratopati.com/media/news/ck-raut_9Hd1VISeGs.jpg"
+    },
+    {
+     "title": "प्रधानमन्त्री बालेनको दूरदर्शिता राष्ट्रसंघमै देखेको हुँ : मोदी",
+     "url": "https://www.thahakhabar.com/detail/312422",
+     "source": "Thaha Khabar (थाहा खबर)",
+     "published": "2026-11-23T10:21:56+00:00",
+     "summary": "",
+     "image": "https://www.thahakhabar.com/uploads/posts/modi-1795429311.jpeg"
     }
    ]
   }
