@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T13:46:01.347790+00:00",
+ "generated_at": "2026-11-27T13:46:44.738378+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-27T13:46:01.347762+00:00",
+   "fetched_at": "2026-11-27T13:46:44.738334+00:00",
    "stale": false,
    "items": [
     {
@@ -118,25 +118,25 @@
      "image": ""
     },
     {
-     "title": "Nepal’s digital future must not leave women behind",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NeHY0LUZ6dnJaLWFRa1c3TXNBa29nc3RoYkVEdTZ6R1NuLVJXczZyWDR4TlNGZnA5RDE1VldlNDVic2tob3V3dFdUOTRSSjUtTmxheTFUNA?oc=5",
-     "source": "The Annapurna Express",
-     "published": "2026-11-27T12:40:22+00:00",
-     "summary": "Nepal’s digital future must not leave women behind&nbsp;&nbsp;The Annapurna Express",
-     "image": ""
-    },
-    {
      "title": "HISSAN Celebrates 30th Anniversary with Events, Focus on Quality Education",
      "url": "http://english.ratopati.com/story/88579/hisans-30th-founding-anniversary-emphasis-on-providing-quality-education-at-home",
      "source": "Ratopati",
      "published": "2026-11-27T12:38:26+00:00",
      "summary": "Kathmandu. High School and Secondary School Association Nepal (HISSAN) has celebrated its 30th anniversary by organizing various programs. Chairman of...",
      "image": ""
+    },
+    {
+     "title": "Holding Center Eviction Causes Distress for Nirmala's Family",
+     "url": "http://english.ratopati.com/story/88578/which-road-should-i-take-with-a-family-of-10",
+     "source": "Ratopati",
+     "published": "2026-11-27T12:36:35+00:00",
+     "summary": "Kathmandu. Friday, exactly 1 PM. Location – Agricultural Development Bank Training Hall (Holding Center) in Bode, Bhaktapur.The clock on the...",
+     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-27T13:46:01.347777+00:00",
+   "fetched_at": "2026-11-27T13:46:44.738353+00:00",
    "stale": false,
    "items": [
     {
@@ -238,9 +238,25 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-27T13:46:01.347780+00:00",
+   "fetched_at": "2026-11-27T13:46:44.738357+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "With China In Mind, A Full-Fledged Airport To Be Constructed Along The Indo-Nepal Border In Bihar",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNFJ1c0JHcHZjLUdSZFp1TGpTeTBfc2E0QnRqMXZFY1BldDZzX1dtN2o5TUxHbVJySDdhMC1yVFgwMUhYNlZDY2hESnpqTUpSbWhCRjhPd1J5aXhFS292aXM3cTJ5LTQ2azc4TUdNdS1yTk52X1Jfem5vS2N1aVRJdWFuejZFQ0w1M3ppNmZ1OWN0M2dzazJMaUpoU2pOQVRwajRSVHJqYU10ZFhUbV9oTGZjdU1lTWI0eGRyNmpBalVpU2dYU182TjVYdmZBVnR3c0pYempLc1cybmxBOGhV0gHkAUFVX3lxTFBzV0ZIQ2lfNVZHTk1ROERqa3BuSHpHV19TWWVCT21RQ25zaEUzbnJ5RU5MdFM5dXlkQUNqVnJDQzZmc0lHOGhlR2JBUlVxUHZIOE9LTGhzVS0xT2R5aUhGMFg3eUpRZEVCc3oxbW1zOHh0bUdmdjd4VWlTMlZ4M1RTMk1tQkJPZ2NIQTdDSTVrTnNkTjZmZm1Ua1RJQzRVZXZkVi1kMG5aNkpqWDdhMHlvQnN6dmZEb1h2aVFxUnphSzM3aWVIUF9kMm1vMXRyUUVnWmpPQnlDQ1VNSkNUWE5BbG1lQg?oc=5",
+     "source": "ETV Bharat",
+     "published": "2026-11-27T13:01:30+00:00",
+     "summary": "With China In Mind, A Full-Fledged Airport To Be Constructed Along The Indo-Nepal Border In Bihar&nbsp;&nbsp;ETV Bharat",
+     "image": ""
+    },
+    {
+     "title": "Nepal’s digital future must not leave women behind",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NeHY0LUZ6dnJaLWFRa1c3TXNBa29nc3RoYkVEdTZ6R1NuLVJXczZyWDR4TlNGZnA5RDE1VldlNDVic2tob3V3dFdUOTRSSjUtTmxheTFUNA?oc=5",
+     "source": "The Annapurna Express",
+     "published": "2026-11-27T12:40:22+00:00",
+     "summary": "Nepal’s digital future must not leave women behind&nbsp;&nbsp;The Annapurna Express",
+     "image": ""
+    },
     {
      "title": "Minister Directs Staff to Provide Land Survey and Revenue Services Locally",
      "url": "http://english.ratopati.com/story/88577/minister-rawal-directs-to-prepare-for-providing-survey-and-land-revenue-services-at-the-local-level",
@@ -320,27 +336,11 @@
      "published": "2026-11-27T11:21:08+00:00",
      "summary": "Kathmandu. The Election Commission has stated that further challenges have been created due to the non-construction of election-related laws on...",
      "image": ""
-    },
-    {
-     "title": "Government Blacklists 29 Firms and Companies",
-     "url": "http://english.ratopati.com/story/88559/decision-to-blacklist-29-companies-study-framework-prepared-for-policy-alignment",
-     "source": "Ratopati",
-     "published": "2026-11-27T11:14:59+00:00",
-     "summary": "Kathmandu. The government has blacklisted 29 firms and companies based on the recommendation of various public bodies.At a regular press...",
-     "image": ""
-    },
-    {
-     "title": "Surendra Raj Regmi elected president of Nepal Bankers Association",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd0l4N1kwcXlKNzRFbURBSUlTMm1HendYVllCdGNzeVFQeFZCa21IUUhuQWd1eGJkZW80a0c4SkQzSlV2N2Z3U2tZaUkycjQ0aDNDU3lpc19rQko1dVZzcGJrYTZTVmUyWFNMMlA1U242dXVrVmpadjJhaUVLWmxDVWJzZmNLekhJVzVfeXpSUm5VNlM0eEZwRGVqSXdfeGtqMUdXYzZ5MGNoSjQ?oc=5",
-     "source": "Nepalnews.com",
-     "published": "2026-11-27T11:07:55+00:00",
-     "summary": "Surendra Raj Regmi elected president of Nepal Bankers Association&nbsp;&nbsp;Nepalnews.com",
-     "image": ""
     }
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-27T13:46:01.347782+00:00",
+   "fetched_at": "2026-11-27T13:46:44.738359+00:00",
    "stale": false,
    "items": [
     {
@@ -350,6 +350,22 @@
      "published": "2026-11-27T13:45:00+00:00",
      "summary": "पोखरा । गण्डकी प्रदेश सरकारले विगतका वर्षमा बजेट खर्च अपेक्षाकृत हुन नसक्नुमा बजेट विनियोजन प्रक्रियालाई प्रमुख कारण मानेको छ । प्रदेश आर्थिक मामिला मन्त्रालय (अर्थ मन्त्रालय)ले तय",
      "image": "https://npcdn.ratopati.com/media/news/gandaki1_J7KEtZNL9d.webp"
+    },
+    {
+     "title": "कांग्रेस डराए लोकतन्त्र नै संकटमा पर्छ: प्रदीप पौडेल",
+     "url": "https://nagariknews.nagariknetwork.com/politics/if-congress-gets-scared-democracy-itself-will-be-in-danger-pradeep-poudel-82-69.html",
+     "source": "Nagarik (नागरिक)",
+     "published": "2026-11-27T13:42:11+00:00",
+     "summary": "नेपाली कांग्रेसका महामन्त्री प्रदीप पौडेलले वर्तमान सरकारका अलोकतान्त्रिक गतिविधि र बेथितिविरुद्ध कांग्रेस निडर भएर उभिनुपर्ने बताएका छन्।...",
+     "image": ""
+    },
+    {
+     "title": "‘क्षमताभन्दा बढी यात्रु हुँदा दुर्घटना, कानुनी आधारबिनै पानीबोट सञ्चालन’",
+     "url": "https://www.onlinekhabar.com/2026/11/2066627/accidents-due-to-overcrowding-water-boat-operation-without-legal-basis",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-27T13:41:32+00:00",
+     "summary": "कोशी प्रदेश सरकारद्वारा गठित छानबिन तथा अध्ययन समितिले बोटको भारवहन क्षमताभन्दा बढी यात्रु र सुरक्षा मापदण्डको बेवास्तासँगै नियमनको अभावका कारण दुर्घटना भएको निष्कर्ष निकालेको हो ।",
+     "image": ""
     },
     {
      "title": "हुन्डीको बदलिँदो स्वरूप : बैंक खातादेखि क्रिप्टोकरेन्सी सम्मको प्रयोग, युवा बढी संलग्न",
@@ -454,22 +470,6 @@
      "published": "2026-11-27T13:23:00+00:00",
      "summary": "",
      "image": "https://www.thahakhabar.com/uploads/posts/Bharat-pasne-(5)-1795785688.jpg"
-    },
-    {
-     "title": "जनकपुर-अयोध्या रेलमा कसले कसरी दिन्छ सुरक्षा ?",
-     "url": "https://www.onlinekhabar.com/2026/11/2066613/who-provides-security-on-the-janakpur-ayodhya-train-and-how",
-     "source": "Online Khabar (नेपाली)",
-     "published": "2026-11-27T13:21:50+00:00",
-     "summary": "करिब ६ सय ४ किलोमिटर दूरीमा सञ्चालन हुने यस रेलको नेपालतर्फ करिब २७ किलोमिटर भूभाग पर्छ भने बाँकी ५ सय ७७ किलोमिटर भारतीय भूमिमा पर्छ ।",
-     "image": ""
-    },
-    {
-     "title": "पुरुष क्रिकेटमा मधेशले पुलिसलाई हरायो",
-     "url": "https://www.onlinekhabar.com/2026/11/2066507/madhesh-defeats-police-in-mens-cricket",
-     "source": "Online Khabar (नेपाली)",
-     "published": "2026-11-27T13:21:25+00:00",
-     "summary": "११ मंसिर, काठमाडौं । १०औं राष्ट्रिय खेलकुदअन्तर्गत पुरुष क्रिकेटमा मधेश प्रदेशले नेपाल पुलिस क्लबलाई पराजित गरेको छ । समूह &#8216;डी&#8217; अन्तर्गत शुक्रबार कालुन्चोक क्रिकेट मैदा",
-     "image": ""
     }
    ]
   }
