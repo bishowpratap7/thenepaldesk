@@ -1,10 +1,42 @@
 {
- "generated_at": "2026-11-28T12:49:09.870219+00:00",
+ "generated_at": "2026-11-28T13:19:43.438857+00:00",
  "sections": {
   "top_nepal": {
-   "fetched_at": "2026-11-28T12:49:09.870190+00:00",
+   "fetched_at": "2026-11-28T13:19:43.438826+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "सत्ताको पर्दाभित्रको सत्य",
+     "url": "https://nepalnews.com/2026/11/28/the-truth-behind-the-veil-of-power/",
+     "source": "NepalNews",
+     "published": "2026-11-28T13:15:22+00:00",
+     "summary": "लोकतन्त्रमा जनताले आफ्ना शासक छान्छन्। निर्वाचनबाट प्राप्त जनमतले नेतृत्वलाई सत्ता सञ्चालन गर्ने अधिकार दिन्छ। तर त्यही नेतृत्वको वास्तविक अवस्था, निर्णय क्षमता र शासन सञ्चालन गर्न",
+     "image": ""
+    },
+    {
+     "title": "Health Budget Cuts Risk Basic Services, Ayurveda Programs",
+     "url": "http://english.ratopati.com/story/88704/fears-that-health-programs-will-dry-up-as-resources-dwindle",
+     "source": "Ratopati",
+     "published": "2026-11-28T13:15:00+00:00",
+     "summary": "Kathmandu. With the overall health budget shrinking, basic service programs in health promotion and Ayurveda are at risk of being...",
+     "image": ""
+    },
+    {
+     "title": "गौतमबुद्ध रङ्गशालामा एनपिएल खेलाउने लक्ष्य, निर्माणलाई गति दिइने",
+     "url": "https://nepalnews.com/2026/11/28/goal-to-play-npl-at-gautam-buddha-stadium-construction-to-be-accelerated/",
+     "source": "NepalNews",
+     "published": "2026-11-28T13:05:40+00:00",
+     "summary": "चितवन । चितवन जिल्लास्थित गौतमबुद्ध अन्तर्राष्ट्रिय क्रिकेट रङ्गशालामा नेपाल प्रिमियर लिग (एनपिएल) को चौथो संस्करणका खेल सञ्चालन गर्ने लक्ष्यसहित निर्माण तथा व्यवस्थापनका काम अघि ब",
+     "image": ""
+    },
+    {
+     "title": "Govt aims to prepare Gautam Buddha Cricket Stadium for NPL",
+     "url": "https://english.khabarhub.com/2026/28/577396/",
+     "source": "Khabarhub",
+     "published": "2026-11-28T12:56:56+00:00",
+     "summary": "CHITWAN: The government has directed the concerned authorities to upgrade the Gautam Buddha International Cricket Stadium in Chitwan with the aim of making it ready to host matches",
+     "image": ""
+    },
     {
      "title": "Narayanghat-Mugling Road Section to Close Daily for Landslide Prevention Work",
      "url": "http://english.ratopati.com/story/88731/tuinkhola-area-prepared-for-landslide-prevention-see-photos",
@@ -100,43 +132,11 @@
      "published": "2026-11-28T12:17:04+00:00",
      "summary": "Lamjung. The traditional cultural dance 'Pla Seba' (Dhukur-Dukra-Dugura), danced during the final rites of a person in the Gurung community,...",
      "image": ""
-    },
-    {
-     "title": "Gambling Addiction Gripping Nepalis",
-     "url": "http://english.ratopati.com/story/88698/gambling-den-in-jogbani-millions-of-rupees-lost-daily-nepalis-are-being-ruined",
-     "source": "Ratopati",
-     "published": "2026-11-28T12:15:00+00:00",
-     "summary": "Biratnagar. Nepali people who go to buy daily necessities are crowded in the Indian market Jogbani, which is adjacent to...",
-     "image": ""
-    },
-    {
-     "title": "Nepal Announces 15-Member Squad for ICC Men's Cricket World Cup Qualifier Playoff 2026",
-     "url": "http://english.ratopati.com/story/88724/nepals-15-member-squad-announced-under-sandeeps-captaincy-for-world-cup-qualifiers",
-     "source": "Ratopati",
-     "published": "2026-11-28T12:14:02+00:00",
-     "summary": "Kathmandu . Nepal Cricket Association (CAN) has announced a 15-member Nepali national cricket team for the ICC Men's Cricket World...",
-     "image": ""
-    },
-    {
-     "title": "121 arrested in Kathmandu Valley for theft, pickpocketing and harassment on public transport",
-     "url": "https://english.khabarhub.com/2026/28/577393/",
-     "source": "Khabarhub",
-     "published": "2026-11-28T12:07:06+00:00",
-     "summary": "KATHMANDU: Police have arrested 121 people, including a woman, for allegedly stealing cash, mobile phones, jewellery and other personal belongings from passengers on public transpo",
-     "image": ""
-    },
-    {
-     "title": "Nepali Congress Leader States Elected Representatives Cannot Be Punished by Losers",
-     "url": "http://english.ratopati.com/story/88722/bhupendra-rais-challenge-to-gagan-how-does-the-loser-of-the-election-take-action-against-the-winner",
-     "source": "Ratopati",
-     "published": "2026-11-28T12:03:07+00:00",
-     "summary": "Biratnagar. Nepali Congress Koshi Province General Secretary Bhupendra Rai has stated that those who lost the election cannot take action...",
-     "image": ""
     }
    ]
   },
   "diaspora": {
-   "fetched_at": "2026-11-28T12:49:09.870205+00:00",
+   "fetched_at": "2026-11-28T13:19:43.438841+00:00",
    "stale": false,
    "items": [
     {
@@ -238,9 +238,17 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-28T12:49:09.870208+00:00",
+   "fetched_at": "2026-11-28T13:19:43.438845+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Nepali Congress Leader States Elected Representatives Cannot Be Punished by Losers",
+     "url": "http://english.ratopati.com/story/88722/bhupendra-rais-challenge-to-gagan-how-does-the-loser-of-the-election-take-action-against-the-winner",
+     "source": "Ratopati",
+     "published": "2026-11-28T12:03:07+00:00",
+     "summary": "Biratnagar. Nepali Congress Koshi Province General Secretary Bhupendra Rai has stated that those who lost the election cannot take action...",
+     "image": ""
+    },
     {
      "title": "Prachanda says efforts underway to unite all communist forces",
      "url": "https://english.khabarhub.com/2026/28/577390/",
@@ -298,14 +306,6 @@
      "image": ""
     },
     {
-     "title": "Congress Meeting Passes Various Decisions, Addresses Government Performance and International Relations",
-     "url": "http://english.ratopati.com/story/88701/these-are-the-decisions-of-the-congress-central-working-committee-meeting-full-text",
-     "source": "Ratopati",
-     "published": "2026-11-28T10:51:35+00:00",
-     "summary": "Kathmandu. The Nepali Congress Central Working Committee has passed various decisions. The meeting, which started on November 8 and concluded...",
-     "image": ""
-    },
-    {
      "title": "Upendra Paudyal receives Lifetime Achievement Award from Nepal Bankers’ Association",
      "url": "https://peoplesreview.com.np/2026/11/28/upendra-paudyal-receives-lifetime-achievement-award-from-nepal-bankers-association/",
      "source": "Peoples Review",
@@ -340,136 +340,136 @@
    ]
   },
   "nepali": {
-   "fetched_at": "2026-11-28T12:49:09.870210+00:00",
+   "fetched_at": "2026-11-28T13:19:43.438848+00:00",
    "stale": false,
    "items": [
     {
-     "title": "पहिरो रोकथामको तयारी गरिएकाे तुइनखोला क्षेत्र, तस्बिरमा हेर्नुहाेस्",
-     "url": "https://www.ratopati.com/story/608222/tuinkhola-area-prepared-for-landslide-prevention-see-photos",
+     "title": "स्वास्थ्य बजेट खुम्चिँदा आधारभूत सेवामै संकट, जोगाउने उपाय के ?",
+     "url": "https://www.ratopati.com/story/608192/fears-that-health-programs-will-dry-up-as-resources-dwindle",
      "source": "Ratopati (नेपाली)",
-     "published": "2026-11-28T12:47:50+00:00",
-     "summary": "काठमाडौँ । नारायणगढ–मुग्लिन सडक खण्डअन्तर्गत पर्ने पहिरोग्रस्त तुइनखोला क्षेत्रमा पहिरो रोकथामको काम गर्ने तयारी गरिएको छ । आइतबारदेखि दैनिक पाँच घण्टा आवागमन बन्द गरेर यो ठाउँमा प",
-     "image": "https://npcdn.ratopati.com/media/news/twin-khola-narayanghat-mugling-roady_npl_hiralal-gurung-6_NGPhrt19Ki.webp"
+     "published": "2026-11-28T13:15:00+00:00",
+     "summary": "काठमाडौं । समग्र स्वास्थ्य बजेट खुम्चिँदै जाँदा स्वास्थ्य प्रवर्द्धन तथा आयुर्वेद क्षेत्रका आधारभूत सेवा कार्यक्रम कटौती भई ओझेलमा पर्ने जोखिम देखिएको छ । बजेट खुम्चिँदै जाँदा आधार",
+     "image": "https://npcdn.ratopati.com/media/news/health-photo_2auIN7CgxC.webp"
     },
     {
-     "title": "सिग्नेचर पुल निर्माणको निरीक्षणपछि पूर्वाधारमन्त्रीले सिडिओलाई भने– ठेकेदारलाई जेलमा राख्नू",
-     "url": "https://www.setopati.com/politics/403591",
-     "source": "Setopati (सेतोपाटी)",
-     "published": "2026-11-28T12:47:11+00:00",
-     "summary": "‘सिडिओ साब! यो कन्ट्र्याक्टरले जबसम्म राम्रोसँग काम गर्दैन, तबसम्म जेलमै राख्नु। यस्ता फटाहाहरूलाई छोडेर हुन्छ भन्या! के हेरेर बस्नुहुन्छ, मोनिटरिङ गर्नु न भन्या,’ उनले भने।",
-     "image": ""
-    },
-    {
-     "title": "गौतमबुद्ध रङ्गशाला निर्माणलाई तीव्रता दिन मन्त्री लम्सालको निर्देशन",
-     "url": "https://www.ujyaaloonline.com/detail/133947",
-     "source": "Ujyaalo (उज्यालो)",
-     "published": "2026-11-28T12:44:01+00:00",
-     "summary": "",
-     "image": "https://www.ujyaaloonline.com/uploads/posts/sunil-lamsal-1789385157.jpg"
-    },
-    {
-     "title": "१२ वर्षपछि भिक्टोरियाको सत्ता गठबन्धनको हातमा, जेस विल्सन प्रिमियर बन्ने",
-     "url": "https://dcnepal.com/2026/11/818875/",
-     "source": "DC Nepal (डीसी नेपाल)",
-     "published": "2026-11-28T12:41:45+00:00",
-     "summary": "मेलबर्न। अस्ट्रेलियाको भिक्टोरिया राज्यमा भएको निर्वाचनले लामो समयदेखि कायम लेबर पार्टीको शासनलाई अन्त्य गरिदिएको छ। शनिबारको निर्वाचनमा लिबरल–नेसनल गठबन्धनले बहुमततर्फको सफलता हास",
-     "image": ""
-    },
-    {
-     "title": "‘रास्वपाका लागि स्थानीय तह निर्वाचनको नतिजा महत्वपूर्ण छ’",
-     "url": "https://gorkhapatraonline.com/news/230749",
-     "source": "Gorkhapatra (गोरखापत्र)",
-     "published": "2026-11-28T12:41:42+00:00",
-     "summary": "प्रकाश नेपालइलाम, मङ्सिर १२ गते । राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का केन्द्रीय सदस्य मिलन लिम्बुले आगामी स्थानीय तहको निर्वाचन पार्टीका लागि महत्वपूर्ण रहेको बताउनुभएको छ । उह",
-     "image": "https://gorkhapatraonline.com/storage/media/393846/conversions/milan-limbu-rsp-original.jpg"
-    },
-    {
-     "title": "किमको चीन भ्रमणबारे दक्षिण कोरियाको निगरानी",
-     "url": "https://khabarhub.com/2026/28/1052565/",
+     "title": "शक्तिखोर औद्योगिक क्षेत्रको काम अघि बढाउन निर्देशन",
+     "url": "https://khabarhub.com/2026/28/1052571/",
      "source": "Khabarhub (नेपाली)",
-     "published": "2026-11-28T12:40:05+00:00",
-     "summary": "सियोल- उत्तर कोरियाली नेता किम जोङ उनको सम्भावित चीन भ्रमणबारे दक्षिण कोरियाको गुप्तचर निकायले निगरानी बढाएको छ । दक्षिण कोरियाली सञ्चारमाध्यमका अनुसार चिनियाँ राष्ट्रपति सी जिनपिङ",
+     "published": "2026-11-28T13:13:25+00:00",
+     "summary": "नारायणगढ (चितवन)- पूर्वाधार विकासमन्त्री सुनिल लम्सालले चितवनको कालिका नगरपालिकास्थित शक्तिखोर औद्योगिक क्षेत्रको निर्माण प्रक्रिया अघि बढाउन निर्देशन दिएका छन् । आज औद्योगिक क्षेत",
      "image": ""
     },
     {
-     "title": "जबरजस्ती करणी अभियोगमा बैतडीबाट ६८ वर्षीय वृद्ध पक्राउ",
-     "url": "https://www.ratopati.com/story/608221/68-year-old-man-arrested-from-baitadi-on-charges-of-rape",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-28T12:39:56+00:00",
-     "summary": "बैतडी। २७ वर्षीया महिलालाई जबरजस्ती करणी गरेको अभियोगमा बैतडीको डिलाशैनी गाउँपालिका–४ द्वरी बस्ने ६८ वर्षीय मोहन सिंह बोहरालाई प्रहरीले पक्राउ गरेको छ । शनिबार बिहान अस्थायी प्रहरी",
-     "image": "https://npcdn.ratopati.com/media/news/jail_rnS07cE6Y1.jpg"
-    },
-    {
-     "title": "नासलचोक डबलीमा श्वेतकाली अजिमाको १२ वर्षे देवीनाच देखाइयो",
-     "url": "https://www.thahakhabar.com/detail/312675",
+     "title": "राज्यका अंगलाई स्वार्थको आज्ञाकारी निकाय बनाइँदै छ : प्रदीप ज्ञवाली",
+     "url": "https://www.thahakhabar.com/detail/312676",
      "source": "Thaha Khabar (थाहा खबर)",
-     "published": "2026-11-28T12:39:43+00:00",
+     "published": "2026-11-28T13:09:16+00:00",
      "summary": "",
-     "image": "https://www.thahakhabar.com/uploads/posts/1-1795869578.jpg"
+     "image": "https://www.thahakhabar.com/uploads/posts/Pradip-Gwali-1795871347.jpg"
     },
     {
-     "title": "प्रधानमन्त्री कार्यालय र मन्त्रालयकै पत्र बेवास्ता गर्दै त्रिवि, दाहालले दिए थप निवेदन !",
-     "url": "https://www.ratopati.com/story/608216/ignoring-the-letter-from-the-prime-ministers-office-and-the-ministry-tribhuvan-university-and-dahal-submitted-additional-applications",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-28T12:37:17+00:00",
-     "summary": "विराटनगर । त्रिभुवन विश्वविद्यालय (त्रिवि)को प्रशासनिक ढिलासुस्तीका कारण तीनवर्षे एलएलबी अध्ययनको अवसरबाट वञ्चित भएका मोरङका विद्यार्थी योगराज दाहालले थप तथ्यगत प्रमाणसहित राष्ट्रि",
-     "image": "https://npcdn.ratopati.com/media/news/yograj-dahal_l90nGOk2Lp.webp"
-    },
-    {
-     "title": "एमसीसी कम्प्याक्टको म्याद एक वर्ष थप गर्ने अधिकार अर्थमन्त्रालयलाई प्रदान",
-     "url": "https://www.onlinekhabar.com/2026/11/2066964/ministry-of-finance-granted-authority-to-extend-mcc-compact-by-one-year",
-     "source": "Online Khabar (नेपाली)",
-     "published": "2026-11-28T12:36:02+00:00",
-     "summary": "अर्थमन्त्रालय स्रोतका अनुसार मन्त्रिपरिषद्को बैठकले लागत नबढ्नेगरी एमसीसी कम्प्याक्ट अन्तर्गतका परियोजना सम्पन्न गर्ने म्याद एक वर्ष थप गर्ने अधिकार अर्थमन्त्रालयलाई प्रदान गरेको ह",
+     "title": "ताप्लेजुङ बार एसोसिएसनले ८१ लाख लागतमा बनायो तीनतले भवन",
+     "url": "https://dcnepal.com/2026/11/818883/",
+     "source": "DC Nepal (डीसी नेपाल)",
+     "published": "2026-11-28T13:09:01+00:00",
+     "summary": "ताप्लेजुङ। कानुन व्यवसायीहरुको संस्था नेपाल बार एसोसिएन ताप्लेजुङले विभिन्न दाताहरुबाट सहयोग संकलन गरेर आफ्नै भवन निर्माण सम्पन्न गरेको छ। ताप्लेजुङको सदरमुकाम फुङ्लिङमा सहयोगी दात",
      "image": ""
     },
     {
-     "title": "अन्तरात्माको कठघरामा: पाप, पुण्य, नैतिकता र न्यायिक विवेक",
-     "url": "https://www.ratopati.com/story/608220/in-the-courtroom-of-the-conscience-sin-virtue-morality-and-judicial-discernment",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-28T12:35:28+00:00",
-     "summary": "पुरातन समाजमा मानिसले आफ्नो व्यक्तिगत सामाजिक पारिवारिक दायित्वलाई/कर्मलाई पाप र पुण्यको तराजुमा तोलेर संस्कार बसाल्थे। 'पाप' र 'पुण्य' कर्म निर्धारण गर्ने, मुक्ति/मोक्ष प्राप्त गर",
-     "image": "https://npcdn.ratopati.com/media/news/satyaraj-karki_p9IUQuSUIs.webp"
-    },
-    {
-     "title": "देशको स्थायित्वका लागि राजसंस्था आवश्यक, मुद्दामा हीनताबोध छैन :  राजेन्द्र लिङ्देन",
-     "url": "https://www.ratopati.com/story/608219/monarchy-is-necessary-for-the-stability-of-the-country-there-is-no-sense-of-inferiority-complex-in-the-issue-rajendra-lingden",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-28T12:35:23+00:00",
-     "summary": "काठमाडौँ । राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) का अध्यक्ष राजेन्द्र लिङ्देनले देशको स्थायित्वका लागि राजसंस्था आवश्यक रहेको बताउँदै त्यसको पक्षमा पार्टीले उठाएको मुद्दामा कुनै ह",
-     "image": "https://npcdn.ratopati.com/media/news/926582088_2113897916665401_7559488594261419261_n_R3MgsxQk0m.webp"
-    },
-    {
-     "title": "प्रधानमन्त्रीका प्रमुख सल्लाहकारसँग जोडिएको मोबाइल प्रकरणको अनुसन्धान गर्न कांग्रेसको माग",
-     "url": "https://www.setopati.com/politics/403589",
+     "title": "४० थरलाई दलित सूचीमा राखेको भन्दै  काठमाडौंका नेवार समुदायको विरोध प्रदर्शन",
+     "url": "https://www.setopati.com/social/403593",
      "source": "Setopati (सेतोपाटी)",
-     "published": "2026-11-28T12:34:00+00:00",
-     "summary": "कांग्रेसले यस सम्बन्धमा प्रधानमन्त्री शाहलाई तीन प्रश्न गरेको छ।",
+     "published": "2026-11-28T13:08:32+00:00",
+     "summary": "बिना अध्ययन काठमाडौंका नेवार जातिलाई दलित सूचीमा समावेश गरिएको भन्दै उपत्यकाका नेवार समुदायले सरकारको विरोध गरेका छन्।",
      "image": ""
     },
     {
-     "title": "राज्यका सबै अंगलाई स्वार्थको आज्ञाकारी निकाय बनाउन खोजिँदैछ : प्रदीप ज्ञवाली",
-     "url": "https://www.ratopati.com/story/608218/efforts-are-being-made-to-make-all-organs-of-the-state-obedient-to-vested-interests-pradeep-gyawali",
-     "source": "Ratopati (नेपाली)",
-     "published": "2026-11-28T12:32:07+00:00",
-     "summary": "काठमाडौँ । नेकपा एमालेका नेता एवं पूर्वमन्त्री प्रदीप ज्ञवालीले वर्तमान सरकारले राज्यका सबै अंगलाई आफ्ना निहित स्वार्थको आज्ञाकारी निकायका रूपमा रूपान्तरण गर्न खोजेको आरोप लगाएका छ",
-     "image": "https://npcdn.ratopati.com/media/news/pradeep-gyawali_xEvxkAoiL5.webp"
+     "title": "कारबाही गर्न चुनौती दिँदै जितजंग बस्नेतले भने- लास र दासको पार्टी होइनौं",
+     "url": "https://www.onlinekhabar.com/2026/11/2066981/challenging-action-jitjung-basnet-said-we-are-not-a-party-of-corpses-and-slaves",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-28T13:07:05+00:00",
+     "summary": "१२ मंसिर, सर्लाही । नेपाली कांग्रेसका सांसद जितजंग बस्नेतले आफूहरूलाई कारबाहीको धम्की दिइएको भन्दै कारबाहीसँग नडराउने बताएका छन् । पूर्वसभापति शेरबहादुर देउवा पक्षमा खुलेका नेता बस",
+     "image": ""
     },
     {
-     "title": "संविधानले नचिनेका व्यक्तिबाट शासन भइरहेको छः रामहरि खतिवडा",
-     "url": "https://www.imagekhabar.com/news/564460/",
+     "title": "असम्भव सभ्यता",
+     "url": "https://www.setopati.com/literature/403582",
+     "source": "Setopati (सेतोपाटी)",
+     "published": "2026-11-28T13:06:26+00:00",
+     "summary": "तर जीवनको एउटा कठोर विडम्बना छ। हामीले सबैभन्दा कम सम्झेको क्षणमै उसले सबैभन्दा ठूलो परीक्षा लिन्छ।",
+     "image": ""
+    },
+    {
+     "title": "सर्लाहीमा सांसद अमरेश सिंहलाई कालो झण्डा, विरोध प्रदर्शन गर्ने चार जना पक्राउ",
+     "url": "https://dcnepal.com/2026/11/818880/",
+     "source": "DC Nepal (डीसी नेपाल)",
+     "published": "2026-11-28T13:05:32+00:00",
+     "summary": "सर्लाही। राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सांसद अमरेशकुमार सिंहलाई आफ्नै गृहजिल्ला सर्लाहीमा हिन्दु सम्राट सेनाका कार्यकर्ताले कालो झण्डा देखाएका छन्। कालो झण्डा देखाएको आरो",
+     "image": ""
+    },
+    {
+     "title": "दशौँ राष्ट्रिय खेलकुदको उद्घाटन प्रधानमन्त्रीले गर्ने",
+     "url": "https://www.imagekhabar.com/news/564467/",
      "source": "Image Khabar (इमेज खबर)",
-     "published": "2026-11-28T12:31:57+00:00",
-     "summary": "काठमाडौं । नेपाली काँग्रेसका सहमहामन्त्री रामहरि खतिवडाले मुलुकमा संविधानले चिनेका व्यक्तिभन्दा संविधानले नचिनेका व्यक्तिबाट शासन सञ्चालन भइरहेको आरोप लगाउनुभएको छ । सरकार गठन भएको",
+     "published": "2026-11-28T13:05:08+00:00",
+     "summary": "काठमाडौं । शिक्षा तथा खेलकुदमन्त्री सस्मित पोखरेलले पहिला काठमाडौंमा मात्र खेलकुद केन्द्रित हुने गरेको र कर्णाली प्रदेशमा राष्ट्रिय खेलकुद हुनु खुशीको क्षण रहेको बताउनुभएको छ । राष",
      "image": ""
     },
     {
-     "title": "गाजामा मानवीय सहायता पुग्ने क्रम बढे पनि भोक र जाडोको चपेटा कायमै",
-     "url": "https://www.ujyaaloonline.com/detail/133946",
-     "source": "Ujyaalo (उज्यालो)",
-     "published": "2026-11-28T12:31:26+00:00",
+     "title": "मलाई घर फर्काऊ : सिसाभित्र थुनिएका भगवानको चित्कार",
+     "url": "https://www.setopati.com/social/403549",
+     "source": "Setopati (सेतोपाटी)",
+     "published": "2026-11-28T13:05:00+00:00",
+     "summary": "भक्तपुरमा यतिबेला &#039;मलाई घर फर्काऊ&#039; प्रदर्शनी सञ्चालन भइरहेको छ। प्रदर्शनीमा राखिएका सामग्रीमार्फत देवताहरू मन्दिरमै पुजिन्छन्, अन्यत्र होइन भन्ने सन्देश दिन खोजिएको छ।",
+     "image": ""
+    },
+    {
+     "title": "भारतमा लोकसभा सिट ८५० पुर्‍याउने तयारी",
+     "url": "https://baahrakhari.com/detail/508510",
+     "source": "Baahrakhari (बाह्रखरी)",
+     "published": "2026-11-28T13:03:39+00:00",
      "summary": "",
-     "image": "https://www.ujyaaloonline.com/uploads/posts/Gaja-1795869071.jpg"
+     "image": ""
+    },
+    {
+     "title": "‘नागरिकको सामूहिक प्रयासबाट भक्तपुरलाई नमुना बनाउन सकिन्छ’",
+     "url": "https://khabarhub.com/2026/28/1052567/",
+     "source": "Khabarhub (नेपाली)",
+     "published": "2026-11-28T13:00:17+00:00",
+     "summary": "भक्तपुर- भक्तपुर नगरपालिकाका प्रमुख सुनिल प्रजापतिले नागरिक भावना, कर्तव्यबोध र सामूहिक प्रयासबाट भक्तपुरलाई नमुना तथा व्यवस्थित सहर बनाउन सकिने बताएका छन् । शनिबार भक्तपुर नगरपालि",
+     "image": ""
+    },
+    {
+     "title": "प्रचण्डको आरोप- सरकार मुलुकका उपलब्धि र जनअधिकारमाथि प्रहार गरिरहेको छ",
+     "url": "https://www.onlinekhabar.com/2026/11/2066978/prachandas-accusation-the-government-is-attacking-the-countrys-achievements-and-peoples-rights",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-28T12:59:24+00:00",
+     "summary": "मजदुर, सुकुमवासी, कर्मचारी, विद्यार्थी, शिक्षकसँगै सुरक्षा निकाय र न्यायपालिकामा समेत अन्योल, त्रास र दबाबको वातावरण देखिएको उनले बताए ।",
+     "image": ""
+    },
+    {
+     "title": "नेवार समुदायका ४० थरलाई दलित सूचीमा राखिएको भन्दै काठमाडौं नेवार समुदायको विरोध प्रदर्शन",
+     "url": "https://www.imagekhabar.com/news/564463/",
+     "source": "Image Khabar (इमेज खबर)",
+     "published": "2026-11-28T12:57:43+00:00",
+     "summary": "काठमाडौं । बिना अध्ययन काठमाडौंका नेवार जातिलाई दलित सूचिमा समावेश गरिएको भन्दै उपत्यकाका नेवार समुदायले सरकारको विरोध गरेका छन् । शनिवार काठमाडौंको असन डबलीमा उनीहरुले विरोध प्रदर",
+     "image": ""
+    },
+    {
+     "title": "शक्तिखोर औद्योगिक क्षेत्रको काम अघि बढाउन मन्त्री लम्सालको निर्देशन",
+     "url": "https://www.setopati.com/politics/403592",
+     "source": "Setopati (सेतोपाटी)",
+     "published": "2026-11-28T12:55:13+00:00",
+     "summary": "पूर्वाधार विकासमन्त्री सुनिल लम्सालले चितवनको कालिका नगरपालिकास्थित शक्तिखोर औद्योगिक क्षेत्रको निर्माण प्रक्रिया अघि बढाउन निर्देशन दिएका छन्।",
+     "image": ""
+    },
+    {
+     "title": "अफगानिस्तानमा विद्यालयनजिकै विस्फोट : १० बालबालिकाको मृत्यु, १०० भन्दा बढी घाइते",
+     "url": "https://www.onlinekhabar.com/2026/11/2066975/explosion-near-school-in-afghanistan-10-children-killed-over-100-injured",
+     "source": "Online Khabar (नेपाली)",
+     "published": "2026-11-28T12:51:52+00:00",
+     "summary": "कुनार प्रहरीका अनुसार शनिबार बिहान करिब १० बजे असदाबाद सहरको बाहिरी इलाका अन्डार सेरमा उक्त घटना भएको हो।",
+     "image": ""
     }
    ]
   }
